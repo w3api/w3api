@@ -1,8 +1,8 @@
 ---
 title: MemberReferenceTree.getName()
-permalink: Java/MemberReferenceTree/getName
+permalink: /Java/MemberReferenceTree/getName/
 date: 2021-01-11
-key: JavaJava.M.MemberReferenceTree
+key: Java.M.MemberReferenceTree
 category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 

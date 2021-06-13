@@ -1,8 +1,8 @@
 ---
 title: MessageFactory.createMessage()
-permalink: Java/MessageFactory/createMessage
+permalink: /Java/MessageFactory/createMessage/
 date: 2021-01-11
-key: JavaJava.M.MessageFactory
+key: Java.M.MessageFactory
 category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'metodo java', 'Java 1.6']
 sidebar: 

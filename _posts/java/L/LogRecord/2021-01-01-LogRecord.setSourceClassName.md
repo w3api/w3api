@@ -3,7 +3,7 @@ title: LogRecord.setSourceClassName()
 permalink: /Java/LogRecord/setSourceClassName/
 date: 2021-01-11
 key: Java.L.LogRecord
-category: java
+category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

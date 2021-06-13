@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.ButtonBorder.borderInsets
-permalink: Java/MetalBorders/ButtonBorder/borderInsets
+permalink: /Java/MetalBorders/ButtonBorder/borderInsets/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.ButtonBorder
+key: Java.M.MetalBorders.ButtonBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

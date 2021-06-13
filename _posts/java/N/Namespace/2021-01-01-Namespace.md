@@ -1,8 +1,8 @@
 ---
 title: Namespace
-permalink: Java/Namespace/
+permalink: /Java/Namespace//
 date: 2021-01-11
-key: JavaJava.N.Namespace
+key: Java.N.Namespace
 category: Java
 tags: ['java se']
 sidebar: 

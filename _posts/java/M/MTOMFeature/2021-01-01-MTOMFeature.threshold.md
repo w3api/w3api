@@ -1,8 +1,8 @@
 ---
 title: MTOMFeature.threshold
-permalink: Java/MTOMFeature/threshold
+permalink: /Java/MTOMFeature/threshold/
 date: 2021-01-11
-key: JavaJava.M.MTOMFeature
+key: Java.M.MTOMFeature
 category: Java
 tags: ['java se', 'javax.xml.ws.soap', 'java.xml.ws', 'campo java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MBeanFeatureInfo.description
-permalink: Java/MBeanFeatureInfo/description
+permalink: /Java/MBeanFeatureInfo/description/
 date: 2021-01-11
-key: JavaJava.M.MBeanFeatureInfo
+key: Java.M.MBeanFeatureInfo
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: NameValuePairSeqHelper.write()
-permalink: Java/NameValuePairSeqHelper/write
+permalink: /Java/NameValuePairSeqHelper/write/
 date: 2021-01-11
-key: JavaJava.N.NameValuePairSeqHelper
+key: Java.N.NameValuePairSeqHelper
 category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

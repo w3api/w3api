@@ -1,8 +1,8 @@
 ---
 title: ModuleElement.DirectiveVisitor.visitUses()
-permalink: Java/ModuleElement/DirectiveVisitor/visitUses
+permalink: /Java/ModuleElement/DirectiveVisitor/visitUses/
 date: 2021-01-11
-key: JavaJava.M.ModuleElement.DirectiveVisitor
+key: Java.M.ModuleElement.DirectiveVisitor
 category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 9']
 sidebar: 

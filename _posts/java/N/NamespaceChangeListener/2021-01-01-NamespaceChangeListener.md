@@ -1,8 +1,8 @@
 ---
 title: NamespaceChangeListener
-permalink: Java/NamespaceChangeListener
+permalink: /Java/NamespaceChangeListener/
 date: 2021-01-11
-key: JavaJava.N.NamespaceChangeListener
+key: Java.N.NamespaceChangeListener
 category: Java
 tags: ['java se', 'javax.naming.event', 'java.naming', 'interface java', 'Java 1.3']
 sidebar: 

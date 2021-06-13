@@ -1,8 +1,8 @@
 ---
 title: MultipleGradientPaint
-permalink: Java/MultipleGradientPaint
+permalink: /Java/MultipleGradientPaint/
 date: 2021-01-11
-key: JavaJava.M.MultipleGradientPaint
+key: Java.M.MultipleGradientPaint
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 

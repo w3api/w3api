@@ -1,8 +1,8 @@
 ---
 title: MultiSliderUI.getPreferredSize()
-permalink: Java/MultiSliderUI/getPreferredSize
+permalink: /Java/MultiSliderUI/getPreferredSize/
 date: 2021-01-11
-key: JavaJava.M.MultiSliderUI
+key: Java.M.MultiSliderUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

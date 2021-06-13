@@ -1,8 +1,8 @@
 ---
 title: ModuleDescriptor.Version.compareTo()
-permalink: Java/ModuleDescriptor/Version/compareTo
+permalink: /Java/ModuleDescriptor/Version/compareTo/
 date: 2021-01-11
-key: JavaJava.M.ModuleDescriptor.Version
+key: Java.M.ModuleDescriptor.Version
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

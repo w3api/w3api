@@ -1,8 +1,8 @@
 ---
 title: MenuDragMouseEvent.MenuDragMouseEvent()
-permalink: Java/MenuDragMouseEvent/MenuDragMouseEvent
+permalink: /Java/MenuDragMouseEvent/MenuDragMouseEvent/
 date: 2021-01-11
-key: JavaJava.M.MenuDragMouseEvent
+key: Java.M.MenuDragMouseEvent
 category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

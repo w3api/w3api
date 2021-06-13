@@ -1,8 +1,8 @@
 ---
 title: MultiLabelUI.uis
-permalink: Java/MultiLabelUI/uis
+permalink: /Java/MultiLabelUI/uis/
 date: 2021-01-11
-key: JavaJava.M.MultiLabelUI
+key: Java.M.MultiLabelUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

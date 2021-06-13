@@ -1,8 +1,8 @@
 ---
 title: MonitorNotification.OBSERVED_OBJECT_ERROR
-permalink: Java/MonitorNotification/OBSERVED_OBJECT_ERROR
+permalink: /Java/MonitorNotification/OBSERVED_OBJECT_ERROR/
 date: 2021-01-11
-key: JavaJava.M.MonitorNotification
+key: Java.M.MonitorNotification
 category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MouseDragGestureRecognizer.mouseMoved()
-permalink: Java/MouseDragGestureRecognizer/mouseMoved
+permalink: /Java/MouseDragGestureRecognizer/mouseMoved/
 date: 2021-01-11
-key: JavaJava.M.MouseDragGestureRecognizer
+key: Java.M.MouseDragGestureRecognizer
 category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

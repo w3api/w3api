@@ -1,8 +1,8 @@
 ---
 title: MouseWheelEvent.getPreciseWheelRotation()
-permalink: Java/MouseWheelEvent/getPreciseWheelRotation
+permalink: /Java/MouseWheelEvent/getPreciseWheelRotation/
 date: 2021-01-11
-key: JavaJava.M.MouseWheelEvent
+key: Java.M.MouseWheelEvent
 category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 

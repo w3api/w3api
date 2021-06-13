@@ -1,8 +1,8 @@
 ---
 title: MethodDoc.isDefault()
-permalink: Java/MethodDoc/isDefault
+permalink: /Java/MethodDoc/isDefault/
 date: 2021-01-11
-key: JavaJava.M.MethodDoc
+key: Java.M.MethodDoc
 category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.2']
 sidebar: 

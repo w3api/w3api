@@ -1,8 +1,8 @@
 ---
 title: MBeanServerDelegate.getImplementationName()
-permalink: Java/MBeanServerDelegate/getImplementationName
+permalink: /Java/MBeanServerDelegate/getImplementationName/
 date: 2021-01-11
-key: JavaJava.M.MBeanServerDelegate
+key: Java.M.MBeanServerDelegate
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.TableHeaderBorder.editorBorderInsets
-permalink: Java/MetalBorders/TableHeaderBorder/editorBorderInsets
+permalink: /Java/MetalBorders/TableHeaderBorder/editorBorderInsets/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.TableHeaderBorder
+key: Java.M.MetalBorders.TableHeaderBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 

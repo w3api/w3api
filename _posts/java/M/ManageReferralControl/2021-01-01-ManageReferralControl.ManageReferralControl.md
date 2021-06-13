@@ -1,8 +1,8 @@
 ---
 title: ManageReferralControl.ManageReferralControl()
-permalink: Java/ManageReferralControl/ManageReferralControl
+permalink: /Java/ManageReferralControl/ManageReferralControl/
 date: 2021-01-11
-key: JavaJava.M.ManageReferralControl
+key: Java.M.ManageReferralControl
 category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'metodo java', 'Java 1.5']
 sidebar: 

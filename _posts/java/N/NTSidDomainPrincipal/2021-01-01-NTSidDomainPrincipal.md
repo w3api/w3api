@@ -1,8 +1,8 @@
 ---
 title: NTSidDomainPrincipal
-permalink: Java/NTSidDomainPrincipal
+permalink: /Java/NTSidDomainPrincipal/
 date: 2021-01-11
-key: JavaJava.N.NTSidDomainPrincipal
+key: Java.N.NTSidDomainPrincipal
 category: Java
 tags: ['java se', 'com.sun.security.auth', 'jdk.security.auth', 'clase java', 'Java 1.0']
 sidebar: 

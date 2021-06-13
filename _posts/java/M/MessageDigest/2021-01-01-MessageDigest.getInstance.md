@@ -1,8 +1,8 @@
 ---
 title: MessageDigest.getInstance()
-permalink: Java/MessageDigest/getInstance
+permalink: /Java/MessageDigest/getInstance/
 date: 2021-01-11
-key: JavaJava.M.MessageDigest
+key: Java.M.MessageDigest
 category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

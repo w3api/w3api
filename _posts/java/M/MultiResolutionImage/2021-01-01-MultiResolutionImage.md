@@ -1,8 +1,8 @@
 ---
 title: MultiResolutionImage
-permalink: Java/MultiResolutionImage
+permalink: /Java/MultiResolutionImage/
 date: 2021-01-11
-key: JavaJava.M.MultiResolutionImage
+key: Java.M.MultiResolutionImage
 category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'interface java', 'Java 9']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ModuleElement.ExportsDirective.getTargetModules()
-permalink: Java/ModuleElement/ExportsDirective/getTargetModules
+permalink: /Java/ModuleElement/ExportsDirective/getTargetModules/
 date: 2021-01-11
-key: JavaJava.M.ModuleElement.ExportsDirective
+key: Java.M.ModuleElement.ExportsDirective
 category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 9']
 sidebar: 

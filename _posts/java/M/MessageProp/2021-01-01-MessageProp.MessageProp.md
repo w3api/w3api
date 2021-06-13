@@ -1,8 +1,8 @@
 ---
 title: MessageProp.MessageProp()
-permalink: Java/MessageProp/MessageProp
+permalink: /Java/MessageProp/MessageProp/
 date: 2021-01-11
-key: JavaJava.M.MessageProp
+key: Java.M.MessageProp
 category: Java
 tags: ['java se', 'org.ietf.jgss', 'java.security.jgss', 'metodo java', 'Java 1.4']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MediaSize.ISO
-permalink: Java/MediaSize/ISO
+permalink: /Java/MediaSize/ISO/
 date: 2021-01-11
-key: JavaJava.M.MediaSize.ISO
+key: Java.M.MediaSize.ISO
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

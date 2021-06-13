@@ -1,9 +1,9 @@
 ---
 title: LiteralTree.getValue()
-permalink: Java/LiteralTree-com-sun-source-tree/getValue
+permalink: /Java/LiteralTree-com-sun-source-tree/getValue/
 date: 2021-01-11
 key: Java.L.LiteralTree-com-sun-source-tree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

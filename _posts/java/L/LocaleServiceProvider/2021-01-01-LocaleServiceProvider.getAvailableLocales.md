@@ -3,7 +3,7 @@ title: LocaleServiceProvider.getAvailableLocales()
 permalink: /Java/LocaleServiceProvider/getAvailableLocales/
 date: 2021-01-11
 key: Java.L.LocaleServiceProvider
-category: java
+category: Java
 tags: ['java se', 'java.util.spi', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

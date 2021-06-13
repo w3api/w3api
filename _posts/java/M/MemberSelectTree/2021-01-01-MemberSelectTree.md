@@ -1,8 +1,8 @@
 ---
 title: MemberSelectTree
-permalink: Java/MemberSelectTree/
+permalink: /Java/MemberSelectTree//
 date: 2021-01-11
-key: JavaJava.M.MemberSelectTree
+key: Java.M.MemberSelectTree
 category: Java
 tags: ['java se']
 sidebar: 

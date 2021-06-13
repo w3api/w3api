@@ -1,8 +1,8 @@
 ---
 title: NavigableSet.pollLast()
-permalink: Java/NavigableSet/pollLast
+permalink: /Java/NavigableSet/pollLast/
 date: 2021-01-11
-key: JavaJava.N.NavigableSet
+key: Java.N.NavigableSet
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 

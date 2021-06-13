@@ -1,8 +1,8 @@
 ---
 title: MidiMessage.getMessage()
-permalink: Java/MidiMessage/getMessage
+permalink: /Java/MidiMessage/getMessage/
 date: 2021-01-11
-key: JavaJava.M.MidiMessage
+key: Java.M.MidiMessage
 category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

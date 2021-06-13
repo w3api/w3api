@@ -1,8 +1,8 @@
 ---
 title: MenuSelectionManager.listenerList
-permalink: Java/MenuSelectionManager/listenerList
+permalink: /Java/MenuSelectionManager/listenerList/
 date: 2021-01-11
-key: JavaJava.M.MenuSelectionManager
+key: Java.M.MenuSelectionManager
 category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 

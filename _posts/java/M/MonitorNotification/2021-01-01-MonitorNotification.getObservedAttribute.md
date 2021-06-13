@@ -1,8 +1,8 @@
 ---
 title: MonitorNotification.getObservedAttribute()
-permalink: Java/MonitorNotification/getObservedAttribute
+permalink: /Java/MonitorNotification/getObservedAttribute/
 date: 2021-01-11
-key: JavaJava.M.MonitorNotification
+key: Java.M.MonitorNotification
 category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

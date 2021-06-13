@@ -1,8 +1,8 @@
 ---
 title: MidiFileFormat.MidiFileFormat()
-permalink: Java/MidiFileFormat/MidiFileFormat
+permalink: /Java/MidiFileFormat/MidiFileFormat/
 date: 2021-01-11
-key: JavaJava.M.MidiFileFormat
+key: Java.M.MidiFileFormat
 category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

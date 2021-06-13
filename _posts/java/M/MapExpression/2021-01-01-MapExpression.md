@@ -1,8 +1,8 @@
 ---
 title: MapExpression
-permalink: Java/MapExpression
+permalink: /Java/MapExpression/
 date: 2021-01-11
-key: JavaJava.M.MapExpression
+key: Java.M.MapExpression
 category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 

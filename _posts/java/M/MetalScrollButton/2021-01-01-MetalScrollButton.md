@@ -1,8 +1,8 @@
 ---
 title: MetalScrollButton
-permalink: Java/MetalScrollButton
+permalink: /Java/MetalScrollButton/
 date: 2021-01-11
-key: JavaJava.M.MetalScrollButton
+key: Java.M.MetalScrollButton
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

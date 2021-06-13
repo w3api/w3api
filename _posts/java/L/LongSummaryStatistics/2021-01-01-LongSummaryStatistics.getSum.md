@@ -3,7 +3,7 @@ title: LongSummaryStatistics.getSum()
 permalink: /Java/LongSummaryStatistics/getSum/
 date: 2021-01-11
 key: Java.L.LongSummaryStatistics
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

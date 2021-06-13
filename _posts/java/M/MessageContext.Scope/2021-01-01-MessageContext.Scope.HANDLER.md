@@ -1,8 +1,8 @@
 ---
 title: MessageContext.Scope.HANDLER
-permalink: Java/MessageContext/Scope/HANDLER
+permalink: /Java/MessageContext/Scope/HANDLER/
 date: 2021-01-11
-key: JavaJava.M.MessageContext.Scope
+key: Java.M.MessageContext.Scope
 category: Java
 tags: ['java se', 'javax.xml.ws.handler', 'java.xml.ws', 'campo java', 'Java 1.0']
 sidebar: 

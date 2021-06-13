@@ -1,8 +1,8 @@
 ---
 title: MemoryImageSource
-permalink: Java/MemoryImageSource
+permalink: /Java/MemoryImageSource/
 date: 2021-01-11
-key: JavaJava.M.MemoryImageSource
+key: Java.M.MemoryImageSource
 category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

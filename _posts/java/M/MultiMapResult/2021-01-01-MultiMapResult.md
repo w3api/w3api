@@ -1,8 +1,8 @@
 ---
 title: MultiMapResult
-permalink: Java/MultiMapResult
+permalink: /Java/MultiMapResult/
 date: 2021-01-11
-key: JavaJava.M.MultiMapResult
+key: Java.M.MultiMapResult
 category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'clase java', 'Java 1.0']
 sidebar: 

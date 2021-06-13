@@ -1,8 +1,8 @@
 ---
 title: MouseEvent
-permalink: Java/MouseEvent/
+permalink: /Java/MouseEvent//
 date: 2021-01-11
-key: JavaJava.M.MouseEvent
+key: Java.M.MouseEvent
 category: Java
 tags: ['java se']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MethodHandles.Lookup.unreflectSetter()
-permalink: Java/MethodHandles/Lookup/unreflectSetter
+permalink: /Java/MethodHandles/Lookup/unreflectSetter/
 date: 2021-01-11
-key: JavaJava.M.MethodHandles.Lookup
+key: Java.M.MethodHandles.Lookup
 category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

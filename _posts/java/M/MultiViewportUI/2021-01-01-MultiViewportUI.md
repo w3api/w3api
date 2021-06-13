@@ -1,8 +1,8 @@
 ---
 title: MultiViewportUI
-permalink: Java/MultiViewportUI
+permalink: /Java/MultiViewportUI/
 date: 2021-01-11
-key: JavaJava.M.MultiViewportUI
+key: Java.M.MultiViewportUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

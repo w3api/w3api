@@ -1,8 +1,8 @@
 ---
 title: MatrixType.is2D()
-permalink: Java/MatrixType/is2D
+permalink: /Java/MatrixType/is2D/
 date: 2021-01-11
-key: JavaJava.M.MatrixType
+key: Java.M.MatrixType
 category: Java
 tags: ['java se', 'javafx.scene.transform', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

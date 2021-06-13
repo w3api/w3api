@@ -1,8 +1,8 @@
 ---
 title: NameDynAnyPairHelper.write()
-permalink: Java/NameDynAnyPairHelper/write
+permalink: /Java/NameDynAnyPairHelper/write/
 date: 2021-01-11
-key: JavaJava.N.NameDynAnyPairHelper
+key: Java.N.NameDynAnyPairHelper
 category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

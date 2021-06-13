@@ -1,8 +1,8 @@
 ---
 title: MouseDragGestureRecognizer
-permalink: Java/MouseDragGestureRecognizer
+permalink: /Java/MouseDragGestureRecognizer/
 date: 2021-01-11
-key: JavaJava.M.MouseDragGestureRecognizer
+key: Java.M.MouseDragGestureRecognizer
 category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

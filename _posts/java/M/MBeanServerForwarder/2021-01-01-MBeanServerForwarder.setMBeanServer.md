@@ -1,8 +1,8 @@
 ---
 title: MBeanServerForwarder.setMBeanServer()
-permalink: Java/MBeanServerForwarder/setMBeanServer
+permalink: /Java/MBeanServerForwarder/setMBeanServer/
 date: 2021-01-11
-key: JavaJava.M.MBeanServerForwarder
+key: Java.M.MBeanServerForwarder
 category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

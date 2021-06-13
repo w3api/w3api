@@ -1,8 +1,8 @@
 ---
 title: MetalMenuBarUI.uninstallUI()
-permalink: Java/MetalMenuBarUI/uninstallUI
+permalink: /Java/MetalMenuBarUI/uninstallUI/
 date: 2021-01-11
-key: JavaJava.M.MetalMenuBarUI
+key: Java.M.MetalMenuBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.5']
 sidebar: 

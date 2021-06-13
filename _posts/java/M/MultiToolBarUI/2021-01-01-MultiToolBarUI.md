@@ -1,8 +1,8 @@
 ---
 title: MultiToolBarUI
-permalink: Java/MultiToolBarUI
+permalink: /Java/MultiToolBarUI/
 date: 2021-01-11
-key: JavaJava.M.MultiToolBarUI
+key: Java.M.MultiToolBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

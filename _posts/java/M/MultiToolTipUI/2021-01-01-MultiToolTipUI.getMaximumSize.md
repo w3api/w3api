@@ -1,8 +1,8 @@
 ---
 title: MultiToolTipUI.getMaximumSize()
-permalink: Java/MultiToolTipUI/getMaximumSize
+permalink: /Java/MultiToolTipUI/getMaximumSize/
 date: 2021-01-11
-key: JavaJava.M.MultiToolTipUI
+key: Java.M.MultiToolTipUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

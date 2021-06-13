@@ -1,8 +1,8 @@
 ---
 title: MenuBarSkin
-permalink: Java/MenuBarSkin
+permalink: /Java/MenuBarSkin/
 date: 2021-01-11
-key: JavaJava.M.MenuBarSkin
+key: Java.M.MenuBarSkin
 category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 

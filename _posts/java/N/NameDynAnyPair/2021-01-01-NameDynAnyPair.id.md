@@ -1,8 +1,8 @@
 ---
 title: NameDynAnyPair.id
-permalink: Java/NameDynAnyPair/id
+permalink: /Java/NameDynAnyPair/id/
 date: 2021-01-11
-key: JavaJava.N.NameDynAnyPair
+key: Java.N.NameDynAnyPair
 category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ModelMBeanOperationInfo.setDescriptor()
-permalink: Java/ModelMBeanOperationInfo/setDescriptor
+permalink: /Java/ModelMBeanOperationInfo/setDescriptor/
 date: 2021-01-11
-key: JavaJava.M.ModelMBeanOperationInfo
+key: Java.M.ModelMBeanOperationInfo
 category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MarshalException
-permalink: Java/MarshalException/
+permalink: /Java/MarshalException//
 date: 2021-01-11
-key: JavaJava.M.MarshalException
+key: Java.M.MarshalException
 category: Java
 tags: ['java se']
 sidebar: 

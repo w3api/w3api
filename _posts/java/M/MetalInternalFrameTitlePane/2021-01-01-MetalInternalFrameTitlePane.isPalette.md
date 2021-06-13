@@ -1,8 +1,8 @@
 ---
 title: MetalInternalFrameTitlePane.isPalette
-permalink: Java/MetalInternalFrameTitlePane/isPalette
+permalink: /Java/MetalInternalFrameTitlePane/isPalette/
 date: 2021-01-11
-key: JavaJava.M.MetalInternalFrameTitlePane
+key: Java.M.MetalInternalFrameTitlePane
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 

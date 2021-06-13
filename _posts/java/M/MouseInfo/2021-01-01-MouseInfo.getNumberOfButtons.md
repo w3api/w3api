@@ -1,8 +1,8 @@
 ---
 title: MouseInfo.getNumberOfButtons()
-permalink: Java/MouseInfo/getNumberOfButtons
+permalink: /Java/MouseInfo/getNumberOfButtons/
 date: 2021-01-11
-key: JavaJava.M.MouseInfo
+key: Java.M.MouseInfo
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.5']
 sidebar: 

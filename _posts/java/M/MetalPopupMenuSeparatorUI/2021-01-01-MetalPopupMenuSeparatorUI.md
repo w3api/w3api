@@ -1,8 +1,8 @@
 ---
 title: MetalPopupMenuSeparatorUI
-permalink: Java/MetalPopupMenuSeparatorUI
+permalink: /Java/MetalPopupMenuSeparatorUI/
 date: 2021-01-11
-key: JavaJava.M.MetalPopupMenuSeparatorUI
+key: Java.M.MetalPopupMenuSeparatorUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

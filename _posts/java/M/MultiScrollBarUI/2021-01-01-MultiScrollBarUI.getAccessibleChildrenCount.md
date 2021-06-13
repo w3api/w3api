@@ -1,8 +1,8 @@
 ---
 title: MultiScrollBarUI.getAccessibleChildrenCount()
-permalink: Java/MultiScrollBarUI/getAccessibleChildrenCount
+permalink: /Java/MultiScrollBarUI/getAccessibleChildrenCount/
 date: 2021-01-11
-key: JavaJava.M.MultiScrollBarUI
+key: Java.M.MultiScrollBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

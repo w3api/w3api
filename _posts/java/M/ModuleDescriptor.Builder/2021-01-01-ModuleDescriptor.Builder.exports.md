@@ -1,8 +1,8 @@
 ---
 title: ModuleDescriptor.Builder.exports()
-permalink: Java/ModuleDescriptor/Builder/exports
+permalink: /Java/ModuleDescriptor/Builder/exports/
 date: 2021-01-11
-key: JavaJava.M.ModuleDescriptor.Builder
+key: Java.M.ModuleDescriptor.Builder
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

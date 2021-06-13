@@ -1,8 +1,8 @@
 ---
 title: MultiComboBoxUI.uninstallUI()
-permalink: Java/MultiComboBoxUI/uninstallUI
+permalink: /Java/MultiComboBoxUI/uninstallUI/
 date: 2021-01-11
-key: JavaJava.M.MultiComboBoxUI
+key: Java.M.MultiComboBoxUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

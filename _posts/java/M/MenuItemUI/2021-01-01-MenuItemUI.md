@@ -1,8 +1,8 @@
 ---
 title: MenuItemUI
-permalink: Java/MenuItemUI
+permalink: /Java/MenuItemUI/
 date: 2021-01-11
-key: JavaJava.M.MenuItemUI
+key: Java.M.MenuItemUI
 category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

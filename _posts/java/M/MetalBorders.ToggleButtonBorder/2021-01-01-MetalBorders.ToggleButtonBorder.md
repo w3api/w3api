@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.ToggleButtonBorder
-permalink: Java/MetalBorders/ToggleButtonBorder
+permalink: /Java/MetalBorders/ToggleButtonBorder/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.ToggleButtonBorder
+key: Java.M.MetalBorders.ToggleButtonBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 

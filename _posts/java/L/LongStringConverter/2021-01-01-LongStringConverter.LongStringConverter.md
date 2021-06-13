@@ -3,7 +3,7 @@ title: LongStringConverter.LongStringConverter()
 permalink: /Java/LongStringConverter/LongStringConverter/
 date: 2021-01-11
 key: Java.L.LongStringConverter
-category: java
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

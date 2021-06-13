@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.MenuItemBorder.MetalBorders.MenuItemBorder()
-permalink: Java/MetalBorders/MenuItemBorder/MetalBorders/MenuItemBorder
+permalink: /Java/MetalBorders/MenuItemBorder/MetalBorders/MenuItemBorder/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.MenuItemBorder
+key: Java.M.MetalBorders.MenuItemBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

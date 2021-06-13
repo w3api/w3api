@@ -1,8 +1,8 @@
 ---
 title: MultiButtonUI
-permalink: Java/MultiButtonUI
+permalink: /Java/MultiButtonUI/
 date: 2021-01-11
-key: JavaJava.M.MultiButtonUI
+key: Java.M.MultiButtonUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

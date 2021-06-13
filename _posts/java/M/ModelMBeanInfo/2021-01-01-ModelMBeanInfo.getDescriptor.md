@@ -1,8 +1,8 @@
 ---
 title: ModelMBeanInfo.getDescriptor()
-permalink: Java/ModelMBeanInfo/getDescriptor
+permalink: /Java/ModelMBeanInfo/getDescriptor/
 date: 2021-01-11
-key: JavaJava.M.ModelMBeanInfo
+key: Java.M.ModelMBeanInfo
 category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

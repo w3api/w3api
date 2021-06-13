@@ -1,8 +1,8 @@
 ---
 title: MidiDeviceReceiver.getMidiDevice()
-permalink: Java/MidiDeviceReceiver/getMidiDevice
+permalink: /Java/MidiDeviceReceiver/getMidiDevice/
 date: 2021-01-11
-key: JavaJava.M.MidiDeviceReceiver
+key: Java.M.MidiDeviceReceiver
 category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 

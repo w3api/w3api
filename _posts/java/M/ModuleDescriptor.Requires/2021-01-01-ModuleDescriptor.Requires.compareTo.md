@@ -1,8 +1,8 @@
 ---
 title: ModuleDescriptor.Requires.compareTo()
-permalink: Java/ModuleDescriptor/Requires/compareTo
+permalink: /Java/ModuleDescriptor/Requires/compareTo/
 date: 2021-01-11
-key: JavaJava.M.ModuleDescriptor.Requires
+key: Java.M.ModuleDescriptor.Requires
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

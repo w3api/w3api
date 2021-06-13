@@ -1,8 +1,8 @@
 ---
 title: MultiLabelUI.getMaximumSize()
-permalink: Java/MultiLabelUI/getMaximumSize
+permalink: /Java/MultiLabelUI/getMaximumSize/
 date: 2021-01-11
-key: JavaJava.M.MultiLabelUI
+key: Java.M.MultiLabelUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

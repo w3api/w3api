@@ -1,8 +1,8 @@
 ---
 title: MediaName.MediaName()
-permalink: Java/MediaName/MediaName
+permalink: /Java/MediaName/MediaName/
 date: 2021-01-11
-key: JavaJava.M.MediaName
+key: Java.M.MediaName
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

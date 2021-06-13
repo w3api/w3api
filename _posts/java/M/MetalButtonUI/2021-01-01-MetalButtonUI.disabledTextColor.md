@@ -1,8 +1,8 @@
 ---
 title: MetalButtonUI.disabledTextColor
-permalink: Java/MetalButtonUI/disabledTextColor
+permalink: /Java/MetalButtonUI/disabledTextColor/
 date: 2021-01-11
-key: JavaJava.M.MetalButtonUI
+key: Java.M.MetalButtonUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

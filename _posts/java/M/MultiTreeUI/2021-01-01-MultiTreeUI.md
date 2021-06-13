@@ -1,8 +1,8 @@
 ---
 title: MultiTreeUI
-permalink: Java/MultiTreeUI
+permalink: /Java/MultiTreeUI/
 date: 2021-01-11
-key: JavaJava.M.MultiTreeUI
+key: Java.M.MultiTreeUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

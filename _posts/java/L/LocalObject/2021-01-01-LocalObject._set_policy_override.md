@@ -1,9 +1,9 @@
 ---
 title: LocalObject._set_policy_override()
-permalink: Java/LocalObject/_set_policy_override
+permalink: /Java/LocalObject/_set_policy_override/
 date: 2021-01-11
 key: Java.L.LocalObject
-category: java
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,8 +1,8 @@
 ---
 title: NameCallback.getPrompt()
-permalink: Java/NameCallback/getPrompt
+permalink: /Java/NameCallback/getPrompt/
 date: 2021-01-11
-key: JavaJava.N.NameCallback
+key: Java.N.NameCallback
 category: Java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

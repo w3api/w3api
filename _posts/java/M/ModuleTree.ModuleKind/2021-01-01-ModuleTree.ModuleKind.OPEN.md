@@ -1,8 +1,8 @@
 ---
 title: ModuleTree.ModuleKind.OPEN
-permalink: Java/ModuleTree/ModuleKind/OPEN
+permalink: /Java/ModuleTree/ModuleKind/OPEN/
 date: 2021-01-11
-key: JavaJava.M.ModuleTree.ModuleKind
+key: Java.M.ModuleTree.ModuleKind
 category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'campo java', 'Java 1.0']
 sidebar: 

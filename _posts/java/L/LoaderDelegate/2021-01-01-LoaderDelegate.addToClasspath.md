@@ -1,9 +1,9 @@
 ---
 title: LoaderDelegate.addToClasspath()
-permalink: Java/LoaderDelegate/addToClasspath
+permalink: /Java/LoaderDelegate/addToClasspath/
 date: 2021-01-11
 key: Java.L.LoaderDelegate
-category: java
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

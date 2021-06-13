@@ -1,8 +1,8 @@
 ---
 title: MediaException.Type.UNKNOWN
-permalink: Java/MediaException/Type/UNKNOWN
+permalink: /Java/MediaException/Type/UNKNOWN/
 date: 2021-01-11
-key: JavaJava.M.MediaException.Type
+key: Java.M.MediaException.Type
 category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'campo java', 'JavaFX 2.0']
 sidebar: 

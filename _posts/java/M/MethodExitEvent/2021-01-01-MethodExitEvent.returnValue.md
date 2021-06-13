@@ -1,8 +1,8 @@
 ---
 title: MethodExitEvent.returnValue()
-permalink: Java/MethodExitEvent/returnValue
+permalink: /Java/MethodExitEvent/returnValue/
 date: 2021-01-11
-key: JavaJava.M.MethodExitEvent
+key: Java.M.MethodExitEvent
 category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 

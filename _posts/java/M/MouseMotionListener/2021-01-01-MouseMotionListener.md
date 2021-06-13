@@ -1,8 +1,8 @@
 ---
 title: MouseMotionListener
-permalink: Java/MouseMotionListener
+permalink: /Java/MouseMotionListener/
 date: 2021-01-11
-key: JavaJava.M.MouseMotionListener
+key: Java.M.MouseMotionListener
 category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'interface java', 'Java 1.1']
 sidebar: 

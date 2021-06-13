@@ -1,8 +1,8 @@
 ---
 title: MidiFileReader.getMidiFileFormat()
-permalink: Java/MidiFileReader/getMidiFileFormat
+permalink: /Java/MidiFileReader/getMidiFileFormat/
 date: 2021-01-11
-key: JavaJava.M.MidiFileReader
+key: Java.M.MidiFileReader
 category: Java
 tags: ['java se', 'javax.sound.midi.spi', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

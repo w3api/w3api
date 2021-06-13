@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.TextFieldBorder.MetalBorders.TextFieldBorder()
-permalink: Java/MetalBorders/TextFieldBorder/MetalBorders/TextFieldBorder
+permalink: /Java/MetalBorders/TextFieldBorder/MetalBorders/TextFieldBorder/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.TextFieldBorder
+key: Java.M.MetalBorders.TextFieldBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

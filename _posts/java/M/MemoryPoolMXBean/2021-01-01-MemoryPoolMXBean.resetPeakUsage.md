@@ -1,8 +1,8 @@
 ---
 title: MemoryPoolMXBean.resetPeakUsage()
-permalink: Java/MemoryPoolMXBean/resetPeakUsage
+permalink: /Java/MemoryPoolMXBean/resetPeakUsage/
 date: 2021-01-11
-key: JavaJava.M.MemoryPoolMXBean
+key: Java.M.MemoryPoolMXBean
 category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

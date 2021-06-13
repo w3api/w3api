@@ -1,8 +1,8 @@
 ---
 title: MultipleSelectionModel.selectRange()
-permalink: Java/MultipleSelectionModel/selectRange
+permalink: /Java/MultipleSelectionModel/selectRange/
 date: 2021-01-11
-key: JavaJava.M.MultipleSelectionModel
+key: Java.M.MultipleSelectionModel
 category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 

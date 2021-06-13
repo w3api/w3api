@@ -1,8 +1,8 @@
 ---
 title: MenuKeyEvent.MenuKeyEvent()
-permalink: Java/MenuKeyEvent/MenuKeyEvent
+permalink: /Java/MenuKeyEvent/MenuKeyEvent/
 date: 2021-01-11
-key: JavaJava.M.MenuKeyEvent
+key: Java.M.MenuKeyEvent
 category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

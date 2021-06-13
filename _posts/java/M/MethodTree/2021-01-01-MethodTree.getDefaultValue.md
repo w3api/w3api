@@ -1,8 +1,8 @@
 ---
 title: MethodTree.getDefaultValue()
-permalink: Java/MethodTree/getDefaultValue
+permalink: /Java/MethodTree/getDefaultValue/
 date: 2021-01-11
-key: JavaJava.M.MethodTree
+key: Java.M.MethodTree
 category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.PopupMenuBorder.MetalBorders.PopupMenuBorder()
-permalink: Java/MetalBorders/PopupMenuBorder/MetalBorders/PopupMenuBorder
+permalink: /Java/MetalBorders/PopupMenuBorder/MetalBorders/PopupMenuBorder/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.PopupMenuBorder
+key: Java.M.MetalBorders.PopupMenuBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

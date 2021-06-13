@@ -1,8 +1,8 @@
 ---
 title: NTSidGroupPrincipal
-permalink: Java/NTSidGroupPrincipal
+permalink: /Java/NTSidGroupPrincipal/
 date: 2021-01-11
-key: JavaJava.N.NTSidGroupPrincipal
+key: Java.N.NTSidGroupPrincipal
 category: Java
 tags: ['java se', 'com.sun.security.auth', 'jdk.security.auth', 'clase java', 'Java 1.0']
 sidebar: 

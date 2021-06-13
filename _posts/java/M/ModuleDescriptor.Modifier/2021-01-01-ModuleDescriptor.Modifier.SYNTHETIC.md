@@ -1,8 +1,8 @@
 ---
 title: ModuleDescriptor.Modifier.SYNTHETIC
-permalink: Java/ModuleDescriptor/Modifier/SYNTHETIC
+permalink: /Java/ModuleDescriptor/Modifier/SYNTHETIC/
 date: 2021-01-11
-key: JavaJava.M.ModuleDescriptor.Modifier
+key: Java.M.ModuleDescriptor.Modifier
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'campo java', 'Java 9']
 sidebar: 

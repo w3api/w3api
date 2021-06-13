@@ -1,8 +1,8 @@
 ---
 title: MethodTree
-permalink: Java/MethodTree
+permalink: /Java/MethodTree/
 date: 2021-01-11
-key: JavaJava.M.MethodTree
+key: Java.M.MethodTree
 category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 

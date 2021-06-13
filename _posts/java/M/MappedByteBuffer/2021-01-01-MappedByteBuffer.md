@@ -1,8 +1,8 @@
 ---
 title: MappedByteBuffer
-permalink: Java/MappedByteBuffer
+permalink: /Java/MappedByteBuffer/
 date: 2021-01-11
-key: JavaJava.M.MappedByteBuffer
+key: Java.M.MappedByteBuffer
 category: Java
 tags: ['java se', 'java.nio', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

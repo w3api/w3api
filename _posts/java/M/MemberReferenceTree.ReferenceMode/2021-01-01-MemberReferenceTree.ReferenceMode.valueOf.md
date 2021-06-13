@@ -1,8 +1,8 @@
 ---
 title: MemberReferenceTree.ReferenceMode.valueOf()
-permalink: Java/MemberReferenceTree/ReferenceMode/valueOf
+permalink: /Java/MemberReferenceTree/ReferenceMode/valueOf/
 date: 2021-01-11
-key: JavaJava.M.MemberReferenceTree.ReferenceMode
+key: Java.M.MemberReferenceTree.ReferenceMode
 category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.0']
 sidebar: 

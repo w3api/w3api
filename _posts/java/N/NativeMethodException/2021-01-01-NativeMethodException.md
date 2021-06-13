@@ -1,8 +1,8 @@
 ---
 title: NativeMethodException
-permalink: Java/NativeMethodException
+permalink: /Java/NativeMethodException/
 date: 2021-01-11
-key: JavaJava.N.NativeMethodException
+key: Java.N.NativeMethodException
 category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'clase java', 'Java 1.3']
 sidebar: 

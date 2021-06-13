@@ -1,8 +1,8 @@
 ---
 title: MetalScrollButton.setFreeStanding()
-permalink: Java/MetalScrollButton/setFreeStanding
+permalink: /Java/MetalScrollButton/setFreeStanding/
 date: 2021-01-11
-key: JavaJava.M.MetalScrollButton
+key: Java.M.MetalScrollButton
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

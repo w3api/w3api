@@ -1,8 +1,8 @@
 ---
 title: MultiProgressBarUI.uninstallUI()
-permalink: Java/MultiProgressBarUI/uninstallUI
+permalink: /Java/MultiProgressBarUI/uninstallUI/
 date: 2021-01-11
-key: JavaJava.M.MultiProgressBarUI
+key: Java.M.MultiProgressBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

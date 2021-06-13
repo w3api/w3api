@@ -1,8 +1,8 @@
 ---
 title: MultiViewportUI.getAccessibleChildrenCount()
-permalink: Java/MultiViewportUI/getAccessibleChildrenCount
+permalink: /Java/MultiViewportUI/getAccessibleChildrenCount/
 date: 2021-01-11
-key: JavaJava.M.MultiViewportUI
+key: Java.M.MultiViewportUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MixerProvider.getMixer()
-permalink: Java/MixerProvider/getMixer
+permalink: /Java/MixerProvider/getMixer/
 date: 2021-01-11
-key: JavaJava.M.MixerProvider
+key: Java.M.MixerProvider
 category: Java
 tags: ['java se', 'javax.sound.sampled.spi', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: NamingContextHolder.NamingContextHolder()
-permalink: Java/NamingContextHolder/NamingContextHolder
+permalink: /Java/NamingContextHolder/NamingContextHolder/
 date: 2021-01-11
-key: JavaJava.N.NamingContextHolder
+key: Java.N.NamingContextHolder
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

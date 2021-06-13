@@ -1,8 +1,8 @@
 ---
 title: MapChangeListener
-permalink: Java/MapChangeListener
+permalink: /Java/MapChangeListener/
 date: 2021-01-11
-key: JavaJava.M.MapChangeListener
+key: Java.M.MapChangeListener
 category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 

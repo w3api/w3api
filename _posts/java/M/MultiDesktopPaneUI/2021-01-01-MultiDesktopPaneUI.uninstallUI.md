@@ -1,8 +1,8 @@
 ---
 title: MultiDesktopPaneUI.uninstallUI()
-permalink: Java/MultiDesktopPaneUI/uninstallUI
+permalink: /Java/MultiDesktopPaneUI/uninstallUI/
 date: 2021-01-11
-key: JavaJava.M.MultiDesktopPaneUI
+key: Java.M.MultiDesktopPaneUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ManagerFactoryParameters
-permalink: Java/ManagerFactoryParameters
+permalink: /Java/ManagerFactoryParameters/
 date: 2021-01-11
-key: JavaJava.M.ManagerFactoryParameters
+key: Java.M.ManagerFactoryParameters
 category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 

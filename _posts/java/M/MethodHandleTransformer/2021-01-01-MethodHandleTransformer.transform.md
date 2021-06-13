@@ -1,8 +1,8 @@
 ---
 title: MethodHandleTransformer.transform()
-permalink: Java/MethodHandleTransformer/transform
+permalink: /Java/MethodHandleTransformer/transform/
 date: 2021-01-11
-key: JavaJava.M.MethodHandleTransformer
+key: Java.M.MethodHandleTransformer
 category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 

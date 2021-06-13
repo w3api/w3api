@@ -1,8 +1,8 @@
 ---
 title: MediaException.Type.MEDIA_CORRUPTED
-permalink: Java/MediaException/Type/MEDIA_CORRUPTED
+permalink: /Java/MediaException/Type/MEDIA_CORRUPTED/
 date: 2021-01-11
-key: JavaJava.M.MediaException.Type
+key: Java.M.MediaException.Type
 category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'campo java', 'JavaFX 2.0']
 sidebar: 

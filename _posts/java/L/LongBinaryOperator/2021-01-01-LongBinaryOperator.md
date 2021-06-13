@@ -3,7 +3,7 @@ title: LongBinaryOperator
 permalink: /Java/LongBinaryOperator/
 date: 2021-01-11
 key: Java.L.LongBinaryOperator
-category: java
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

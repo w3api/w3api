@@ -1,8 +1,8 @@
 ---
 title: MutableCallSite.getTarget()
-permalink: Java/MutableCallSite/getTarget
+permalink: /Java/MutableCallSite/getTarget/
 date: 2021-01-11
-key: JavaJava.M.MutableCallSite
+key: Java.M.MutableCallSite
 category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

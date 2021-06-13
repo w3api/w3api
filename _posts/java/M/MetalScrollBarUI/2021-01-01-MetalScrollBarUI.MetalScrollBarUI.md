@@ -1,8 +1,8 @@
 ---
 title: MetalScrollBarUI.MetalScrollBarUI()
-permalink: Java/MetalScrollBarUI/MetalScrollBarUI
+permalink: /Java/MetalScrollBarUI/MetalScrollBarUI/
 date: 2021-01-11
-key: JavaJava.M.MetalScrollBarUI
+key: Java.M.MetalScrollBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

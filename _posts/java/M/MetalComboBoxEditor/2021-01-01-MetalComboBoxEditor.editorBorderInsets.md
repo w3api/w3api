@@ -1,8 +1,8 @@
 ---
 title: MetalComboBoxEditor.editorBorderInsets
-permalink: Java/MetalComboBoxEditor/editorBorderInsets
+permalink: /Java/MetalComboBoxEditor/editorBorderInsets/
 date: 2021-01-11
-key: JavaJava.M.MetalComboBoxEditor
+key: Java.M.MetalComboBoxEditor
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

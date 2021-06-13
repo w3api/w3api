@@ -1,8 +1,8 @@
 ---
 title: MediaSizeName.NA_5X7
-permalink: Java/MediaSizeName/NA_5X7
+permalink: /Java/MediaSizeName/NA_5X7/
 date: 2021-01-11
-key: JavaJava.M.MediaSizeName
+key: Java.M.MediaSizeName
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

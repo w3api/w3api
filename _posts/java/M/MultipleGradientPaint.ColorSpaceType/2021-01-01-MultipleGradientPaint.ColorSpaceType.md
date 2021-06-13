@@ -1,8 +1,8 @@
 ---
 title: MultipleGradientPaint.ColorSpaceType
-permalink: Java/MultipleGradientPaint/ColorSpaceType
+permalink: /Java/MultipleGradientPaint/ColorSpaceType/
 date: 2021-01-11
-key: JavaJava.M.MultipleGradientPaint.ColorSpaceType
+key: Java.M.MultipleGradientPaint.ColorSpaceType
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'enumerado java', 'Java 1.6']
 sidebar: 

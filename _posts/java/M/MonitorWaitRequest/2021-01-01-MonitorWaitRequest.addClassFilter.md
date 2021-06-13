@@ -1,8 +1,8 @@
 ---
 title: MonitorWaitRequest.addClassFilter()
-permalink: Java/MonitorWaitRequest/addClassFilter
+permalink: /Java/MonitorWaitRequest/addClassFilter/
 date: 2021-01-11
-key: JavaJava.M.MonitorWaitRequest
+key: Java.M.MonitorWaitRequest
 category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'metodo java', 'Java 1.6']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MBeanServerFactory
-permalink: Java/MBeanServerFactory
+permalink: /Java/MBeanServerFactory/
 date: 2021-01-11
-key: JavaJava.M.MBeanServerFactory
+key: Java.M.MBeanServerFactory
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

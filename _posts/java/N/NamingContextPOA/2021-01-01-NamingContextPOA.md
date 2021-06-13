@@ -1,8 +1,8 @@
 ---
 title: NamingContextPOA
-permalink: Java/NamingContextPOA
+permalink: /Java/NamingContextPOA/
 date: 2021-01-11
-key: JavaJava.N.NamingContextPOA
+key: Java.N.NamingContextPOA
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

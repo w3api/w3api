@@ -1,8 +1,8 @@
 ---
 title: MonitorWaitEvent.timeout()
-permalink: Java/MonitorWaitEvent/timeout
+permalink: /Java/MonitorWaitEvent/timeout/
 date: 2021-01-11
-key: JavaJava.M.MonitorWaitEvent
+key: Java.M.MonitorWaitEvent
 category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'metodo java', 'Java 1.6']
 sidebar: 

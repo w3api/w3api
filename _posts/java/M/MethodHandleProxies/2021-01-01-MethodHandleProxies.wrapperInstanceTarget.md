@@ -1,8 +1,8 @@
 ---
 title: MethodHandleProxies.wrapperInstanceTarget()
-permalink: Java/MethodHandleProxies/wrapperInstanceTarget
+permalink: /Java/MethodHandleProxies/wrapperInstanceTarget/
 date: 2021-01-11
-key: JavaJava.M.MethodHandleProxies
+key: Java.M.MethodHandleProxies
 category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

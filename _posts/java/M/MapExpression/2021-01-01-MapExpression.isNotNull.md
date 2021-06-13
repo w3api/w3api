@@ -1,8 +1,8 @@
 ---
 title: MapExpression.isNotNull()
-permalink: Java/MapExpression/isNotNull
+permalink: /Java/MapExpression/isNotNull/
 date: 2021-01-11
-key: JavaJava.M.MapExpression
+key: Java.M.MapExpression
 category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

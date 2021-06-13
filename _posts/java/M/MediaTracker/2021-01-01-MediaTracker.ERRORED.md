@@ -1,8 +1,8 @@
 ---
 title: MediaTracker.ERRORED
-permalink: Java/MediaTracker/ERRORED
+permalink: /Java/MediaTracker/ERRORED/
 date: 2021-01-11
-key: JavaJava.M.MediaTracker
+key: Java.M.MediaTracker
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

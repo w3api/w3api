@@ -1,8 +1,8 @@
 ---
 title: MLetMBean
-permalink: Java/MLetMBean
+permalink: /Java/MLetMBean/
 date: 2021-01-11
-key: JavaJava.M.MLetMBean
+key: Java.M.MLetMBean
 category: Java
 tags: ['java se', 'javax.management.loading', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 

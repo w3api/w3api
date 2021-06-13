@@ -1,8 +1,8 @@
 ---
 title: MarshalException
-permalink: Java/MarshalException-java-rmi
+permalink: /Java/MarshalException-java-rmi/
 date: 2021-01-11
-key: JavaJava.M.MarshalException-java-rmi
+key: Java.M.MarshalException-java-rmi
 category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 

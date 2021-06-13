@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.ToolBarBorder.MetalBorders.ToolBarBorder()
-permalink: Java/MetalBorders/ToolBarBorder/MetalBorders/ToolBarBorder
+permalink: /Java/MetalBorders/ToolBarBorder/MetalBorders/ToolBarBorder/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.ToolBarBorder
+key: Java.M.MetalBorders.ToolBarBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MediaSize.Other.JAPANESE_POSTCARD
-permalink: Java/MediaSize/Other/JAPANESE_POSTCARD
+permalink: /Java/MediaSize/Other/JAPANESE_POSTCARD/
 date: 2021-01-11
-key: JavaJava.M.MediaSize.Other
+key: Java.M.MediaSize.Other
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MidiDeviceProvider.isDeviceSupported()
-permalink: Java/MidiDeviceProvider/isDeviceSupported
+permalink: /Java/MidiDeviceProvider/isDeviceSupported/
 date: 2021-01-11
-key: JavaJava.M.MidiDeviceProvider
+key: Java.M.MidiDeviceProvider
 category: Java
 tags: ['java se', 'javax.sound.midi.spi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

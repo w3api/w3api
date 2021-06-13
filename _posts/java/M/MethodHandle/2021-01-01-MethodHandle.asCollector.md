@@ -1,8 +1,8 @@
 ---
 title: MethodHandle.asCollector()
-permalink: Java/MethodHandle/asCollector
+permalink: /Java/MethodHandle/asCollector/
 date: 2021-01-11
-key: JavaJava.M.MethodHandle
+key: Java.M.MethodHandle
 category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

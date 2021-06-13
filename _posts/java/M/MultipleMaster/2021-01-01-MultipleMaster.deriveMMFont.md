@@ -1,8 +1,8 @@
 ---
 title: MultipleMaster.deriveMMFont()
-permalink: Java/MultipleMaster/deriveMMFont
+permalink: /Java/MultipleMaster/deriveMMFont/
 date: 2021-01-11
-key: JavaJava.M.MultipleMaster
+key: Java.M.MultipleMaster
 category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

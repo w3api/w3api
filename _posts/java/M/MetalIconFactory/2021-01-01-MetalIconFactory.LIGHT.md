@@ -1,8 +1,8 @@
 ---
 title: MetalIconFactory.LIGHT
-permalink: Java/MetalIconFactory/LIGHT
+permalink: /Java/MetalIconFactory/LIGHT/
 date: 2021-01-11
-key: JavaJava.M.MetalIconFactory
+key: Java.M.MetalIconFactory
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

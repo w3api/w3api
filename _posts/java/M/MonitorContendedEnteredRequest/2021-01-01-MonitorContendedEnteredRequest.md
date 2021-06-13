@@ -1,8 +1,8 @@
 ---
 title: MonitorContendedEnteredRequest
-permalink: Java/MonitorContendedEnteredRequest
+permalink: /Java/MonitorContendedEnteredRequest/
 date: 2021-01-11
-key: JavaJava.M.MonitorContendedEnteredRequest
+key: Java.M.MonitorContendedEnteredRequest
 category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'interface java', 'Java 1.6']
 sidebar: 

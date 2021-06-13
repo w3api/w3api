@@ -1,8 +1,8 @@
 ---
 title: MethodInvocationTree.getTypeArguments()
-permalink: Java/MethodInvocationTree/getTypeArguments
+permalink: /Java/MethodInvocationTree/getTypeArguments/
 date: 2021-01-11
-key: JavaJava.M.MethodInvocationTree
+key: Java.M.MethodInvocationTree
 category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

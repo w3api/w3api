@@ -1,8 +1,8 @@
 ---
 title: MetalProgressBarUI
-permalink: Java/MetalProgressBarUI
+permalink: /Java/MetalProgressBarUI/
 date: 2021-01-11
-key: JavaJava.M.MetalProgressBarUI
+key: Java.M.MetalProgressBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

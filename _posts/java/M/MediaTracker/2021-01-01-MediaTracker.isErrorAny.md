@@ -1,8 +1,8 @@
 ---
 title: MediaTracker.isErrorAny()
-permalink: Java/MediaTracker/isErrorAny
+permalink: /Java/MediaTracker/isErrorAny/
 date: 2021-01-11
-key: JavaJava.M.MediaTracker
+key: Java.M.MediaTracker
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

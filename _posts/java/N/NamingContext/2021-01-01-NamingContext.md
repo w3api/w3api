@@ -1,8 +1,8 @@
 ---
 title: NamingContext
-permalink: Java/NamingContext
+permalink: /Java/NamingContext/
 date: 2021-01-11
-key: JavaJava.N.NamingContext
+key: Java.N.NamingContext
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

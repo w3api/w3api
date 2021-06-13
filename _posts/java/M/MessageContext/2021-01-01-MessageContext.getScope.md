@@ -1,8 +1,8 @@
 ---
 title: MessageContext.getScope()
-permalink: Java/MessageContext/getScope
+permalink: /Java/MessageContext/getScope/
 date: 2021-01-11
-key: JavaJava.M.MessageContext
+key: Java.M.MessageContext
 category: Java
 tags: ['java se', 'javax.xml.ws.handler', 'java.xml.ws', 'metodo java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 

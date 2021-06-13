@@ -1,8 +1,8 @@
 ---
 title: ModuleDescriptor.Exports.toString()
-permalink: Java/ModuleDescriptor/Exports/toString
+permalink: /Java/ModuleDescriptor/Exports/toString/
 date: 2021-01-11
-key: JavaJava.M.ModuleDescriptor.Exports
+key: Java.M.ModuleDescriptor.Exports
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

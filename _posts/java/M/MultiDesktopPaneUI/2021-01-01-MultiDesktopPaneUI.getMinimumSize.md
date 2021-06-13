@@ -1,8 +1,8 @@
 ---
 title: MultiDesktopPaneUI.getMinimumSize()
-permalink: Java/MultiDesktopPaneUI/getMinimumSize
+permalink: /Java/MultiDesktopPaneUI/getMinimumSize/
 date: 2021-01-11
-key: JavaJava.M.MultiDesktopPaneUI
+key: Java.M.MultiDesktopPaneUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

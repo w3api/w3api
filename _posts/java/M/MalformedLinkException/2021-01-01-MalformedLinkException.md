@@ -1,8 +1,8 @@
 ---
 title: MalformedLinkException
-permalink: Java/MalformedLinkException
+permalink: /Java/MalformedLinkException/
 date: 2021-01-11
-key: JavaJava.M.MalformedLinkException
+key: Java.M.MalformedLinkException
 category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 

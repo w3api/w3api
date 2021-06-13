@@ -1,8 +1,8 @@
 ---
 title: MultipleGradientPaint.getColorSpace()
-permalink: Java/MultipleGradientPaint/getColorSpace
+permalink: /Java/MultipleGradientPaint/getColorSpace/
 date: 2021-01-11
-key: JavaJava.M.MultipleGradientPaint
+key: Java.M.MultipleGradientPaint
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 

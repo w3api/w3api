@@ -1,8 +1,8 @@
 ---
 title: MetalTheme.getControlDisabled()
-permalink: Java/MetalTheme/getControlDisabled
+permalink: /Java/MetalTheme/getControlDisabled/
 date: 2021-01-11
-key: JavaJava.M.MetalTheme
+key: Java.M.MetalTheme
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

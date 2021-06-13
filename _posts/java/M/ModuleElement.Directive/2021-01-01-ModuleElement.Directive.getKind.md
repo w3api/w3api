@@ -1,8 +1,8 @@
 ---
 title: ModuleElement.Directive.getKind()
-permalink: Java/ModuleElement/Directive/getKind
+permalink: /Java/ModuleElement/Directive/getKind/
 date: 2021-01-11
-key: JavaJava.M.ModuleElement.Directive
+key: Java.M.ModuleElement.Directive
 category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 9']
 sidebar: 

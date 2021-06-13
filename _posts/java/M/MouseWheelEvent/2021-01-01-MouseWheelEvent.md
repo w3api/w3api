@@ -1,8 +1,8 @@
 ---
 title: MouseWheelEvent
-permalink: Java/MouseWheelEvent
+permalink: /Java/MouseWheelEvent/
 date: 2021-01-11
-key: JavaJava.M.MouseWheelEvent
+key: Java.M.MouseWheelEvent
 category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 

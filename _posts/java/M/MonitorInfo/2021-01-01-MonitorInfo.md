@@ -1,8 +1,8 @@
 ---
 title: MonitorInfo
-permalink: Java/MonitorInfo/
+permalink: /Java/MonitorInfo//
 date: 2021-01-11
-key: JavaJava.M.MonitorInfo
+key: Java.M.MonitorInfo
 category: Java
 tags: ['java se']
 sidebar: 

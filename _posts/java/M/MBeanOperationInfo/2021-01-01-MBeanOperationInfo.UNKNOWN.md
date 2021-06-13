@@ -1,8 +1,8 @@
 ---
 title: MBeanOperationInfo.UNKNOWN
-permalink: Java/MBeanOperationInfo/UNKNOWN
+permalink: /Java/MBeanOperationInfo/UNKNOWN/
 date: 2021-01-11
-key: JavaJava.M.MBeanOperationInfo
+key: Java.M.MBeanOperationInfo
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 

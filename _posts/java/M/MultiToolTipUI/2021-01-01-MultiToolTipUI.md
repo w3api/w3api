@@ -1,8 +1,8 @@
 ---
 title: MultiToolTipUI
-permalink: Java/MultiToolTipUI
+permalink: /Java/MultiToolTipUI/
 date: 2021-01-11
-key: JavaJava.M.MultiToolTipUI
+key: Java.M.MultiToolTipUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

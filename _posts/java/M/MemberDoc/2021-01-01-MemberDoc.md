@@ -1,8 +1,8 @@
 ---
 title: MemberDoc
-permalink: Java/MemberDoc
+permalink: /Java/MemberDoc/
 date: 2021-01-11
-key: JavaJava.M.MemberDoc
+key: Java.M.MemberDoc
 category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'interface java', 'Java 1.0']
 sidebar: 

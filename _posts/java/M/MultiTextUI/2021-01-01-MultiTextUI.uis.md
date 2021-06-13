@@ -1,8 +1,8 @@
 ---
 title: MultiTextUI.uis
-permalink: Java/MultiTextUI/uis
+permalink: /Java/MultiTextUI/uis/
 date: 2021-01-11
-key: JavaJava.M.MultiTextUI
+key: Java.M.MultiTextUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

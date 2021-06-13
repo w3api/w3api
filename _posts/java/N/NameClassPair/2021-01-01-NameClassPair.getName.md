@@ -1,8 +1,8 @@
 ---
 title: NameClassPair.getName()
-permalink: Java/NameClassPair/getName
+permalink: /Java/NameClassPair/getName/
 date: 2021-01-11
-key: JavaJava.N.NameClassPair
+key: Java.N.NameClassPair
 category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 

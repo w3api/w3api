@@ -1,8 +1,8 @@
 ---
 title: MidiDevice.Info.getName()
-permalink: Java/MidiDevice/Info/getName
+permalink: /Java/MidiDevice/Info/getName/
 date: 2021-01-11
-key: JavaJava.M.MidiDevice.Info
+key: Java.M.MidiDevice.Info
 category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

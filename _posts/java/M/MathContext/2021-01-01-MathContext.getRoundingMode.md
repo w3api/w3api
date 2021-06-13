@@ -1,8 +1,8 @@
 ---
 title: MathContext.getRoundingMode()
-permalink: Java/MathContext/getRoundingMode
+permalink: /Java/MathContext/getRoundingMode/
 date: 2021-01-11
-key: JavaJava.M.MathContext
+key: Java.M.MathContext
 category: Java
 tags: ['java se', 'java.math', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MetalIconFactory.TreeControlIcon.paintMe()
-permalink: Java/MetalIconFactory/TreeControlIcon/paintMe
+permalink: /Java/MetalIconFactory/TreeControlIcon/paintMe/
 date: 2021-01-11
-key: JavaJava.M.MetalIconFactory.TreeControlIcon
+key: Java.M.MetalIconFactory.TreeControlIcon
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

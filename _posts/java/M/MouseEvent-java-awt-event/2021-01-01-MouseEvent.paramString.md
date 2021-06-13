@@ -1,8 +1,8 @@
 ---
 title: MouseEvent.paramString()
-permalink: Java/MouseEvent-java-awt-event/paramString
+permalink: /Java/MouseEvent-java-awt-event/paramString/
 date: 2021-01-11
-key: JavaJava.M.MouseEvent-java-awt-event
+key: Java.M.MouseEvent-java-awt-event
 category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

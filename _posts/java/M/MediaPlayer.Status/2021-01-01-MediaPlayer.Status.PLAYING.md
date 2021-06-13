@@ -1,8 +1,8 @@
 ---
 title: MediaPlayer.Status.PLAYING
-permalink: Java/MediaPlayer/Status/PLAYING
+permalink: /Java/MediaPlayer/Status/PLAYING/
 date: 2021-01-11
-key: JavaJava.M.MediaPlayer.Status
+key: Java.M.MediaPlayer.Status
 category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'campo java', 'JavaFX 2.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MenuBarUI.MenuBarUI()
-permalink: Java/MenuBarUI/MenuBarUI
+permalink: /Java/MenuBarUI/MenuBarUI/
 date: 2021-01-11
-key: JavaJava.M.MenuBarUI
+key: Java.M.MenuBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

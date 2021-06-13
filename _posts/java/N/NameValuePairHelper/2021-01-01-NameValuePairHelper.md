@@ -1,8 +1,8 @@
 ---
 title: NameValuePairHelper
-permalink: Java/NameValuePairHelper/
+permalink: /Java/NameValuePairHelper//
 date: 2021-01-11
-key: JavaJava.N.NameValuePairHelper
+key: Java.N.NameValuePairHelper
 category: Java
 tags: ['java se']
 sidebar: 

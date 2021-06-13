@@ -1,8 +1,8 @@
 ---
 title: MultiMenuBarUI.getMaximumSize()
-permalink: Java/MultiMenuBarUI/getMaximumSize
+permalink: /Java/MultiMenuBarUI/getMaximumSize/
 date: 2021-01-11
-key: JavaJava.M.MultiMenuBarUI
+key: Java.M.MultiMenuBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

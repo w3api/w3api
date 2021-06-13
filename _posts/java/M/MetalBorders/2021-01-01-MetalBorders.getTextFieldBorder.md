@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.getTextFieldBorder()
-permalink: Java/MetalBorders/getTextFieldBorder
+permalink: /Java/MetalBorders/getTextFieldBorder/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders
+key: Java.M.MetalBorders
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

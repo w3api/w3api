@@ -1,8 +1,8 @@
 ---
 title: NamingManager.getContinuationContext()
-permalink: Java/NamingManager/getContinuationContext
+permalink: /Java/NamingManager/getContinuationContext/
 date: 2021-01-11
-key: JavaJava.N.NamingManager
+key: Java.N.NamingManager
 category: Java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 

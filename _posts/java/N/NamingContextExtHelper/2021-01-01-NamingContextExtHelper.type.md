@@ -1,8 +1,8 @@
 ---
 title: NamingContextExtHelper.type()
-permalink: Java/NamingContextExtHelper/type
+permalink: /Java/NamingContextExtHelper/type/
 date: 2021-01-11
-key: JavaJava.N.NamingContextExtHelper
+key: Java.N.NamingContextExtHelper
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

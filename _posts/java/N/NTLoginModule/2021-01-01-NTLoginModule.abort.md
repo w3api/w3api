@@ -1,8 +1,8 @@
 ---
 title: NTLoginModule.abort()
-permalink: Java/NTLoginModule/abort
+permalink: /Java/NTLoginModule/abort/
 date: 2021-01-11
-key: JavaJava.N.NTLoginModule
+key: Java.N.NTLoginModule
 category: Java
 tags: ['java se', 'com.sun.security.auth.module', 'jdk.security.auth', 'metodo java', 'Java 1.0']
 sidebar: 

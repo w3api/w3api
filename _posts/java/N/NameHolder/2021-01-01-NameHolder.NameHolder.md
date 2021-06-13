@@ -1,8 +1,8 @@
 ---
 title: NameHolder.NameHolder()
-permalink: Java/NameHolder/NameHolder
+permalink: /Java/NameHolder/NameHolder/
 date: 2021-01-11
-key: JavaJava.N.NameHolder
+key: Java.N.NameHolder
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

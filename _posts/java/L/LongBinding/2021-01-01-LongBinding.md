@@ -1,9 +1,9 @@
 ---
 title: LongBinding
-permalink: Java/LongBinding
+permalink: /Java/LongBinding/
 date: 2021-01-11
 key: Java.L.LongBinding
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,8 +1,8 @@
 ---
 title: MethodDoc.overriddenClass()
-permalink: Java/MethodDoc/overriddenClass
+permalink: /Java/MethodDoc/overriddenClass/
 date: 2021-01-11
-key: JavaJava.M.MethodDoc
+key: Java.M.MethodDoc
 category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.2']
 sidebar: 

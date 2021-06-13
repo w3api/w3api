@@ -1,8 +1,8 @@
 ---
 title: MBeanOperationInfo
-permalink: Java/MBeanOperationInfo
+permalink: /Java/MBeanOperationInfo/
 date: 2021-01-11
-key: JavaJava.M.MBeanOperationInfo
+key: Java.M.MBeanOperationInfo
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

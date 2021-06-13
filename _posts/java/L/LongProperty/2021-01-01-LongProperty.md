@@ -1,9 +1,9 @@
 ---
 title: LongProperty
-permalink: Java/LongProperty
+permalink: /Java/LongProperty/
 date: 2021-01-11
 key: Java.L.LongProperty
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

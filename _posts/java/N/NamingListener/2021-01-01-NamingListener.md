@@ -1,8 +1,8 @@
 ---
 title: NamingListener
-permalink: Java/NamingListener
+permalink: /Java/NamingListener/
 date: 2021-01-11
-key: JavaJava.N.NamingListener
+key: Java.N.NamingListener
 category: Java
 tags: ['java se', 'javax.naming.event', 'java.naming', 'interface java', 'Java 1.3']
 sidebar: 

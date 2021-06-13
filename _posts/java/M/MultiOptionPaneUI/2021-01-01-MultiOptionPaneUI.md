@@ -1,8 +1,8 @@
 ---
 title: MultiOptionPaneUI
-permalink: Java/MultiOptionPaneUI
+permalink: /Java/MultiOptionPaneUI/
 date: 2021-01-11
-key: JavaJava.M.MultiOptionPaneUI
+key: Java.M.MultiOptionPaneUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

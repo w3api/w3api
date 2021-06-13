@@ -1,8 +1,8 @@
 ---
 title: MapProperty.MapProperty()
-permalink: Java/MapProperty/MapProperty
+permalink: /Java/MapProperty/MapProperty/
 date: 2021-01-11
-key: JavaJava.M.MapProperty
+key: Java.M.MapProperty
 category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

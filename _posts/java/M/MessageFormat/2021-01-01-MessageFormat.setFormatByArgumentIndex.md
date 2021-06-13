@@ -1,8 +1,8 @@
 ---
 title: MessageFormat.setFormatByArgumentIndex()
-permalink: Java/MessageFormat/setFormatByArgumentIndex
+permalink: /Java/MessageFormat/setFormatByArgumentIndex/
 date: 2021-01-11
-key: JavaJava.M.MessageFormat
+key: Java.M.MessageFormat
 category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

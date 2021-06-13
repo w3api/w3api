@@ -1,8 +1,8 @@
 ---
 title: NamingException.rootException
-permalink: Java/NamingException/rootException
+permalink: /Java/NamingException/rootException/
 date: 2021-01-11
-key: JavaJava.N.NamingException
+key: Java.N.NamingException
 category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'campo java', 'Java 1.3']
 sidebar: 

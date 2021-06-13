@@ -1,8 +1,8 @@
 ---
 title: MetalComboBoxUI
-permalink: Java/MetalComboBoxUI
+permalink: /Java/MetalComboBoxUI/
 date: 2021-01-11
-key: JavaJava.M.MetalComboBoxUI
+key: Java.M.MetalComboBoxUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

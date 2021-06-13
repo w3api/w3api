@@ -1,8 +1,8 @@
 ---
 title: ModelMBeanAttributeInfo.clone()
-permalink: Java/ModelMBeanAttributeInfo/clone
+permalink: /Java/ModelMBeanAttributeInfo/clone/
 date: 2021-01-11
-key: JavaJava.M.ModelMBeanAttributeInfo
+key: Java.M.ModelMBeanAttributeInfo
 category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

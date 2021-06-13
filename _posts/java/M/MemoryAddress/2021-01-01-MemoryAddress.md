@@ -1,8 +1,8 @@
 ---
 title: MemoryAddress
-permalink: Java/MemoryAddress
+permalink: /Java/MemoryAddress/
 date: 2021-01-11
-key: JavaJava.M.MemoryAddress
+key: Java.M.MemoryAddress
 category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'anotacion java', 'Java 9']
 sidebar: 

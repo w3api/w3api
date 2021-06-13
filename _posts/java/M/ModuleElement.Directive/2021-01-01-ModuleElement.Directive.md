@@ -1,8 +1,8 @@
 ---
 title: ModuleElement.Directive
-permalink: Java/ModuleElement/Directive
+permalink: /Java/ModuleElement/Directive/
 date: 2021-01-11
-key: JavaJava.M.ModuleElement.Directive
+key: Java.M.ModuleElement.Directive
 category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'interface java', 'Java 9']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MonitorSettingException
-permalink: Java/MonitorSettingException
+permalink: /Java/MonitorSettingException/
 date: 2021-01-11
-key: JavaJava.M.MonitorSettingException
+key: Java.M.MonitorSettingException
 category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

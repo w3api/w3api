@@ -1,8 +1,8 @@
 ---
 title: MessageDigestSpi.MessageDigestSpi()
-permalink: Java/MessageDigestSpi/MessageDigestSpi
+permalink: /Java/MessageDigestSpi/MessageDigestSpi/
 date: 2021-01-11
-key: JavaJava.M.MessageDigestSpi
+key: Java.M.MessageDigestSpi
 category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

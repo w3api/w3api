@@ -1,8 +1,8 @@
 ---
 title: MinguoEra.valueOf()
-permalink: Java/MinguoEra/valueOf
+permalink: /Java/MinguoEra/valueOf/
 date: 2021-01-11
-key: JavaJava.M.MinguoEra
+key: Java.M.MinguoEra
 category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ModuleElement.UsesDirective.getService()
-permalink: Java/ModuleElement/UsesDirective/getService
+permalink: /Java/ModuleElement/UsesDirective/getService/
 date: 2021-01-11
-key: JavaJava.M.ModuleElement.UsesDirective
+key: Java.M.ModuleElement.UsesDirective
 category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 9']
 sidebar: 

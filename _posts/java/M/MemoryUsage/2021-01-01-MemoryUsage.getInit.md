@@ -1,8 +1,8 @@
 ---
 title: MemoryUsage.getInit()
-permalink: Java/MemoryUsage/getInit
+permalink: /Java/MemoryUsage/getInit/
 date: 2021-01-11
-key: JavaJava.M.MemoryUsage
+key: Java.M.MemoryUsage
 category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

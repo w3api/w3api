@@ -1,8 +1,8 @@
 ---
 title: MBeanServer.registerMBean()
-permalink: Java/MBeanServer/registerMBean
+permalink: /Java/MBeanServer/registerMBean/
 date: 2021-01-11
-key: JavaJava.M.MBeanServer
+key: Java.M.MBeanServer
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: NameClassPair
-permalink: Java/NameClassPair
+permalink: /Java/NameClassPair/
 date: 2021-01-11
-key: JavaJava.N.NameClassPair
+key: Java.N.NameClassPair
 category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 

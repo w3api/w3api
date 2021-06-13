@@ -1,8 +1,8 @@
 ---
 title: NamingException.setResolvedObj()
-permalink: Java/NamingException/setResolvedObj
+permalink: /Java/NamingException/setResolvedObj/
 date: 2021-01-11
-key: JavaJava.N.NamingException
+key: Java.N.NamingException
 category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 

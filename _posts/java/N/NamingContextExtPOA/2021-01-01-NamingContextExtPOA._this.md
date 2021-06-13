@@ -1,8 +1,8 @@
 ---
 title: NamingContextExtPOA._this()
-permalink: Java/NamingContextExtPOA/_this
+permalink: /Java/NamingContextExtPOA/_this/
 date: 2021-01-11
-key: JavaJava.N.NamingContextExtPOA
+key: Java.N.NamingContextExtPOA
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MouseEvent.isShiftDown()
-permalink: Java/MouseEvent-javafx-scene-input/isShiftDown
+permalink: /Java/MouseEvent-javafx-scene-input/isShiftDown/
 date: 2021-01-11
-key: JavaJava.M.MouseEvent-javafx-scene-input
+key: Java.M.MouseEvent-javafx-scene-input
 category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

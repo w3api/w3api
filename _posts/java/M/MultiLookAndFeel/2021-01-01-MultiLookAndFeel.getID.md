@@ -1,8 +1,8 @@
 ---
 title: MultiLookAndFeel.getID()
-permalink: Java/MultiLookAndFeel/getID
+permalink: /Java/MultiLookAndFeel/getID/
 date: 2021-01-11
-key: JavaJava.M.MultiLookAndFeel
+key: Java.M.MultiLookAndFeel
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MethodHandle.type()
-permalink: Java/MethodHandle/type
+permalink: /Java/MethodHandle/type/
 date: 2021-01-11
-key: JavaJava.M.MethodHandle
+key: Java.M.MethodHandle
 category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

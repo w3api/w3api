@@ -1,8 +1,8 @@
 ---
 title: ModuleReference
-permalink: Java/ModuleReference-com-sun-jdi
+permalink: /Java/ModuleReference-com-sun-jdi/
 date: 2021-01-11
-key: JavaJava.M.ModuleReference-com-sun-jdi
+key: Java.M.ModuleReference-com-sun-jdi
 category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'interface java', 'Java 9']
 sidebar: 

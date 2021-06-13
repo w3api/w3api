@@ -1,9 +1,9 @@
 ---
 title: LoggingMXBean
-permalink: Java/LoggingMXBean
+permalink: /Java/LoggingMXBean/
 date: 2021-01-11
 key: Java.L.LoggingMXBean
-category: java
+category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

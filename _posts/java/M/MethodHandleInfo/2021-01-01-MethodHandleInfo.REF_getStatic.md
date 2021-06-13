@@ -1,8 +1,8 @@
 ---
 title: MethodHandleInfo.REF_getStatic
-permalink: Java/MethodHandleInfo/REF_getStatic
+permalink: /Java/MethodHandleInfo/REF_getStatic/
 date: 2021-01-11
-key: JavaJava.M.MethodHandleInfo
+key: Java.M.MethodHandleInfo
 category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 

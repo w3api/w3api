@@ -1,8 +1,8 @@
 ---
 title: MetaMessage.getData()
-permalink: Java/MetaMessage/getData
+permalink: /Java/MetaMessage/getData/
 date: 2021-01-11
-key: JavaJava.M.MetaMessage
+key: Java.M.MetaMessage
 category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

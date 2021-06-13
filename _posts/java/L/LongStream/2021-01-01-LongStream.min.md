@@ -1,9 +1,9 @@
 ---
 title: LongStream.min()
-permalink: Java/LongStream/min
+permalink: /Java/LongStream/min/
 date: 2021-01-11
 key: Java.L.LongStream
-category: java
+category: Java
 tags: ['java se', 'java.util.stream', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

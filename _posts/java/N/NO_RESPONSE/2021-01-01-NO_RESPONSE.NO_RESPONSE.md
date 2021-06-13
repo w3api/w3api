@@ -1,8 +1,8 @@
 ---
 title: NO_RESPONSE.NO_RESPONSE()
-permalink: Java/NO_RESPONSE/NO_RESPONSE
+permalink: /Java/NO_RESPONSE/NO_RESPONSE/
 date: 2021-01-11
-key: JavaJava.N.NO_RESPONSE
+key: Java.N.NO_RESPONSE
 category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 

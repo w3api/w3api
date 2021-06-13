@@ -1,8 +1,8 @@
 ---
 title: MouseWheelEvent.WHEEL_BLOCK_SCROLL
-permalink: Java/MouseWheelEvent/WHEEL_BLOCK_SCROLL
+permalink: /Java/MouseWheelEvent/WHEEL_BLOCK_SCROLL/
 date: 2021-01-11
-key: JavaJava.M.MouseWheelEvent
+key: Java.M.MouseWheelEvent
 category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.4']
 sidebar: 

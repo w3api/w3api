@@ -1,9 +1,9 @@
 ---
 title: LoginModule.initialize()
-permalink: Java/LoginModule/initialize
+permalink: /Java/LoginModule/initialize/
 date: 2021-01-11
 key: Java.L.LoginModule
-category: java
+category: Java
 tags: ['java se', 'javax.security.auth.spi', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

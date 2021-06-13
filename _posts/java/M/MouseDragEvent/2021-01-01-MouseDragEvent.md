@@ -1,8 +1,8 @@
 ---
 title: MouseDragEvent
-permalink: Java/MouseDragEvent
+permalink: /Java/MouseDragEvent/
 date: 2021-01-11
-key: JavaJava.M.MouseDragEvent
+key: Java.M.MouseDragEvent
 category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'clase java', 'JavaFX 2.1']
 sidebar: 

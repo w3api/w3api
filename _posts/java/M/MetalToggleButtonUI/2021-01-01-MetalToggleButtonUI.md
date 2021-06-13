@@ -1,8 +1,8 @@
 ---
 title: MetalToggleButtonUI
-permalink: Java/MetalToggleButtonUI
+permalink: /Java/MetalToggleButtonUI/
 date: 2021-01-11
-key: JavaJava.M.MetalToggleButtonUI
+key: Java.M.MetalToggleButtonUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MetalSliderUI.getTrackWidth()
-permalink: Java/MetalSliderUI/getTrackWidth
+permalink: /Java/MetalSliderUI/getTrackWidth/
 date: 2021-01-11
-key: JavaJava.M.MetalSliderUI
+key: Java.M.MetalSliderUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

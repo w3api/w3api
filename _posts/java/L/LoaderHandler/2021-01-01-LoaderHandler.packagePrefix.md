@@ -3,7 +3,7 @@ title: LoaderHandler.packagePrefix
 permalink: /Java/LoaderHandler/packagePrefix/
 date: 2021-01-11
 key: Java.L.LoaderHandler
-category: java
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

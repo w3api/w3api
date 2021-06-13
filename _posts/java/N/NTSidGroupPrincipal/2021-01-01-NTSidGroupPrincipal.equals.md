@@ -1,8 +1,8 @@
 ---
 title: NTSidGroupPrincipal.equals()
-permalink: Java/NTSidGroupPrincipal/equals
+permalink: /Java/NTSidGroupPrincipal/equals/
 date: 2021-01-11
-key: JavaJava.N.NTSidGroupPrincipal
+key: Java.N.NTSidGroupPrincipal
 category: Java
 tags: ['java se', 'com.sun.security.auth', 'jdk.security.auth', 'metodo java', 'Java 1.0']
 sidebar: 

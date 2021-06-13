@@ -1,8 +1,8 @@
 ---
 title: MediaSize.findMedia()
-permalink: Java/MediaSize/findMedia
+permalink: /Java/MediaSize/findMedia/
 date: 2021-01-11
-key: JavaJava.M.MediaSize
+key: Java.M.MediaSize
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

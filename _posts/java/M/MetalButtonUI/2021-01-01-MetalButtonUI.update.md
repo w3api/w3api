@@ -1,8 +1,8 @@
 ---
 title: MetalButtonUI.update()
-permalink: Java/MetalButtonUI/update
+permalink: /Java/MetalButtonUI/update/
 date: 2021-01-11
-key: JavaJava.M.MetalButtonUI
+key: Java.M.MetalButtonUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

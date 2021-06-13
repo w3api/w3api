@@ -1,9 +1,9 @@
 ---
 title: LocaleNameProvider.getDisplayCountry()
-permalink: Java/LocaleNameProvider/getDisplayCountry
+permalink: /Java/LocaleNameProvider/getDisplayCountry/
 date: 2021-01-11
 key: Java.L.LocaleNameProvider
-category: java
+category: Java
 tags: ['java se', 'java.util.spi', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

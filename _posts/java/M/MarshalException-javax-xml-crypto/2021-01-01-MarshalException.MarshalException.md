@@ -1,8 +1,8 @@
 ---
 title: MarshalException.MarshalException()
-permalink: Java/MarshalException-javax-xml-crypto/MarshalException
+permalink: /Java/MarshalException-javax-xml-crypto/MarshalException/
 date: 2021-01-11
-key: JavaJava.M.MarshalException-javax-xml-crypto
+key: Java.M.MarshalException-javax-xml-crypto
 category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 

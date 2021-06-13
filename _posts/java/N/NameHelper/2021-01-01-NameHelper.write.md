@@ -1,8 +1,8 @@
 ---
 title: NameHelper.write()
-permalink: Java/NameHelper/write
+permalink: /Java/NameHelper/write/
 date: 2021-01-11
-key: JavaJava.N.NameHelper
+key: Java.N.NameHelper
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

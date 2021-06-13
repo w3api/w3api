@@ -1,8 +1,8 @@
 ---
 title: MediaSize.NA.LETTER
-permalink: Java/MediaSize/NA/LETTER
+permalink: /Java/MediaSize/NA/LETTER/
 date: 2021-01-11
-key: JavaJava.M.MediaSize.NA
+key: Java.M.MediaSize.NA
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

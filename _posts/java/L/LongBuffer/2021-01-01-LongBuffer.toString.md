@@ -3,7 +3,7 @@ title: LongBuffer.toString()
 permalink: /Java/LongBuffer/toString/
 date: 2021-01-11
 key: Java.L.LongBuffer
-category: java
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

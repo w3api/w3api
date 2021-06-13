@@ -1,9 +1,9 @@
 ---
 title: LoggingPermission
-permalink: Java/LoggingPermission
+permalink: /Java/LoggingPermission/
 date: 2021-01-11
 key: Java.L.LoggingPermission
-category: java
+category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

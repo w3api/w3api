@@ -1,8 +1,8 @@
 ---
 title: ModuleTree
-permalink: Java/ModuleTree/
+permalink: /Java/ModuleTree//
 date: 2021-01-11
-key: JavaJava.M.ModuleTree
+key: Java.M.ModuleTree
 category: Java
 tags: ['java se']
 sidebar: 

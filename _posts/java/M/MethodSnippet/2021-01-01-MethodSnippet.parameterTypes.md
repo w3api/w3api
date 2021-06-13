@@ -1,8 +1,8 @@
 ---
 title: MethodSnippet.parameterTypes()
-permalink: Java/MethodSnippet/parameterTypes
+permalink: /Java/MethodSnippet/parameterTypes/
 date: 2021-01-11
-key: JavaJava.M.MethodSnippet
+key: Java.M.MethodSnippet
 category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 

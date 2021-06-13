@@ -1,8 +1,8 @@
 ---
 title: MBeanPermission
-permalink: Java/MBeanPermission
+permalink: /Java/MBeanPermission/
 date: 2021-01-11
-key: JavaJava.M.MBeanPermission
+key: Java.M.MBeanPermission
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ModelMBeanNotificationBroadcaster
-permalink: Java/ModelMBeanNotificationBroadcaster
+permalink: /Java/ModelMBeanNotificationBroadcaster/
 date: 2021-01-11
-key: JavaJava.M.ModelMBeanNotificationBroadcaster
+key: Java.M.ModelMBeanNotificationBroadcaster
 category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 

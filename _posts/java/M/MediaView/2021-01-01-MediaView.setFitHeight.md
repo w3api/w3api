@@ -1,8 +1,8 @@
 ---
 title: MediaView.setFitHeight()
-permalink: Java/MediaView/setFitHeight
+permalink: /Java/MediaView/setFitHeight/
 date: 2021-01-11
-key: JavaJava.M.MediaView
+key: Java.M.MediaView
 category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'metodo java', 'JavaFX 2.0']
 sidebar: 

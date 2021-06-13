@@ -1,8 +1,8 @@
 ---
 title: MultiTableUI.installUI()
-permalink: Java/MultiTableUI/installUI
+permalink: /Java/MultiTableUI/installUI/
 date: 2021-01-11
-key: JavaJava.M.MultiTableUI
+key: Java.M.MultiTableUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

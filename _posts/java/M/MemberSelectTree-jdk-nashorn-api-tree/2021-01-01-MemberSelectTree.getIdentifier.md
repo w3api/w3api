@@ -1,8 +1,8 @@
 ---
 title: MemberSelectTree.getIdentifier()
-permalink: Java/MemberSelectTree-jdk-nashorn-api-tree/getIdentifier
+permalink: /Java/MemberSelectTree-jdk-nashorn-api-tree/getIdentifier/
 date: 2021-01-11
-key: JavaJava.M.MemberSelectTree-jdk-nashorn-api-tree
+key: Java.M.MemberSelectTree-jdk-nashorn-api-tree
 category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 

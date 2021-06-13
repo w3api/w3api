@@ -1,8 +1,8 @@
 ---
 title: NameComponentHelper.extract()
-permalink: Java/NameComponentHelper/extract
+permalink: /Java/NameComponentHelper/extract/
 date: 2021-01-11
-key: JavaJava.N.NameComponentHelper
+key: Java.N.NameComponentHelper
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

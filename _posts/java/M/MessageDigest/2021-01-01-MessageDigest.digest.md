@@ -1,8 +1,8 @@
 ---
 title: MessageDigest.digest()
-permalink: Java/MessageDigest/digest
+permalink: /Java/MessageDigest/digest/
 date: 2021-01-11
-key: JavaJava.M.MessageDigest
+key: Java.M.MessageDigest
 category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

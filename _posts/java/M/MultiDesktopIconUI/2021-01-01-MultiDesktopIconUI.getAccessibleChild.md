@@ -1,8 +1,8 @@
 ---
 title: MultiDesktopIconUI.getAccessibleChild()
-permalink: Java/MultiDesktopIconUI/getAccessibleChild
+permalink: /Java/MultiDesktopIconUI/getAccessibleChild/
 date: 2021-01-11
-key: JavaJava.M.MultiDesktopIconUI
+key: Java.M.MultiDesktopIconUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

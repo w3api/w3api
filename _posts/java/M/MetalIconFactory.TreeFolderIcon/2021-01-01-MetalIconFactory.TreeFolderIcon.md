@@ -1,8 +1,8 @@
 ---
 title: MetalIconFactory.TreeFolderIcon
-permalink: Java/MetalIconFactory/TreeFolderIcon
+permalink: /Java/MetalIconFactory/TreeFolderIcon/
 date: 2021-01-11
-key: JavaJava.M.MetalIconFactory.TreeFolderIcon
+key: Java.M.MetalIconFactory.TreeFolderIcon
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MenuContainer
-permalink: Java/MenuContainer
+permalink: /Java/MenuContainer/
 date: 2021-01-11
-key: JavaJava.M.MenuContainer
+key: Java.M.MenuContainer
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: NamingContextExtOperations.to_url()
-permalink: Java/NamingContextExtOperations/to_url
+permalink: /Java/NamingContextExtOperations/to_url/
 date: 2021-01-11
-key: JavaJava.N.NamingContextExtOperations
+key: Java.N.NamingContextExtOperations
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

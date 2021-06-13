@@ -1,8 +1,8 @@
 ---
 title: MetaEventListener.meta()
-permalink: Java/MetaEventListener/meta
+permalink: /Java/MetaEventListener/meta/
 date: 2021-01-11
-key: JavaJava.M.MetaEventListener
+key: Java.M.MetaEventListener
 category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

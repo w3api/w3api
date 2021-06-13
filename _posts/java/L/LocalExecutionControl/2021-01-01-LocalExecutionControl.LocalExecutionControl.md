@@ -1,9 +1,9 @@
 ---
 title: LocalExecutionControl.LocalExecutionControl()
-permalink: Java/LocalExecutionControl/LocalExecutionControl
+permalink: /Java/LocalExecutionControl/LocalExecutionControl/
 date: 2021-01-11
 key: Java.L.LocalExecutionControl
-category: java
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

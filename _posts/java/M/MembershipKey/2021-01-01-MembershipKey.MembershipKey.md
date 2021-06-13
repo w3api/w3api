@@ -1,8 +1,8 @@
 ---
 title: MembershipKey.MembershipKey()
-permalink: Java/MembershipKey/MembershipKey
+permalink: /Java/MembershipKey/MembershipKey/
 date: 2021-01-11
-key: JavaJava.M.MembershipKey
+key: Java.M.MembershipKey
 category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

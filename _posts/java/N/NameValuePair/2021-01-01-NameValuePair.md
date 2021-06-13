@@ -1,8 +1,8 @@
 ---
 title: NameValuePair
-permalink: Java/NameValuePair/
+permalink: /Java/NameValuePair//
 date: 2021-01-11
-key: JavaJava.N.NameValuePair
+key: Java.N.NameValuePair
 category: Java
 tags: ['java se']
 sidebar: 

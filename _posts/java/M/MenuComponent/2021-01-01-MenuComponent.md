@@ -1,8 +1,8 @@
 ---
 title: MenuComponent
-permalink: Java/MenuComponent
+permalink: /Java/MenuComponent/
 date: 2021-01-11
-key: JavaJava.M.MenuComponent
+key: Java.M.MenuComponent
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

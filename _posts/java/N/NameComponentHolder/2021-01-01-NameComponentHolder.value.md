@@ -1,8 +1,8 @@
 ---
 title: NameComponentHolder.value
-permalink: Java/NameComponentHolder/value
+permalink: /Java/NameComponentHolder/value/
 date: 2021-01-11
-key: JavaJava.N.NameComponentHolder
+key: Java.N.NameComponentHolder
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MultiSliderUI
-permalink: Java/MultiSliderUI
+permalink: /Java/MultiSliderUI/
 date: 2021-01-11
-key: JavaJava.M.MultiSliderUI
+key: Java.M.MultiSliderUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

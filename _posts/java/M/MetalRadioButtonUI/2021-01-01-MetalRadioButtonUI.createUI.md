@@ -1,8 +1,8 @@
 ---
 title: MetalRadioButtonUI.createUI()
-permalink: Java/MetalRadioButtonUI/createUI
+permalink: /Java/MetalRadioButtonUI/createUI/
 date: 2021-01-11
-key: JavaJava.M.MetalRadioButtonUI
+key: Java.M.MetalRadioButtonUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

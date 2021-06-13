@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.Flush3DBorder.MetalBorders.Flush3DBorder()
-permalink: Java/MetalBorders/Flush3DBorder/MetalBorders/Flush3DBorder
+permalink: /Java/MetalBorders/Flush3DBorder/MetalBorders/Flush3DBorder/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.Flush3DBorder
+key: Java.M.MetalBorders.Flush3DBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: NestedTableColumnHeader.createTableColumnHeader()
-permalink: Java/NestedTableColumnHeader/createTableColumnHeader
+permalink: /Java/NestedTableColumnHeader/createTableColumnHeader/
 date: 2021-01-11
-key: JavaJava.N.NestedTableColumnHeader
+key: Java.N.NestedTableColumnHeader
 category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 

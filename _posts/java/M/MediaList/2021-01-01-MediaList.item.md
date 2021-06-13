@@ -1,8 +1,8 @@
 ---
 title: MediaList.item()
-permalink: Java/MediaList/item
+permalink: /Java/MediaList/item/
 date: 2021-01-11
-key: JavaJava.M.MediaList
+key: Java.M.MediaList
 category: Java
 tags: ['java se', 'org.w3c.dom.stylesheets', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 

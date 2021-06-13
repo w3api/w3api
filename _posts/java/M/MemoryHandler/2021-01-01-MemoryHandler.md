@@ -1,8 +1,8 @@
 ---
 title: MemoryHandler
-permalink: Java/MemoryHandler
+permalink: /Java/MemoryHandler/
 date: 2021-01-11
-key: JavaJava.M.MemoryHandler
+key: Java.M.MemoryHandler
 category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'clase java', 'Java 1.4']
 sidebar: 

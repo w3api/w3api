@@ -1,8 +1,8 @@
 ---
 title: NamedValue
-permalink: Java/NamedValue
+permalink: /Java/NamedValue/
 date: 2021-01-11
-key: JavaJava.N.NamedValue
+key: Java.N.NamedValue
 category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'JDKJava 1.2']
 sidebar: 

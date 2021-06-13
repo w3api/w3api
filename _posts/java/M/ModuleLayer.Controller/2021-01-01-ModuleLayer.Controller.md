@@ -1,8 +1,8 @@
 ---
 title: ModuleLayer.Controller
-permalink: Java/ModuleLayer/Controller
+permalink: /Java/ModuleLayer/Controller/
 date: 2021-01-11
-key: JavaJava.M.ModuleLayer.Controller
+key: Java.M.ModuleLayer.Controller
 category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 9']
 sidebar: 

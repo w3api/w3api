@@ -1,8 +1,8 @@
 ---
 title: MediaSizeName.NA_10X13_ENVELOPE
-permalink: Java/MediaSizeName/NA_10X13_ENVELOPE
+permalink: /Java/MediaSizeName/NA_10X13_ENVELOPE/
 date: 2021-01-11
-key: JavaJava.M.MediaSizeName
+key: Java.M.MediaSizeName
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

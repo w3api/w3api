@@ -1,8 +1,8 @@
 ---
 title: MetalScrollBarUI.isFreeStanding
-permalink: Java/MetalScrollBarUI/isFreeStanding
+permalink: /Java/MetalScrollBarUI/isFreeStanding/
 date: 2021-01-11
-key: JavaJava.M.MetalScrollBarUI
+key: Java.M.MetalScrollBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

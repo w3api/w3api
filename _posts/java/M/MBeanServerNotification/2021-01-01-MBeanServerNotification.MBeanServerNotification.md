@@ -1,8 +1,8 @@
 ---
 title: MBeanServerNotification.MBeanServerNotification()
-permalink: Java/MBeanServerNotification/MBeanServerNotification
+permalink: /Java/MBeanServerNotification/MBeanServerNotification/
 date: 2021-01-11
-key: JavaJava.M.MBeanServerNotification
+key: Java.M.MBeanServerNotification
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

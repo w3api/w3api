@@ -1,8 +1,8 @@
 ---
 title: MetalSliderUI.TICK_BUFFER
-permalink: Java/MetalSliderUI/TICK_BUFFER
+permalink: /Java/MetalSliderUI/TICK_BUFFER/
 date: 2021-01-11
-key: JavaJava.M.MetalSliderUI
+key: Java.M.MetalSliderUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MetalInternalFrameTitlePane.showSystemMenu()
-permalink: Java/MetalInternalFrameTitlePane/showSystemMenu
+permalink: /Java/MetalInternalFrameTitlePane/showSystemMenu/
 date: 2021-01-11
-key: JavaJava.M.MetalInternalFrameTitlePane
+key: Java.M.MetalInternalFrameTitlePane
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

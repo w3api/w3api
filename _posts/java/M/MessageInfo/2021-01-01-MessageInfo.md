@@ -1,8 +1,8 @@
 ---
 title: MessageInfo
-permalink: Java/MessageInfo
+permalink: /Java/MessageInfo/
 date: 2021-01-11
-key: JavaJava.M.MessageInfo
+key: Java.M.MessageInfo
 category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'clase java', 'Java 1.7']
 sidebar: 

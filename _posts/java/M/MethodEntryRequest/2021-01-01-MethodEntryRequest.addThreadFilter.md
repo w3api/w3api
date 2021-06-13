@@ -1,8 +1,8 @@
 ---
 title: MethodEntryRequest.addThreadFilter()
-permalink: Java/MethodEntryRequest/addThreadFilter
+permalink: /Java/MethodEntryRequest/addThreadFilter/
 date: 2021-01-11
-key: JavaJava.M.MethodEntryRequest
+key: Java.M.MethodEntryRequest
 category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 

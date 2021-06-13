@@ -1,8 +1,8 @@
 ---
 title: NO_IMPLEMENT
-permalink: Java/NO_IMPLEMENT
+permalink: /Java/NO_IMPLEMENT/
 date: 2021-01-11
-key: JavaJava.N.NO_IMPLEMENT
+key: Java.N.NO_IMPLEMENT
 category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'JDKJava 1.2']
 sidebar: 

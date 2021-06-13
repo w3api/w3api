@@ -1,8 +1,8 @@
 ---
 title: ModelMBeanNotificationBroadcaster.removeAttributeChangeNotificationListener()
-permalink: Java/ModelMBeanNotificationBroadcaster/removeAttributeChangeNotificationListener
+permalink: /Java/ModelMBeanNotificationBroadcaster/removeAttributeChangeNotificationListener/
 date: 2021-01-11
-key: JavaJava.M.ModelMBeanNotificationBroadcaster
+key: Java.M.ModelMBeanNotificationBroadcaster
 category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

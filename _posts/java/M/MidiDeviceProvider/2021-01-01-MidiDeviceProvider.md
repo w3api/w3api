@@ -1,8 +1,8 @@
 ---
 title: MidiDeviceProvider
-permalink: Java/MidiDeviceProvider
+permalink: /Java/MidiDeviceProvider/
 date: 2021-01-11
-key: JavaJava.M.MidiDeviceProvider
+key: Java.M.MidiDeviceProvider
 category: Java
 tags: ['java se', 'javax.sound.midi.spi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

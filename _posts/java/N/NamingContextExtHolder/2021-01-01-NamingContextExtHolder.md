@@ -1,8 +1,8 @@
 ---
 title: NamingContextExtHolder
-permalink: Java/NamingContextExtHolder
+permalink: /Java/NamingContextExtHolder/
 date: 2021-01-11
-key: JavaJava.N.NamingContextExtHolder
+key: Java.N.NamingContextExtHolder
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

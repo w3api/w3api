@@ -1,8 +1,8 @@
 ---
 title: ModuleDescriptor.Exports.Modifier.values()
-permalink: Java/ModuleDescriptor/Exports/Modifier/values
+permalink: /Java/ModuleDescriptor/Exports/Modifier/values/
 date: 2021-01-11
-key: JavaJava.M.ModuleDescriptor.Exports.Modifier
+key: Java.M.ModuleDescriptor.Exports.Modifier
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

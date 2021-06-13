@@ -1,8 +1,8 @@
 ---
 title: ModificationItem.toString()
-permalink: Java/ModificationItem/toString
+permalink: /Java/ModificationItem/toString/
 date: 2021-01-11
-key: JavaJava.M.ModificationItem
+key: Java.M.ModificationItem
 category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 

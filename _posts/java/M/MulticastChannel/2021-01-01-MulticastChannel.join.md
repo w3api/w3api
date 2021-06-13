@@ -1,8 +1,8 @@
 ---
 title: MulticastChannel.join()
-permalink: Java/MulticastChannel/join
+permalink: /Java/MulticastChannel/join/
 date: 2021-01-11
-key: JavaJava.M.MulticastChannel
+key: Java.M.MulticastChannel
 category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

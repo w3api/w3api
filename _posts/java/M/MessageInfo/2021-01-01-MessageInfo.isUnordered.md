@@ -1,8 +1,8 @@
 ---
 title: MessageInfo.isUnordered()
-permalink: Java/MessageInfo/isUnordered
+permalink: /Java/MessageInfo/isUnordered/
 date: 2021-01-11
-key: JavaJava.M.MessageInfo
+key: Java.M.MessageInfo
 category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: NamedNodeMap
-permalink: Java/NamedNodeMap
+permalink: /Java/NamedNodeMap/
 date: 2021-01-11
-key: JavaJava.N.NamedNodeMap
+key: Java.N.NamedNodeMap
 category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'interface java', 'Java 1.0']
 sidebar: 

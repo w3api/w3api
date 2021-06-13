@@ -1,8 +1,8 @@
 ---
 title: ModuleReference
-permalink: Java/ModuleReference/
+permalink: /Java/ModuleReference//
 date: 2021-01-11
-key: JavaJava.M.ModuleReference
+key: Java.M.ModuleReference
 category: Java
 tags: ['java se']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MultipleDocumentHandling.SINGLE_DOCUMENT_NEW_SHEET
-permalink: Java/MultipleDocumentHandling/SINGLE_DOCUMENT_NEW_SHEET
+permalink: /Java/MultipleDocumentHandling/SINGLE_DOCUMENT_NEW_SHEET/
 date: 2021-01-11
-key: JavaJava.M.MultipleDocumentHandling
+key: Java.M.MultipleDocumentHandling
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

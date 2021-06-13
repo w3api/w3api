@@ -1,8 +1,8 @@
 ---
 title: MetalBorders
-permalink: Java/MetalBorders
+permalink: /Java/MetalBorders/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders
+key: Java.M.MetalBorders
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MethodExitRequest
-permalink: Java/MethodExitRequest
+permalink: /Java/MethodExitRequest/
 date: 2021-01-11
-key: JavaJava.M.MethodExitRequest
+key: Java.M.MethodExitRequest
 category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 

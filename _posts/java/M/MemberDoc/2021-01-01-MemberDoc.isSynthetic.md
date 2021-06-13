@@ -1,8 +1,8 @@
 ---
 title: MemberDoc.isSynthetic()
-permalink: Java/MemberDoc/isSynthetic
+permalink: /Java/MemberDoc/isSynthetic/
 date: 2021-01-11
-key: JavaJava.M.MemberDoc
+key: Java.M.MemberDoc
 category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.0']
 sidebar: 

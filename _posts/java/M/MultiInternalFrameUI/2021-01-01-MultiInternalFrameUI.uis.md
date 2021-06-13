@@ -1,8 +1,8 @@
 ---
 title: MultiInternalFrameUI.uis
-permalink: Java/MultiInternalFrameUI/uis
+permalink: /Java/MultiInternalFrameUI/uis/
 date: 2021-01-11
-key: JavaJava.M.MultiInternalFrameUI
+key: Java.M.MultiInternalFrameUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

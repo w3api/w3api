@@ -1,8 +1,8 @@
 ---
 title: MetalToolBarUI.rolloverListener
-permalink: Java/MetalToolBarUI/rolloverListener
+permalink: /Java/MetalToolBarUI/rolloverListener/
 date: 2021-01-11
-key: JavaJava.M.MetalToolBarUI
+key: Java.M.MetalToolBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

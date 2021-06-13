@@ -1,8 +1,8 @@
 ---
 title: MenuKeyListener
-permalink: Java/MenuKeyListener
+permalink: /Java/MenuKeyListener/
 date: 2021-01-11
-key: JavaJava.M.MenuKeyListener
+key: Java.M.MenuKeyListener
 category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

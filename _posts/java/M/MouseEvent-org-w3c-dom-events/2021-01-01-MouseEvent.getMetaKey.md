@@ -1,8 +1,8 @@
 ---
 title: MouseEvent.getMetaKey()
-permalink: Java/MouseEvent-org-w3c-dom-events/getMetaKey
+permalink: /Java/MouseEvent-org-w3c-dom-events/getMetaKey/
 date: 2021-01-11
-key: JavaJava.M.MouseEvent-org-w3c-dom-events
+key: Java.M.MouseEvent-org-w3c-dom-events
 category: Java
 tags: ['java se', 'org.w3c.dom.events', 'java.xml', 'metodo java', 'Java 1.5', 'DOM Level 2']
 sidebar: 

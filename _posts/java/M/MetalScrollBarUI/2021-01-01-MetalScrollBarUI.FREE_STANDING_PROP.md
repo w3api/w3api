@@ -1,8 +1,8 @@
 ---
 title: MetalScrollBarUI.FREE_STANDING_PROP
-permalink: Java/MetalScrollBarUI/FREE_STANDING_PROP
+permalink: /Java/MetalScrollBarUI/FREE_STANDING_PROP/
 date: 2021-01-11
-key: JavaJava.M.MetalScrollBarUI
+key: Java.M.MetalScrollBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

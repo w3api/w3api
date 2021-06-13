@@ -1,8 +1,8 @@
 ---
 title: MemoryCacheImageOutputStream
-permalink: Java/MemoryCacheImageOutputStream
+permalink: /Java/MemoryCacheImageOutputStream/
 date: 2021-01-11
-key: JavaJava.M.MemoryCacheImageOutputStream
+key: Java.M.MemoryCacheImageOutputStream
 category: Java
 tags: ['java se', 'javax.imageio.stream', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

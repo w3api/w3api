@@ -1,8 +1,8 @@
 ---
 title: MethodType
-permalink: Java/MethodType
+permalink: /Java/MethodType/
 date: 2021-01-11
-key: JavaJava.M.MethodType
+key: Java.M.MethodType
 category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 

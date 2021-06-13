@@ -1,8 +1,8 @@
 ---
 title: MetalProgressBarUI.createUI()
-permalink: Java/MetalProgressBarUI/createUI
+permalink: /Java/MetalProgressBarUI/createUI/
 date: 2021-01-11
-key: JavaJava.M.MetalProgressBarUI
+key: Java.M.MetalProgressBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

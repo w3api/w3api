@@ -1,8 +1,8 @@
 ---
 title: MultiScrollBarUI.uis
-permalink: Java/MultiScrollBarUI/uis
+permalink: /Java/MultiScrollBarUI/uis/
 date: 2021-01-11
-key: JavaJava.M.MultiScrollBarUI
+key: Java.M.MultiScrollBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

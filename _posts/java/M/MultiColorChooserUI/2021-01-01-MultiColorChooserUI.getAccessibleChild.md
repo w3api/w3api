@@ -1,8 +1,8 @@
 ---
 title: MultiColorChooserUI.getAccessibleChild()
-permalink: Java/MultiColorChooserUI/getAccessibleChild
+permalink: /Java/MultiColorChooserUI/getAccessibleChild/
 date: 2021-01-11
-key: JavaJava.M.MultiColorChooserUI
+key: Java.M.MultiColorChooserUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

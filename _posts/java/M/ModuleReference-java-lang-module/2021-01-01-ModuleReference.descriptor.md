@@ -1,8 +1,8 @@
 ---
 title: ModuleReference.descriptor()
-permalink: Java/ModuleReference-java-lang-module/descriptor
+permalink: /Java/ModuleReference-java-lang-module/descriptor/
 date: 2021-01-11
-key: JavaJava.M.ModuleReference-java-lang-module
+key: Java.M.ModuleReference-java-lang-module
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

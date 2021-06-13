@@ -1,8 +1,8 @@
 ---
 title: MetalLookAndFeel.getHighlightedTextColor()
-permalink: Java/MetalLookAndFeel/getHighlightedTextColor
+permalink: /Java/MetalLookAndFeel/getHighlightedTextColor/
 date: 2021-01-11
-key: JavaJava.M.MetalLookAndFeel
+key: Java.M.MetalLookAndFeel
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

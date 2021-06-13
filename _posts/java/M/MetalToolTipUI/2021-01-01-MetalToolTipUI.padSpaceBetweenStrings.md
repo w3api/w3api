@@ -1,8 +1,8 @@
 ---
 title: MetalToolTipUI.padSpaceBetweenStrings
-permalink: Java/MetalToolTipUI/padSpaceBetweenStrings
+permalink: /Java/MetalToolTipUI/padSpaceBetweenStrings/
 date: 2021-01-11
-key: JavaJava.M.MetalToolTipUI
+key: Java.M.MetalToolTipUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

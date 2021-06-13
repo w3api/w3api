@@ -1,8 +1,8 @@
 ---
 title: NameValuePairHelper
-permalink: Java/NameValuePairHelper-org-omg-DynamicAny
+permalink: /Java/NameValuePairHelper-org-omg-DynamicAny/
 date: 2021-01-11
-key: JavaJava.N.NameValuePairHelper-org-omg-DynamicAny
+key: Java.N.NameValuePairHelper-org-omg-DynamicAny
 category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

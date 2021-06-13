@@ -1,8 +1,8 @@
 ---
 title: MailcapCommandMap.addMailcap()
-permalink: Java/MailcapCommandMap/addMailcap
+permalink: /Java/MailcapCommandMap/addMailcap/
 date: 2021-01-11
-key: JavaJava.M.MailcapCommandMap
+key: Java.M.MailcapCommandMap
 category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'metodo java', 'Java 1.6']
 sidebar: 

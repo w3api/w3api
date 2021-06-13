@@ -1,8 +1,8 @@
 ---
 title: NamingEnumeration.next()
-permalink: Java/NamingEnumeration/next
+permalink: /Java/NamingEnumeration/next/
 date: 2021-01-11
-key: JavaJava.N.NamingEnumeration
+key: Java.N.NamingEnumeration
 category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 

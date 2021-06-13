@@ -1,8 +1,8 @@
 ---
 title: MetalToolBarUI.update()
-permalink: Java/MetalToolBarUI/update
+permalink: /Java/MetalToolBarUI/update/
 date: 2021-01-11
-key: JavaJava.M.MetalToolBarUI
+key: Java.M.MetalToolBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

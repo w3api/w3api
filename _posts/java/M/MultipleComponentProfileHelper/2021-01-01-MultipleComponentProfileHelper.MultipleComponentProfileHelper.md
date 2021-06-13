@@ -1,8 +1,8 @@
 ---
 title: MultipleComponentProfileHelper.MultipleComponentProfileHelper()
-permalink: Java/MultipleComponentProfileHelper/MultipleComponentProfileHelper
+permalink: /Java/MultipleComponentProfileHelper/MultipleComponentProfileHelper/
 date: 2021-01-11
-key: JavaJava.M.MultipleComponentProfileHelper
+key: Java.M.MultipleComponentProfileHelper
 category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

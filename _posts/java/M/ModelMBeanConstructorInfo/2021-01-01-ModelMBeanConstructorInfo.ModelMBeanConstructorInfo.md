@@ -1,8 +1,8 @@
 ---
 title: ModelMBeanConstructorInfo.ModelMBeanConstructorInfo()
-permalink: Java/ModelMBeanConstructorInfo/ModelMBeanConstructorInfo
+permalink: /Java/ModelMBeanConstructorInfo/ModelMBeanConstructorInfo/
 date: 2021-01-11
-key: JavaJava.M.ModelMBeanConstructorInfo
+key: Java.M.ModelMBeanConstructorInfo
 category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: NamedNodeMap.getLength()
-permalink: Java/NamedNodeMap/getLength
+permalink: /Java/NamedNodeMap/getLength/
 date: 2021-01-11
-key: JavaJava.N.NamedNodeMap
+key: Java.N.NamedNodeMap
 category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'metodo java', 'Java 1.0']
 sidebar: 

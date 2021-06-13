@@ -1,8 +1,8 @@
 ---
 title: MidiDeviceTransmitter
-permalink: Java/MidiDeviceTransmitter
+permalink: /Java/MidiDeviceTransmitter/
 date: 2021-01-11
-key: JavaJava.M.MidiDeviceTransmitter
+key: Java.M.MidiDeviceTransmitter
 category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'interface java', 'Java 1.7']
 sidebar: 

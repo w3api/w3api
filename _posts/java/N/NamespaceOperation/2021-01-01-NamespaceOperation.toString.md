@@ -1,8 +1,8 @@
 ---
 title: NamespaceOperation.toString()
-permalink: Java/NamespaceOperation/toString
+permalink: /Java/NamespaceOperation/toString/
 date: 2021-01-11
-key: JavaJava.N.NamespaceOperation
+key: Java.N.NamespaceOperation
 category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 

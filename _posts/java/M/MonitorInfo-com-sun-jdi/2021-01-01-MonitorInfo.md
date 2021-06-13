@@ -1,8 +1,8 @@
 ---
 title: MonitorInfo
-permalink: Java/MonitorInfo-com-sun-jdi
+permalink: /Java/MonitorInfo-com-sun-jdi/
 date: 2021-01-11
-key: JavaJava.M.MonitorInfo-com-sun-jdi
+key: Java.M.MonitorInfo-com-sun-jdi
 category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'interface java', 'Java 1.6']
 sidebar: 

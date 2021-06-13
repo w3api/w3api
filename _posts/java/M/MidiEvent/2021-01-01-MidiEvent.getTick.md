@@ -1,8 +1,8 @@
 ---
 title: MidiEvent.getTick()
-permalink: Java/MidiEvent/getTick
+permalink: /Java/MidiEvent/getTick/
 date: 2021-01-11
-key: JavaJava.M.MidiEvent
+key: Java.M.MidiEvent
 category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

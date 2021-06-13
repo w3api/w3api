@@ -1,9 +1,9 @@
 ---
 title: LongBinding.getDependencies()
-permalink: Java/LongBinding/getDependencies
+permalink: /Java/LongBinding/getDependencies/
 date: 2021-01-11
 key: Java.L.LongBinding
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

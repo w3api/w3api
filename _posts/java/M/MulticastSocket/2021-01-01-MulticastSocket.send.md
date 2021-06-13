@@ -1,8 +1,8 @@
 ---
 title: MulticastSocket.send()
-permalink: Java/MulticastSocket/send
+permalink: /Java/MulticastSocket/send/
 date: 2021-01-11
-key: JavaJava.M.MulticastSocket
+key: Java.M.MulticastSocket
 category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

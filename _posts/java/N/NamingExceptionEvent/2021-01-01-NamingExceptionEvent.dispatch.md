@@ -1,8 +1,8 @@
 ---
 title: NamingExceptionEvent.dispatch()
-permalink: Java/NamingExceptionEvent/dispatch
+permalink: /Java/NamingExceptionEvent/dispatch/
 date: 2021-01-11
-key: JavaJava.N.NamingExceptionEvent
+key: Java.N.NamingExceptionEvent
 category: Java
 tags: ['java se', 'javax.naming.event', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 

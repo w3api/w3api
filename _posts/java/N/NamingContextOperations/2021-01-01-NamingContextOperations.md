@@ -1,8 +1,8 @@
 ---
 title: NamingContextOperations
-permalink: Java/NamingContextOperations
+permalink: /Java/NamingContextOperations/
 date: 2021-01-11
-key: JavaJava.N.NamingContextOperations
+key: Java.N.NamingContextOperations
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

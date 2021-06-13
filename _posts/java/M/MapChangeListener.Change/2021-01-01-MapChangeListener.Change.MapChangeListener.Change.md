@@ -1,8 +1,8 @@
 ---
 title: MapChangeListener.Change.MapChangeListener.Change()
-permalink: Java/MapChangeListener/Change/MapChangeListener/Change
+permalink: /Java/MapChangeListener/Change/MapChangeListener/Change/
 date: 2021-01-11
-key: JavaJava.M.MapChangeListener.Change
+key: Java.M.MapChangeListener.Change
 category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

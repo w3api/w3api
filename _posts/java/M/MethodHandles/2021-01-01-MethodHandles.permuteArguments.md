@@ -1,8 +1,8 @@
 ---
 title: MethodHandles.permuteArguments()
-permalink: Java/MethodHandles/permuteArguments
+permalink: /Java/MethodHandles/permuteArguments/
 date: 2021-01-11
-key: JavaJava.M.MethodHandles
+key: Java.M.MethodHandles
 category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

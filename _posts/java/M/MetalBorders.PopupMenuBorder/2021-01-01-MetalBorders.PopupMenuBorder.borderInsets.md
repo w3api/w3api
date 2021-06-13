@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.PopupMenuBorder.borderInsets
-permalink: Java/MetalBorders/PopupMenuBorder/borderInsets
+permalink: /Java/MetalBorders/PopupMenuBorder/borderInsets/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.PopupMenuBorder
+key: Java.M.MetalBorders.PopupMenuBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MetalSplitPaneUI
-permalink: Java/MetalSplitPaneUI
+permalink: /Java/MetalSplitPaneUI/
 date: 2021-01-11
-key: JavaJava.M.MetalSplitPaneUI
+key: Java.M.MetalSplitPaneUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

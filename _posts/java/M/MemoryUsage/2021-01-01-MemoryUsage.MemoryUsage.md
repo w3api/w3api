@@ -1,8 +1,8 @@
 ---
 title: MemoryUsage.MemoryUsage()
-permalink: Java/MemoryUsage/MemoryUsage
+permalink: /Java/MemoryUsage/MemoryUsage/
 date: 2021-01-11
-key: JavaJava.M.MemoryUsage
+key: Java.M.MemoryUsage
 category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

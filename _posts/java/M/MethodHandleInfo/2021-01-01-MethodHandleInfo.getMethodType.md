@@ -1,8 +1,8 @@
 ---
 title: MethodHandleInfo.getMethodType()
-permalink: Java/MethodHandleInfo/getMethodType
+permalink: /Java/MethodHandleInfo/getMethodType/
 date: 2021-01-11
-key: JavaJava.M.MethodHandleInfo
+key: Java.M.MethodHandleInfo
 category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

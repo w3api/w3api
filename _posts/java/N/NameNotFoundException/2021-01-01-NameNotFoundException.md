@@ -1,8 +1,8 @@
 ---
 title: NameNotFoundException
-permalink: Java/NameNotFoundException
+permalink: /Java/NameNotFoundException/
 date: 2021-01-11
-key: JavaJava.N.NameNotFoundException
+key: Java.N.NameNotFoundException
 category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 

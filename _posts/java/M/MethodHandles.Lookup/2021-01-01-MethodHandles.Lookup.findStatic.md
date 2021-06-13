@@ -1,8 +1,8 @@
 ---
 title: MethodHandles.Lookup.findStatic()
-permalink: Java/MethodHandles/Lookup/findStatic
+permalink: /Java/MethodHandles/Lookup/findStatic/
 date: 2021-01-11
-key: JavaJava.M.MethodHandles.Lookup
+key: Java.M.MethodHandles.Lookup
 category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MonitorInfo
-permalink: Java/MonitorInfo-java-lang-management
+permalink: /Java/MonitorInfo-java-lang-management/
 date: 2021-01-11
-key: JavaJava.M.MonitorInfo-java-lang-management
+key: Java.M.MonitorInfo-java-lang-management
 category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'clase java', 'Java 1.6']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MetalTreeUI.createUI()
-permalink: Java/MetalTreeUI/createUI
+permalink: /Java/MetalTreeUI/createUI/
 date: 2021-01-11
-key: JavaJava.M.MetalTreeUI
+key: Java.M.MetalTreeUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

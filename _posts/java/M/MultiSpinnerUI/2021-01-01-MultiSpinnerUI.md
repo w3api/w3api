@@ -1,8 +1,8 @@
 ---
 title: MultiSpinnerUI
-permalink: Java/MultiSpinnerUI
+permalink: /Java/MultiSpinnerUI/
 date: 2021-01-11
-key: JavaJava.M.MultiSpinnerUI
+key: Java.M.MultiSpinnerUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 

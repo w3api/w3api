@@ -1,8 +1,8 @@
 ---
 title: MetalComboBoxEditor.UIResource
-permalink: Java/MetalComboBoxEditor/UIResource
+permalink: /Java/MetalComboBoxEditor/UIResource/
 date: 2021-01-11
-key: JavaJava.M.MetalComboBoxEditor.UIResource
+key: Java.M.MetalComboBoxEditor.UIResource
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

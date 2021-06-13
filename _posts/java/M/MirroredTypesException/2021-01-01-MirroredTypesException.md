@@ -1,8 +1,8 @@
 ---
 title: MirroredTypesException
-permalink: Java/MirroredTypesException
+permalink: /Java/MirroredTypesException/
 date: 2021-01-11
-key: JavaJava.M.MirroredTypesException
+key: Java.M.MirroredTypesException
 category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'clase java', 'Java 1.6']
 sidebar: 

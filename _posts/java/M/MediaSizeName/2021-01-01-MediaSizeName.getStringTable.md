@@ -1,8 +1,8 @@
 ---
 title: MediaSizeName.getStringTable()
-permalink: Java/MediaSizeName/getStringTable
+permalink: /Java/MediaSizeName/getStringTable/
 date: 2021-01-11
-key: JavaJava.M.MediaSizeName
+key: Java.M.MediaSizeName
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MetalLabelUI.metalLabelUI
-permalink: Java/MetalLabelUI/metalLabelUI
+permalink: /Java/MetalLabelUI/metalLabelUI/
 date: 2021-01-11
-key: JavaJava.M.MetalLabelUI
+key: Java.M.MetalLabelUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

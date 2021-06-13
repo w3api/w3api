@@ -1,8 +1,8 @@
 ---
 title: MappedByteBuffer.force()
-permalink: Java/MappedByteBuffer/force
+permalink: /Java/MappedByteBuffer/force/
 date: 2021-01-11
-key: JavaJava.M.MappedByteBuffer
+key: Java.M.MappedByteBuffer
 category: Java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

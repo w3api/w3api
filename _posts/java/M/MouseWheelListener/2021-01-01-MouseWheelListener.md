@@ -1,8 +1,8 @@
 ---
 title: MouseWheelListener
-permalink: Java/MouseWheelListener
+permalink: /Java/MouseWheelListener/
 date: 2021-01-11
-key: JavaJava.M.MouseWheelListener
+key: Java.M.MouseWheelListener
 category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'interface java', 'Java 1.4']
 sidebar: 

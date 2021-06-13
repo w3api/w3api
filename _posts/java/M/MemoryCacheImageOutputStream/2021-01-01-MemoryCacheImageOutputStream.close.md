@@ -1,8 +1,8 @@
 ---
 title: MemoryCacheImageOutputStream.close()
-permalink: Java/MemoryCacheImageOutputStream/close
+permalink: /Java/MemoryCacheImageOutputStream/close/
 date: 2021-01-11
-key: JavaJava.M.MemoryCacheImageOutputStream
+key: Java.M.MemoryCacheImageOutputStream
 category: Java
 tags: ['java se', 'javax.imageio.stream', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

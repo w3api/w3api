@@ -1,8 +1,8 @@
 ---
 title: MimeTypeParseException
-permalink: Java/MimeTypeParseException/
+permalink: /Java/MimeTypeParseException//
 date: 2021-01-11
-key: JavaJava.M.MimeTypeParseException
+key: Java.M.MimeTypeParseException
 category: Java
 tags: ['java se']
 sidebar: 

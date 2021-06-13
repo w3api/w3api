@@ -1,8 +1,8 @@
 ---
 title: MonitorContendedEnterEvent.monitor()
-permalink: Java/MonitorContendedEnterEvent/monitor
+permalink: /Java/MonitorContendedEnterEvent/monitor/
 date: 2021-01-11
-key: JavaJava.M.MonitorContendedEnterEvent
+key: Java.M.MonitorContendedEnterEvent
 category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'metodo java', 'Java 1.6']
 sidebar: 

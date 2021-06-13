@@ -1,8 +1,8 @@
 ---
 title: MultiLookAndFeel
-permalink: Java/MultiLookAndFeel
+permalink: /Java/MultiLookAndFeel/
 date: 2021-01-11
-key: JavaJava.M.MultiLookAndFeel
+key: Java.M.MultiLookAndFeel
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

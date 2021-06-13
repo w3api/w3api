@@ -1,8 +1,8 @@
 ---
 title: MultiInternalFrameUI.getMinimumSize()
-permalink: Java/MultiInternalFrameUI/getMinimumSize
+permalink: /Java/MultiInternalFrameUI/getMinimumSize/
 date: 2021-01-11
-key: JavaJava.M.MultiInternalFrameUI
+key: Java.M.MultiInternalFrameUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

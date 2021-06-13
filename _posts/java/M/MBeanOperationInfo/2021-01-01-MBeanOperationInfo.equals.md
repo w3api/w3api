@@ -1,8 +1,8 @@
 ---
 title: MBeanOperationInfo.equals()
-permalink: Java/MBeanOperationInfo/equals
+permalink: /Java/MBeanOperationInfo/equals/
 date: 2021-01-11
-key: JavaJava.M.MBeanOperationInfo
+key: Java.M.MBeanOperationInfo
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: NameDynAnyPairSeqHelper.type()
-permalink: Java/NameDynAnyPairSeqHelper/type
+permalink: /Java/NameDynAnyPairSeqHelper/type/
 date: 2021-01-11
-key: JavaJava.N.NameDynAnyPairSeqHelper
+key: Java.N.NameDynAnyPairSeqHelper
 category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

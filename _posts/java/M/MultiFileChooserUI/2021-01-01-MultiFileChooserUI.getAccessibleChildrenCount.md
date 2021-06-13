@@ -1,8 +1,8 @@
 ---
 title: MultiFileChooserUI.getAccessibleChildrenCount()
-permalink: Java/MultiFileChooserUI/getAccessibleChildrenCount
+permalink: /Java/MultiFileChooserUI/getAccessibleChildrenCount/
 date: 2021-01-11
-key: JavaJava.M.MultiFileChooserUI
+key: Java.M.MultiFileChooserUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

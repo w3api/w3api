@@ -1,8 +1,8 @@
 ---
 title: MemoryType.values()
-permalink: Java/MemoryType/values
+permalink: /Java/MemoryType/values/
 date: 2021-01-11
-key: JavaJava.M.MemoryType
+key: Java.M.MemoryType
 category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MouseEvent.isPrimaryButtonDown()
-permalink: Java/MouseEvent-javafx-scene-input/isPrimaryButtonDown
+permalink: /Java/MouseEvent-javafx-scene-input/isPrimaryButtonDown/
 date: 2021-01-11
-key: JavaJava.M.MouseEvent-javafx-scene-input
+key: Java.M.MouseEvent-javafx-scene-input
 category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

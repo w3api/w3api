@@ -1,8 +1,8 @@
 ---
 title: MBeanRegistration
-permalink: Java/MBeanRegistration
+permalink: /Java/MBeanRegistration/
 date: 2021-01-11
-key: JavaJava.M.MBeanRegistration
+key: Java.M.MBeanRegistration
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 

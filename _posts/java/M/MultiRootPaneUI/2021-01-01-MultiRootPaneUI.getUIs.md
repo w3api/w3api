@@ -1,8 +1,8 @@
 ---
 title: MultiRootPaneUI.getUIs()
-permalink: Java/MultiRootPaneUI/getUIs
+permalink: /Java/MultiRootPaneUI/getUIs/
 date: 2021-01-11
-key: JavaJava.M.MultiRootPaneUI
+key: Java.M.MultiRootPaneUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 

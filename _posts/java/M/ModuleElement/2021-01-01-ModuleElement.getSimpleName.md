@@ -1,8 +1,8 @@
 ---
 title: ModuleElement.getSimpleName()
-permalink: Java/ModuleElement/getSimpleName
+permalink: /Java/ModuleElement/getSimpleName/
 date: 2021-01-11
-key: JavaJava.M.ModuleElement
+key: Java.M.ModuleElement
 category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 9']
 sidebar: 

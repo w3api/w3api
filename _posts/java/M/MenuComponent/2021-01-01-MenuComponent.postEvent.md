@@ -1,8 +1,8 @@
 ---
 title: MenuComponent.postEvent()
-permalink: Java/MenuComponent/postEvent
+permalink: /Java/MenuComponent/postEvent/
 date: 2021-01-11
-key: JavaJava.M.MenuComponent
+key: Java.M.MenuComponent
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

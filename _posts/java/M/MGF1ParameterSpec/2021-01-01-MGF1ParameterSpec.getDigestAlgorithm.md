@@ -1,8 +1,8 @@
 ---
 title: MGF1ParameterSpec.getDigestAlgorithm()
-permalink: Java/MGF1ParameterSpec/getDigestAlgorithm
+permalink: /Java/MGF1ParameterSpec/getDigestAlgorithm/
 date: 2021-01-11
-key: JavaJava.M.MGF1ParameterSpec
+key: Java.M.MGF1ParameterSpec
 category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

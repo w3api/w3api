@@ -1,8 +1,8 @@
 ---
 title: NameDynAnyPair.NameDynAnyPair()
-permalink: Java/NameDynAnyPair/NameDynAnyPair
+permalink: /Java/NameDynAnyPair/NameDynAnyPair/
 date: 2021-01-11
-key: JavaJava.N.NameDynAnyPair
+key: Java.N.NameDynAnyPair
 category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

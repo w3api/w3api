@@ -1,8 +1,8 @@
 ---
 title: ModuleElement.DirectiveKind.REQUIRES
-permalink: Java/ModuleElement/DirectiveKind/REQUIRES
+permalink: /Java/ModuleElement/DirectiveKind/REQUIRES/
 date: 2021-01-11
-key: JavaJava.M.ModuleElement.DirectiveKind
+key: Java.M.ModuleElement.DirectiveKind
 category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'campo java', 'Java 9']
 sidebar: 

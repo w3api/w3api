@@ -1,9 +1,9 @@
 ---
 title: LongPropertyBase.invalidated()
-permalink: Java/LongPropertyBase/invalidated
+permalink: /Java/LongPropertyBase/invalidated/
 date: 2021-01-11
 key: Java.L.LongPropertyBase
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: LoadListener.readLanguageProcessingInstruction()
 permalink: /Java/LoadListener/readLanguageProcessingInstruction/
 date: 2021-01-11
 key: Java.L.LoadListener
-category: java
+category: Java
 tags: ['java se', 'javafx.fxml', 'javafx.fxml', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

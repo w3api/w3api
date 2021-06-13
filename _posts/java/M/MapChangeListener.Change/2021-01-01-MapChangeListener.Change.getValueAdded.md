@@ -1,8 +1,8 @@
 ---
 title: MapChangeListener.Change.getValueAdded()
-permalink: Java/MapChangeListener/Change/getValueAdded
+permalink: /Java/MapChangeListener/Change/getValueAdded/
 date: 2021-01-11
-key: JavaJava.M.MapChangeListener.Change
+key: Java.M.MapChangeListener.Change
 category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

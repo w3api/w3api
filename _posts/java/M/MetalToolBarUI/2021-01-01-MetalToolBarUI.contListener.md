@@ -1,8 +1,8 @@
 ---
 title: MetalToolBarUI.contListener
-permalink: Java/MetalToolBarUI/contListener
+permalink: /Java/MetalToolBarUI/contListener/
 date: 2021-01-11
-key: JavaJava.M.MetalToolBarUI
+key: Java.M.MetalToolBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

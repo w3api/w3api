@@ -1,8 +1,8 @@
 ---
 title: MLetContent.getVersion()
-permalink: Java/MLetContent/getVersion
+permalink: /Java/MLetContent/getVersion/
 date: 2021-01-11
-key: JavaJava.M.MLetContent
+key: Java.M.MLetContent
 category: Java
 tags: ['java se', 'javax.management.loading', 'java.management', 'metodo java', 'Java 1.6']
 sidebar: 

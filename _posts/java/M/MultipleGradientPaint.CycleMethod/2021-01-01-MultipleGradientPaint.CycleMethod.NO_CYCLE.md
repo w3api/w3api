@@ -1,8 +1,8 @@
 ---
 title: MultipleGradientPaint.CycleMethod.NO_CYCLE
-permalink: Java/MultipleGradientPaint/CycleMethod/NO_CYCLE
+permalink: /Java/MultipleGradientPaint/CycleMethod/NO_CYCLE/
 date: 2021-01-11
-key: JavaJava.M.MultipleGradientPaint.CycleMethod
+key: Java.M.MultipleGradientPaint.CycleMethod
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.6']
 sidebar: 

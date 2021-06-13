@@ -1,8 +1,8 @@
 ---
 title: MonitorWaitEvent
-permalink: Java/MonitorWaitEvent
+permalink: /Java/MonitorWaitEvent/
 date: 2021-01-11
-key: JavaJava.M.MonitorWaitEvent
+key: Java.M.MonitorWaitEvent
 category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'interface java', 'Java 1.6']
 sidebar: 

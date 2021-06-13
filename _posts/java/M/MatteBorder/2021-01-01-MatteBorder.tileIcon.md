@@ -1,8 +1,8 @@
 ---
 title: MatteBorder.tileIcon
-permalink: Java/MatteBorder/tileIcon
+permalink: /Java/MatteBorder/tileIcon/
 date: 2021-01-11
-key: JavaJava.M.MatteBorder
+key: Java.M.MatteBorder
 category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

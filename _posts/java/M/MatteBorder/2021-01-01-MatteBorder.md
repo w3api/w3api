@@ -1,8 +1,8 @@
 ---
 title: MatteBorder
-permalink: Java/MatteBorder
+permalink: /Java/MatteBorder/
 date: 2021-01-11
-key: JavaJava.M.MatteBorder
+key: Java.M.MatteBorder
 category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

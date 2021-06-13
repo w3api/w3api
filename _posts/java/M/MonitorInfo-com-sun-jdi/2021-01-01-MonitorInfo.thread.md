@@ -1,8 +1,8 @@
 ---
 title: MonitorInfo.thread()
-permalink: Java/MonitorInfo-com-sun-jdi/thread
+permalink: /Java/MonitorInfo-com-sun-jdi/thread/
 date: 2021-01-11
-key: JavaJava.M.MonitorInfo-com-sun-jdi
+key: Java.M.MonitorInfo-com-sun-jdi
 category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.6']
 sidebar: 

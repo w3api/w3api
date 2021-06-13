@@ -1,8 +1,8 @@
 ---
 title: ModuleReference.ModuleReference()
-permalink: Java/ModuleReference-java-lang-module/ModuleReference
+permalink: /Java/ModuleReference-java-lang-module/ModuleReference/
 date: 2021-01-11
-key: JavaJava.M.ModuleReference-java-lang-module
+key: Java.M.ModuleReference-java-lang-module
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

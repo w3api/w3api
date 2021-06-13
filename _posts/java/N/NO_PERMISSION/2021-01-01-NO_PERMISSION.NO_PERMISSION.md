@@ -1,8 +1,8 @@
 ---
 title: NO_PERMISSION.NO_PERMISSION()
-permalink: Java/NO_PERMISSION/NO_PERMISSION
+permalink: /Java/NO_PERMISSION/NO_PERMISSION/
 date: 2021-01-11
-key: JavaJava.N.NO_PERMISSION
+key: Java.N.NO_PERMISSION
 category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 

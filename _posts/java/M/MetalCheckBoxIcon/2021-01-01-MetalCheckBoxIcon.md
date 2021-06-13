@@ -1,8 +1,8 @@
 ---
 title: MetalCheckBoxIcon
-permalink: Java/MetalCheckBoxIcon
+permalink: /Java/MetalCheckBoxIcon/
 date: 2021-01-11
-key: JavaJava.M.MetalCheckBoxIcon
+key: Java.M.MetalCheckBoxIcon
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

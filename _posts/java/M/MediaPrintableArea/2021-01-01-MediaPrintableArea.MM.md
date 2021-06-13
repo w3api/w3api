@@ -1,8 +1,8 @@
 ---
 title: MediaPrintableArea.MM
-permalink: Java/MediaPrintableArea/MM
+permalink: /Java/MediaPrintableArea/MM/
 date: 2021-01-11
-key: JavaJava.M.MediaPrintableArea
+key: Java.M.MediaPrintableArea
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

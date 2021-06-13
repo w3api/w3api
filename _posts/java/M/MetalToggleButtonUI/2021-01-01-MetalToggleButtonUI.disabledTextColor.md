@@ -1,8 +1,8 @@
 ---
 title: MetalToggleButtonUI.disabledTextColor
-permalink: Java/MetalToggleButtonUI/disabledTextColor
+permalink: /Java/MetalToggleButtonUI/disabledTextColor/
 date: 2021-01-11
-key: JavaJava.M.MetalToggleButtonUI
+key: Java.M.MetalToggleButtonUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

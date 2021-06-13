@@ -1,8 +1,8 @@
 ---
 title: MimeTypeParameterList
-permalink: Java/MimeTypeParameterList
+permalink: /Java/MimeTypeParameterList/
 date: 2021-01-11
-key: JavaJava.M.MimeTypeParameterList
+key: Java.M.MimeTypeParameterList
 category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'clase java', 'Java 1.6']
 sidebar: 

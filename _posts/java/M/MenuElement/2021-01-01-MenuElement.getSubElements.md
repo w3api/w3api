@@ -1,8 +1,8 @@
 ---
 title: MenuElement.getSubElements()
-permalink: Java/MenuElement/getSubElements
+permalink: /Java/MenuElement/getSubElements/
 date: 2021-01-11
-key: JavaJava.M.MenuElement
+key: Java.M.MenuElement
 category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

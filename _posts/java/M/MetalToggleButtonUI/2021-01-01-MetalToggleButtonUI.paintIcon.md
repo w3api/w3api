@@ -1,8 +1,8 @@
 ---
 title: MetalToggleButtonUI.paintIcon()
-permalink: Java/MetalToggleButtonUI/paintIcon
+permalink: /Java/MetalToggleButtonUI/paintIcon/
 date: 2021-01-11
-key: JavaJava.M.MetalToggleButtonUI
+key: Java.M.MetalToggleButtonUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

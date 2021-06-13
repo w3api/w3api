@@ -1,8 +1,8 @@
 ---
 title: MemoryNotificationInfo.getPoolName()
-permalink: Java/MemoryNotificationInfo/getPoolName
+permalink: /Java/MemoryNotificationInfo/getPoolName/
 date: 2021-01-11
-key: JavaJava.M.MemoryNotificationInfo
+key: Java.M.MemoryNotificationInfo
 category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

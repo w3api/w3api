@@ -1,8 +1,8 @@
 ---
 title: ModifiersTree
-permalink: Java/ModifiersTree
+permalink: /Java/ModifiersTree/
 date: 2021-01-11
-key: JavaJava.M.ModifiersTree
+key: Java.M.ModifiersTree
 category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 

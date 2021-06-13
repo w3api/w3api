@@ -1,8 +1,8 @@
 ---
 title: MetalCheckBoxIcon.getControlSize()
-permalink: Java/MetalCheckBoxIcon/getControlSize
+permalink: /Java/MetalCheckBoxIcon/getControlSize/
 date: 2021-01-11
-key: JavaJava.M.MetalCheckBoxIcon
+key: Java.M.MetalCheckBoxIcon
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

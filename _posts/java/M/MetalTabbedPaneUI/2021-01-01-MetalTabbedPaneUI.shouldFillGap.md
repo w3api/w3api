@@ -1,8 +1,8 @@
 ---
 title: MetalTabbedPaneUI.shouldFillGap()
-permalink: Java/MetalTabbedPaneUI/shouldFillGap
+permalink: /Java/MetalTabbedPaneUI/shouldFillGap/
 date: 2021-01-11
-key: JavaJava.M.MetalTabbedPaneUI
+key: Java.M.MetalTabbedPaneUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: NamespaceSupport
-permalink: Java/NamespaceSupport
+permalink: /Java/NamespaceSupport/
 date: 2021-01-11
-key: JavaJava.N.NamespaceSupport
+key: Java.N.NamespaceSupport
 category: Java
 tags: ['java se', 'org.xml.sax.helpers', 'java.xml', 'clase java', 'Java 1.4', 'SAX 2.0']
 sidebar: 

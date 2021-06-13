@@ -1,8 +1,8 @@
 ---
 title: MBeanServerDelegate.DELEGATE_NAME
-permalink: Java/MBeanServerDelegate/DELEGATE_NAME
+permalink: /Java/MBeanServerDelegate/DELEGATE_NAME/
 date: 2021-01-11
-key: JavaJava.M.MBeanServerDelegate
+key: Java.M.MBeanServerDelegate
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 

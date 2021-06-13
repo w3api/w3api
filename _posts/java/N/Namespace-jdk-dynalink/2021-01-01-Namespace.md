@@ -1,8 +1,8 @@
 ---
 title: Namespace
-permalink: Java/Namespace-jdk-dynalink
+permalink: /Java/Namespace-jdk-dynalink/
 date: 2021-01-11
-key: JavaJava.N.Namespace-jdk-dynalink
+key: Java.N.Namespace-jdk-dynalink
 category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'interface java', 'Java 1.0']
 sidebar: 

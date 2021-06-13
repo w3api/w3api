@@ -1,8 +1,8 @@
 ---
 title: NashornException.getScriptFrames()
-permalink: Java/NashornException/getScriptFrames
+permalink: /Java/NashornException/getScriptFrames/
 date: 2021-01-11
-key: JavaJava.N.NashornException
+key: Java.N.NashornException
 category: Java
 tags: ['java se', 'jdk.nashorn.api.scripting', 'jdk.scripting.nashorn', 'metodo java', 'Java 1.8']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MirroredTypesException.getTypeMirrors()
-permalink: Java/MirroredTypesException/getTypeMirrors
+permalink: /Java/MirroredTypesException/getTypeMirrors/
 date: 2021-01-11
-key: JavaJava.M.MirroredTypesException
+key: Java.M.MirroredTypesException
 category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

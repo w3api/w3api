@@ -1,9 +1,9 @@
 ---
 title: LoaderDelegate
-permalink: Java/LoaderDelegate
+permalink: /Java/LoaderDelegate/
 date: 2021-01-11
 key: Java.L.LoaderDelegate
-category: java
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'interface java', 'Java 9']
 sidebar: 
   nav: java

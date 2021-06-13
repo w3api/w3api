@@ -1,8 +1,8 @@
 ---
 title: NamingSecurityException
-permalink: Java/NamingSecurityException
+permalink: /Java/NamingSecurityException/
 date: 2021-01-11
-key: JavaJava.N.NamingSecurityException
+key: Java.N.NamingSecurityException
 category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 

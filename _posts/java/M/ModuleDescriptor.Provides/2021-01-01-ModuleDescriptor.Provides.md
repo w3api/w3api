@@ -1,8 +1,8 @@
 ---
 title: ModuleDescriptor.Provides
-permalink: Java/ModuleDescriptor/Provides
+permalink: /Java/ModuleDescriptor/Provides/
 date: 2021-01-11
-key: JavaJava.M.ModuleDescriptor.Provides
+key: Java.M.ModuleDescriptor.Provides
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'clase java', 'Java 9']
 sidebar: 

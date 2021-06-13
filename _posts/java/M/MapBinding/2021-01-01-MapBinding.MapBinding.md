@@ -1,8 +1,8 @@
 ---
 title: MapBinding.MapBinding()
-permalink: Java/MapBinding/MapBinding
+permalink: /Java/MapBinding/MapBinding/
 date: 2021-01-11
-key: JavaJava.M.MapBinding
+key: Java.M.MapBinding
 category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

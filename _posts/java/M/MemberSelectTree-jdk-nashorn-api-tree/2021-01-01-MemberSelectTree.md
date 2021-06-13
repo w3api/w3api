@@ -1,8 +1,8 @@
 ---
 title: MemberSelectTree
-permalink: Java/MemberSelectTree-jdk-nashorn-api-tree
+permalink: /Java/MemberSelectTree-jdk-nashorn-api-tree/
 date: 2021-01-11
-key: JavaJava.M.MemberSelectTree-jdk-nashorn-api-tree
+key: Java.M.MemberSelectTree-jdk-nashorn-api-tree
 category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 9']
 sidebar: 

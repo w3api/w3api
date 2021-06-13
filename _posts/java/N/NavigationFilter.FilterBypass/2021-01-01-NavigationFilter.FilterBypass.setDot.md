@@ -1,8 +1,8 @@
 ---
 title: NavigationFilter.FilterBypass.setDot()
-permalink: Java/NavigationFilter/FilterBypass/setDot
+permalink: /Java/NavigationFilter/FilterBypass/setDot/
 date: 2021-01-11
-key: JavaJava.N.NavigationFilter.FilterBypass
+key: Java.N.NavigationFilter.FilterBypass
 category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 

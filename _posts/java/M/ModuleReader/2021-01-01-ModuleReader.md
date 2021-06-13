@@ -1,8 +1,8 @@
 ---
 title: ModuleReader
-permalink: Java/ModuleReader
+permalink: /Java/ModuleReader/
 date: 2021-01-11
-key: JavaJava.M.ModuleReader
+key: Java.M.ModuleReader
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'interface java', 'Java 9']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ModuleTree.getLocalExportEntries()
-permalink: Java/ModuleTree-jdk-nashorn-api-tree/getLocalExportEntries
+permalink: /Java/ModuleTree-jdk-nashorn-api-tree/getLocalExportEntries/
 date: 2021-01-11
-key: JavaJava.M.ModuleTree-jdk-nashorn-api-tree
+key: Java.M.ModuleTree-jdk-nashorn-api-tree
 category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 1.0']
 sidebar: 

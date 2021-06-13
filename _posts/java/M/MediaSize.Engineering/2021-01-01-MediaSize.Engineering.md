@@ -1,8 +1,8 @@
 ---
 title: MediaSize.Engineering
-permalink: Java/MediaSize/Engineering
+permalink: /Java/MediaSize/Engineering/
 date: 2021-01-11
-key: JavaJava.M.MediaSize.Engineering
+key: Java.M.MediaSize.Engineering
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

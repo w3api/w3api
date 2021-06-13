@@ -1,8 +1,8 @@
 ---
 title: NavigableSet
-permalink: Java/NavigableSet
+permalink: /Java/NavigableSet/
 date: 2021-01-11
-key: JavaJava.N.NavigableSet
+key: Java.N.NavigableSet
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 1.6']
 sidebar: 

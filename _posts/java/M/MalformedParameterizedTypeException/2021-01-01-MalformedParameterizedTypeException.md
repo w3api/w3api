@@ -1,8 +1,8 @@
 ---
 title: MalformedParameterizedTypeException
-permalink: Java/MalformedParameterizedTypeException
+permalink: /Java/MalformedParameterizedTypeException/
 date: 2021-01-11
-key: JavaJava.M.MalformedParameterizedTypeException
+key: Java.M.MalformedParameterizedTypeException
 category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 

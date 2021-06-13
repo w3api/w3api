@@ -3,7 +3,7 @@ title: Locator2Impl.setEncoding()
 permalink: /Java/Locator2Impl/setEncoding/
 date: 2021-01-11
 key: Java.L.Locator2Impl
-category: java
+category: Java
 tags: ['java se', 'org.xml.sax.ext', 'java.xml', 'metodo java', 'Java 1.5', 'SAX 2.0.2']
 sidebar: 
   nav: java

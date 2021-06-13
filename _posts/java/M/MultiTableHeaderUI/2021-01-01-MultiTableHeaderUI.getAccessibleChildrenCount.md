@@ -1,8 +1,8 @@
 ---
 title: MultiTableHeaderUI.getAccessibleChildrenCount()
-permalink: Java/MultiTableHeaderUI/getAccessibleChildrenCount
+permalink: /Java/MultiTableHeaderUI/getAccessibleChildrenCount/
 date: 2021-01-11
-key: JavaJava.M.MultiTableHeaderUI
+key: Java.M.MultiTableHeaderUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

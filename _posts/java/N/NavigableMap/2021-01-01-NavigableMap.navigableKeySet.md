@@ -1,8 +1,8 @@
 ---
 title: NavigableMap.navigableKeySet()
-permalink: Java/NavigableMap/navigableKeySet
+permalink: /Java/NavigableMap/navigableKeySet/
 date: 2021-01-11
-key: JavaJava.N.NavigableMap
+key: Java.N.NavigableMap
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 

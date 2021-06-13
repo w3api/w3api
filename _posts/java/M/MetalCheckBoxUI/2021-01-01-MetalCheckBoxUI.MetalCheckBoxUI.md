@@ -1,8 +1,8 @@
 ---
 title: MetalCheckBoxUI.MetalCheckBoxUI()
-permalink: Java/MetalCheckBoxUI/MetalCheckBoxUI
+permalink: /Java/MetalCheckBoxUI/MetalCheckBoxUI/
 date: 2021-01-11
-key: JavaJava.M.MetalCheckBoxUI
+key: Java.M.MetalCheckBoxUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

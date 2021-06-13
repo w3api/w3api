@@ -1,8 +1,8 @@
 ---
 title: MediaName.NA_LETTER_WHITE
-permalink: Java/MediaName/NA_LETTER_WHITE
+permalink: /Java/MediaName/NA_LETTER_WHITE/
 date: 2021-01-11
-key: JavaJava.M.MediaName
+key: Java.M.MediaName
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

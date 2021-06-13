@@ -1,8 +1,8 @@
 ---
 title: MutationEvent.REMOVAL
-permalink: Java/MutationEvent/REMOVAL
+permalink: /Java/MutationEvent/REMOVAL/
 date: 2021-01-11
-key: JavaJava.M.MutationEvent
+key: Java.M.MutationEvent
 category: Java
 tags: ['java se', 'org.w3c.dom.events', 'java.xml', 'campo java', 'Java 1.5', 'DOM Level 2']
 sidebar: 

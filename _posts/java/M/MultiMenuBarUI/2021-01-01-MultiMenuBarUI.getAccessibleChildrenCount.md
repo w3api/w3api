@@ -1,8 +1,8 @@
 ---
 title: MultiMenuBarUI.getAccessibleChildrenCount()
-permalink: Java/MultiMenuBarUI/getAccessibleChildrenCount
+permalink: /Java/MultiMenuBarUI/getAccessibleChildrenCount/
 date: 2021-01-11
-key: JavaJava.M.MultiMenuBarUI
+key: Java.M.MultiMenuBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

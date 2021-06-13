@@ -1,8 +1,8 @@
 ---
 title: MetalIconFactory.TreeControlIcon
-permalink: Java/MetalIconFactory/TreeControlIcon
+permalink: /Java/MetalIconFactory/TreeControlIcon/
 date: 2021-01-11
-key: JavaJava.M.MetalIconFactory.TreeControlIcon
+key: Java.M.MetalIconFactory.TreeControlIcon
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MethodHandles.Lookup
-permalink: Java/MethodHandles/Lookup
+permalink: /Java/MethodHandles/Lookup/
 date: 2021-01-11
-key: JavaJava.M.MethodHandles.Lookup
+key: Java.M.MethodHandles.Lookup
 category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 

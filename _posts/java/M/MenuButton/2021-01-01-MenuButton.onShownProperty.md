@@ -1,8 +1,8 @@
 ---
 title: MenuButton.onShownProperty()
-permalink: Java/MenuButton/onShownProperty
+permalink: /Java/MenuButton/onShownProperty/
 date: 2021-01-11
-key: JavaJava.M.MenuButton
+key: Java.M.MenuButton
 category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 

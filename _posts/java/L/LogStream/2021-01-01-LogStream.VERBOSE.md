@@ -1,9 +1,9 @@
 ---
 title: LogStream.VERBOSE
-permalink: Java/LogStream/VERBOSE
+permalink: /Java/LogStream/VERBOSE/
 date: 2021-01-11
 key: Java.L.LogStream
-category: java
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

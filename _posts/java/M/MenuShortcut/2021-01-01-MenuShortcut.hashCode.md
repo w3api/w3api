@@ -1,8 +1,8 @@
 ---
 title: MenuShortcut.hashCode()
-permalink: Java/MenuShortcut/hashCode
+permalink: /Java/MenuShortcut/hashCode/
 date: 2021-01-11
-key: JavaJava.M.MenuShortcut
+key: Java.M.MenuShortcut
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.MenuBarBorder.borderInsets
-permalink: Java/MetalBorders/MenuBarBorder/borderInsets
+permalink: /Java/MetalBorders/MenuBarBorder/borderInsets/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.MenuBarBorder
+key: Java.M.MetalBorders.MenuBarBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

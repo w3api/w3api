@@ -1,8 +1,8 @@
 ---
 title: MultiFileChooserUI
-permalink: Java/MultiFileChooserUI
+permalink: /Java/MultiFileChooserUI/
 date: 2021-01-11
-key: JavaJava.M.MultiFileChooserUI
+key: Java.M.MultiFileChooserUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

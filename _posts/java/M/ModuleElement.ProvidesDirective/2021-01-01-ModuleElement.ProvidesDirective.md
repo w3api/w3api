@@ -1,8 +1,8 @@
 ---
 title: ModuleElement.ProvidesDirective
-permalink: Java/ModuleElement/ProvidesDirective
+permalink: /Java/ModuleElement/ProvidesDirective/
 date: 2021-01-11
-key: JavaJava.M.ModuleElement.ProvidesDirective
+key: Java.M.ModuleElement.ProvidesDirective
 category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'interface java', 'Java 9']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ModifiersTree.getAnnotations()
-permalink: Java/ModifiersTree/getAnnotations
+permalink: /Java/ModifiersTree/getAnnotations/
 date: 2021-01-11
-key: JavaJava.M.ModifiersTree
+key: Java.M.ModifiersTree
 category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

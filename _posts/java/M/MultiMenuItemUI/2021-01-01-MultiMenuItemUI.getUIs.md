@@ -1,8 +1,8 @@
 ---
 title: MultiMenuItemUI.getUIs()
-permalink: Java/MultiMenuItemUI/getUIs
+permalink: /Java/MultiMenuItemUI/getUIs/
 date: 2021-01-11
-key: JavaJava.M.MultiMenuItemUI
+key: Java.M.MultiMenuItemUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

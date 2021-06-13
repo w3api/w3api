@@ -1,8 +1,8 @@
 ---
 title: MenuShortcut
-permalink: Java/MenuShortcut
+permalink: /Java/MenuShortcut/
 date: 2021-01-11
-key: JavaJava.M.MenuShortcut
+key: Java.M.MenuShortcut
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 

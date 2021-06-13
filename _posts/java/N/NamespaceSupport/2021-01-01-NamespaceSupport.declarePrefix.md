@@ -1,8 +1,8 @@
 ---
 title: NamespaceSupport.declarePrefix()
-permalink: Java/NamespaceSupport/declarePrefix
+permalink: /Java/NamespaceSupport/declarePrefix/
 date: 2021-01-11
-key: JavaJava.N.NamespaceSupport
+key: Java.N.NamespaceSupport
 category: Java
 tags: ['java se', 'org.xml.sax.helpers', 'java.xml', 'metodo java', 'Java 1.4', 'SAX 2.0']
 sidebar: 

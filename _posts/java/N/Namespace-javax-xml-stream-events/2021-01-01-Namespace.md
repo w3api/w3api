@@ -1,8 +1,8 @@
 ---
 title: Namespace
-permalink: Java/Namespace-javax-xml-stream-events
+permalink: /Java/Namespace-javax-xml-stream-events/
 date: 2021-01-11
-key: JavaJava.N.Namespace-javax-xml-stream-events
+key: Java.N.Namespace-javax-xml-stream-events
 category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'interface java', 'Java 1.6']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ModuleReader.close()
-permalink: Java/ModuleReader/close
+permalink: /Java/ModuleReader/close/
 date: 2021-01-11
-key: JavaJava.M.ModuleReader
+key: Java.M.ModuleReader
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

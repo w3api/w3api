@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.TableHeaderBorder
-permalink: Java/MetalBorders/TableHeaderBorder
+permalink: /Java/MetalBorders/TableHeaderBorder/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.TableHeaderBorder
+key: Java.M.MetalBorders.TableHeaderBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 

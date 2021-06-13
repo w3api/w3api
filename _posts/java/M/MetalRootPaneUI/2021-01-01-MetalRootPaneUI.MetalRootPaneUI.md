@@ -1,8 +1,8 @@
 ---
 title: MetalRootPaneUI.MetalRootPaneUI()
-permalink: Java/MetalRootPaneUI/MetalRootPaneUI
+permalink: /Java/MetalRootPaneUI/MetalRootPaneUI/
 date: 2021-01-11
-key: JavaJava.M.MetalRootPaneUI
+key: Java.M.MetalRootPaneUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 

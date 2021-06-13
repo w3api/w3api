@@ -3,7 +3,7 @@ title: LookAndFeel.getDisabledIcon()
 permalink: /Java/LookAndFeel/getDisabledIcon/
 date: 2021-01-11
 key: Java.L.LookAndFeel
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

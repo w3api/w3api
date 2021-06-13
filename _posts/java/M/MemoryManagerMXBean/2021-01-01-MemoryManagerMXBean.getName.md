@@ -1,8 +1,8 @@
 ---
 title: MemoryManagerMXBean.getName()
-permalink: Java/MemoryManagerMXBean/getName
+permalink: /Java/MemoryManagerMXBean/getName/
 date: 2021-01-11
-key: JavaJava.M.MemoryManagerMXBean
+key: Java.M.MemoryManagerMXBean
 category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

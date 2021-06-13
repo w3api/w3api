@@ -1,8 +1,8 @@
 ---
 title: MediaName.ISO_A4_TRANSPARENT
-permalink: Java/MediaName/ISO_A4_TRANSPARENT
+permalink: /Java/MediaName/ISO_A4_TRANSPARENT/
 date: 2021-01-11
-key: JavaJava.M.MediaName
+key: Java.M.MediaName
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MetalToolTipUI.createUI()
-permalink: Java/MetalToolTipUI/createUI
+permalink: /Java/MetalToolTipUI/createUI/
 date: 2021-01-11
-key: JavaJava.M.MetalToolTipUI
+key: Java.M.MetalToolTipUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

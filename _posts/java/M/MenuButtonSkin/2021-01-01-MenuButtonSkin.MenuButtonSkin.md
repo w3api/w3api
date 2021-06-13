@@ -1,8 +1,8 @@
 ---
 title: MenuButtonSkin.MenuButtonSkin()
-permalink: Java/MenuButtonSkin/MenuButtonSkin
+permalink: /Java/MenuButtonSkin/MenuButtonSkin/
 date: 2021-01-11
-key: JavaJava.M.MenuButtonSkin
+key: Java.M.MenuButtonSkin
 category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 

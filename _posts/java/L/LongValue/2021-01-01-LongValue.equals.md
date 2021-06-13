@@ -1,9 +1,9 @@
 ---
 title: LongValue.equals()
-permalink: Java/LongValue/equals
+permalink: /Java/LongValue/equals/
 date: 2021-01-11
 key: Java.L.LongValue
-category: java
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

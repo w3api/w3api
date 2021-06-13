@@ -1,8 +1,8 @@
 ---
 title: MultiListUI
-permalink: Java/MultiListUI
+permalink: /Java/MultiListUI/
 date: 2021-01-11
-key: JavaJava.M.MultiListUI
+key: Java.M.MultiListUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

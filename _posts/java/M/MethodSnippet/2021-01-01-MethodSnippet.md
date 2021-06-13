@@ -1,8 +1,8 @@
 ---
 title: MethodSnippet
-permalink: Java/MethodSnippet
+permalink: /Java/MethodSnippet/
 date: 2021-01-11
-key: JavaJava.M.MethodSnippet
+key: Java.M.MethodSnippet
 category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 

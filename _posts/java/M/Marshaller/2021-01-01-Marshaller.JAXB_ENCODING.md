@@ -1,8 +1,8 @@
 ---
 title: Marshaller.JAXB_ENCODING
-permalink: Java/Marshaller/JAXB_ENCODING
+permalink: /Java/Marshaller/JAXB_ENCODING/
 date: 2021-01-11
-key: JavaJava.M.Marshaller
+key: Java.M.Marshaller
 category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'campo java', 'Java 1.6', 'JAXB Java 1.0']
 sidebar: 

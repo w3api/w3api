@@ -1,8 +1,8 @@
 ---
 title: ModifiableObservableListBase.ModifiableObservableListBase()
-permalink: Java/ModifiableObservableListBase/ModifiableObservableListBase
+permalink: /Java/ModifiableObservableListBase/ModifiableObservableListBase/
 date: 2021-01-11
-key: JavaJava.M.ModifiableObservableListBase
+key: Java.M.ModifiableObservableListBase
 category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 8.0']
 sidebar: 

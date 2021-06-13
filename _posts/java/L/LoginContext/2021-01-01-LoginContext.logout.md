@@ -1,9 +1,9 @@
 ---
 title: LoginContext.logout()
-permalink: Java/LoginContext/logout
+permalink: /Java/LoginContext/logout/
 date: 2021-01-11
 key: Java.L.LoginContext
-category: java
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

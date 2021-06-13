@@ -1,8 +1,8 @@
 ---
 title: MetalComboBoxUI.createUI()
-permalink: Java/MetalComboBoxUI/createUI
+permalink: /Java/MetalComboBoxUI/createUI/
 date: 2021-01-11
-key: JavaJava.M.MetalComboBoxUI
+key: Java.M.MetalComboBoxUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

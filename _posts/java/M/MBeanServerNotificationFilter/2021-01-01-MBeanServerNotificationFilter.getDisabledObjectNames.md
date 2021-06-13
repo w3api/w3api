@@ -1,8 +1,8 @@
 ---
 title: MBeanServerNotificationFilter.getDisabledObjectNames()
-permalink: Java/MBeanServerNotificationFilter/getDisabledObjectNames
+permalink: /Java/MBeanServerNotificationFilter/getDisabledObjectNames/
 date: 2021-01-11
-key: JavaJava.M.MBeanServerNotificationFilter
+key: Java.M.MBeanServerNotificationFilter
 category: Java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

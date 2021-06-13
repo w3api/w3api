@@ -1,8 +1,8 @@
 ---
 title: MultipleComponentProfileHolder.value
-permalink: Java/MultipleComponentProfileHolder/value
+permalink: /Java/MultipleComponentProfileHolder/value/
 date: 2021-01-11
-key: JavaJava.M.MultipleComponentProfileHolder
+key: Java.M.MultipleComponentProfileHolder
 category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

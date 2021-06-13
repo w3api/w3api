@@ -1,8 +1,8 @@
 ---
 title: MaskFormatter.getPlaceholder()
-permalink: Java/MaskFormatter/getPlaceholder
+permalink: /Java/MaskFormatter/getPlaceholder/
 date: 2021-01-11
-key: JavaJava.M.MaskFormatter
+key: Java.M.MaskFormatter
 category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 

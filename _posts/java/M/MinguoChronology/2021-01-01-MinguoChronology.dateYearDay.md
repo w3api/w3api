@@ -1,8 +1,8 @@
 ---
 title: MinguoChronology.dateYearDay()
-permalink: Java/MinguoChronology/dateYearDay
+permalink: /Java/MinguoChronology/dateYearDay/
 date: 2021-01-11
-key: JavaJava.M.MinguoChronology
+key: Java.M.MinguoChronology
 category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MethodHandles
-permalink: Java/MethodHandles
+permalink: /Java/MethodHandles/
 date: 2021-01-11
-key: JavaJava.M.MethodHandles
+key: Java.M.MethodHandles
 category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 

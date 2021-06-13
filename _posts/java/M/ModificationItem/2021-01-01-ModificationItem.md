@@ -1,8 +1,8 @@
 ---
 title: ModificationItem
-permalink: Java/ModificationItem
+permalink: /Java/ModificationItem/
 date: 2021-01-11
-key: JavaJava.M.ModificationItem
+key: Java.M.ModificationItem
 category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 

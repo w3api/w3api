@@ -1,8 +1,8 @@
 ---
 title: MimeHeaders
-permalink: Java/MimeHeaders
+permalink: /Java/MimeHeaders/
 date: 2021-01-11
-key: JavaJava.M.MimeHeaders
+key: Java.M.MimeHeaders
 category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'clase java', 'Java 1.6']
 sidebar: 

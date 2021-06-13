@@ -1,8 +1,8 @@
 ---
 title: MultiPopupMenuUI
-permalink: Java/MultiPopupMenuUI
+permalink: /Java/MultiPopupMenuUI/
 date: 2021-01-11
-key: JavaJava.M.MultiPopupMenuUI
+key: Java.M.MultiPopupMenuUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

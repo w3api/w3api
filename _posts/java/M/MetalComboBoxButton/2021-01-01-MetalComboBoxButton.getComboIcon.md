@@ -1,8 +1,8 @@
 ---
 title: MetalComboBoxButton.getComboIcon()
-permalink: Java/MetalComboBoxButton/getComboIcon
+permalink: /Java/MetalComboBoxButton/getComboIcon/
 date: 2021-01-11
-key: JavaJava.M.MetalComboBoxButton
+key: Java.M.MetalComboBoxButton
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

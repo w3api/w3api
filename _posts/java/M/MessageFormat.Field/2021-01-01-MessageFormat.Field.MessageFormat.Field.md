@@ -1,8 +1,8 @@
 ---
 title: MessageFormat.Field.MessageFormat.Field()
-permalink: Java/MessageFormat/Field/MessageFormat/Field
+permalink: /Java/MessageFormat/Field/MessageFormat/Field/
 date: 2021-01-11
-key: JavaJava.M.MessageFormat.Field
+key: Java.M.MessageFormat.Field
 category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

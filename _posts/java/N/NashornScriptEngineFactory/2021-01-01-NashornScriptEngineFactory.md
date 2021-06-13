@@ -1,8 +1,8 @@
 ---
 title: NashornScriptEngineFactory
-permalink: Java/NashornScriptEngineFactory
+permalink: /Java/NashornScriptEngineFactory/
 date: 2021-01-11
-key: JavaJava.N.NashornScriptEngineFactory
+key: Java.N.NashornScriptEngineFactory
 category: Java
 tags: ['java se', 'jdk.nashorn.api.scripting', 'jdk.scripting.nashorn', 'clase java', 'Java 1.8']
 sidebar: 

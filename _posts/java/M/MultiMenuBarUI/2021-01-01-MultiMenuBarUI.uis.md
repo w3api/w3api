@@ -1,8 +1,8 @@
 ---
 title: MultiMenuBarUI.uis
-permalink: Java/MultiMenuBarUI/uis
+permalink: /Java/MultiMenuBarUI/uis/
 date: 2021-01-11
-key: JavaJava.M.MultiMenuBarUI
+key: Java.M.MultiMenuBarUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

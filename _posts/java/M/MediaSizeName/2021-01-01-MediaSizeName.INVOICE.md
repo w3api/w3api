@@ -1,8 +1,8 @@
 ---
 title: MediaSizeName.INVOICE
-permalink: Java/MediaSizeName/INVOICE
+permalink: /Java/MediaSizeName/INVOICE/
 date: 2021-01-11
-key: JavaJava.M.MediaSizeName
+key: Java.M.MediaSizeName
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

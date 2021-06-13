@@ -1,8 +1,8 @@
 ---
 title: MidiSystem.getTransmitter()
-permalink: Java/MidiSystem/getTransmitter
+permalink: /Java/MidiSystem/getTransmitter/
 date: 2021-01-11
-key: JavaJava.M.MidiSystem
+key: Java.M.MidiSystem
 category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

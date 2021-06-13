@@ -1,8 +1,8 @@
 ---
 title: NamingListener.namingExceptionThrown()
-permalink: Java/NamingListener/namingExceptionThrown
+permalink: /Java/NamingListener/namingExceptionThrown/
 date: 2021-01-11
-key: JavaJava.N.NamingListener
+key: Java.N.NamingListener
 category: Java
 tags: ['java se', 'javax.naming.event', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 

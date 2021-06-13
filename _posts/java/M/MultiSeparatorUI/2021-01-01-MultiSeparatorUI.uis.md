@@ -1,8 +1,8 @@
 ---
 title: MultiSeparatorUI.uis
-permalink: Java/MultiSeparatorUI/uis
+permalink: /Java/MultiSeparatorUI/uis/
 date: 2021-01-11
-key: JavaJava.M.MultiSeparatorUI
+key: Java.M.MultiSeparatorUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

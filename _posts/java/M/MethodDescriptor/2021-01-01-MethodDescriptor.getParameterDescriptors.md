@@ -1,8 +1,8 @@
 ---
 title: MethodDescriptor.getParameterDescriptors()
-permalink: Java/MethodDescriptor/getParameterDescriptors
+permalink: /Java/MethodDescriptor/getParameterDescriptors/
 date: 2021-01-11
-key: JavaJava.M.MethodDescriptor
+key: Java.M.MethodDescriptor
 category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

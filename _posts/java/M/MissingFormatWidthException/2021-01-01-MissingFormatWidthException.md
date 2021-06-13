@@ -1,8 +1,8 @@
 ---
 title: MissingFormatWidthException
-permalink: Java/MissingFormatWidthException
+permalink: /Java/MissingFormatWidthException/
 date: 2021-01-11
-key: JavaJava.M.MissingFormatWidthException
+key: Java.M.MissingFormatWidthException
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 

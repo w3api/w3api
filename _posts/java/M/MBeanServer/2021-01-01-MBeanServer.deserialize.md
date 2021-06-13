@@ -1,8 +1,8 @@
 ---
 title: MBeanServer.deserialize()
-permalink: Java/MBeanServer/deserialize
+permalink: /Java/MBeanServer/deserialize/
 date: 2021-01-11
-key: JavaJava.M.MBeanServer
+key: Java.M.MBeanServer
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

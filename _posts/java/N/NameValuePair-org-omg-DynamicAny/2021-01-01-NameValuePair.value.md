@@ -1,8 +1,8 @@
 ---
 title: NameValuePair.value
-permalink: Java/NameValuePair-org-omg-DynamicAny/value
+permalink: /Java/NameValuePair-org-omg-DynamicAny/value/
 date: 2021-01-11
-key: JavaJava.N.NameValuePair-org-omg-DynamicAny
+key: Java.N.NameValuePair-org-omg-DynamicAny
 category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

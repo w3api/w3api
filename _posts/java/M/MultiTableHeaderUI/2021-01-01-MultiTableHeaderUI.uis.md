@@ -1,8 +1,8 @@
 ---
 title: MultiTableHeaderUI.uis
-permalink: Java/MultiTableHeaderUI/uis
+permalink: /Java/MultiTableHeaderUI/uis/
 date: 2021-01-11
-key: JavaJava.M.MultiTableHeaderUI
+key: Java.M.MultiTableHeaderUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

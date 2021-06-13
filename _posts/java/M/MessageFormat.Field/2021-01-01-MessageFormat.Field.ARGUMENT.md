@@ -1,8 +1,8 @@
 ---
 title: MessageFormat.Field.ARGUMENT
-permalink: Java/MessageFormat/Field/ARGUMENT
+permalink: /Java/MessageFormat/Field/ARGUMENT/
 date: 2021-01-11
-key: JavaJava.M.MessageFormat.Field
+key: Java.M.MessageFormat.Field
 category: Java
 tags: ['java se', 'java.text', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 

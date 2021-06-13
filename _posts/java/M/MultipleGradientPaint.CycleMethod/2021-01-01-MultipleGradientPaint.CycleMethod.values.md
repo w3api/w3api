@@ -1,8 +1,8 @@
 ---
 title: MultipleGradientPaint.CycleMethod.values()
-permalink: Java/MultipleGradientPaint/CycleMethod/values
+permalink: /Java/MultipleGradientPaint/CycleMethod/values/
 date: 2021-01-11
-key: JavaJava.M.MultipleGradientPaint.CycleMethod
+key: Java.M.MultipleGradientPaint.CycleMethod
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 

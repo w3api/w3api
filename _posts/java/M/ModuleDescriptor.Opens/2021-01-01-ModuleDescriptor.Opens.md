@@ -1,8 +1,8 @@
 ---
 title: ModuleDescriptor.Opens
-permalink: Java/ModuleDescriptor/Opens
+permalink: /Java/ModuleDescriptor/Opens/
 date: 2021-01-11
-key: JavaJava.M.ModuleDescriptor.Opens
+key: Java.M.ModuleDescriptor.Opens
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'clase java', 'Java 9']
 sidebar: 

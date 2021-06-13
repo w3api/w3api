@@ -1,8 +1,8 @@
 ---
 title: MediaErrorEvent.MEDIA_ERROR
-permalink: Java/MediaErrorEvent/MEDIA_ERROR
+permalink: /Java/MediaErrorEvent/MEDIA_ERROR/
 date: 2021-01-11
-key: JavaJava.M.MediaErrorEvent
+key: Java.M.MediaErrorEvent
 category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'campo java', 'JavaFX 2.0']
 sidebar: 

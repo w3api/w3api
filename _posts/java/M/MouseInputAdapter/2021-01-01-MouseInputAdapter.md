@@ -1,8 +1,8 @@
 ---
 title: MouseInputAdapter
-permalink: Java/MouseInputAdapter
+permalink: /Java/MouseInputAdapter/
 date: 2021-01-11
-key: JavaJava.M.MouseInputAdapter
+key: Java.M.MouseInputAdapter
 category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

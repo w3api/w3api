@@ -1,8 +1,8 @@
 ---
 title: MultiResolutionImage.getResolutionVariant()
-permalink: Java/MultiResolutionImage/getResolutionVariant
+permalink: /Java/MultiResolutionImage/getResolutionVariant/
 date: 2021-01-11
-key: JavaJava.M.MultiResolutionImage
+key: Java.M.MultiResolutionImage
 category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 

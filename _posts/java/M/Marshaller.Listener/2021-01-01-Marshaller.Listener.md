@@ -1,8 +1,8 @@
 ---
 title: Marshaller.Listener
-permalink: Java/Marshaller/Listener
+permalink: /Java/Marshaller/Listener/
 date: 2021-01-11
-key: JavaJava.M.Marshaller.Listener
+key: Java.M.Marshaller.Listener
 category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'clase java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 

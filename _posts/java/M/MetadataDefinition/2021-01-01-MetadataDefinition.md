@@ -1,8 +1,8 @@
 ---
 title: MetadataDefinition
-permalink: Java/MetadataDefinition
+permalink: /Java/MetadataDefinition/
 date: 2021-01-11
-key: JavaJava.M.MetadataDefinition
+key: Java.M.MetadataDefinition
 category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'anotacion java', 'Java 9']
 sidebar: 

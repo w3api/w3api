@@ -1,8 +1,8 @@
 ---
 title: MediaTray.MAIN
-permalink: Java/MediaTray/MAIN
+permalink: /Java/MediaTray/MAIN/
 date: 2021-01-11
-key: JavaJava.M.MediaTray
+key: Java.M.MediaTray
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

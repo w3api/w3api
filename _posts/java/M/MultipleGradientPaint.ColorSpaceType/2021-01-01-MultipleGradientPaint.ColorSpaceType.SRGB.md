@@ -1,8 +1,8 @@
 ---
 title: MultipleGradientPaint.ColorSpaceType.SRGB
-permalink: Java/MultipleGradientPaint/ColorSpaceType/SRGB
+permalink: /Java/MultipleGradientPaint/ColorSpaceType/SRGB/
 date: 2021-01-11
-key: JavaJava.M.MultipleGradientPaint.ColorSpaceType
+key: Java.M.MultipleGradientPaint.ColorSpaceType
 category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.6']
 sidebar: 

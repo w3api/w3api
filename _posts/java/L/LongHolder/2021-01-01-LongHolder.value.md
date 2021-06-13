@@ -3,7 +3,7 @@ title: LongHolder.value
 permalink: /Java/LongHolder/value/
 date: 2021-01-11
 key: Java.L.LongHolder
-category: java
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

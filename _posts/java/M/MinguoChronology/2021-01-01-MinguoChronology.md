@@ -1,8 +1,8 @@
 ---
 title: MinguoChronology
-permalink: Java/MinguoChronology
+permalink: /Java/MinguoChronology/
 date: 2021-01-11
-key: JavaJava.M.MinguoChronology
+key: Java.M.MinguoChronology
 category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 

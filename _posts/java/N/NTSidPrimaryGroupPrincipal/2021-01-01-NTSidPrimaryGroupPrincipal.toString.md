@@ -1,8 +1,8 @@
 ---
 title: NTSidPrimaryGroupPrincipal.toString()
-permalink: Java/NTSidPrimaryGroupPrincipal/toString
+permalink: /Java/NTSidPrimaryGroupPrincipal/toString/
 date: 2021-01-11
-key: JavaJava.N.NTSidPrimaryGroupPrincipal
+key: Java.N.NTSidPrimaryGroupPrincipal
 category: Java
 tags: ['java se', 'com.sun.security.auth', 'jdk.security.auth', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MalformedObjectNameException.MalformedObjectNameException()
-permalink: Java/MalformedObjectNameException/MalformedObjectNameException
+permalink: /Java/MalformedObjectNameException/MalformedObjectNameException/
 date: 2021-01-11
-key: JavaJava.M.MalformedObjectNameException
+key: Java.M.MalformedObjectNameException
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

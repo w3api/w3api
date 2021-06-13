@@ -1,8 +1,8 @@
 ---
 title: ModuleLayer.findModule()
-permalink: Java/ModuleLayer/findModule
+permalink: /Java/ModuleLayer/findModule/
 date: 2021-01-11
-key: JavaJava.M.ModuleLayer
+key: Java.M.ModuleLayer
 category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

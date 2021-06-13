@@ -1,8 +1,8 @@
 ---
 title: MonitorNotification.THRESHOLD_ERROR
-permalink: Java/MonitorNotification/THRESHOLD_ERROR
+permalink: /Java/MonitorNotification/THRESHOLD_ERROR/
 date: 2021-01-11
-key: JavaJava.M.MonitorNotification
+key: Java.M.MonitorNotification
 category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 

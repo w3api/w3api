@@ -1,8 +1,8 @@
 ---
 title: MidiMessage.data
-permalink: Java/MidiMessage/data
+permalink: /Java/MidiMessage/data/
 date: 2021-01-11
-key: JavaJava.M.MidiMessage
+key: Java.M.MidiMessage
 category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

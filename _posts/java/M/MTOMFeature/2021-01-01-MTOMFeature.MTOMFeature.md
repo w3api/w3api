@@ -1,8 +1,8 @@
 ---
 title: MTOMFeature.MTOMFeature()
-permalink: Java/MTOMFeature/MTOMFeature
+permalink: /Java/MTOMFeature/MTOMFeature/
 date: 2021-01-11
-key: JavaJava.M.MTOMFeature
+key: Java.M.MTOMFeature
 category: Java
 tags: ['java se', 'javax.xml.ws.soap', 'java.xml.ws', 'metodo java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MenuDragMouseListener
-permalink: Java/MenuDragMouseListener
+permalink: /Java/MenuDragMouseListener/
 date: 2021-01-11
-key: JavaJava.M.MenuDragMouseListener
+key: Java.M.MenuDragMouseListener
 category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

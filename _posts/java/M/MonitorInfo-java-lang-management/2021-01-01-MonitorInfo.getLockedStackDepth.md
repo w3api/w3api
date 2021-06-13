@@ -1,8 +1,8 @@
 ---
 title: MonitorInfo.getLockedStackDepth()
-permalink: Java/MonitorInfo-java-lang-management/getLockedStackDepth
+permalink: /Java/MonitorInfo-java-lang-management/getLockedStackDepth/
 date: 2021-01-11
-key: JavaJava.M.MonitorInfo-java-lang-management
+key: Java.M.MonitorInfo-java-lang-management
 category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.6']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MissingFormatWidthException.getFormatSpecifier()
-permalink: Java/MissingFormatWidthException/getFormatSpecifier
+permalink: /Java/MissingFormatWidthException/getFormatSpecifier/
 date: 2021-01-11
-key: JavaJava.M.MissingFormatWidthException
+key: Java.M.MissingFormatWidthException
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

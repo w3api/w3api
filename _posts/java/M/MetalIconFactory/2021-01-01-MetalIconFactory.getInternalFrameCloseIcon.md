@@ -1,8 +1,8 @@
 ---
 title: MetalIconFactory.getInternalFrameCloseIcon()
-permalink: Java/MetalIconFactory/getInternalFrameCloseIcon
+permalink: /Java/MetalIconFactory/getInternalFrameCloseIcon/
 date: 2021-01-11
-key: JavaJava.M.MetalIconFactory
+key: Java.M.MetalIconFactory
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

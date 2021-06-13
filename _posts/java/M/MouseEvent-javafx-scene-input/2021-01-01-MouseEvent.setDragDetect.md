@@ -1,8 +1,8 @@
 ---
 title: MouseEvent.setDragDetect()
-permalink: Java/MouseEvent-javafx-scene-input/setDragDetect
+permalink: /Java/MouseEvent-javafx-scene-input/setDragDetect/
 date: 2021-01-11
-key: JavaJava.M.MouseEvent-javafx-scene-input
+key: Java.M.MouseEvent-javafx-scene-input
 category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

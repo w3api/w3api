@@ -1,8 +1,8 @@
 ---
 title: MBeanServerPermission
-permalink: Java/MBeanServerPermission
+permalink: /Java/MBeanServerPermission/
 date: 2021-01-11
-key: JavaJava.M.MBeanServerPermission
+key: Java.M.MBeanServerPermission
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

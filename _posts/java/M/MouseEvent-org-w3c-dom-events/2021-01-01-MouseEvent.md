@@ -1,8 +1,8 @@
 ---
 title: MouseEvent
-permalink: Java/MouseEvent-org-w3c-dom-events
+permalink: /Java/MouseEvent-org-w3c-dom-events/
 date: 2021-01-11
-key: JavaJava.M.MouseEvent-org-w3c-dom-events
+key: Java.M.MouseEvent-org-w3c-dom-events
 category: Java
 tags: ['java se', 'org.w3c.dom.events', 'java.xml', 'interface java', 'Java 1.5', 'DOM Level 2']
 sidebar: 

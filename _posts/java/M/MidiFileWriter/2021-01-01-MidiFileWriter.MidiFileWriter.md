@@ -1,8 +1,8 @@
 ---
 title: MidiFileWriter.MidiFileWriter()
-permalink: Java/MidiFileWriter/MidiFileWriter
+permalink: /Java/MidiFileWriter/MidiFileWriter/
 date: 2021-01-11
-key: JavaJava.M.MidiFileWriter
+key: Java.M.MidiFileWriter
 category: Java
 tags: ['java se', 'javax.sound.midi.spi', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

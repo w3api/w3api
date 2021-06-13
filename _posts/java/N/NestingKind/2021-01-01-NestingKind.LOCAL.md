@@ -1,8 +1,8 @@
 ---
 title: NestingKind.LOCAL
-permalink: Java/NestingKind/LOCAL
+permalink: /Java/NestingKind/LOCAL/
 date: 2021-01-11
-key: JavaJava.N.NestingKind
+key: Java.N.NestingKind
 category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'campo java', 'Java 1.6']
 sidebar: 

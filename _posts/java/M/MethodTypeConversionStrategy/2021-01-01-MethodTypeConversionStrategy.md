@@ -1,8 +1,8 @@
 ---
 title: MethodTypeConversionStrategy
-permalink: Java/MethodTypeConversionStrategy
+permalink: /Java/MethodTypeConversionStrategy/
 date: 2021-01-11
-key: JavaJava.M.MethodTypeConversionStrategy
+key: Java.M.MethodTypeConversionStrategy
 category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'interface java', 'Java 1.0']
 sidebar: 

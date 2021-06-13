@@ -1,8 +1,8 @@
 ---
 title: MotionBlur.angleProperty()
-permalink: Java/MotionBlur/angleProperty
+permalink: /Java/MotionBlur/angleProperty/
 date: 2021-01-11
-key: JavaJava.M.MotionBlur
+key: Java.M.MotionBlur
 category: Java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

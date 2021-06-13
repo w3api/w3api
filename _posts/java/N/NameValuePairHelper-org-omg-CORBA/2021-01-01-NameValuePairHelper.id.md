@@ -1,8 +1,8 @@
 ---
 title: NameValuePairHelper.id()
-permalink: Java/NameValuePairHelper-org-omg-CORBA/id
+permalink: /Java/NameValuePairHelper-org-omg-CORBA/id/
 date: 2021-01-11
-key: JavaJava.N.NameValuePairHelper-org-omg-CORBA
+key: Java.N.NameValuePairHelper-org-omg-CORBA
 category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

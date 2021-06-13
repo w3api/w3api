@@ -3,7 +3,7 @@ title: LogicalMessageContext
 permalink: /Java/LogicalMessageContext/
 date: 2021-01-11
 key: Java.L.LogicalMessageContext
-category: java
+category: Java
 tags: ['java se', 'javax.xml.ws.handler', 'java.xml.ws', 'interface java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

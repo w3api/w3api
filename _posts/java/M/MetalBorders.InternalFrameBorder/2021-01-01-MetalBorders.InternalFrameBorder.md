@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.InternalFrameBorder
-permalink: Java/MetalBorders/InternalFrameBorder
+permalink: /Java/MetalBorders/InternalFrameBorder/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.InternalFrameBorder
+key: Java.M.MetalBorders.InternalFrameBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

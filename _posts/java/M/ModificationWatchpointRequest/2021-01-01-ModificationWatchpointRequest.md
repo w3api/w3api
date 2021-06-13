@@ -1,8 +1,8 @@
 ---
 title: ModificationWatchpointRequest
-permalink: Java/ModificationWatchpointRequest
+permalink: /Java/ModificationWatchpointRequest/
 date: 2021-01-11
-key: JavaJava.M.ModificationWatchpointRequest
+key: Java.M.ModificationWatchpointRequest
 category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MinguoDate.equals()
-permalink: Java/MinguoDate/equals
+permalink: /Java/MinguoDate/equals/
 date: 2021-01-11
-key: JavaJava.M.MinguoDate
+key: Java.M.MinguoDate
 category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

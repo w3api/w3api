@@ -1,9 +1,9 @@
 ---
 title: LocalDateStringConverter
-permalink: Java/LocalDateStringConverter
+permalink: /Java/LocalDateStringConverter/
 date: 2021-01-11
 key: Java.L.LocalDateStringConverter
-category: java
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,8 +1,8 @@
 ---
 title: MemberReferenceTree.ReferenceMode.NEW
-permalink: Java/MemberReferenceTree/ReferenceMode/NEW
+permalink: /Java/MemberReferenceTree/ReferenceMode/NEW/
 date: 2021-01-11
-key: JavaJava.M.MemberReferenceTree.ReferenceMode
+key: Java.M.MemberReferenceTree.ReferenceMode
 category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'campo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MatteBorder.getBorderInsets()
-permalink: Java/MatteBorder/getBorderInsets
+permalink: /Java/MatteBorder/getBorderInsets/
 date: 2021-01-11
-key: JavaJava.M.MatteBorder
+key: Java.M.MatteBorder
 category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

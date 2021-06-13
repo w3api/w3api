@@ -1,8 +1,8 @@
 ---
 title: MonitorWaitRequest
-permalink: Java/MonitorWaitRequest
+permalink: /Java/MonitorWaitRequest/
 date: 2021-01-11
-key: JavaJava.M.MonitorWaitRequest
+key: Java.M.MonitorWaitRequest
 category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'interface java', 'Java 1.6']
 sidebar: 

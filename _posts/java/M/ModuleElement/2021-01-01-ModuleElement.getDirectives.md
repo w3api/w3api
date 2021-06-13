@@ -1,8 +1,8 @@
 ---
 title: ModuleElement.getDirectives()
-permalink: Java/ModuleElement/getDirectives
+permalink: /Java/ModuleElement/getDirectives/
 date: 2021-01-11
-key: JavaJava.M.ModuleElement
+key: Java.M.ModuleElement
 category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 9']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: NON_EXISTENT
-permalink: Java/NON_EXISTENT
+permalink: /Java/NON_EXISTENT/
 date: 2021-01-11
-key: JavaJava.N.NON_EXISTENT
+key: Java.N.NON_EXISTENT
 category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

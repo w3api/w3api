@@ -1,8 +1,8 @@
 ---
 title: ManagementFactory
-permalink: Java/ManagementFactory
+permalink: /Java/ManagementFactory/
 date: 2021-01-11
-key: JavaJava.M.ManagementFactory
+key: Java.M.ManagementFactory
 category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

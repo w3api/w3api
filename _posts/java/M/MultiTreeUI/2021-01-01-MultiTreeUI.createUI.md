@@ -1,8 +1,8 @@
 ---
 title: MultiTreeUI.createUI()
-permalink: Java/MultiTreeUI/createUI
+permalink: /Java/MultiTreeUI/createUI/
 date: 2021-01-11
-key: JavaJava.M.MultiTreeUI
+key: Java.M.MultiTreeUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

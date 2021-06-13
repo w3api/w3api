@@ -1,8 +1,8 @@
 ---
 title: MutableAttributeSet
-permalink: Java/MutableAttributeSet
+permalink: /Java/MutableAttributeSet/
 date: 2021-01-11
-key: JavaJava.M.MutableAttributeSet
+key: Java.M.MutableAttributeSet
 category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

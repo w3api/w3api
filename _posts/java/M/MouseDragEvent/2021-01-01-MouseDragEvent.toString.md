@@ -1,8 +1,8 @@
 ---
 title: MouseDragEvent.toString()
-permalink: Java/MouseDragEvent/toString
+permalink: /Java/MouseDragEvent/toString/
 date: 2021-01-11
-key: JavaJava.M.MouseDragEvent
+key: Java.M.MouseDragEvent
 category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.1']
 sidebar: 

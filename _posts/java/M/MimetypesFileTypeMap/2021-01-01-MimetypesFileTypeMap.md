@@ -1,8 +1,8 @@
 ---
 title: MimetypesFileTypeMap
-permalink: Java/MimetypesFileTypeMap
+permalink: /Java/MimetypesFileTypeMap/
 date: 2021-01-11
-key: JavaJava.M.MimetypesFileTypeMap
+key: Java.M.MimetypesFileTypeMap
 category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'clase java', 'Java 1.6']
 sidebar: 

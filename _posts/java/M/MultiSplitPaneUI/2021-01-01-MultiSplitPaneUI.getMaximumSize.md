@@ -1,8 +1,8 @@
 ---
 title: MultiSplitPaneUI.getMaximumSize()
-permalink: Java/MultiSplitPaneUI/getMaximumSize
+permalink: /Java/MultiSplitPaneUI/getMaximumSize/
 date: 2021-01-11
-key: JavaJava.M.MultiSplitPaneUI
+key: Java.M.MultiSplitPaneUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

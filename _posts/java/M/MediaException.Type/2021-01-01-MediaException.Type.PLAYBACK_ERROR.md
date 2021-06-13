@@ -1,8 +1,8 @@
 ---
 title: MediaException.Type.PLAYBACK_ERROR
-permalink: Java/MediaException/Type/PLAYBACK_ERROR
+permalink: /Java/MediaException/Type/PLAYBACK_ERROR/
 date: 2021-01-11
-key: JavaJava.M.MediaException.Type
+key: Java.M.MediaException.Type
 category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'campo java', 'JavaFX 2.0']
 sidebar: 

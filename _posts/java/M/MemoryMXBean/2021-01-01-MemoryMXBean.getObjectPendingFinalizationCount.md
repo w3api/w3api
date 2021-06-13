@@ -1,8 +1,8 @@
 ---
 title: MemoryMXBean.getObjectPendingFinalizationCount()
-permalink: Java/MemoryMXBean/getObjectPendingFinalizationCount
+permalink: /Java/MemoryMXBean/getObjectPendingFinalizationCount/
 date: 2021-01-11
-key: JavaJava.M.MemoryMXBean
+key: Java.M.MemoryMXBean
 category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

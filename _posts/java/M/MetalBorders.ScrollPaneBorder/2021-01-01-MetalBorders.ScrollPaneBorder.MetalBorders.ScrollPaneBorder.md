@@ -1,8 +1,8 @@
 ---
 title: MetalBorders.ScrollPaneBorder.MetalBorders.ScrollPaneBorder()
-permalink: Java/MetalBorders/ScrollPaneBorder/MetalBorders/ScrollPaneBorder
+permalink: /Java/MetalBorders/ScrollPaneBorder/MetalBorders/ScrollPaneBorder/
 date: 2021-01-11
-key: JavaJava.M.MetalBorders.ScrollPaneBorder
+key: Java.M.MetalBorders.ScrollPaneBorder
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

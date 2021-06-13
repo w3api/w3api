@@ -1,8 +1,8 @@
 ---
 title: MidiSystem
-permalink: Java/MidiSystem
+permalink: /Java/MidiSystem/
 date: 2021-01-11
-key: JavaJava.M.MidiSystem
+key: Java.M.MidiSystem
 category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MBeanServerConnection.getMBeanInfo()
-permalink: Java/MBeanServerConnection/getMBeanInfo
+permalink: /Java/MBeanServerConnection/getMBeanInfo/
 date: 2021-01-11
-key: JavaJava.M.MBeanServerConnection
+key: Java.M.MBeanServerConnection
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

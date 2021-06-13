@@ -1,8 +1,8 @@
 ---
 title: MultipleDocumentHandling.SEPARATE_DOCUMENTS_COLLATED_COPIES
-permalink: Java/MultipleDocumentHandling/SEPARATE_DOCUMENTS_COLLATED_COPIES
+permalink: /Java/MultipleDocumentHandling/SEPARATE_DOCUMENTS_COLLATED_COPIES/
 date: 2021-01-11
-key: JavaJava.M.MultipleDocumentHandling
+key: Java.M.MultipleDocumentHandling
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

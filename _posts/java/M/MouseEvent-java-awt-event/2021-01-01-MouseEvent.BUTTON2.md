@@ -1,8 +1,8 @@
 ---
 title: MouseEvent.BUTTON2
-permalink: Java/MouseEvent-java-awt-event/BUTTON2
+permalink: /Java/MouseEvent-java-awt-event/BUTTON2/
 date: 2021-01-11
-key: JavaJava.M.MouseEvent-java-awt-event
+key: Java.M.MouseEvent-java-awt-event
 category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.1']
 sidebar: 

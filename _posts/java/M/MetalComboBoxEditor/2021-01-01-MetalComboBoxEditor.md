@@ -1,8 +1,8 @@
 ---
 title: MetalComboBoxEditor
-permalink: Java/MetalComboBoxEditor
+permalink: /Java/MetalComboBoxEditor/
 date: 2021-01-11
-key: JavaJava.M.MetalComboBoxEditor
+key: Java.M.MetalComboBoxEditor
 category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

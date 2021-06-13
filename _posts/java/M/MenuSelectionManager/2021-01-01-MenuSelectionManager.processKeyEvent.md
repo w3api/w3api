@@ -1,8 +1,8 @@
 ---
 title: MenuSelectionManager.processKeyEvent()
-permalink: Java/MenuSelectionManager/processKeyEvent
+permalink: /Java/MenuSelectionManager/processKeyEvent/
 date: 2021-01-11
-key: JavaJava.M.MenuSelectionManager
+key: Java.M.MenuSelectionManager
 category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

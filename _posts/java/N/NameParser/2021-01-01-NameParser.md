@@ -1,8 +1,8 @@
 ---
 title: NameParser
-permalink: Java/NameParser
+permalink: /Java/NameParser/
 date: 2021-01-11
-key: JavaJava.N.NameParser
+key: Java.N.NameParser
 category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'interface java', 'Java 1.3']
 sidebar: 

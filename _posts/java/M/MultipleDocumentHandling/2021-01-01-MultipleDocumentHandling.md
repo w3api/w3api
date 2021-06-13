@@ -1,8 +1,8 @@
 ---
 title: MultipleDocumentHandling
-permalink: Java/MultipleDocumentHandling
+permalink: /Java/MultipleDocumentHandling/
 date: 2021-01-11
-key: JavaJava.M.MultipleDocumentHandling
+key: Java.M.MultipleDocumentHandling
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

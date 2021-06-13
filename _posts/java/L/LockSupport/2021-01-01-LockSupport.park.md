@@ -1,9 +1,9 @@
 ---
 title: LockSupport.park()
-permalink: Java/LockSupport/park
+permalink: /Java/LockSupport/park/
 date: 2021-01-11
 key: Java.L.LockSupport
-category: java
+category: Java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

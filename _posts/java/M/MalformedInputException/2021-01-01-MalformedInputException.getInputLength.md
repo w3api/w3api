@@ -1,8 +1,8 @@
 ---
 title: MalformedInputException.getInputLength()
-permalink: Java/MalformedInputException/getInputLength
+permalink: /Java/MalformedInputException/getInputLength/
 date: 2021-01-11
-key: JavaJava.M.MalformedInputException
+key: Java.M.MalformedInputException
 category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

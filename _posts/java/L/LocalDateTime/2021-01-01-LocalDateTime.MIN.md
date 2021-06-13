@@ -3,7 +3,7 @@ title: LocalDateTime.MIN
 permalink: /Java/LocalDateTime/MIN/
 date: 2021-01-11
 key: Java.L.LocalDateTime
-category: java
+category: Java
 tags: ['java se', 'java.time', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

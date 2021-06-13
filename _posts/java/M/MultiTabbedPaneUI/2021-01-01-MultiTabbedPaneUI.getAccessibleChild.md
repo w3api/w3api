@@ -1,8 +1,8 @@
 ---
 title: MultiTabbedPaneUI.getAccessibleChild()
-permalink: Java/MultiTabbedPaneUI/getAccessibleChild
+permalink: /Java/MultiTabbedPaneUI/getAccessibleChild/
 date: 2021-01-11
-key: JavaJava.M.MultiTabbedPaneUI
+key: Java.M.MultiTabbedPaneUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

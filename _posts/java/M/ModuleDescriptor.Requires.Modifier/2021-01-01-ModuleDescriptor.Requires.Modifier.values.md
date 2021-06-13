@@ -1,8 +1,8 @@
 ---
 title: ModuleDescriptor.Requires.Modifier.values()
-permalink: Java/ModuleDescriptor/Requires/Modifier/values
+permalink: /Java/ModuleDescriptor/Requires/Modifier/values/
 date: 2021-01-11
-key: JavaJava.M.ModuleDescriptor.Requires.Modifier
+key: Java.M.ModuleDescriptor.Requires.Modifier
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

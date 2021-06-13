@@ -1,8 +1,8 @@
 ---
 title: MonitorMBean.start()
-permalink: Java/MonitorMBean/start
+permalink: /Java/MonitorMBean/start/
 date: 2021-01-11
-key: JavaJava.M.MonitorMBean
+key: Java.M.MonitorMBean
 category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

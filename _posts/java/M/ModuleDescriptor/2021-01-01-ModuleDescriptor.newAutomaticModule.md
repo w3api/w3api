@@ -1,8 +1,8 @@
 ---
 title: ModuleDescriptor.newAutomaticModule()
-permalink: Java/ModuleDescriptor/newAutomaticModule
+permalink: /Java/ModuleDescriptor/newAutomaticModule/
 date: 2021-01-11
-key: JavaJava.M.ModuleDescriptor
+key: Java.M.ModuleDescriptor
 category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

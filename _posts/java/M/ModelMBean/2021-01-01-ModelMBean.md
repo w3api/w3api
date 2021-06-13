@@ -1,8 +1,8 @@
 ---
 title: ModelMBean
-permalink: Java/ModelMBean
+permalink: /Java/ModelMBean/
 date: 2021-01-11
-key: JavaJava.M.ModelMBean
+key: Java.M.ModelMBean
 category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 

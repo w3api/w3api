@@ -1,8 +1,8 @@
 ---
 title: NameComponent.kind
-permalink: Java/NameComponent/kind
+permalink: /Java/NameComponent/kind/
 date: 2021-01-11
-key: JavaJava.N.NameComponent
+key: Java.N.NameComponent
 category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

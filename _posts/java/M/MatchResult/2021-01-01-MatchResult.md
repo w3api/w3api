@@ -1,8 +1,8 @@
 ---
 title: MatchResult
-permalink: Java/MatchResult
+permalink: /Java/MatchResult/
 date: 2021-01-11
-key: JavaJava.M.MatchResult
+key: Java.M.MatchResult
 category: Java
 tags: ['java se', 'java.util.regex', 'java.base', 'interface java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MultiRootPaneUI
-permalink: Java/MultiRootPaneUI
+permalink: /Java/MultiRootPaneUI/
 date: 2021-01-11
-key: JavaJava.M.MultiRootPaneUI
+key: Java.M.MultiRootPaneUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 

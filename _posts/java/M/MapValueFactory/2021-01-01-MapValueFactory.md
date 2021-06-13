@@ -1,8 +1,8 @@
 ---
 title: MapValueFactory
-permalink: Java/MapValueFactory
+permalink: /Java/MapValueFactory/
 date: 2021-01-11
-key: JavaJava.M.MapValueFactory
+key: Java.M.MapValueFactory
 category: Java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'clase java', 'JavaFX 2.2']
 sidebar: 

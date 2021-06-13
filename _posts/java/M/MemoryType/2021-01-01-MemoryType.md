@@ -1,8 +1,8 @@
 ---
 title: MemoryType
-permalink: Java/MemoryType
+permalink: /Java/MemoryType/
 date: 2021-01-11
-key: JavaJava.M.MemoryType
+key: Java.M.MemoryType
 category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'enumerado java', 'Java 1.5']
 sidebar: 

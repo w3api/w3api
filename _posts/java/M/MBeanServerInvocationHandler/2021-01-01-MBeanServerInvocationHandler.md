@@ -1,8 +1,8 @@
 ---
 title: MBeanServerInvocationHandler
-permalink: Java/MBeanServerInvocationHandler
+permalink: /Java/MBeanServerInvocationHandler/
 date: 2021-01-11
-key: JavaJava.M.MBeanServerInvocationHandler
+key: Java.M.MBeanServerInvocationHandler
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

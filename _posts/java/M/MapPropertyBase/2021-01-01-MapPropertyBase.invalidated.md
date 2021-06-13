@@ -1,8 +1,8 @@
 ---
 title: MapPropertyBase.invalidated()
-permalink: Java/MapPropertyBase/invalidated
+permalink: /Java/MapPropertyBase/invalidated/
 date: 2021-01-11
-key: JavaJava.M.MapPropertyBase
+key: Java.M.MapPropertyBase
 category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

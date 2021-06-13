@@ -1,8 +1,8 @@
 ---
 title: ModuleTree.ModuleKind.values()
-permalink: Java/ModuleTree/ModuleKind/values
+permalink: /Java/ModuleTree/ModuleKind/values/
 date: 2021-01-11
-key: JavaJava.M.ModuleTree.ModuleKind
+key: Java.M.ModuleTree.ModuleKind
 category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.0']
 sidebar: 

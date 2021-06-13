@@ -1,8 +1,8 @@
 ---
 title: MarshalledObject
-permalink: Java/MarshalledObject
+permalink: /Java/MarshalledObject/
 date: 2021-01-11
-key: JavaJava.M.MarshalledObject
+key: Java.M.MarshalledObject
 category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'clase java', 'Java 1.2']
 sidebar: 

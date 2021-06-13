@@ -1,8 +1,8 @@
 ---
 title: MessageInfo.createOutgoing()
-permalink: Java/MessageInfo/createOutgoing
+permalink: /Java/MessageInfo/createOutgoing/
 date: 2021-01-11
-key: JavaJava.M.MessageInfo
+key: Java.M.MessageInfo
 category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: NTSidUserPrincipal.toString()
-permalink: Java/NTSidUserPrincipal/toString
+permalink: /Java/NTSidUserPrincipal/toString/
 date: 2021-01-11
-key: JavaJava.N.NTSidUserPrincipal
+key: Java.N.NTSidUserPrincipal
 category: Java
 tags: ['java se', 'com.sun.security.auth', 'jdk.security.auth', 'metodo java', 'Java 1.0']
 sidebar: 

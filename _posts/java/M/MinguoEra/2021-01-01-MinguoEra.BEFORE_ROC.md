@@ -1,8 +1,8 @@
 ---
 title: MinguoEra.BEFORE_ROC
-permalink: Java/MinguoEra/BEFORE_ROC
+permalink: /Java/MinguoEra/BEFORE_ROC/
 date: 2021-01-11
-key: JavaJava.M.MinguoEra
+key: Java.M.MinguoEra
 category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 

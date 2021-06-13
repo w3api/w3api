@@ -1,8 +1,8 @@
 ---
 title: MultiPopupMenuUI.getAccessibleChild()
-permalink: Java/MultiPopupMenuUI/getAccessibleChild
+permalink: /Java/MultiPopupMenuUI/getAccessibleChild/
 date: 2021-01-11
-key: JavaJava.M.MultiPopupMenuUI
+key: Java.M.MultiPopupMenuUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: MidiChannel.setSolo()
-permalink: Java/MidiChannel/setSolo
+permalink: /Java/MidiChannel/setSolo/
 date: 2021-01-11
-key: JavaJava.M.MidiChannel
+key: Java.M.MidiChannel
 category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

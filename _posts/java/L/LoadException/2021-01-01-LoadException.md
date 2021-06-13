@@ -1,9 +1,9 @@
 ---
 title: LoadException
-permalink: Java/LoadException
+permalink: /Java/LoadException/
 date: 2021-01-11
 key: Java.L.LoadException
-category: java
+category: Java
 tags: ['java se', 'javafx.fxml', 'javafx.fxml', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

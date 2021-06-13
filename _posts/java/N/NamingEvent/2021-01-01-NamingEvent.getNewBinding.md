@@ -1,8 +1,8 @@
 ---
 title: NamingEvent.getNewBinding()
-permalink: Java/NamingEvent/getNewBinding
+permalink: /Java/NamingEvent/getNewBinding/
 date: 2021-01-11
-key: JavaJava.N.NamingEvent
+key: Java.N.NamingEvent
 category: Java
 tags: ['java se', 'javax.naming.event', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
