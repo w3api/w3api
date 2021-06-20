@@ -10,15 +10,16 @@
     "constructores": [
         {
             "nombre": "Integer",
-            "description": "",
+            "description": "Permite construir un objeto [Integer](\/Java\/Integer) a partir de un valor num\u00E9rico o una cadena. En el caso de que no pueda convertir el valor pasado como par\u00E1metro se genera una [NumberFormatException](\/Java\/NumberFormatException\/).",
+            "code": "Integer entero = new Integer(4);\nSystem.out.println(entero.toString());",
             "parametros": [
                 {
                     "nombre": "int value",
-                    "description": ""
+                    "description": "Valor entero a partir del cual queremos construir nuestro objeto [Integer](\/Java\/Integer)"
                 },
                 {
                     "nombre": "String s",
-                    "description": ""
+                    "description": "Cadena de texto a partir del cual queremos construir nuestro objeto [Integer](\/Java\/Integer)."
                 }
             ]
         }
