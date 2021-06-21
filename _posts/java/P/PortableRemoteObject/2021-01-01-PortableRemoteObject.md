@@ -32,7 +32,7 @@ public class PortableRemoteObject extends Object
 {{ site.data.Java.P.PortableRemoteObject.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PortableRemoteObject.ldc -%}
    <li>

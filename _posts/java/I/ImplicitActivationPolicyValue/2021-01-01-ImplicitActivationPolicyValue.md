@@ -35,7 +35,7 @@ public class ImplicitActivationPolicyValue extends Object implements IDLEntity
 {{ site.data.Java.I.ImplicitActivationPolicyValue.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ImplicitActivationPolicyValue.ldc -%}
    <li>

@@ -29,7 +29,7 @@ WebAssembly
 {{ site.data.Javascript.W.WebAssembly.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.W.WebAssembly.ldc -%}
    <li>

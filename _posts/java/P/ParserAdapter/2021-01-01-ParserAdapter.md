@@ -48,7 +48,7 @@ public class ParserAdapter extends Object implements XMLReader, DocumentHandler
 {{ site.data.Java.P.ParserAdapter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParserAdapter.ldc -%}
    <li>

@@ -34,7 +34,7 @@ public final class JapaneseChronology extends AbstractChronology implements Seri
 {{ site.data.Java.J.JapaneseChronology.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JapaneseChronology.ldc -%}
    <li>

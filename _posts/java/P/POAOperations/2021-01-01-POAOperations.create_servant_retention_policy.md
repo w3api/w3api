@@ -30,7 +30,7 @@ ServantRetentionPolicy create_servant_retention_policy(ServantRetentionPolicyVal
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -35,7 +35,7 @@ public class InflaterOutputStream extends FilterOutputStream
 {{ site.data.Java.I.InflaterOutputStream.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InflaterOutputStream.ldc -%}
    <li>

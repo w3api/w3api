@@ -33,7 +33,7 @@ public final class PKCS12Attribute extends Object implements KeyStore.Entry.Attr
 {{ site.data.Java.P.PKCS12Attribute.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PKCS12Attribute.ldc -%}
    <li>

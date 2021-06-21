@@ -22,7 +22,7 @@ decodeURI()
 {{ site.data.Javascript.D.decodeURI.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.D.decodeURI.ldc -%}
    <li>

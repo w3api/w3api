@@ -33,7 +33,7 @@ public void setPrintService(PrintService service) throws PrinterException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

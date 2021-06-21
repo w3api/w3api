@@ -36,7 +36,7 @@ public static enum PopupWindow.AnchorLocation extends Enum<PopupWindow.AnchorLoc
 {{ site.data.Java.P.PopupWindow.AnchorLocation.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PopupWindow.AnchorLocation.ldc -%}
    <li>

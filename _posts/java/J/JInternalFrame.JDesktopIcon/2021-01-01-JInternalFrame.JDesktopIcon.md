@@ -35,7 +35,7 @@ public static class JInternalFrame.JDesktopIcon extends JComponent implements Ac
 {{ site.data.Java.J.JInternalFrame.JDesktopIcon.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JInternalFrame.JDesktopIcon.ldc -%}
    <li>

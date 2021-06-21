@@ -30,7 +30,7 @@ public final void getReds(byte[] r)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -27,7 +27,7 @@ public static interface IntStream.Builder extends IntConsumer
 {{ site.data.Java.I.IntStream.Builder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IntStream.Builder.ldc -%}
    <li>

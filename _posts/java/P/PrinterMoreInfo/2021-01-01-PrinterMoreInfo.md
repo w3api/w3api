@@ -30,7 +30,7 @@ public final class PrinterMoreInfo extends URISyntax implements PrintServiceAttr
 {{ site.data.Java.P.PrinterMoreInfo.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrinterMoreInfo.ldc -%}
    <li>

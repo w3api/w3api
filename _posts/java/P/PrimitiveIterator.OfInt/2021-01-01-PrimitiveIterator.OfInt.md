@@ -27,7 +27,7 @@ public static interface PrimitiveIterator.OfInt extends PrimitiveIterator<Intege
 {{ site.data.Java.P.PrimitiveIterator.OfInt.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrimitiveIterator.OfInt.ldc -%}
    <li>

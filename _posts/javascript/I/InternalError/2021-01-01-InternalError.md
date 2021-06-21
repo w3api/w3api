@@ -33,7 +33,7 @@ InternalError
 {{ site.data.Javascript.I.InternalError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.I.InternalError.ldc -%}
    <li>

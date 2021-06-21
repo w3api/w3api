@@ -38,7 +38,7 @@ public abstract class PKIXRevocationChecker extends PKIXCertPathChecker
 {{ site.data.Java.P.PKIXRevocationChecker.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PKIXRevocationChecker.ldc -%}
    <li>

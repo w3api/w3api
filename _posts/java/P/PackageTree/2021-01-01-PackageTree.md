@@ -26,7 +26,7 @@ public interface PackageTree extends Tree
 {{ site.data.Java.P.PackageTree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PackageTree.ldc -%}
    <li>

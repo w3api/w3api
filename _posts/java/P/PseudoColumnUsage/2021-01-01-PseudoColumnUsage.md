@@ -32,7 +32,7 @@ public enum PseudoColumnUsage extends Enum<PseudoColumnUsage>
 {{ site.data.Java.P.PseudoColumnUsage.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PseudoColumnUsage.ldc -%}
    <li>

@@ -30,7 +30,7 @@ public final class IsoFields extends Object
 {{ site.data.Java.I.IsoFields.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IsoFields.ldc -%}
    <li>

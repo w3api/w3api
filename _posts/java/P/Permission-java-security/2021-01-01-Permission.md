@@ -35,7 +35,7 @@ public abstract class Permission extends Object implements Guard, Serializable
 {{ site.data.Java.P.Permission-java-security.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.Permission-java-security.ldc -%}
    <li>

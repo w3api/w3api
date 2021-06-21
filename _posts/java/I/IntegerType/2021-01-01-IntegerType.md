@@ -22,7 +22,7 @@ public interface IntegerType extends PrimitiveType
 {{ site.data.Java.I.IntegerType.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IntegerType.ldc -%}
    <li>

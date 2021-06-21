@@ -27,7 +27,7 @@ public static interface JavaFileManager.Location
 {{ site.data.Java.J.JavaFileManager.Location.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JavaFileManager.Location.ldc -%}
    <li>

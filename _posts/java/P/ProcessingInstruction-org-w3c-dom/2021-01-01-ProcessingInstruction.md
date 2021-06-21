@@ -27,7 +27,7 @@ public interface ProcessingInstruction extends Node
 {{ site.data.Java.P.ProcessingInstruction-org-w3c-dom.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProcessingInstruction-org-w3c-dom.ldc -%}
    <li>

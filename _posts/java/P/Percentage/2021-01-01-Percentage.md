@@ -22,7 +22,7 @@ sidebar:
 {{ site.data.Java.P.Percentage.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.Percentage.ldc -%}
    <li>

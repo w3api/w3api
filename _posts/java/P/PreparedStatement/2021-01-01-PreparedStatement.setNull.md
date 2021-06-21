@@ -36,7 +36,7 @@ void setNull(int parameterIndex, int sqlType, String typeName) throws SQLExcepti
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

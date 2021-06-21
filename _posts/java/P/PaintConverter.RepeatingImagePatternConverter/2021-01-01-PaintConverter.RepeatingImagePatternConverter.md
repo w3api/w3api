@@ -25,7 +25,7 @@ public static final class PaintConverter.RepeatingImagePatternConverter extends 
 {{ site.data.Java.P.PaintConverter.RepeatingImagePatternConverter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PaintConverter.RepeatingImagePatternConverter.ldc -%}
    <li>

@@ -38,7 +38,7 @@ void setAsciiStream(int parameterIndex, InputStream x, long length) throws SQLEx
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

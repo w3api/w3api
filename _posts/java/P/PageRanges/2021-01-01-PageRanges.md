@@ -30,7 +30,7 @@ public final class PageRanges extends SetOfIntegerSyntax implements DocAttribute
 {{ site.data.Java.P.PageRanges.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PageRanges.ldc -%}
    <li>

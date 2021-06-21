@@ -30,7 +30,7 @@ void discard_requests(boolean wait_for_completion) throws AdapterInactive
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

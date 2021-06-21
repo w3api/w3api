@@ -27,7 +27,7 @@ Generator
 {{ site.data.Javascript.G.Generator.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.G.Generator.ldc -%}
    <li>

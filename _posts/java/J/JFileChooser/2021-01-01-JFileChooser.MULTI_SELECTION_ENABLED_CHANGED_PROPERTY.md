@@ -27,7 +27,7 @@ static String MULTI_SELECTION_ENABLED_CHANGED_PROPERTY
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

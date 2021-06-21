@@ -25,7 +25,7 @@ public interface IntersectionTypeTree extends Tree
 {{ site.data.Java.I.IntersectionTypeTree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IntersectionTypeTree.ldc -%}
    <li>

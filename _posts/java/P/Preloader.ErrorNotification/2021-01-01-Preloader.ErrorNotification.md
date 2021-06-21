@@ -31,7 +31,7 @@ public static class Preloader.ErrorNotification extends Object implements Preloa
 {{ site.data.Java.P.Preloader.ErrorNotification.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.Preloader.ErrorNotification.ldc -%}
    <li>

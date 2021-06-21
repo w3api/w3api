@@ -25,7 +25,7 @@ public interface JMXAddressable
 {{ site.data.Java.J.JMXAddressable.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JMXAddressable.ldc -%}
    <li>

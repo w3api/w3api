@@ -30,7 +30,7 @@ public final class PagesPerMinuteColor extends IntegerSyntax implements PrintSer
 {{ site.data.Java.P.PagesPerMinuteColor.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PagesPerMinuteColor.ldc -%}
    <li>

@@ -55,7 +55,7 @@ public class IndexColorModel extends ColorModel
 {{ site.data.Java.I.IndexColorModel.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IndexColorModel.ldc -%}
    <li>

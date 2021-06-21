@@ -30,7 +30,7 @@ protected void setLineSpacing(float ls)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

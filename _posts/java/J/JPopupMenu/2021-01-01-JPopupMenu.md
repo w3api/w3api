@@ -77,7 +77,7 @@ sidebar:
 {{ site.data.Java.J.JPopupMenu.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JPopupMenu.ldc -%}
    <li>

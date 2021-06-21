@@ -28,7 +28,7 @@ public final class ParameterModeHolder extends Object implements Streamable
 {{ site.data.Java.P.ParameterModeHolder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParameterModeHolder.ldc -%}
    <li>

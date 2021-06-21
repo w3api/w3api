@@ -25,7 +25,7 @@ public static final class InsetsConverter.SequenceConverter extends StyleConvert
 {{ site.data.Java.I.InsetsConverter.SequenceConverter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InsetsConverter.SequenceConverter.ldc -%}
    <li>

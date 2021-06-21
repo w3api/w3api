@@ -25,7 +25,7 @@ public interface ParenthesizedTree extends ExpressionTree
 {{ site.data.Java.P.ParenthesizedTree-jdk-nashorn-api-tree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParenthesizedTree-jdk-nashorn-api-tree.ldc -%}
    <li>

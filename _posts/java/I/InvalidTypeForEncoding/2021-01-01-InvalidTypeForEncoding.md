@@ -25,7 +25,7 @@ public final class InvalidTypeForEncoding extends UserException
 {{ site.data.Java.I.InvalidTypeForEncoding.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidTypeForEncoding.ldc -%}
    <li>

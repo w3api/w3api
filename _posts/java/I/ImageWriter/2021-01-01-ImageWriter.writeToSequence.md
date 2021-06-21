@@ -34,7 +34,7 @@ public void writeToSequence(IIOImage image, ImageWriteParam param) throws IOExce
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

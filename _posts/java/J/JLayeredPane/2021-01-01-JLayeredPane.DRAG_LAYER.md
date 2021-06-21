@@ -27,7 +27,7 @@ static Integer DRAG_LAYER
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

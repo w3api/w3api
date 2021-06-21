@@ -22,7 +22,7 @@ GeneratorFunction
 {{ site.data.Javascript.G.GeneratorFunction.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.G.GeneratorFunction.ldc -%}
    <li>

@@ -48,7 +48,7 @@ public final class PageAttributes extends Object implements Cloneable
 {{ site.data.Java.P.PageAttributes.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PageAttributes.ldc -%}
    <li>

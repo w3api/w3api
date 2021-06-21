@@ -66,7 +66,7 @@ public class PrinterStateReason extends EnumSyntax implements Attribute
 {{ site.data.Java.P.PrinterStateReason.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrinterStateReason.ldc -%}
    <li>

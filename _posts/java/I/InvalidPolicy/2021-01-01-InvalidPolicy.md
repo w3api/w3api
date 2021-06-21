@@ -28,7 +28,7 @@ public final class InvalidPolicy extends UserException
 {{ site.data.Java.I.InvalidPolicy.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidPolicy.ldc -%}
    <li>

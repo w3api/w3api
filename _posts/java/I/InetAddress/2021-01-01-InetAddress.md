@@ -47,7 +47,7 @@ public class InetAddress extends Object implements Serializable
 {{ site.data.Java.I.InetAddress.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InetAddress.ldc -%}
    <li>

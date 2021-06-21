@@ -39,7 +39,7 @@ public void prepareInsertEmpty(int imageIndex, ImageTypeSpecifier imageType, int
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

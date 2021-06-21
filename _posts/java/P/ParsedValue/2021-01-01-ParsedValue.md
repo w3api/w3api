@@ -36,7 +36,7 @@ public class ParsedValue<V,T> extends Object
 {{ site.data.Java.P.ParsedValue.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParsedValue.ldc -%}
    <li>

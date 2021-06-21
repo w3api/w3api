@@ -27,7 +27,7 @@ static String IS_MAXIMUM_PROPERTY
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

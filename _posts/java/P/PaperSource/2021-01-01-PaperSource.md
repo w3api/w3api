@@ -36,7 +36,7 @@ public final class PaperSource extends Object
 {{ site.data.Java.P.PaperSource.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PaperSource.ldc -%}
    <li>

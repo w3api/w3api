@@ -31,7 +31,7 @@ void deactivate(boolean etherealize_objects, boolean wait_for_completion) throws
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

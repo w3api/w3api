@@ -27,7 +27,7 @@ public static final PageOrientation REVERSE_LANDSCAPE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

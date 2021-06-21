@@ -27,7 +27,7 @@ public static interface PrimitiveIterator.OfLong extends PrimitiveIterator<Long,
 {{ site.data.Java.P.PrimitiveIterator.OfLong.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrimitiveIterator.OfLong.ldc -%}
    <li>

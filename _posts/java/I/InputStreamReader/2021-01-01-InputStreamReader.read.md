@@ -36,7 +36,7 @@ public int read(char[] cbuf, int offset, int length) throws IOException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

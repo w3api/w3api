@@ -31,7 +31,7 @@ public interface InternalFrameListener extends EventListener
 {{ site.data.Java.I.InternalFrameListener.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InternalFrameListener.ldc -%}
    <li>

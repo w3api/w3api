@@ -32,7 +32,7 @@ protected void firePropertyChange(String propertyName, Object oldValue, Object n
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

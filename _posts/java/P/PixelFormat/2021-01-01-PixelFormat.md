@@ -35,7 +35,7 @@ public abstract class PixelFormat<T extends Buffer> extends Object
 {{ site.data.Java.P.PixelFormat.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PixelFormat.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public class ProviderException extends RuntimeException
 {{ site.data.Java.P.ProviderException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProviderException.ldc -%}
    <li>

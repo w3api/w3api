@@ -29,7 +29,7 @@ AggregateError
 {{ site.data.Javascript.A.AggregateError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.A.AggregateError.ldc -%}
    <li>

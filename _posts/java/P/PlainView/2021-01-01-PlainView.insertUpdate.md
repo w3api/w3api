@@ -32,7 +32,7 @@ public void insertUpdate(DocumentEvent changes, Shape a, ViewFactory f)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

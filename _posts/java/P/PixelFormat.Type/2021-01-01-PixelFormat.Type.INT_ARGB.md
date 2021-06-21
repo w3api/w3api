@@ -27,7 +27,7 @@ public static final PixelFormat.Type INT_ARGB_PRE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

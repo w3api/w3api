@@ -34,7 +34,7 @@ public void initialize(Subject subject, CallbackHandler callbackHandler, Map<Str
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

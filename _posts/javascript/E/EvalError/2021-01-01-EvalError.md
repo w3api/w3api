@@ -33,7 +33,7 @@ EvalError
 {{ site.data.Javascript.E.EvalError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.E.EvalError.ldc -%}
    <li>

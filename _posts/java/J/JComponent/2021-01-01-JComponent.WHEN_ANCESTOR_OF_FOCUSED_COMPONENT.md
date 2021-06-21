@@ -27,7 +27,7 @@ static int WHEN_ANCESTOR_OF_FOCUSED_COMPONENT
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

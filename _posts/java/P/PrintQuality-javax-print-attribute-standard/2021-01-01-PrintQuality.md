@@ -37,7 +37,7 @@ public class PrintQuality extends EnumSyntax implements DocAttribute, PrintReque
 {{ site.data.Java.P.PrintQuality-javax-print-attribute-standard.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintQuality-javax-print-attribute-standard.ldc -%}
    <li>

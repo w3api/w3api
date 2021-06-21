@@ -26,7 +26,7 @@ public class PointerInfo extends Object
 {{ site.data.Java.P.PointerInfo.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PointerInfo.ldc -%}
    <li>

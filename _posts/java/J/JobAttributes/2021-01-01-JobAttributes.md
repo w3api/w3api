@@ -61,7 +61,7 @@ public final class JobAttributes extends Object implements Cloneable
 {{ site.data.Java.J.JobAttributes.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JobAttributes.ldc -%}
    <li>

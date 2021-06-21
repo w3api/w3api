@@ -27,7 +27,7 @@ static String PROTOCOL_PROVIDER_CLASS_LOADER
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

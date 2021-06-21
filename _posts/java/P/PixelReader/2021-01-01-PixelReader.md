@@ -28,7 +28,7 @@ public interface PixelReader
 {{ site.data.Java.P.PixelReader.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PixelReader.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public interface InvocationHandler
 {{ site.data.Java.I.InvocationHandler.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvocationHandler.ldc -%}
    <li>

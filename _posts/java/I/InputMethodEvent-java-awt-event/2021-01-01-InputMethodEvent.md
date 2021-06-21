@@ -41,7 +41,7 @@ public class InputMethodEvent extends AWTEvent
 {{ site.data.Java.I.InputMethodEvent-java-awt-event.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InputMethodEvent-java-awt-event.ldc -%}
    <li>

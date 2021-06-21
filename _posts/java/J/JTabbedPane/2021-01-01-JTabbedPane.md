@@ -92,7 +92,7 @@ sidebar:
 {{ site.data.Java.J.JTabbedPane.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JTabbedPane.ldc -%}
    <li>

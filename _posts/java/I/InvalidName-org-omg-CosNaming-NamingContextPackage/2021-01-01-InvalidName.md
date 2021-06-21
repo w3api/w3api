@@ -25,7 +25,7 @@ public final class InvalidName extends UserException
 {{ site.data.Java.I.InvalidName-org-omg-CosNaming-NamingContextPackage.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidName-org-omg-CosNaming-NamingContextPackage.ldc -%}
    <li>

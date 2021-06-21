@@ -64,7 +64,7 @@ public interface IntStream extends BaseStream<Integer,IntStream>
 {{ site.data.Java.I.IntStream.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IntStream.ldc -%}
    <li>

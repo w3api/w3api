@@ -30,7 +30,7 @@ public class InputStreamReader extends Reader
 {{ site.data.Java.I.InputStreamReader.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InputStreamReader.ldc -%}
    <li>

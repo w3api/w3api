@@ -32,7 +32,7 @@ public class PasswordCallback extends Object implements Callback, Serializable
 {{ site.data.Java.P.PasswordCallback.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PasswordCallback.ldc -%}
    <li>

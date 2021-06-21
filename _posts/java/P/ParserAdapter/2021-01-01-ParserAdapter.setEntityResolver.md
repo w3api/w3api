@@ -30,7 +30,7 @@ public void setEntityResolver(EntityResolver resolver)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

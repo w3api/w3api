@@ -36,7 +36,7 @@ public void replacePixels(RenderedImage image, ImageWriteParam param) throws IOE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

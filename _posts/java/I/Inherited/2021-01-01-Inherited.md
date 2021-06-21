@@ -22,7 +22,7 @@ sidebar:
 {{ site.data.Java.I.Inherited.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.Inherited.ldc -%}
    <li>

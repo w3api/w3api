@@ -33,7 +33,7 @@ public static InetAddress getByName(String host) throws UnknownHostException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

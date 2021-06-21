@@ -31,7 +31,7 @@ public final class PageRange extends Object
 {{ site.data.Java.P.PageRange.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PageRange.ldc -%}
    <li>

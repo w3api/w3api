@@ -48,7 +48,7 @@ public class PlainView extends View implements TabExpander
 {{ site.data.Java.P.PlainView.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PlainView.ldc -%}
    <li>

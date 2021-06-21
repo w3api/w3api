@@ -32,7 +32,7 @@ public class PBEKeySpec extends Object implements KeySpec
 {{ site.data.Java.P.PBEKeySpec.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PBEKeySpec.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public class InvalidParameterException extends IllegalArgumentException
 {{ site.data.Java.I.InvalidParameterException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidParameterException.ldc -%}
    <li>

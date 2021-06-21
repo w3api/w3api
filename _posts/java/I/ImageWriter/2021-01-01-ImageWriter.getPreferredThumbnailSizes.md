@@ -33,7 +33,7 @@ public Dimension[] getPreferredThumbnailSizes(ImageTypeSpecifier imageType, Imag
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

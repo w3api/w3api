@@ -41,7 +41,7 @@ public InputMethodEvent(Component source, int id, AttributedCharacterIterator te
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

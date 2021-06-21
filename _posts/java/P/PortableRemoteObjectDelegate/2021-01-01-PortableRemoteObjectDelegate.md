@@ -29,7 +29,7 @@ public interface PortableRemoteObjectDelegate
 {{ site.data.Java.P.PortableRemoteObjectDelegate.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PortableRemoteObjectDelegate.ldc -%}
    <li>

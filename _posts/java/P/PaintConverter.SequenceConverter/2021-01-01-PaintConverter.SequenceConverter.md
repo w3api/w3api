@@ -25,7 +25,7 @@ public static final class PaintConverter.SequenceConverter extends StyleConverte
 {{ site.data.Java.P.PaintConverter.SequenceConverter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PaintConverter.SequenceConverter.ldc -%}
    <li>

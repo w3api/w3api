@@ -25,7 +25,7 @@ public class InvalidAttributeValueException extends OperationsException
 {{ site.data.Java.I.InvalidAttributeValueException-javax-management.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidAttributeValueException-javax-management.ldc -%}
    <li>

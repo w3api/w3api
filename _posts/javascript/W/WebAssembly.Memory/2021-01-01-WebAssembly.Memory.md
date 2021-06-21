@@ -31,7 +31,7 @@ WebAssembly.Memory
 {{ site.data.Javascript.W.WebAssembly.Memory.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.W.WebAssembly.Memory.ldc -%}
    <li>

@@ -22,7 +22,7 @@ parseFloat()
 {{ site.data.Javascript.P.parseFloat.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.P.parseFloat.ldc -%}
    <li>

@@ -34,7 +34,7 @@ JavaShellToolBuilder out(PrintStream cmdOut, PrintStream console, PrintStream us
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

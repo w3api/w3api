@@ -30,7 +30,7 @@ public final class JobPriority extends IntegerSyntax implements PrintRequestAttr
 {{ site.data.Java.J.JobPriority.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JobPriority.ldc -%}
    <li>

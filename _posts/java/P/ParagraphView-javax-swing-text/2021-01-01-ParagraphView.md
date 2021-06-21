@@ -53,7 +53,7 @@ public class ParagraphView extends FlowView implements TabExpander
 {{ site.data.Java.P.ParagraphView-javax-swing-text.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParagraphView-javax-swing-text.ldc -%}
    <li>

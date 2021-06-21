@@ -29,7 +29,7 @@ public class PropertyChangeListenerProxy extends EventListenerProxy<PropertyChan
 {{ site.data.Java.P.PropertyChangeListenerProxy.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PropertyChangeListenerProxy.ldc -%}
    <li>

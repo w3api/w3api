@@ -41,7 +41,7 @@ public JOptionPane(Object message, int messageType, int optionType, Icon icon, O
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

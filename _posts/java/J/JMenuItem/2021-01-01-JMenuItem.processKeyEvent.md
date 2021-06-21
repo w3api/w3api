@@ -32,7 +32,7 @@ public void processKeyEvent(KeyEvent e, MenuElement[] path, MenuSelectionManager
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

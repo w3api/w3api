@@ -35,7 +35,7 @@ public class PSSParameterSpec extends Object implements AlgorithmParameterSpec
 {{ site.data.Java.P.PSSParameterSpec.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PSSParameterSpec.ldc -%}
    <li>

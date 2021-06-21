@@ -162,7 +162,7 @@ sidebar:
 {{ site.data.Java.J.JComponent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JComponent.ldc -%}
    <li>

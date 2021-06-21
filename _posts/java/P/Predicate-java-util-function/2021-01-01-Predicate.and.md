@@ -33,7 +33,7 @@ default Predicate<T> and(Predicate<? super T> other)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

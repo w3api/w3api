@@ -25,7 +25,7 @@ public interface JMXConnectorServerProvider
 {{ site.data.Java.J.JMXConnectorServerProvider.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JMXConnectorServerProvider.ldc -%}
    <li>

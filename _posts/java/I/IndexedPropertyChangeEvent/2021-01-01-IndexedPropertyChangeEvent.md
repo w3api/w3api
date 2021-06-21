@@ -28,7 +28,7 @@ public class IndexedPropertyChangeEvent extends PropertyChangeEvent
 {{ site.data.Java.I.IndexedPropertyChangeEvent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IndexedPropertyChangeEvent.ldc -%}
    <li>

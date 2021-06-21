@@ -55,7 +55,7 @@ public interface POAOperations
 {{ site.data.Java.P.POAOperations.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.POAOperations.ldc -%}
    <li>

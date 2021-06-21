@@ -27,7 +27,7 @@ public static final PKIXRevocationChecker.Option NO_FALLBACK
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

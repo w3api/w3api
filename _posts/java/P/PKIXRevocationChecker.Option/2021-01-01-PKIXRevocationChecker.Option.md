@@ -32,7 +32,7 @@ public static enum PKIXRevocationChecker.Option extends Enum<PKIXRevocationCheck
 {{ site.data.Java.P.PKIXRevocationChecker.Option.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PKIXRevocationChecker.Option.ldc -%}
    <li>

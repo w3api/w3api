@@ -36,7 +36,7 @@ new Uint8ClampedArray(); // new in ES2017 new Uint8ClampedArray(length); new Uin
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

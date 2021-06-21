@@ -32,7 +32,7 @@ public enum PageOrientation extends Enum<PageOrientation>
 {{ site.data.Java.P.PageOrientation.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PageOrientation.ldc -%}
    <li>

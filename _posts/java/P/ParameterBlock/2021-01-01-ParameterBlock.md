@@ -57,7 +57,7 @@ public class ParameterBlock extends Object implements Cloneable, Serializable
 {{ site.data.Java.P.ParameterBlock.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParameterBlock.ldc -%}
    <li>

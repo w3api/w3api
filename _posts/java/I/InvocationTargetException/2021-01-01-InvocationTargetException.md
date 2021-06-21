@@ -29,7 +29,7 @@ public class InvocationTargetException extends ReflectiveOperationException
 {{ site.data.Java.I.InvocationTargetException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvocationTargetException.ldc -%}
    <li>

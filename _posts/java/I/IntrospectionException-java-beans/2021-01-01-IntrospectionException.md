@@ -25,7 +25,7 @@ public class IntrospectionException extends Exception
 {{ site.data.Java.I.IntrospectionException-java-beans.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IntrospectionException-java-beans.ldc -%}
    <li>

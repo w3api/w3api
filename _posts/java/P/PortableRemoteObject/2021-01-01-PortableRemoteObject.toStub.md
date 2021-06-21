@@ -33,7 +33,7 @@ public static Remote toStub(Remote obj) throws NoSuchObjectException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

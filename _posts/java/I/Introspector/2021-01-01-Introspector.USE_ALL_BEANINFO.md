@@ -27,7 +27,7 @@ static int USE_ALL_BEANINFO
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

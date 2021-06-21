@@ -25,7 +25,7 @@ public class InvalidKeyException extends IllegalArgumentException
 {{ site.data.Java.I.InvalidKeyException-javax-management-openmbean.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidKeyException-javax-management-openmbean.ldc -%}
    <li>

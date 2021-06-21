@@ -31,7 +31,7 @@ public float nextTabStop(float x, int tabOffset)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

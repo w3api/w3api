@@ -41,7 +41,7 @@ public class PrintWriter extends Writer
 {{ site.data.Java.P.PrintWriter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintWriter.ldc -%}
    <li>

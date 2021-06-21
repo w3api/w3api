@@ -33,7 +33,7 @@ public abstract class InvalidNameHelper extends Object
 {{ site.data.Java.I.InvalidNameHelper-org-omg-CORBA-ORBPackage.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidNameHelper-org-omg-CORBA-ORBPackage.ldc -%}
    <li>

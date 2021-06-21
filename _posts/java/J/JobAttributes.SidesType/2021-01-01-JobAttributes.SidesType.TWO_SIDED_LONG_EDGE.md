@@ -27,7 +27,7 @@ static JobAttributes.SidesType TWO_SIDED_LONG_EDGE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -22,7 +22,7 @@ public interface PrimitiveType extends TypeMirror
 {{ site.data.Java.P.PrimitiveType-javax-lang-model-type.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrimitiveType-javax-lang-model-type.ldc -%}
    <li>

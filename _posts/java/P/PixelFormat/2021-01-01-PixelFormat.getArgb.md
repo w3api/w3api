@@ -33,7 +33,7 @@ public abstract int getArgb(T buf, int x, int y, int scanlineStride)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

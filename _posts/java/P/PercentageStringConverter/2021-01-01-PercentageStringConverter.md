@@ -25,7 +25,7 @@ public class PercentageStringConverter extends NumberStringConverter
 {{ site.data.Java.P.PercentageStringConverter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PercentageStringConverter.ldc -%}
    <li>

@@ -37,7 +37,7 @@ protected float drawEchoCharacter(Graphics2D g, float x, float y, char c)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

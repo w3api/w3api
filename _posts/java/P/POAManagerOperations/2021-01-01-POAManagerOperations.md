@@ -29,7 +29,7 @@ public interface POAManagerOperations
 {{ site.data.Java.P.POAManagerOperations.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.POAManagerOperations.ldc -%}
    <li>

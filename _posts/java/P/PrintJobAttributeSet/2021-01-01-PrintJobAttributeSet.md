@@ -26,7 +26,7 @@ public interface PrintJobAttributeSet extends AttributeSet
 {{ site.data.Java.P.PrintJobAttributeSet.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintJobAttributeSet.ldc -%}
    <li>

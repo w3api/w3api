@@ -28,7 +28,7 @@ public class ProgressIndicatorSkin extends SkinBase<ProgressIndicator>
 {{ site.data.Java.P.ProgressIndicatorSkin.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProgressIndicatorSkin.ldc -%}
    <li>

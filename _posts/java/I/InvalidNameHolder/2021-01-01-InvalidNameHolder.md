@@ -28,7 +28,7 @@ public final class InvalidNameHolder extends Object implements Streamable
 {{ site.data.Java.I.InvalidNameHolder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidNameHolder.ldc -%}
    <li>

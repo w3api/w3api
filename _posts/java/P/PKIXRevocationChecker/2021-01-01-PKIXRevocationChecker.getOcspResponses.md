@@ -27,7 +27,7 @@ public Map<X509Certificate,byte[]> getOcspResponses()
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

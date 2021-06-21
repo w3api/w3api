@@ -33,7 +33,7 @@ public class PropertyChangeSupport extends Object implements Serializable
 {{ site.data.Java.P.PropertyChangeSupport.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PropertyChangeSupport.ldc -%}
    <li>

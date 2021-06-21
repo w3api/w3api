@@ -25,7 +25,7 @@ public final class InvalidAddress extends UserException
 {{ site.data.Java.I.InvalidAddress.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidAddress.ldc -%}
    <li>

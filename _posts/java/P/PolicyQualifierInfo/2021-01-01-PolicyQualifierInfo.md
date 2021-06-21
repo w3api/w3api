@@ -31,7 +31,7 @@ public class PolicyQualifierInfo extends Object
 {{ site.data.Java.P.PolicyQualifierInfo.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PolicyQualifierInfo.ldc -%}
    <li>

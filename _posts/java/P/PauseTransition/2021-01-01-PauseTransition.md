@@ -30,7 +30,7 @@ public final class PauseTransition extends Transition
 {{ site.data.Java.P.PauseTransition.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PauseTransition.ldc -%}
    <li>

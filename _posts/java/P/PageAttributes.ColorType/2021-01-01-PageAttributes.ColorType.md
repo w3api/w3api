@@ -30,7 +30,7 @@ public static final class PageAttributes.ColorType extends Object
 {{ site.data.Java.P.PageAttributes.ColorType.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PageAttributes.ColorType.ldc -%}
    <li>

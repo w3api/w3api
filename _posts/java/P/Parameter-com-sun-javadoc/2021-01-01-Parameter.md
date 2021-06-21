@@ -29,7 +29,7 @@ sidebar:
 {{ site.data.Java.P.Parameter-com-sun-javadoc.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.Parameter-com-sun-javadoc.ldc -%}
    <li>

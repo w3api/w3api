@@ -47,7 +47,7 @@ public abstract class PrinterJob extends Object
 {{ site.data.Java.P.PrinterJob-java-awt-print.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrinterJob-java-awt-print.ldc -%}
    <li>

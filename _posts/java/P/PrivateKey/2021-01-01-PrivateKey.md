@@ -25,7 +25,7 @@ public interface PrivateKey extends Key, Destroyable
 {{ site.data.Java.P.PrivateKey.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrivateKey.ldc -%}
    <li>

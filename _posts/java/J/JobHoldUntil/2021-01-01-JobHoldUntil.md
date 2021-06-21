@@ -30,7 +30,7 @@ public final class JobHoldUntil extends DateTimeSyntax implements PrintRequestAt
 {{ site.data.Java.J.JobHoldUntil.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JobHoldUntil.ldc -%}
    <li>

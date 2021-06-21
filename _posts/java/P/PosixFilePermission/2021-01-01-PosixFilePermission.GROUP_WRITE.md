@@ -27,7 +27,7 @@ public static final PosixFilePermission GROUP_WRITE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

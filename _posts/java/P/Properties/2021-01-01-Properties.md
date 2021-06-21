@@ -40,7 +40,7 @@ public class Properties extends Hashtable<Object,Object>
 {{ site.data.Java.P.Properties.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.Properties.ldc -%}
    <li>

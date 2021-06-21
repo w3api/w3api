@@ -28,7 +28,7 @@ public class InputEvent extends Event
 {{ site.data.Java.I.InputEvent-javafx-scene-input.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InputEvent-javafx-scene-input.ldc -%}
    <li>

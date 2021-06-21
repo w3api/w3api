@@ -30,7 +30,7 @@ public abstract class PeerAddressChangeNotification extends Object implements No
 {{ site.data.Java.P.PeerAddressChangeNotification.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PeerAddressChangeNotification.ldc -%}
    <li>

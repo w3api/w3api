@@ -25,7 +25,7 @@ public interface PrivilegedAction<T>
 {{ site.data.Java.P.PrivilegedAction.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrivilegedAction.ldc -%}
    <li>

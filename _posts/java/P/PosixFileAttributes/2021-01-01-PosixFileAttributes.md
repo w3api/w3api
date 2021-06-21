@@ -27,7 +27,7 @@ public interface PosixFileAttributes extends BasicFileAttributes
 {{ site.data.Java.P.PosixFileAttributes.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PosixFileAttributes.ldc -%}
    <li>

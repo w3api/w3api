@@ -27,7 +27,7 @@ public static final class JTextComponent.DropLocation extends TransferHandler.Dr
 {{ site.data.Java.J.JTextComponent.DropLocation.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JTextComponent.DropLocation.ldc -%}
    <li>

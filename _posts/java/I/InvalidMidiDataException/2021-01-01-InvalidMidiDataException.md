@@ -25,7 +25,7 @@ public class InvalidMidiDataException extends Exception
 {{ site.data.Java.I.InvalidMidiDataException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidMidiDataException.ldc -%}
    <li>

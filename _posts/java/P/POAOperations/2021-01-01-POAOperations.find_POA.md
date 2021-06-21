@@ -31,7 +31,7 @@ POA find_POA(String adapter_name, boolean activate_it) throws AdapterNonExistent
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

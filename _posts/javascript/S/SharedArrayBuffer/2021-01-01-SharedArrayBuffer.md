@@ -31,7 +31,7 @@ SharedArrayBuffer
 {{ site.data.Javascript.S.SharedArrayBuffer.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.S.SharedArrayBuffer.ldc -%}
    <li>

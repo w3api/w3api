@@ -35,7 +35,7 @@ public Shape modelToView(int pos, Shape a, Position.Bias b) throws BadLocationEx
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -33,7 +33,7 @@ public int getMnemonicAt(int tabIndex)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

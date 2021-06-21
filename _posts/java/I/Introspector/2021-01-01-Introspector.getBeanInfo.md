@@ -38,7 +38,7 @@ public static BeanInfo getBeanInfo(Class<?> beanClass, Class<?> stopClass, int f
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

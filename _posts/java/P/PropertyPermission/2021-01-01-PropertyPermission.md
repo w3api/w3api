@@ -32,7 +32,7 @@ public final class PropertyPermission extends BasicPermission
 {{ site.data.Java.P.PropertyPermission.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PropertyPermission.ldc -%}
    <li>

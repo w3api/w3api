@@ -38,7 +38,7 @@ void setBinaryStream(int parameterIndex, InputStream x, long length) throws SQLE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

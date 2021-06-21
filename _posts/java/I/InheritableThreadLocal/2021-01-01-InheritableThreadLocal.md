@@ -28,7 +28,7 @@ public class InheritableThreadLocal<T> extends ThreadLocal<T>
 {{ site.data.Java.I.InheritableThreadLocal.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InheritableThreadLocal.ldc -%}
    <li>

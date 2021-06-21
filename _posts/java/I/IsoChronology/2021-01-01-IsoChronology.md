@@ -39,7 +39,7 @@ public final class IsoChronology extends AbstractChronology implements Serializa
 {{ site.data.Java.I.IsoChronology.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IsoChronology.ldc -%}
    <li>

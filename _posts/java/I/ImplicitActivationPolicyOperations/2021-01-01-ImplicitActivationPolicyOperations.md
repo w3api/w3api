@@ -25,7 +25,7 @@ public interface ImplicitActivationPolicyOperations extends PolicyOperations
 {{ site.data.Java.I.ImplicitActivationPolicyOperations.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ImplicitActivationPolicyOperations.ldc -%}
    <li>

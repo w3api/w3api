@@ -26,7 +26,7 @@ sidebar:
 {{ site.data.Java.P.Permission-java-security-acl.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.Permission-java-security-acl.ldc -%}
    <li>

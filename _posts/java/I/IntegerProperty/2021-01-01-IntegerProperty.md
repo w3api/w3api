@@ -30,7 +30,7 @@ public abstract class IntegerProperty extends ReadOnlyIntegerProperty implements
 {{ site.data.Java.I.IntegerProperty.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IntegerProperty.ldc -%}
    <li>

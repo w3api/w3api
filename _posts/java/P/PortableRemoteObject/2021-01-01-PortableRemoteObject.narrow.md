@@ -34,7 +34,7 @@ public static Object narrow(Object narrowFrom, Class narrowTo) throws ClassCastE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

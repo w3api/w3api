@@ -28,7 +28,7 @@ public class ProgressBar extends ProgressIndicator
 {{ site.data.Java.P.ProgressBar.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProgressBar.ldc -%}
    <li>

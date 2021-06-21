@@ -30,7 +30,7 @@ public abstract class PolicySpi extends Object
 {{ site.data.Java.P.PolicySpi.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PolicySpi.ldc -%}
    <li>

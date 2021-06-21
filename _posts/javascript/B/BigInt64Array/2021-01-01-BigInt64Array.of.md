@@ -32,7 +32,7 @@ TypedArray.of(element0[, element1[, ...[, elementN]]])
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

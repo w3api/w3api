@@ -25,7 +25,7 @@ public interface PolicyFactoryOperations
 {{ site.data.Java.P.PolicyFactoryOperations.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PolicyFactoryOperations.ldc -%}
    <li>

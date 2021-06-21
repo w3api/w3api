@@ -33,7 +33,7 @@ TypeError
 {{ site.data.Javascript.T.TypeError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.T.TypeError.ldc -%}
    <li>

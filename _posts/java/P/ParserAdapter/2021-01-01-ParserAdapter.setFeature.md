@@ -34,7 +34,7 @@ public void setFeature(String name, boolean value) throws SAXNotRecognizedExcept
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

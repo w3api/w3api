@@ -25,7 +25,7 @@ public final class InsetsConverter extends StyleConverter<ParsedValue[],Insets>
 {{ site.data.Java.I.InsetsConverter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InsetsConverter.ldc -%}
    <li>

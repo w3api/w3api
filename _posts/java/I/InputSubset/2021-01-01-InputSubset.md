@@ -33,7 +33,7 @@ public final class InputSubset extends Character.Subset
 {{ site.data.Java.I.InputSubset.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InputSubset.ldc -%}
    <li>

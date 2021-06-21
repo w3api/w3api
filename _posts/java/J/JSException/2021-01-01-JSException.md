@@ -25,7 +25,7 @@ public class JSException extends RuntimeException
 {{ site.data.Java.J.JSException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JSException.ldc -%}
    <li>

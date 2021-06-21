@@ -31,7 +31,7 @@ public static enum Preloader.StateChangeNotification.Type extends Enum<Preloader
 {{ site.data.Java.P.Preloader.StateChangeNotification.Type.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.Preloader.StateChangeNotification.Type.ldc -%}
    <li>

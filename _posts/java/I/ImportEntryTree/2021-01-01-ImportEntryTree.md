@@ -27,7 +27,7 @@ public interface ImportEntryTree extends Tree
 {{ site.data.Java.I.ImportEntryTree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ImportEntryTree.ldc -%}
    <li>

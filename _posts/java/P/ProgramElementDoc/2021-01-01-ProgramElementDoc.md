@@ -36,7 +36,7 @@ sidebar:
 {{ site.data.Java.P.ProgramElementDoc.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProgramElementDoc.ldc -%}
    <li>

@@ -36,7 +36,7 @@ public boolean isReachable(NetworkInterface netif, int ttl, int timeout) throws 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

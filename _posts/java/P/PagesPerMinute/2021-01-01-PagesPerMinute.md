@@ -30,7 +30,7 @@ public final class PagesPerMinute extends IntegerSyntax implements PrintServiceA
 {{ site.data.Java.P.PagesPerMinute.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PagesPerMinute.ldc -%}
    <li>

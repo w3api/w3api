@@ -27,7 +27,7 @@ public static interface PrimitiveIterator.OfDouble extends PrimitiveIterator<Dou
 {{ site.data.Java.P.PrimitiveIterator.OfDouble.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrimitiveIterator.OfDouble.ldc -%}
    <li>

@@ -32,7 +32,7 @@ POA create_POA(String adapter_name, POAManager a_POAManager, Policy[] policies) 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

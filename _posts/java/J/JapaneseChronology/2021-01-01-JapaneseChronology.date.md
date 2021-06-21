@@ -38,7 +38,7 @@ public JapaneseDate date(Era era, int yearOfEra, int month, int dayOfMonth)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

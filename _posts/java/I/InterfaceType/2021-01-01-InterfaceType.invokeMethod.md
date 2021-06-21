@@ -36,7 +36,7 @@ default Value invokeMethod(ThreadReference thread, Method method, List<? extends
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -35,7 +35,7 @@ public class Introspector extends Object
 {{ site.data.Java.I.Introspector.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.Introspector.ldc -%}
    <li>

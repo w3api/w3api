@@ -25,7 +25,7 @@ public interface PrimitiveTypeTree extends Tree
 {{ site.data.Java.P.PrimitiveTypeTree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrimitiveTypeTree.ldc -%}
    <li>

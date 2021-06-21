@@ -39,7 +39,7 @@ public final class PathTransition extends Transition
 {{ site.data.Java.P.PathTransition.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PathTransition.ldc -%}
    <li>

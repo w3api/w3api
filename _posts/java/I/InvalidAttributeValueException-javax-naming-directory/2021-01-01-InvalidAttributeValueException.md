@@ -25,7 +25,7 @@ public class InvalidAttributeValueException extends NamingException
 {{ site.data.Java.I.InvalidAttributeValueException-javax-naming-directory.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidAttributeValueException-javax-naming-directory.ldc -%}
    <li>

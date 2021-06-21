@@ -25,7 +25,7 @@ public class InvalidAttributeIdentifierException extends NamingException
 {{ site.data.Java.I.InvalidAttributeIdentifierException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidAttributeIdentifierException.ldc -%}
    <li>

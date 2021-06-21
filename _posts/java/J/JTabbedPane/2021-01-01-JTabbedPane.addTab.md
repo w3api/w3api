@@ -35,7 +35,7 @@ public void addTab(String title, Icon icon, Component component, String tip)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

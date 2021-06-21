@@ -28,7 +28,7 @@ WebAssembly.Instance
 {{ site.data.Javascript.W.WebAssembly.Instance.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.W.WebAssembly.Instance.ldc -%}
    <li>

@@ -28,7 +28,7 @@ public class PaginationSkin extends SkinBase<Pagination>
 {{ site.data.Java.P.PaginationSkin.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PaginationSkin.ldc -%}
    <li>

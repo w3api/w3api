@@ -25,7 +25,7 @@ public interface PlatformManagedObject
 {{ site.data.Java.P.PlatformManagedObject.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PlatformManagedObject.ldc -%}
    <li>

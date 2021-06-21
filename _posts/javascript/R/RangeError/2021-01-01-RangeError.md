@@ -33,7 +33,7 @@ RangeError
 {{ site.data.Javascript.R.RangeError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.R.RangeError.ldc -%}
    <li>

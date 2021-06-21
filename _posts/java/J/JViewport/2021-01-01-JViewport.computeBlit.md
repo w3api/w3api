@@ -35,7 +35,7 @@ protected boolean computeBlit(int dx, int dy, Point blitFrom, Point blitTo, Dime
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

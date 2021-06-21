@@ -25,7 +25,7 @@ public static final class JAXBElement.GlobalScope extends Object
 {{ site.data.Java.J.JAXBElement.GlobalScope.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JAXBElement.GlobalScope.ldc -%}
    <li>

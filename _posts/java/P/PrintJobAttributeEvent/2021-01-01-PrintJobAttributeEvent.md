@@ -29,7 +29,7 @@ public class PrintJobAttributeEvent extends PrintEvent
 {{ site.data.Java.P.PrintJobAttributeEvent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintJobAttributeEvent.ldc -%}
    <li>

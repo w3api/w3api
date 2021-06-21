@@ -30,7 +30,7 @@ public static interface ProcessHandle.Info
 {{ site.data.Java.P.ProcessHandle.Info.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProcessHandle.Info.ldc -%}
    <li>

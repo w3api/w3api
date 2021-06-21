@@ -37,7 +37,7 @@ public enum PosixFilePermission extends Enum<PosixFilePermission>
 {{ site.data.Java.P.PosixFilePermission.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PosixFilePermission.ldc -%}
    <li>

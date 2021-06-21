@@ -33,7 +33,7 @@ ReferenceError
 {{ site.data.Javascript.R.ReferenceError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.R.ReferenceError.ldc -%}
    <li>

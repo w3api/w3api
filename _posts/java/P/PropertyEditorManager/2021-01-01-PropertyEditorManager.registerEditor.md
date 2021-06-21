@@ -34,7 +34,7 @@ public static void registerEditor(Class<?> targetType, Class<?> editorClass)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

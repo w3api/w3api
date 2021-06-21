@@ -26,7 +26,7 @@ public interface InstanceOfTree extends ExpressionTree
 {{ site.data.Java.I.InstanceOfTree-jdk-nashorn-api-tree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InstanceOfTree-jdk-nashorn-api-tree.ldc -%}
    <li>

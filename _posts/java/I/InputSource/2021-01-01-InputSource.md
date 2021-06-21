@@ -38,7 +38,7 @@ public class InputSource extends Object
 {{ site.data.Java.I.InputSource.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InputSource.ldc -%}
    <li>

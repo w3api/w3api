@@ -25,7 +25,7 @@ public class InvalidTypeException extends Exception
 {{ site.data.Java.I.InvalidTypeException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidTypeException.ldc -%}
    <li>

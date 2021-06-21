@@ -29,7 +29,7 @@ public interface Principal
 {{ site.data.Java.P.Principal-java-security.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.Principal-java-security.ldc -%}
    <li>

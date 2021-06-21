@@ -25,7 +25,7 @@ public class JMXServerErrorException extends IOException
 {{ site.data.Java.J.JMXServerErrorException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JMXServerErrorException.ldc -%}
    <li>

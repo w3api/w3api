@@ -32,7 +32,7 @@ public PathIterator getPathIterator(AffineTransform at, double flatness)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

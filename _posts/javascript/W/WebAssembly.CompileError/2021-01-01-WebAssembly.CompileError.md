@@ -37,7 +37,7 @@ WebAssembly.CompileError
 {{ site.data.Javascript.W.WebAssembly.CompileError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.W.WebAssembly.CompileError.ldc -%}
    <li>

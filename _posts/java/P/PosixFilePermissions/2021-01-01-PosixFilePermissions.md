@@ -27,7 +27,7 @@ public final class PosixFilePermissions extends Object
 {{ site.data.Java.P.PosixFilePermissions.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PosixFilePermissions.ldc -%}
    <li>

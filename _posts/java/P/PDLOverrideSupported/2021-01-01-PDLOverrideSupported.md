@@ -35,7 +35,7 @@ public class PDLOverrideSupported extends EnumSyntax implements PrintServiceAttr
 {{ site.data.Java.P.PDLOverrideSupported.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PDLOverrideSupported.ldc -%}
    <li>

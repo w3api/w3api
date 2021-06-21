@@ -30,7 +30,7 @@ public final class PrinterLocation extends TextSyntax implements PrintServiceAtt
 {{ site.data.Java.P.PrinterLocation.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrinterLocation.ldc -%}
    <li>

@@ -30,7 +30,7 @@ public static boolean registerService(PrintService service)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

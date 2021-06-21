@@ -35,7 +35,7 @@ public void characters(char[] ch, int start, int length) throws SAXException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

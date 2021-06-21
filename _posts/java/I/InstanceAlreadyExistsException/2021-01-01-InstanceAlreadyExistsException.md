@@ -25,7 +25,7 @@ public class InstanceAlreadyExistsException extends OperationsException
 {{ site.data.Java.I.InstanceAlreadyExistsException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InstanceAlreadyExistsException.ldc -%}
    <li>

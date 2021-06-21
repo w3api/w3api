@@ -33,7 +33,7 @@ public int viewToModel(float fx, float fy, Shape a, Position.Bias[] bias)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

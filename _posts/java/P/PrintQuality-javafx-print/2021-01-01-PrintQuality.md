@@ -32,7 +32,7 @@ public enum PrintQuality extends Enum<PrintQuality>
 {{ site.data.Java.P.PrintQuality-javafx-print.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintQuality-javafx-print.ldc -%}
    <li>

@@ -28,7 +28,7 @@ public abstract static class JFormattedTextField.AbstractFormatterFactory extend
 {{ site.data.Java.J.JFormattedTextField.AbstractFormatterFactory.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JFormattedTextField.AbstractFormatterFactory.ldc -%}
    <li>

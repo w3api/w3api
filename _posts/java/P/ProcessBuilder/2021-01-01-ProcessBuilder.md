@@ -37,7 +37,7 @@ public final class ProcessBuilder extends Object
 {{ site.data.Java.P.ProcessBuilder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProcessBuilder.ldc -%}
    <li>

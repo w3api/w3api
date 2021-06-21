@@ -25,7 +25,7 @@ public final class InquireSecContextPermission extends BasicPermission
 {{ site.data.Java.I.InquireSecContextPermission.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InquireSecContextPermission.ldc -%}
    <li>

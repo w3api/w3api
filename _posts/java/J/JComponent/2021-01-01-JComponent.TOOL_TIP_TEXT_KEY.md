@@ -27,7 +27,7 @@ static String TOOL_TIP_TEXT_KEY
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

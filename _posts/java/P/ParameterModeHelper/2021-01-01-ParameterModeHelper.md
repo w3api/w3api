@@ -33,7 +33,7 @@ public abstract class ParameterModeHelper extends Object
 {{ site.data.Java.P.ParameterModeHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParameterModeHelper.ldc -%}
    <li>

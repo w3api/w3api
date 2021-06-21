@@ -36,7 +36,7 @@ void setDate(int parameterIndex, Date x, Calendar cal) throws SQLException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public final class PERSIST_STORE extends SystemException
 {{ site.data.Java.P.PERSIST_STORE.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PERSIST_STORE.ldc -%}
    <li>

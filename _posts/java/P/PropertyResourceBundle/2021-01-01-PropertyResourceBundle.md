@@ -29,7 +29,7 @@ public class PropertyResourceBundle extends ResourceBundle
 {{ site.data.Java.P.PropertyResourceBundle.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PropertyResourceBundle.ldc -%}
    <li>

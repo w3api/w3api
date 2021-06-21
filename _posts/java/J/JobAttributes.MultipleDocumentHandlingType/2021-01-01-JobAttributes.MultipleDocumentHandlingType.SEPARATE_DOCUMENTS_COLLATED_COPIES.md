@@ -27,7 +27,7 @@ static JobAttributes.MultipleDocumentHandlingType SEPARATE_DOCUMENTS_COLLATED_CO
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -32,7 +32,7 @@ protected void addImpl(Component child, Object constraints, int index)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

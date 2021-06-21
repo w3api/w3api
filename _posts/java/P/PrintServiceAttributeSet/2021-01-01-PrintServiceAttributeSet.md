@@ -26,7 +26,7 @@ public interface PrintServiceAttributeSet extends AttributeSet
 {{ site.data.Java.P.PrintServiceAttributeSet.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintServiceAttributeSet.ldc -%}
    <li>

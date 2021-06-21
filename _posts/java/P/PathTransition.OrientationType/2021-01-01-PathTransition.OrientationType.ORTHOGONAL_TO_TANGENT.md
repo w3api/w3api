@@ -27,7 +27,7 @@ public static final PathTransition.OrientationType ORTHOGONAL_TO_TANGENT
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

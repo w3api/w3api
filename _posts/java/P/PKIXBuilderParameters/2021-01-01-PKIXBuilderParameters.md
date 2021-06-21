@@ -30,7 +30,7 @@ public class PKIXBuilderParameters extends PKIXParameters
 {{ site.data.Java.P.PKIXBuilderParameters.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PKIXBuilderParameters.ldc -%}
    <li>

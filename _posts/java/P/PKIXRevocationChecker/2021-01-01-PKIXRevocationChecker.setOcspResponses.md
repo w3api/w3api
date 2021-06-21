@@ -31,7 +31,7 @@ public void setOcspResponses(Map<X509Certificate,byte[]> responses)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -36,7 +36,7 @@ new BigUint64Array(); new BigUint64Array(length); new BigUint64Array(typedArray)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

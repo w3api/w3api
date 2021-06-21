@@ -31,7 +31,7 @@ public class InvalidClassException extends ObjectStreamException
 {{ site.data.Java.I.InvalidClassException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidClassException.ldc -%}
    <li>

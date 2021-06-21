@@ -27,7 +27,7 @@ public interface PaintContext
 {{ site.data.Java.P.PaintContext.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PaintContext.ldc -%}
    <li>

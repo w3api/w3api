@@ -33,7 +33,7 @@ protected boolean processKeyBinding(KeyStroke ks, KeyEvent e, int condition, boo
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

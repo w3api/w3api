@@ -27,7 +27,7 @@ static PageAttributes.MediaType B8
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -30,7 +30,7 @@ public abstract JFormattedTextField.AbstractFormatter getFormatter(JFormattedTex
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -29,7 +29,7 @@ public interface PackageElement extends Element, QualifiedNameable
 {{ site.data.Java.P.PackageElement.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PackageElement.ldc -%}
    <li>

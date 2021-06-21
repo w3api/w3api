@@ -31,7 +31,7 @@ static IntStream concat(IntStream a, IntStream b)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

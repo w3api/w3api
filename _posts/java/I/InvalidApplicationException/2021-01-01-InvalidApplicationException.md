@@ -25,7 +25,7 @@ public class InvalidApplicationException extends Exception
 {{ site.data.Java.I.InvalidApplicationException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidApplicationException.ldc -%}
    <li>

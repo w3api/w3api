@@ -129,7 +129,7 @@ sidebar:
 {{ site.data.Java.J.JInternalFrame.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JInternalFrame.ldc -%}
    <li>

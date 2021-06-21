@@ -44,7 +44,7 @@ public class ProgressMonitor extends Object implements Accessible
 {{ site.data.Java.P.ProgressMonitor.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProgressMonitor.ldc -%}
    <li>

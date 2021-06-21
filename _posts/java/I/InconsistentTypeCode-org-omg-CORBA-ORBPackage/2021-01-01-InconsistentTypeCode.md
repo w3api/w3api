@@ -25,7 +25,7 @@ public final class InconsistentTypeCode extends UserException
 {{ site.data.Java.I.InconsistentTypeCode-org-omg-CORBA-ORBPackage.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InconsistentTypeCode-org-omg-CORBA-ORBPackage.ldc -%}
    <li>

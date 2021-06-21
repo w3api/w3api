@@ -28,7 +28,7 @@ public class InvocationException extends Exception
 {{ site.data.Java.I.InvocationException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvocationException.ldc -%}
    <li>

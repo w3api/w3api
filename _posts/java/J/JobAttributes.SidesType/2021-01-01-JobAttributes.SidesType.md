@@ -31,7 +31,7 @@ public static final class JobAttributes.SidesType extends Object
 {{ site.data.Java.J.JobAttributes.SidesType.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JobAttributes.SidesType.ldc -%}
    <li>

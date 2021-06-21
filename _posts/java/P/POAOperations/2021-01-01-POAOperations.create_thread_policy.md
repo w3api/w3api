@@ -30,7 +30,7 @@ ThreadPolicy create_thread_policy(ThreadPolicyValue value)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

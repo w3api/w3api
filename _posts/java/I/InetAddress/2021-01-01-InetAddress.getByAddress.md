@@ -35,7 +35,7 @@ public static InetAddress getByAddress(String host, byte[] addr) throws UnknownH
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -27,7 +27,7 @@ public static final PrintQuality HIGH
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

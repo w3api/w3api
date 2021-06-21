@@ -32,7 +32,7 @@ typedarray.set(array[, offset]) typedarray.set(typedarray[, offset])
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

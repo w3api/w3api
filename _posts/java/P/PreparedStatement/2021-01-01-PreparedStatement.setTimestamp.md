@@ -36,7 +36,7 @@ void setTimestamp(int parameterIndex, Timestamp x, Calendar cal) throws SQLExcep
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

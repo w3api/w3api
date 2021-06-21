@@ -38,7 +38,7 @@ public JMXConnectionNotification(String type, Object source, String connectionId
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

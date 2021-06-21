@@ -38,7 +38,7 @@ public final class IndexRange extends Object
 {{ site.data.Java.I.IndexRange.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IndexRange.ldc -%}
    <li>

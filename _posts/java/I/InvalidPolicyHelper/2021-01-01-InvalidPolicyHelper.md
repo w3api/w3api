@@ -33,7 +33,7 @@ public abstract class InvalidPolicyHelper extends Object
 {{ site.data.Java.I.InvalidPolicyHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidPolicyHelper.ldc -%}
    <li>

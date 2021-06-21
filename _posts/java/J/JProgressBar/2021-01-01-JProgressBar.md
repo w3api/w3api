@@ -67,7 +67,7 @@ sidebar:
 {{ site.data.Java.J.JProgressBar.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JProgressBar.ldc -%}
    <li>

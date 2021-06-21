@@ -90,7 +90,7 @@ public abstract class ImageWriter extends Object implements ImageTranscoder
 {{ site.data.Java.I.ImageWriter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ImageWriter.ldc -%}
    <li>

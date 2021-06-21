@@ -27,7 +27,7 @@ static int SIMPLE_SCROLL_MODE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

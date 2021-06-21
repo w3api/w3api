@@ -35,7 +35,7 @@ public PERSIST_STORE(String s, int minor, CompletionStatus completed)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

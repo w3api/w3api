@@ -30,7 +30,7 @@ IdAssignmentPolicy create_id_assignment_policy(IdAssignmentPolicyValue value)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

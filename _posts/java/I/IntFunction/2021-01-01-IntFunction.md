@@ -25,7 +25,7 @@ sidebar:
 {{ site.data.Java.I.IntFunction.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IntFunction.ldc -%}
    <li>

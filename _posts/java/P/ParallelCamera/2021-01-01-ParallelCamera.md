@@ -25,7 +25,7 @@ public class ParallelCamera extends Camera
 {{ site.data.Java.P.ParallelCamera.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParallelCamera.ldc -%}
    <li>

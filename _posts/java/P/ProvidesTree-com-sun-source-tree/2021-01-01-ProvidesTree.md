@@ -26,7 +26,7 @@ public interface ProvidesTree extends DirectiveTree
 {{ site.data.Java.P.ProvidesTree-com-sun-source-tree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProvidesTree-com-sun-source-tree.ldc -%}
    <li>

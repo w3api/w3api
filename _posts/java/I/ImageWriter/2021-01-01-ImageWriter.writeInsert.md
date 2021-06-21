@@ -35,7 +35,7 @@ public void writeInsert(int imageIndex, IIOImage image, ImageWriteParam param) t
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

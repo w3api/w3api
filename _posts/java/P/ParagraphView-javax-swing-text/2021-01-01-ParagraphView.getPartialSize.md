@@ -31,7 +31,7 @@ protected float getPartialSize(int startOffset, int endOffset)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public interface PrincipalComparator
 {{ site.data.Java.P.PrincipalComparator.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrincipalComparator.ldc -%}
    <li>

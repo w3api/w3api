@@ -25,7 +25,7 @@ sidebar:
 {{ site.data.Java.I.InvalidLineNumberException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidLineNumberException.ldc -%}
    <li>

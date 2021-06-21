@@ -29,7 +29,7 @@ public class PasswordField extends TextField
 {{ site.data.Java.P.PasswordField.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PasswordField.ldc -%}
    <li>

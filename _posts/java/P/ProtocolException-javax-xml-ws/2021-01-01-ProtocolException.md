@@ -25,7 +25,7 @@ public class ProtocolException extends WebServiceException
 {{ site.data.Java.P.ProtocolException-javax-xml-ws.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProtocolException-javax-xml-ws.ldc -%}
    <li>

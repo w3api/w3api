@@ -27,7 +27,7 @@ public abstract Map<String,JPanel> getTabs()
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

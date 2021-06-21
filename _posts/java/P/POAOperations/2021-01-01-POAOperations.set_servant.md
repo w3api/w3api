@@ -30,7 +30,7 @@ void set_servant(Servant p_servant) throws WrongPolicy
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

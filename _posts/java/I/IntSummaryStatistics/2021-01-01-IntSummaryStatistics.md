@@ -35,7 +35,7 @@ public class IntSummaryStatistics extends Object implements IntConsumer
 {{ site.data.Java.I.IntSummaryStatistics.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IntSummaryStatistics.ldc -%}
    <li>

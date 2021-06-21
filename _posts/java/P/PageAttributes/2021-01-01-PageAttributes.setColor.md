@@ -33,7 +33,7 @@ public void setColor(PageAttributes.ColorType color)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

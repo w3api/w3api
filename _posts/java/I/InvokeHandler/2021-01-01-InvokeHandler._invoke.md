@@ -35,7 +35,7 @@ OutputStream _invoke(String method, InputStream input, ResponseHandler handler) 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

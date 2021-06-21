@@ -33,7 +33,7 @@ sidebar:
 {{ site.data.Java.J.JToggleButton.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JToggleButton.ldc -%}
    <li>

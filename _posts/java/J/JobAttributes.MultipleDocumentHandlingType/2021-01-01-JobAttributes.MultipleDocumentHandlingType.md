@@ -30,7 +30,7 @@ public static final class JobAttributes.MultipleDocumentHandlingType extends Obj
 {{ site.data.Java.J.JobAttributes.MultipleDocumentHandlingType.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JobAttributes.MultipleDocumentHandlingType.ldc -%}
    <li>

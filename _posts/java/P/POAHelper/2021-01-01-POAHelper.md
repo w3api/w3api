@@ -34,7 +34,7 @@ public abstract class POAHelper extends Object
 {{ site.data.Java.P.POAHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.POAHelper.ldc -%}
    <li>

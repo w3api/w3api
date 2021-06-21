@@ -33,7 +33,7 @@ public class JMXServiceURL extends Object implements Serializable
 {{ site.data.Java.J.JMXServiceURL.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JMXServiceURL.ldc -%}
    <li>

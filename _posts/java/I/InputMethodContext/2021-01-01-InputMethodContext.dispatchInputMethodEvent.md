@@ -34,7 +34,7 @@ void dispatchInputMethodEvent(int id, AttributedCharacterIterator text, int comm
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

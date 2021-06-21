@@ -31,7 +31,7 @@ public static IndexRange normalize(int v1, int v2)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public class InsufficientResourcesException extends NamingException
 {{ site.data.Java.I.InsufficientResourcesException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InsufficientResourcesException.ldc -%}
    <li>

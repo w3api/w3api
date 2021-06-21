@@ -22,7 +22,7 @@ public interface PrintRequestAttribute extends Attribute
 {{ site.data.Java.P.PrintRequestAttribute.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintRequestAttribute.ldc -%}
    <li>

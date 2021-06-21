@@ -27,7 +27,7 @@ static TemporalField DAY_OF_QUARTER
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

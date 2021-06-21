@@ -27,7 +27,7 @@ static String APPROVE_BUTTON_MNEMONIC_CHANGED_PROPERTY
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

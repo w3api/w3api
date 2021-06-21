@@ -33,7 +33,7 @@ public static InetAddress[] getAllByName(String host) throws UnknownHostExceptio
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

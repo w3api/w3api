@@ -28,7 +28,7 @@ public final class PolicyErrorHolder extends Object implements Streamable
 {{ site.data.Java.P.PolicyErrorHolder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PolicyErrorHolder.ldc -%}
    <li>

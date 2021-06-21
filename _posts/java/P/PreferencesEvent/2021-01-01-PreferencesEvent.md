@@ -25,7 +25,7 @@ public final class PreferencesEvent extends AppEvent
 {{ site.data.Java.P.PreferencesEvent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PreferencesEvent.ldc -%}
    <li>

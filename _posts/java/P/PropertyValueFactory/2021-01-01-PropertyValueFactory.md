@@ -28,7 +28,7 @@ public class PropertyValueFactory<S,T> extends Object implements Callback<TableC
 {{ site.data.Java.P.PropertyValueFactory.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PropertyValueFactory.ldc -%}
    <li>

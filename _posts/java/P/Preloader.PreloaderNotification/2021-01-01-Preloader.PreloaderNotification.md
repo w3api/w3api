@@ -22,7 +22,7 @@ public static interface Preloader.PreloaderNotification
 {{ site.data.Java.P.Preloader.PreloaderNotification.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.Preloader.PreloaderNotification.ldc -%}
    <li>

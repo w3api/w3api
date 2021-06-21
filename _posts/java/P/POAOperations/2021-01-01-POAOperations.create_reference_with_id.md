@@ -31,7 +31,7 @@ Object create_reference_with_id(byte[] oid, String intf)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

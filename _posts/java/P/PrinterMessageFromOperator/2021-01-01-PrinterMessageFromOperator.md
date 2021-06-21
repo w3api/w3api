@@ -30,7 +30,7 @@ public final class PrinterMessageFromOperator extends TextSyntax implements Prin
 {{ site.data.Java.P.PrinterMessageFromOperator.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrinterMessageFromOperator.ldc -%}
    <li>

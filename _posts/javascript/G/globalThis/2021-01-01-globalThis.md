@@ -22,7 +22,7 @@ globalThis
 {{ site.data.Javascript.G.globalThis.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.G.globalThis.ldc -%}
    <li>

@@ -31,7 +31,7 @@ public class PipedOutputStream extends OutputStream
 {{ site.data.Java.P.PipedOutputStream.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PipedOutputStream.ldc -%}
    <li>

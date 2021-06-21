@@ -37,7 +37,7 @@ public class ParagraphView extends ParagraphView
 {{ site.data.Java.P.ParagraphView-javax-swing-text-html.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParagraphView-javax-swing-text-html.ldc -%}
    <li>

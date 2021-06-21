@@ -26,7 +26,7 @@ public interface InterceptorOperations
 {{ site.data.Java.I.InterceptorOperations.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InterceptorOperations.ldc -%}
    <li>

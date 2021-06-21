@@ -30,7 +30,7 @@ public boolean isLeapYear(long prolepticYear)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

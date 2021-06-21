@@ -22,7 +22,7 @@ public interface Interceptor extends InterceptorOperations, Object, IDLEntity
 {{ site.data.Java.I.Interceptor.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.Interceptor.ldc -%}
    <li>

@@ -60,7 +60,7 @@ sidebar:
 {{ site.data.Java.J.JMenuItem.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JMenuItem.ldc -%}
    <li>

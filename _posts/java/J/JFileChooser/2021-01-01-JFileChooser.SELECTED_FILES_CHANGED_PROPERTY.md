@@ -27,7 +27,7 @@ static String SELECTED_FILES_CHANGED_PROPERTY
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

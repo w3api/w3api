@@ -39,7 +39,7 @@ public void fireIndexedPropertyChange(String propertyName, int index, Object old
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

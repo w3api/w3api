@@ -29,7 +29,7 @@ public abstract class IntegerExpression extends NumberExpressionBase implements 
 {{ site.data.Java.I.IntegerExpression.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IntegerExpression.ldc -%}
    <li>

@@ -37,7 +37,7 @@ WebAssembly.LinkError
 {{ site.data.Javascript.W.WebAssembly.LinkError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.W.WebAssembly.LinkError.ldc -%}
    <li>

@@ -22,7 +22,7 @@ sidebar:
 {{ site.data.Java.P.PreDestroy.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PreDestroy.ldc -%}
    <li>

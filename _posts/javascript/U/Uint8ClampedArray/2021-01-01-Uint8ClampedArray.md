@@ -63,7 +63,7 @@ Uint8ClampedArray
 {{ site.data.Javascript.U.Uint8ClampedArray.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.U.Uint8ClampedArray.ldc -%}
    <li>

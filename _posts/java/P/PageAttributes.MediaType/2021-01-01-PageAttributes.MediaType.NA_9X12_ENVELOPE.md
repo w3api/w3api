@@ -27,7 +27,7 @@ static PageAttributes.MediaType NA_9X12_ENVELOPE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

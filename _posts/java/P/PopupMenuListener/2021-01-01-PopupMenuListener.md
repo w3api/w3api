@@ -27,7 +27,7 @@ public interface PopupMenuListener extends EventListener
 {{ site.data.Java.P.PopupMenuListener.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PopupMenuListener.ldc -%}
    <li>

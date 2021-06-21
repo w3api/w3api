@@ -27,7 +27,7 @@ static PageAttributes.MediaType ISO_B5_ENVELOPE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

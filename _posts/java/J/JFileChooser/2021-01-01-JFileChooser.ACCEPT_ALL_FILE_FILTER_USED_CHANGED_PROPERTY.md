@@ -27,7 +27,7 @@ static String ACCEPT_ALL_FILE_FILTER_USED_CHANGED_PROPERTY
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

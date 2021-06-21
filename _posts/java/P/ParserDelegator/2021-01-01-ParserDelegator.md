@@ -29,7 +29,7 @@ public class ParserDelegator extends HTMLEditorKit.Parser implements Serializabl
 {{ site.data.Java.P.ParserDelegator.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParserDelegator.ldc -%}
    <li>

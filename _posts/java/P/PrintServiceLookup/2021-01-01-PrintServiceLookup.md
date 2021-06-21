@@ -35,7 +35,7 @@ public abstract class PrintServiceLookup extends Object
 {{ site.data.Java.P.PrintServiceLookup.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintServiceLookup.ldc -%}
    <li>

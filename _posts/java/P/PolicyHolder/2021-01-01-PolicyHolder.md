@@ -28,7 +28,7 @@ public final class PolicyHolder extends Object implements Streamable
 {{ site.data.Java.P.PolicyHolder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PolicyHolder.ldc -%}
    <li>

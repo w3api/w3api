@@ -26,7 +26,7 @@ public interface ProvidesTree extends BlockTagTree
 {{ site.data.Java.P.ProvidesTree-com-sun-source-doctree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProvidesTree-com-sun-source-doctree.ldc -%}
    <li>

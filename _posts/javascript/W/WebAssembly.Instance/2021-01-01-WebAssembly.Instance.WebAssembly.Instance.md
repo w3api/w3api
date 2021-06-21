@@ -31,7 +31,7 @@ new WebAssembly.Instance(module, importObject);
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

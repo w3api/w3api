@@ -34,7 +34,7 @@ public void replaceImageMetadata(int imageIndex, IIOMetadata imageMetadata) thro
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

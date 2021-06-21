@@ -30,7 +30,7 @@ Object create_reference(String intf) throws WrongPolicy
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

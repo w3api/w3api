@@ -33,7 +33,7 @@ public abstract class InvalidValueHelper extends Object
 {{ site.data.Java.I.InvalidValueHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidValueHelper.ldc -%}
    <li>

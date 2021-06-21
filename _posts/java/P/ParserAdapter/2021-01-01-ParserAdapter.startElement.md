@@ -34,7 +34,7 @@ public void startElement(String qName, AttributeList qAtts) throws SAXException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

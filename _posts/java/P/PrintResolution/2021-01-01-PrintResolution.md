@@ -26,7 +26,7 @@ public final class PrintResolution extends Object
 {{ site.data.Java.P.PrintResolution.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintResolution.ldc -%}
    <li>

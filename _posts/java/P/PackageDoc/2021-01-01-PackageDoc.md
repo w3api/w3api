@@ -33,7 +33,7 @@ sidebar:
 {{ site.data.Java.P.PackageDoc.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PackageDoc.ldc -%}
    <li>

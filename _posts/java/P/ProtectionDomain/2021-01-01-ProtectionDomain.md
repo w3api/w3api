@@ -34,7 +34,7 @@ public class ProtectionDomain extends Object
 {{ site.data.Java.P.ProtectionDomain.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProtectionDomain.ldc -%}
    <li>

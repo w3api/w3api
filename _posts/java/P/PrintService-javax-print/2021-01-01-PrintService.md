@@ -41,7 +41,7 @@ public interface PrintService
 {{ site.data.Java.P.PrintService-javax-print.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintService-javax-print.ldc -%}
    <li>

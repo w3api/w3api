@@ -25,7 +25,7 @@ public interface InlineTagTree extends DocTree
 {{ site.data.Java.I.InlineTagTree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InlineTagTree.ldc -%}
    <li>

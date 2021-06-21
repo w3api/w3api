@@ -54,7 +54,7 @@ public class InnerShadow extends Effect
 {{ site.data.Java.I.InnerShadow.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InnerShadow.ldc -%}
    <li>

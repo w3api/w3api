@@ -36,7 +36,7 @@ public class JndiLoginModule extends Object implements LoginModule
 {{ site.data.Java.J.JndiLoginModule.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JndiLoginModule.ldc -%}
    <li>

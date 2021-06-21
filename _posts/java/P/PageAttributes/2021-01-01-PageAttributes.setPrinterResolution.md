@@ -35,7 +35,7 @@ public void setPrinterResolution(int[] printerResolution)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

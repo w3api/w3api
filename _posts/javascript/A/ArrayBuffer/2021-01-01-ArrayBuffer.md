@@ -33,7 +33,7 @@ ArrayBuffer
 {{ site.data.Javascript.A.ArrayBuffer.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.A.ArrayBuffer.ldc -%}
    <li>

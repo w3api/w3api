@@ -29,7 +29,7 @@ public final class Parameter extends Object implements IDLEntity
 {{ site.data.Java.P.Parameter-org-omg-Dynamic.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.Parameter-org-omg-Dynamic.ldc -%}
    <li>

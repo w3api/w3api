@@ -22,7 +22,7 @@ arguments
 {{ site.data.Javascript.A.arguments.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.A.arguments.ldc -%}
    <li>

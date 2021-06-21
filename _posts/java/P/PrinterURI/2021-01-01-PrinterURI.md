@@ -30,7 +30,7 @@ public final class PrinterURI extends URISyntax implements PrintServiceAttribute
 {{ site.data.Java.P.PrinterURI.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrinterURI.ldc -%}
    <li>

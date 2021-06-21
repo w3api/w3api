@@ -38,7 +38,7 @@ public PBEKeySpec(char[] password, byte[] salt, int iterationCount, int keyLengt
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -33,7 +33,7 @@ public abstract class IstringHelper extends Object
 {{ site.data.Java.I.IstringHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IstringHelper.ldc -%}
    <li>

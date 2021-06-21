@@ -39,7 +39,7 @@ public class InputContext extends Object
 {{ site.data.Java.I.InputContext.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InputContext.ldc -%}
    <li>

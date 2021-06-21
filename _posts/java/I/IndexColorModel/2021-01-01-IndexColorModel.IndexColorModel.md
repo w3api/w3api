@@ -51,7 +51,7 @@ public IndexColorModel(int bits, int size, int[] cmap, int start, int transferTy
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -34,7 +34,7 @@ public class ParsePosition extends Object
 {{ site.data.Java.P.ParsePosition.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParsePosition.ldc -%}
    <li>

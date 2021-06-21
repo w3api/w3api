@@ -28,7 +28,7 @@ sidebar:
 {{ site.data.Java.I.IntPredicate.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IntPredicate.ldc -%}
    <li>

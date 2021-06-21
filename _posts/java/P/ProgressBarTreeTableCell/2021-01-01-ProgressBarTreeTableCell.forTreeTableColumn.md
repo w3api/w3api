@@ -27,7 +27,7 @@ static <S> Callback<TreeTableColumn<S,Double>,TreeTableCell<S,Double>> forTreeT
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

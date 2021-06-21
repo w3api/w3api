@@ -27,7 +27,7 @@ public static final PseudoColumnUsage NO_USAGE_RESTRICTIONS
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

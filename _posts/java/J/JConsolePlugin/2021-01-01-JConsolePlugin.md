@@ -34,7 +34,7 @@ public abstract class JConsolePlugin extends Object
 {{ site.data.Java.J.JConsolePlugin.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JConsolePlugin.ldc -%}
    <li>

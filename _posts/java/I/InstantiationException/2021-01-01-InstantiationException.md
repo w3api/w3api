@@ -25,7 +25,7 @@ public class InstantiationException extends ReflectiveOperationException
 {{ site.data.Java.I.InstantiationException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InstantiationException.ldc -%}
    <li>

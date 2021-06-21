@@ -41,7 +41,7 @@ protected float drawSelectedText(Graphics2D g, float x, float y, int p0, int p1)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

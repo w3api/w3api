@@ -33,7 +33,7 @@ public void setDefaultSelection(JobAttributes.DefaultSelectionType defaultSelect
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

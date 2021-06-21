@@ -37,7 +37,7 @@ WebAssembly.RuntimeError
 {{ site.data.Javascript.W.WebAssembly.RuntimeError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.W.WebAssembly.RuntimeError.ldc -%}
    <li>

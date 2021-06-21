@@ -27,7 +27,7 @@ static PrinterStateReason OUTPUT_AREA_ALMOST_FULL
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

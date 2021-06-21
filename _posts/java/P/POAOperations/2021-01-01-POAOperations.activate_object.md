@@ -30,7 +30,7 @@ byte[] activate_object(Servant p_servant) throws ServantAlreadyActive, WrongPoli
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -31,7 +31,7 @@ public final class ParallelTransition extends Transition
 {{ site.data.Java.P.ParallelTransition.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParallelTransition.ldc -%}
    <li>

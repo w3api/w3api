@@ -25,7 +25,7 @@ public interface PrintGraphics
 {{ site.data.Java.P.PrintGraphics.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintGraphics.ldc -%}
    <li>

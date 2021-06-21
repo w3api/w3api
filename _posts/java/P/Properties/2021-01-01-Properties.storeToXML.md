@@ -38,7 +38,7 @@ public void storeToXML(OutputStream os, String comment, Charset charset) throws 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

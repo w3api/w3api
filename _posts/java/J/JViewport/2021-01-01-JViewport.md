@@ -75,7 +75,7 @@ public class JViewport extends JComponent implements Accessible
 {{ site.data.Java.J.JViewport.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JViewport.ldc -%}
    <li>

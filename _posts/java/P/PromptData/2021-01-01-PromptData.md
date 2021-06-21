@@ -29,7 +29,7 @@ public final class PromptData extends Object
 {{ site.data.Java.P.PromptData.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PromptData.ldc -%}
    <li>

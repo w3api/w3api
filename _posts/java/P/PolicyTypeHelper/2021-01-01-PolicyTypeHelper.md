@@ -33,7 +33,7 @@ public abstract class PolicyTypeHelper extends Object
 {{ site.data.Java.P.PolicyTypeHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PolicyTypeHelper.ldc -%}
    <li>

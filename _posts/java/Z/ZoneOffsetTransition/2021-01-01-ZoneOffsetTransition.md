@@ -39,7 +39,7 @@ public final class ZoneOffsetTransition extends Object implements Comparable<Zon
 {{ site.data.Java.Z.ZoneOffsetTransition.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.Z.ZoneOffsetTransition.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public interface JMXAuthenticator
 {{ site.data.Java.J.JMXAuthenticator.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JMXAuthenticator.ldc -%}
    <li>

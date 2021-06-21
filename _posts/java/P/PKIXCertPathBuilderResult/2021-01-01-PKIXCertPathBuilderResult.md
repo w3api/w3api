@@ -29,7 +29,7 @@ public class PKIXCertPathBuilderResult extends PKIXCertPathValidatorResult imple
 {{ site.data.Java.P.PKIXCertPathBuilderResult.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PKIXCertPathBuilderResult.ldc -%}
    <li>

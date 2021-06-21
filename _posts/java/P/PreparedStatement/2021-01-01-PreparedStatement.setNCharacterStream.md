@@ -36,7 +36,7 @@ void setNCharacterStream(int parameterIndex, Reader value, long length) throws S
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -38,7 +38,7 @@ public InnerShadow(BlurType blurType, Color color, double radius, double choke, 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -34,7 +34,7 @@ public abstract class InternalFrameAdapter extends Object implements InternalFra
 {{ site.data.Java.I.InternalFrameAdapter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InternalFrameAdapter.ldc -%}
    <li>

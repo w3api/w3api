@@ -32,7 +32,7 @@ typedarray.copyWithin(target, start[, end = this.length])
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

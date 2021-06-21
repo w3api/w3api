@@ -27,7 +27,7 @@ static PrinterStateReason INTERPRETER_RESOURCE_UNAVAILABLE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -31,7 +31,7 @@ public final void pseudoClassStateChanged(PseudoClass pseudoClass, boolean activ
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -38,7 +38,7 @@ public abstract class JarURLConnection extends URLConnection
 {{ site.data.Java.J.JarURLConnection.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JarURLConnection.ldc -%}
    <li>

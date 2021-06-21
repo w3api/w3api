@@ -27,7 +27,7 @@ static PrinterStateReason SPOOL_AREA_FULL
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

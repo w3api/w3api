@@ -34,7 +34,7 @@ public IndexedPropertyChangeEvent(Object source, String propertyName, Object old
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

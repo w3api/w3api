@@ -30,7 +30,7 @@ public abstract class JdiExecutionControl extends StreamingExecutionControl impl
 {{ site.data.Java.J.JdiExecutionControl.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JdiExecutionControl.ldc -%}
    <li>

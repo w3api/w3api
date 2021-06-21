@@ -31,7 +31,7 @@ public class JMXConnectorServerFactory extends Object
 {{ site.data.Java.J.JMXConnectorServerFactory.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JMXConnectorServerFactory.ldc -%}
    <li>

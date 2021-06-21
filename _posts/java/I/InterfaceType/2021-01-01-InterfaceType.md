@@ -28,7 +28,7 @@ public interface InterfaceType extends ReferenceType
 {{ site.data.Java.I.InterfaceType.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InterfaceType.ldc -%}
    <li>

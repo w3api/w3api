@@ -28,7 +28,7 @@ public class InternalException extends RuntimeException
 {{ site.data.Java.I.InternalException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InternalException.ldc -%}
    <li>

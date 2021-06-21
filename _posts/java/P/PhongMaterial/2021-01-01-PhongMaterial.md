@@ -48,7 +48,7 @@ public class PhongMaterial extends Material
 {{ site.data.Java.P.PhongMaterial.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PhongMaterial.ldc -%}
    <li>

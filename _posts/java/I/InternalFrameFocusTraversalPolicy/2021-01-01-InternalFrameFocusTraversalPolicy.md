@@ -28,7 +28,7 @@ public abstract class InternalFrameFocusTraversalPolicy extends FocusTraversalPo
 {{ site.data.Java.I.InternalFrameFocusTraversalPolicy.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InternalFrameFocusTraversalPolicy.ldc -%}
    <li>

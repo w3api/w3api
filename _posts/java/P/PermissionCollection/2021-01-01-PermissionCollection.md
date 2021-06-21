@@ -34,7 +34,7 @@ public abstract class PermissionCollection extends Object implements Serializabl
 {{ site.data.Java.P.PermissionCollection.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PermissionCollection.ldc -%}
    <li>

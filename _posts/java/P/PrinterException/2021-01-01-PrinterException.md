@@ -25,7 +25,7 @@ public class PrinterException extends Exception
 {{ site.data.Java.P.PrinterException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrinterException.ldc -%}
    <li>

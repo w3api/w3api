@@ -28,7 +28,7 @@ public class JAXBResult extends SAXResult
 {{ site.data.Java.J.JAXBResult.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JAXBResult.ldc -%}
    <li>

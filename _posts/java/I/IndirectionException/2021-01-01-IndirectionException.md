@@ -28,7 +28,7 @@ public class IndirectionException extends SystemException
 {{ site.data.Java.I.IndirectionException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IndirectionException.ldc -%}
    <li>

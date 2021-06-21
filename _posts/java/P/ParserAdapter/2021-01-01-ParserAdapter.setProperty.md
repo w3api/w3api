@@ -34,7 +34,7 @@ public void setProperty(String name, Object value) throws SAXNotRecognizedExcept
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

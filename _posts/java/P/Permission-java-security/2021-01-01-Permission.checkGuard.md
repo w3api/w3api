@@ -33,7 +33,7 @@ public void checkGuard(Object object) throws SecurityException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

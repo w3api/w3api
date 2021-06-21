@@ -31,7 +31,7 @@ public class PatternSyntaxException extends IllegalArgumentException
 {{ site.data.Java.P.PatternSyntaxException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PatternSyntaxException.ldc -%}
    <li>

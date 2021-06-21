@@ -33,7 +33,7 @@ public static enum ProcessBuilder.Redirect.Type extends Enum<ProcessBuilder.Redi
 {{ site.data.Java.P.ProcessBuilder.Redirect.Type.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProcessBuilder.Redirect.Type.ldc -%}
    <li>

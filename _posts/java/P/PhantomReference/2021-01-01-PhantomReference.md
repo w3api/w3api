@@ -28,7 +28,7 @@ public class PhantomReference<T> extends Reference<T>
 {{ site.data.Java.P.PhantomReference.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PhantomReference.ldc -%}
    <li>

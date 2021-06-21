@@ -30,7 +30,7 @@ public interface PropertyTree extends Tree
 {{ site.data.Java.P.PropertyTree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PropertyTree.ldc -%}
    <li>

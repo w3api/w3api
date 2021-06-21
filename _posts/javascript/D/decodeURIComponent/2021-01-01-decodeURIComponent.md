@@ -22,7 +22,7 @@ decodeURIComponent()
 {{ site.data.Javascript.D.decodeURIComponent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.D.decodeURIComponent.ldc -%}
    <li>

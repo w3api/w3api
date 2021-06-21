@@ -22,7 +22,7 @@ AsyncFunction
 {{ site.data.Javascript.A.AsyncFunction.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.A.AsyncFunction.ldc -%}
    <li>

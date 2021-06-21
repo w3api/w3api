@@ -34,7 +34,7 @@ public PathTransition(Duration duration, Shape path, Node node)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -38,7 +38,7 @@ public PerspectiveTransform(double ulx, double uly, double urx, double ury, doub
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

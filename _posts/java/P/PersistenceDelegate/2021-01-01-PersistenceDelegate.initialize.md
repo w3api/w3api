@@ -36,7 +36,7 @@ protected void initialize(Class<?> type, Object oldInstance, Object newInstance,
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

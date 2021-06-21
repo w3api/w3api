@@ -37,7 +37,7 @@ public ParseConversionEventImpl(int _severity, String _message, ValidationEventL
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

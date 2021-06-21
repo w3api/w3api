@@ -28,7 +28,7 @@ public class ProgressBarTreeTableCell<S> extends TreeTableCell<S,Double>
 {{ site.data.Java.P.ProgressBarTreeTableCell.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProgressBarTreeTableCell.ldc -%}
    <li>

@@ -33,7 +33,7 @@ public void setLayer(Component c, int layer, int position)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -31,7 +31,7 @@ static IntStream rangeClosed(int startInclusive, int endInclusive)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

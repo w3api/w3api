@@ -43,7 +43,7 @@ void getPixels(int x, int y, int w, int h, WritablePixelFormat<IntBuffer> pixelf
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

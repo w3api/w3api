@@ -34,7 +34,7 @@ public interface JavaShellToolBuilder
 {{ site.data.Java.J.JavaShellToolBuilder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JavaShellToolBuilder.ldc -%}
    <li>

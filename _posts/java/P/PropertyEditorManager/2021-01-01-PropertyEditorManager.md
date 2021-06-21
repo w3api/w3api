@@ -31,7 +31,7 @@ public class PropertyEditorManager extends Object
 {{ site.data.Java.P.PropertyEditorManager.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PropertyEditorManager.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public final class PaintConverter extends StyleConverter<ParsedValue<?,Paint>,Pa
 {{ site.data.Java.P.PaintConverter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PaintConverter.ldc -%}
    <li>

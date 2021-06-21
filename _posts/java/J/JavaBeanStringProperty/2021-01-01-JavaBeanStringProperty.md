@@ -26,7 +26,7 @@ public final class JavaBeanStringProperty extends StringProperty implements Java
 {{ site.data.Java.J.JavaBeanStringProperty.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JavaBeanStringProperty.ldc -%}
    <li>

@@ -30,7 +30,7 @@ public final class JobImpressionsSupported extends SetOfIntegerSyntax implements
 {{ site.data.Java.J.JobImpressionsSupported.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JobImpressionsSupported.ldc -%}
    <li>

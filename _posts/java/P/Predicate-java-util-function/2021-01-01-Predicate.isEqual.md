@@ -30,7 +30,7 @@ static <T> Predicate<T> isEqual(Object targetRef)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public class InvalidRelationTypeException extends RelationException
 {{ site.data.Java.I.InvalidRelationTypeException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidRelationTypeException.ldc -%}
    <li>

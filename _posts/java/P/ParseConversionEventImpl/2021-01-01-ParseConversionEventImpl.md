@@ -25,7 +25,7 @@ public class ParseConversionEventImpl extends ValidationEventImpl implements Par
 {{ site.data.Java.P.ParseConversionEventImpl.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParseConversionEventImpl.ldc -%}
    <li>

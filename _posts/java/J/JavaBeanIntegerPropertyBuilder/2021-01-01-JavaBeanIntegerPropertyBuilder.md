@@ -34,7 +34,7 @@ public final class JavaBeanIntegerPropertyBuilder extends Object
 {{ site.data.Java.J.JavaBeanIntegerPropertyBuilder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JavaBeanIntegerPropertyBuilder.ldc -%}
    <li>

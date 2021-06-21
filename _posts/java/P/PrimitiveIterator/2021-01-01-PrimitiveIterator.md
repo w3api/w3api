@@ -25,7 +25,7 @@ public interface PrimitiveIterator<T,T_CONS> extends Iterator<T>
 {{ site.data.Java.P.PrimitiveIterator.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrimitiveIterator.ldc -%}
    <li>

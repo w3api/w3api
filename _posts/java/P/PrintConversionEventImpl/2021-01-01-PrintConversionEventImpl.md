@@ -25,7 +25,7 @@ public class PrintConversionEventImpl extends ValidationEventImpl implements Pri
 {{ site.data.Java.P.PrintConversionEventImpl.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintConversionEventImpl.ldc -%}
    <li>

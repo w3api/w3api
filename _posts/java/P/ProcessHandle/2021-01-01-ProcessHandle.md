@@ -40,7 +40,7 @@ public interface ProcessHandle extends Comparable<ProcessHandle>
 {{ site.data.Java.P.ProcessHandle.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProcessHandle.ldc -%}
    <li>

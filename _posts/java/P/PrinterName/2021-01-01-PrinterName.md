@@ -30,7 +30,7 @@ public final class PrinterName extends TextSyntax implements PrintServiceAttribu
 {{ site.data.Java.P.PrinterName.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrinterName.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public class ParserConfigurationException extends Exception
 {{ site.data.Java.P.ParserConfigurationException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParserConfigurationException.ldc -%}
    <li>

@@ -34,7 +34,7 @@ JFrame createInputMethodJFrame(String title, boolean attachToInputContext)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

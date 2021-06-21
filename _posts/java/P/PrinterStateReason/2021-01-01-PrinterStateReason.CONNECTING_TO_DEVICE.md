@@ -27,7 +27,7 @@ static PrinterStateReason CONNECTING_TO_DEVICE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -39,7 +39,7 @@ public JMXServiceURL(String protocol, String host, int port, String urlPath) thr
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

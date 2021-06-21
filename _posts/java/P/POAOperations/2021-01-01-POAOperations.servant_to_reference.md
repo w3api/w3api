@@ -30,7 +30,7 @@ Object servant_to_reference(Servant p_servant) throws ServantNotActive, WrongPol
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

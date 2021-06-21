@@ -31,7 +31,7 @@ public class JMXPrincipal extends Object implements Principal, Serializable
 {{ site.data.Java.J.JMXPrincipal.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JMXPrincipal.ldc -%}
    <li>

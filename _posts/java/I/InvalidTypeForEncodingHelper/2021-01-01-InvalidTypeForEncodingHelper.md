@@ -33,7 +33,7 @@ public abstract class InvalidTypeForEncodingHelper extends Object
 {{ site.data.Java.I.InvalidTypeForEncodingHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidTypeForEncodingHelper.ldc -%}
    <li>

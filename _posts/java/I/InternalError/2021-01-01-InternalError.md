@@ -25,7 +25,7 @@ public class InternalError extends VirtualMachineError
 {{ site.data.Java.I.InternalError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InternalError.ldc -%}
    <li>

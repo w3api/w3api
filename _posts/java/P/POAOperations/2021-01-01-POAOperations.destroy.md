@@ -31,7 +31,7 @@ void destroy(boolean etherealize_objects, boolean wait_for_completion)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

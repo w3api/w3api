@@ -25,7 +25,7 @@ public class InitialDirContext extends InitialContext implements DirContext
 {{ site.data.Java.I.InitialDirContext.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InitialDirContext.ldc -%}
    <li>

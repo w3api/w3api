@@ -32,7 +32,7 @@ public void processMouseEvent(MouseEvent event, MenuElement[] path, MenuSelectio
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

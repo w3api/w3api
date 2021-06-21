@@ -33,7 +33,7 @@ public PopupFeatures(boolean menu, boolean status, boolean toolbar, boolean resi
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

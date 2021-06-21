@@ -31,7 +31,7 @@ public final class PopupFeatures extends Object
 {{ site.data.Java.P.PopupFeatures.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PopupFeatures.ldc -%}
    <li>

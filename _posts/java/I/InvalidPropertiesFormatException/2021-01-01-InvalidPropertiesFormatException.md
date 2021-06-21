@@ -25,7 +25,7 @@ public class InvalidPropertiesFormatException extends IOException
 {{ site.data.Java.I.InvalidPropertiesFormatException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidPropertiesFormatException.ldc -%}
    <li>

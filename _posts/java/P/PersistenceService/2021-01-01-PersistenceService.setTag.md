@@ -34,7 +34,7 @@ void setTag(URL url, int tag) throws MalformedURLException, IOException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

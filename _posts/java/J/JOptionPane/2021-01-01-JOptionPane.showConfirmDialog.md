@@ -41,7 +41,7 @@ public static int showConfirmDialog(Component parentComponent, Object message, S
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

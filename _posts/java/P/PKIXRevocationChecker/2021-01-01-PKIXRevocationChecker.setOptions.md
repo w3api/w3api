@@ -30,7 +30,7 @@ public void setOptions(Set<PKIXRevocationChecker.Option> options)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -31,7 +31,7 @@ public PhantomReference(T referent, ReferenceQueue<? super T> q)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

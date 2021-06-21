@@ -30,7 +30,7 @@ public static class JToggleButton.ToggleButtonModel extends DefaultButtonModel
 {{ site.data.Java.J.JToggleButton.ToggleButtonModel.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JToggleButton.ToggleButtonModel.ldc -%}
    <li>

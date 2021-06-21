@@ -32,7 +32,7 @@ public abstract void setPrintable(Printable painter, PageFormat format)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

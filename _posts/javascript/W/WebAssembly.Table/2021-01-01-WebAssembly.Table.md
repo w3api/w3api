@@ -33,7 +33,7 @@ WebAssembly.Table
 {{ site.data.Javascript.W.WebAssembly.Table.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.W.WebAssembly.Table.ldc -%}
    <li>

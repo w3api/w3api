@@ -31,7 +31,7 @@ public void setEditorKitForContentType(String type, EditorKit k)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

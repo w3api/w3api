@@ -63,7 +63,7 @@ BigInt64Array
 {{ site.data.Javascript.B.BigInt64Array.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.B.BigInt64Array.ldc -%}
    <li>

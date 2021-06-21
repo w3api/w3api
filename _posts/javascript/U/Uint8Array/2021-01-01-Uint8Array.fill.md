@@ -32,7 +32,7 @@ typedarray.fill(value[, start = 0[, end = this.length]])
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

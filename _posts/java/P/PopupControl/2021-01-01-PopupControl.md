@@ -74,7 +74,7 @@ public class PopupControl extends PopupWindow implements Skinnable, Styleable
 {{ site.data.Java.P.PopupControl.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PopupControl.ldc -%}
    <li>

@@ -37,7 +37,7 @@ public InflaterOutputStream(OutputStream out, Inflater infl, int bufLen)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

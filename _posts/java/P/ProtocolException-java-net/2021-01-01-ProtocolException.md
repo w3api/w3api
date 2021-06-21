@@ -25,7 +25,7 @@ public class ProtocolException extends IOException
 {{ site.data.Java.P.ProtocolException-java-net.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProtocolException-java-net.ldc -%}
    <li>

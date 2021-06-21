@@ -35,7 +35,7 @@ static <T extends Number>IntegerExpression integerExpression(ObservableValue<T> 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

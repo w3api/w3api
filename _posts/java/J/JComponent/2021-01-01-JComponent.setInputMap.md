@@ -34,7 +34,7 @@ public final void setInputMap(int condition, InputMap map)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

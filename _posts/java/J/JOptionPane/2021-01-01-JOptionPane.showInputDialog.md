@@ -44,7 +44,7 @@ public static String showInputDialog(Object message, Object initialSelectionValu
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

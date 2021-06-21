@@ -32,7 +32,7 @@ protected ParsedValue(V value, StyleConverter<V,T> converter)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

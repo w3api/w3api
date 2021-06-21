@@ -34,7 +34,7 @@ public static enum PixelFormat.Type extends Enum<PixelFormat.Type>
 {{ site.data.Java.P.PixelFormat.Type.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PixelFormat.Type.ldc -%}
    <li>

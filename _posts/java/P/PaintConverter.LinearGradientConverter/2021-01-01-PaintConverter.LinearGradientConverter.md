@@ -25,7 +25,7 @@ public static final class PaintConverter.LinearGradientConverter extends StyleCo
 {{ site.data.Java.P.PaintConverter.LinearGradientConverter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PaintConverter.LinearGradientConverter.ldc -%}
    <li>

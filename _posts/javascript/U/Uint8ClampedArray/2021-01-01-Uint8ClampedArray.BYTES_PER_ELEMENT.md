@@ -27,7 +27,7 @@ Uint8ClampedArray.BYTES_PER_ELEMENT
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -28,7 +28,7 @@ public class ProgressBarTableCell<S> extends TableCell<S,Double>
 {{ site.data.Java.P.ProgressBarTableCell.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ProgressBarTableCell.ldc -%}
    <li>

@@ -34,7 +34,7 @@ public int showDialog(Component parent, String approveButtonText) throws Headles
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

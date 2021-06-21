@@ -25,7 +25,7 @@ public interface PUBLIC_MEMBER
 {{ site.data.Java.P.PUBLIC_MEMBER.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PUBLIC_MEMBER.ldc -%}
    <li>

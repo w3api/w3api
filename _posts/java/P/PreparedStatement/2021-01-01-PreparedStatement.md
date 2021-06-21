@@ -61,7 +61,7 @@ public interface PreparedStatement extends Statement
 {{ site.data.Java.P.PreparedStatement.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PreparedStatement.ldc -%}
    <li>

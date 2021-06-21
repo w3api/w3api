@@ -39,7 +39,7 @@ public long epochSecond(int prolepticYear, int month, int dayOfMonth, int hour, 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

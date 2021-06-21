@@ -32,7 +32,7 @@ public View breakView(int axis, float len, Shape a)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

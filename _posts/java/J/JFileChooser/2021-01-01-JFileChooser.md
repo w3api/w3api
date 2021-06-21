@@ -127,7 +127,7 @@ sidebar:
 {{ site.data.Java.J.JFileChooser.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JFileChooser.ldc -%}
    <li>

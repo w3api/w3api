@@ -30,7 +30,7 @@ void deactivate_object(byte[] oid) throws ObjectNotActive, WrongPolicy
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

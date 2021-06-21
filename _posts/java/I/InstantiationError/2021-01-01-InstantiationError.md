@@ -25,7 +25,7 @@ public class InstantiationError extends IncompatibleClassChangeError
 {{ site.data.Java.I.InstantiationError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InstantiationError.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public interface PrintServiceAttributeListener
 {{ site.data.Java.P.PrintServiceAttributeListener.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrintServiceAttributeListener.ldc -%}
    <li>

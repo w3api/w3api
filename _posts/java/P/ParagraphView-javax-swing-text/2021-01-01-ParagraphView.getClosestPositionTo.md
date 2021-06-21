@@ -39,7 +39,7 @@ protected int getClosestPositionTo(int pos, Position.Bias b, Shape a, int direct
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

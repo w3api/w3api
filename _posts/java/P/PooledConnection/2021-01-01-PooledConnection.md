@@ -30,7 +30,7 @@ public interface PooledConnection
 {{ site.data.Java.P.PooledConnection.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PooledConnection.ldc -%}
    <li>

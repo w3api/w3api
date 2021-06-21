@@ -27,7 +27,7 @@ public interface ParameterizedType extends Type
 {{ site.data.Java.P.ParameterizedType-java-lang-reflect.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParameterizedType-java-lang-reflect.ldc -%}
    <li>

@@ -30,7 +30,7 @@ IntStream flatMap(IntFunction<? extends IntStream> mapper)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

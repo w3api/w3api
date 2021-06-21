@@ -25,7 +25,7 @@ public class InputMismatchException extends NoSuchElementException
 {{ site.data.Java.I.InputMismatchException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InputMismatchException.ldc -%}
    <li>

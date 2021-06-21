@@ -28,7 +28,7 @@ public class PropertyVetoException extends Exception
 {{ site.data.Java.P.PropertyVetoException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PropertyVetoException.ldc -%}
    <li>

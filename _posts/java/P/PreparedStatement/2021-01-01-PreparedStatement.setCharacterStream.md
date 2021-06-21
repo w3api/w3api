@@ -38,7 +38,7 @@ void setCharacterStream(int parameterIndex, Reader reader, long length) throws S
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

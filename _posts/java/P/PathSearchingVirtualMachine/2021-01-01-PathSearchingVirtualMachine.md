@@ -27,7 +27,7 @@ public interface PathSearchingVirtualMachine extends VirtualMachine
 {{ site.data.Java.P.PathSearchingVirtualMachine.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PathSearchingVirtualMachine.ldc -%}
    <li>

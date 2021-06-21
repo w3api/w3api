@@ -33,7 +33,7 @@ public static enum PrinterJob.JobStatus extends Enum<PrinterJob.JobStatus>
 {{ site.data.Java.P.PrinterJob.JobStatus.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrinterJob.JobStatus.ldc -%}
    <li>

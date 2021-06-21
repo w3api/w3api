@@ -30,7 +30,7 @@ public static enum PathTransition.OrientationType extends Enum<PathTransition.Or
 {{ site.data.Java.P.PathTransition.OrientationType.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PathTransition.OrientationType.ldc -%}
    <li>

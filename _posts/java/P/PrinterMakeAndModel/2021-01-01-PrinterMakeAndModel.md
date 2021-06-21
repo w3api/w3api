@@ -30,7 +30,7 @@ public final class PrinterMakeAndModel extends TextSyntax implements PrintServic
 {{ site.data.Java.P.PrinterMakeAndModel.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrinterMakeAndModel.ldc -%}
    <li>

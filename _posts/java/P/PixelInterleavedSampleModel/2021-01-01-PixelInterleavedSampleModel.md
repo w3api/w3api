@@ -29,7 +29,7 @@ public class PixelInterleavedSampleModel extends ComponentSampleModel
 {{ site.data.Java.P.PixelInterleavedSampleModel.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PixelInterleavedSampleModel.ldc -%}
    <li>

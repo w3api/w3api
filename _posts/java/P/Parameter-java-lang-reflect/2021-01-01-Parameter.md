@@ -41,7 +41,7 @@ public final class Parameter extends Object implements AnnotatedElement
 {{ site.data.Java.P.Parameter-java-lang-reflect.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.Parameter-java-lang-reflect.ldc -%}
    <li>

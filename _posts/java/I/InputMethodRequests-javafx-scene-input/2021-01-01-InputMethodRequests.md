@@ -28,7 +28,7 @@ public interface InputMethodRequests
 {{ site.data.Java.I.InputMethodRequests-javafx-scene-input.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InputMethodRequests-javafx-scene-input.ldc -%}
    <li>

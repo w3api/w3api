@@ -25,7 +25,7 @@ public final class InvalidValue extends UserException
 {{ site.data.Java.I.InvalidValue-org-omg-CORBA-DynAnyPackage.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidValue-org-omg-CORBA-DynAnyPackage.ldc -%}
    <li>

@@ -31,7 +31,7 @@ public interface PolicyNode
 {{ site.data.Java.P.PolicyNode.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PolicyNode.ldc -%}
    <li>

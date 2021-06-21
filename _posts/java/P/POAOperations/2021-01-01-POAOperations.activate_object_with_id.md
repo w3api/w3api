@@ -31,7 +31,7 @@ void activate_object_with_id(byte[] id, Servant p_servant) throws ServantAlready
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -33,7 +33,7 @@ SyntaxError
 {{ site.data.Javascript.S.SyntaxError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.S.SyntaxError.ldc -%}
    <li>

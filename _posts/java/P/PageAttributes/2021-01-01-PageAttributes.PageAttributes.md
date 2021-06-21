@@ -41,7 +41,7 @@ public PageAttributes(PageAttributes.ColorType color, PageAttributes.MediaType m
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

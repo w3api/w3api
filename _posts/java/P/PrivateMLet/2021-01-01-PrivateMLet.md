@@ -25,7 +25,7 @@ public class PrivateMLet extends MLet implements PrivateClassLoader
 {{ site.data.Java.P.PrivateMLet.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrivateMLet.ldc -%}
    <li>

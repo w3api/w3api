@@ -25,7 +25,7 @@ public class InterruptedByTimeoutException extends IOException
 {{ site.data.Java.I.InterruptedByTimeoutException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InterruptedByTimeoutException.ldc -%}
    <li>

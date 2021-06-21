@@ -30,7 +30,7 @@ byte[] reference_to_id(Object reference) throws WrongAdapter, WrongPolicy
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

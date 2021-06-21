@@ -25,7 +25,7 @@ public interface InterruptibleChannel extends Channel
 {{ site.data.Java.I.InterruptibleChannel.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InterruptibleChannel.ldc -%}
    <li>

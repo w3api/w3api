@@ -37,7 +37,7 @@ public class ParameterMode extends Object implements IDLEntity
 {{ site.data.Java.P.ParameterMode.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.ParameterMode.ldc -%}
    <li>

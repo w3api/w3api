@@ -22,7 +22,7 @@ public interface InheritDocTree extends InlineTagTree
 {{ site.data.Java.I.InheritDocTree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InheritDocTree.ldc -%}
    <li>

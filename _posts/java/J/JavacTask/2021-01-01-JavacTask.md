@@ -37,7 +37,7 @@ public abstract class JavacTask extends Object implements JavaCompiler.Compilati
 {{ site.data.Java.J.JavacTask.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JavacTask.ldc -%}
    <li>

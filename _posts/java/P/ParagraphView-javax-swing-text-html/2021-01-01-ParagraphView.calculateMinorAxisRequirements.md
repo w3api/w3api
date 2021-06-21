@@ -34,7 +34,7 @@ protected SizeRequirements calculateMinorAxisRequirements(int axis, SizeRequirem
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

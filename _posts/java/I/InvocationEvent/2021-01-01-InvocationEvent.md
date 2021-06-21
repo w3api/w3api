@@ -41,7 +41,7 @@ public class InvocationEvent extends AWTEvent implements ActiveEvent
 {{ site.data.Java.I.InvocationEvent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvocationEvent.ldc -%}
    <li>

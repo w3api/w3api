@@ -22,7 +22,7 @@ undefined
 {{ site.data.Javascript.U.undefined.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Javascript.U.undefined.ldc -%}
    <li>

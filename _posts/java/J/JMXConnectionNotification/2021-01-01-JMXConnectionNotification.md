@@ -34,7 +34,7 @@ public class JMXConnectionNotification extends Notification
 {{ site.data.Java.J.JMXConnectionNotification.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.J.JMXConnectionNotification.ldc -%}
    <li>

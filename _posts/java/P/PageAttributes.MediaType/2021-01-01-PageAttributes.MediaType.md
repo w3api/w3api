@@ -175,7 +175,7 @@ public static final class PageAttributes.MediaType extends Object
 {{ site.data.Java.P.PageAttributes.MediaType.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PageAttributes.MediaType.ldc -%}
    <li>

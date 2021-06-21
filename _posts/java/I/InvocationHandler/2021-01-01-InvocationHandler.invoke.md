@@ -35,7 +35,7 @@ Object invoke(Object proxy, Method method, Object[] args) throws Throwable
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

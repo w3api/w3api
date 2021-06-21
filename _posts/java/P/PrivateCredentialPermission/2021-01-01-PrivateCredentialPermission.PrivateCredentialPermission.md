@@ -34,7 +34,7 @@ public PrivateCredentialPermission(String name, String actions)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public interface ItemListener extends EventListener
 {{ site.data.Java.I.ItemListener.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ItemListener.ldc -%}
    <li>

@@ -37,7 +37,7 @@ public final class PrinterState extends EnumSyntax implements PrintServiceAttrib
 {{ site.data.Java.P.PrinterState.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PrinterState.ldc -%}
    <li>

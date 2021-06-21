@@ -30,7 +30,7 @@ public void removeIIOWriteWarningListener(IIOWriteWarningListener listener)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

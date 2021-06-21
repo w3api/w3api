@@ -34,7 +34,7 @@ public ProgressMonitor(Component parentComponent, Object message, String note, i
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -37,7 +37,7 @@ protected void drawLine(int lineIndex, Graphics2D g, float x, float y)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

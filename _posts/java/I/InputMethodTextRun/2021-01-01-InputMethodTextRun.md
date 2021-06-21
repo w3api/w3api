@@ -30,7 +30,7 @@ public class InputMethodTextRun extends Object implements Serializable
 {{ site.data.Java.I.InputMethodTextRun.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InputMethodTextRun.ldc -%}
    <li>

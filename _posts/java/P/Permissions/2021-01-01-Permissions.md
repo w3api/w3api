@@ -30,7 +30,7 @@ public final class Permissions extends PermissionCollection implements Serializa
 {{ site.data.Java.P.Permissions.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.Permissions.ldc -%}
    <li>

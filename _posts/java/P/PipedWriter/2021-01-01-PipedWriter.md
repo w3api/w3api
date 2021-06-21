@@ -31,7 +31,7 @@ public class PipedWriter extends Writer
 {{ site.data.Java.P.PipedWriter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PipedWriter.ldc -%}
    <li>

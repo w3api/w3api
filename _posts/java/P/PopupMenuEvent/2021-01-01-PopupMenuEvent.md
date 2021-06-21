@@ -25,7 +25,7 @@ public class PopupMenuEvent extends EventObject
 {{ site.data.Java.P.PopupMenuEvent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PopupMenuEvent.ldc -%}
    <li>

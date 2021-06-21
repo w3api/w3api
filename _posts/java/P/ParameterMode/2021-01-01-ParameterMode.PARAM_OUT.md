@@ -27,7 +27,7 @@ static ParameterMode PARAM_OUT
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

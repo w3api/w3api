@@ -31,7 +31,7 @@ public abstract class PersistenceDelegate extends Object
 {{ site.data.Java.P.PersistenceDelegate.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PersistenceDelegate.ldc -%}
    <li>

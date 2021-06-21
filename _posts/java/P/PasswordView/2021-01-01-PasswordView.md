@@ -33,7 +33,7 @@ public class PasswordView extends FieldView
 {{ site.data.Java.P.PasswordView.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.P.PasswordView.ldc -%}
    <li>

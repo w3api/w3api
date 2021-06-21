@@ -25,7 +25,7 @@ public class InvalidRoleInfoException extends RelationException
 {{ site.data.Java.I.InvalidRoleInfoException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.InvalidRoleInfoException.ldc -%}
    <li>

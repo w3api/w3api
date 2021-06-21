@@ -31,7 +31,7 @@ public static void write(OutputStream ostream, InvalidValue value)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>
