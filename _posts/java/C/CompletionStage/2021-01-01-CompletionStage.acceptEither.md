@@ -31,7 +31,7 @@ CompletionStage<Void> acceptEither(CompletionStage<? extends T> other, Consumer<
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

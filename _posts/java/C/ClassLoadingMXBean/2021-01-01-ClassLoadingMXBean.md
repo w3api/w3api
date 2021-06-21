@@ -29,7 +29,7 @@ public interface ClassLoadingMXBean extends PlatformManagedObject
 {{ site.data.Java.C.ClassLoadingMXBean.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassLoadingMXBean.ldc -%}
    <li>

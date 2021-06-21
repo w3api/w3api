@@ -25,7 +25,7 @@ public interface IIOParamController
 {{ site.data.Java.I.IIOParamController.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IIOParamController.ldc -%}
    <li>

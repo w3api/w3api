@@ -30,7 +30,7 @@ void send_poll(ClientRequestInfo ri)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

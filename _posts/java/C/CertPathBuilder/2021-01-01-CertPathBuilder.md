@@ -33,7 +33,7 @@ public class CertPathBuilder extends Object
 {{ site.data.Java.C.CertPathBuilder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertPathBuilder.ldc -%}
    <li>

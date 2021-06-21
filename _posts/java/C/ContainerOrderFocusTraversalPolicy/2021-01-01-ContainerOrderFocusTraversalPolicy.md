@@ -35,7 +35,7 @@ public class ContainerOrderFocusTraversalPolicy extends FocusTraversalPolicy imp
 {{ site.data.Java.C.ContainerOrderFocusTraversalPolicy.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContainerOrderFocusTraversalPolicy.ldc -%}
    <li>

@@ -31,7 +31,7 @@ public interface IdentifierTree extends ExpressionTree
 {{ site.data.Java.I.IdentifierTree-jdk-nashorn-api-tree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IdentifierTree-jdk-nashorn-api-tree.ldc -%}
    <li>

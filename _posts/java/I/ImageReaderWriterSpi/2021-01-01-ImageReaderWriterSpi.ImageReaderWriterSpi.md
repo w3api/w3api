@@ -49,7 +49,7 @@ public ImageReaderWriterSpi(String vendorName, String version, String[] names, S
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

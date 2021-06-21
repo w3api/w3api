@@ -27,7 +27,7 @@ public interface Customizer
 {{ site.data.Java.C.Customizer.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Customizer.ldc -%}
    <li>

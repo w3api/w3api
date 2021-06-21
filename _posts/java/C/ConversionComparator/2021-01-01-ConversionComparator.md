@@ -25,7 +25,7 @@ public interface ConversionComparator
 {{ site.data.Java.C.ConversionComparator.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConversionComparator.ldc -%}
    <li>

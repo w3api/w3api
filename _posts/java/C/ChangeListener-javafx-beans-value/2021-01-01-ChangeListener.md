@@ -25,7 +25,7 @@ sidebar:
 {{ site.data.Java.C.ChangeListener-javafx-beans-value.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ChangeListener-javafx-beans-value.ldc -%}
    <li>

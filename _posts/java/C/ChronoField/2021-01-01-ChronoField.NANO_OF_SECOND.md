@@ -27,7 +27,7 @@ public static final ChronoField NANO_OF_SECOND
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -31,7 +31,7 @@ protected void setRange(Object range, boolean animate)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

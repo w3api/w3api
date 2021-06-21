@@ -25,7 +25,7 @@ public interface CommentTree extends DocTree
 {{ site.data.Java.C.CommentTree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CommentTree.ldc -%}
    <li>

@@ -30,7 +30,7 @@ void add_ior_component(TaggedComponent tagged_component)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

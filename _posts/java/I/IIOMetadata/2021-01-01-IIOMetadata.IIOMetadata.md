@@ -38,7 +38,7 @@ protected IIOMetadata(boolean standardMetadataFormatSupported, String nativeMeta
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

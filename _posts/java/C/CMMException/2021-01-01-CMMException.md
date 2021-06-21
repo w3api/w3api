@@ -25,7 +25,7 @@ public class CMMException extends RuntimeException
 {{ site.data.Java.C.CMMException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CMMException.ldc -%}
    <li>

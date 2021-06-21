@@ -28,7 +28,7 @@ public class ClassNotLoadedException extends Exception
 {{ site.data.Java.C.ClassNotLoadedException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassNotLoadedException.ldc -%}
    <li>

@@ -35,7 +35,7 @@ public abstract class Configuration extends Object
 {{ site.data.Java.C.Configuration-javax-security-auth-login.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Configuration-javax-security-auth-login.ldc -%}
    <li>

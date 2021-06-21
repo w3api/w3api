@@ -22,7 +22,7 @@ public interface CDATASection extends Text
 {{ site.data.Java.C.CDATASection.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CDATASection.ldc -%}
    <li>

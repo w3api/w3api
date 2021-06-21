@@ -48,7 +48,7 @@ public interface ChronoLocalDate extends Temporal, TemporalAdjuster, Comparable<
 {{ site.data.Java.C.ChronoLocalDate.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ChronoLocalDate.ldc -%}
    <li>

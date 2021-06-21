@@ -41,7 +41,7 @@ public static double getFlatnessSq(double x1, double y1, double ctrlx1, double c
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

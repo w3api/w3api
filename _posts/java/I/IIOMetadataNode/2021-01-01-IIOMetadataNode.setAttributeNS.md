@@ -32,7 +32,7 @@ public void setAttributeNS(String namespaceURI, String qualifiedName, String val
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

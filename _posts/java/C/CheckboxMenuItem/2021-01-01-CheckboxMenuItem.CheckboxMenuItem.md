@@ -36,7 +36,7 @@ public CheckboxMenuItem(String label, boolean state) throws HeadlessException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

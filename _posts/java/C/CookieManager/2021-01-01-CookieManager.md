@@ -29,7 +29,7 @@ public class CookieManager extends CookieHandler
 {{ site.data.Java.C.CookieManager.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CookieManager.ldc -%}
    <li>

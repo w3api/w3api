@@ -31,7 +31,7 @@ public interface ConcurrentNavigableMap<K,V> extends ConcurrentMap<K,V>, Navigab
 {{ site.data.Java.C.ConcurrentNavigableMap.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConcurrentNavigableMap.ldc -%}
    <li>

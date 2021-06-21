@@ -33,7 +33,7 @@ protected int engineGetKeySize(Key key) throws InvalidKeyException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

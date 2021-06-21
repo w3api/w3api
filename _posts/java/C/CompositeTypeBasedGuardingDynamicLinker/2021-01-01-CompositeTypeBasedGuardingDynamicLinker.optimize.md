@@ -33,7 +33,7 @@ public static List<GuardingDynamicLinker> optimize(Iterable<? extends GuardingDy
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

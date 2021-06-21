@@ -34,7 +34,7 @@ public CheckBoxTableCell(Callback<Integer,ObservableValue<Boolean>> getSelectedP
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -37,7 +37,7 @@ public int read(byte[] b, int off, int len) throws IOException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

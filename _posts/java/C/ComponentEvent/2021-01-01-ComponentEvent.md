@@ -37,7 +37,7 @@ public class ComponentEvent extends AWTEvent
 {{ site.data.Java.C.ComponentEvent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComponentEvent.ldc -%}
    <li>

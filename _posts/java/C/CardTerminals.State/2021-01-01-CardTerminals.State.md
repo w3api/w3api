@@ -33,7 +33,7 @@ public static enum CardTerminals.State extends Enum<CardTerminals.State>
 {{ site.data.Java.C.CardTerminals.State.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CardTerminals.State.ldc -%}
    <li>

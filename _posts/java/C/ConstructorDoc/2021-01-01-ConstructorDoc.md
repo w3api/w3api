@@ -22,7 +22,7 @@ sidebar:
 {{ site.data.Java.C.ConstructorDoc.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConstructorDoc.ldc -%}
    <li>

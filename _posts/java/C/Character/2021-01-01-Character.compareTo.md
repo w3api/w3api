@@ -30,7 +30,7 @@ public int compareTo(Character anotherCharacter)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

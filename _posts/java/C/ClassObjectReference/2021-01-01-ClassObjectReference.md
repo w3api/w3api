@@ -25,7 +25,7 @@ public interface ClassObjectReference extends ObjectReference
 {{ site.data.Java.C.ClassObjectReference.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassObjectReference.ldc -%}
    <li>

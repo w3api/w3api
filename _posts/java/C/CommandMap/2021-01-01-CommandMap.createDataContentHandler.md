@@ -32,7 +32,7 @@ public DataContentHandler createDataContentHandler(String mimeType, DataSource d
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

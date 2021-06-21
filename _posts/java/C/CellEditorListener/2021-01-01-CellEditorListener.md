@@ -26,7 +26,7 @@ public interface CellEditorListener extends EventListener
 {{ site.data.Java.C.CellEditorListener.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CellEditorListener.ldc -%}
    <li>

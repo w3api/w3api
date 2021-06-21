@@ -27,7 +27,7 @@ public static List<CssMetaData<? extends Styleable,?>> getClassCssMetaData()
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

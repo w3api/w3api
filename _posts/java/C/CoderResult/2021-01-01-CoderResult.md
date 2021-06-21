@@ -38,7 +38,7 @@ public class CoderResult extends Object
 {{ site.data.Java.C.CoderResult.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CoderResult.ldc -%}
    <li>

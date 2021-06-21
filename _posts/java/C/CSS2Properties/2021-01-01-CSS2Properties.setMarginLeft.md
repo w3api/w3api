@@ -33,7 +33,7 @@ void setMarginLeft(String marginLeft) throws DOMException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -32,7 +32,7 @@ void warningOccurred(ImageWriter source, int imageIndex, String warning)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

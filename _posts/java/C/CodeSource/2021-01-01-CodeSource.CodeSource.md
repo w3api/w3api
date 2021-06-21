@@ -33,7 +33,7 @@ public CodeSource(URL url, CodeSigner[] signers)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -22,7 +22,7 @@ public static interface CompletableFuture.AsynchronousCompletionTask
 {{ site.data.Java.C.CompletableFuture.AsynchronousCompletionTask.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompletableFuture.AsynchronousCompletionTask.ldc -%}
    <li>

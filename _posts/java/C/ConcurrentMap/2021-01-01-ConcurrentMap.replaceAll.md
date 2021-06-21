@@ -35,7 +35,7 @@ default void replaceAll(BiFunction<? super K,? super V,? extends V> function)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

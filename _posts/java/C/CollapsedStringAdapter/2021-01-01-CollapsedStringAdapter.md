@@ -30,7 +30,7 @@ public class CollapsedStringAdapter extends XmlAdapter<String,String>
 {{ site.data.Java.C.CollapsedStringAdapter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CollapsedStringAdapter.ldc -%}
    <li>

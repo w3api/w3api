@@ -25,7 +25,7 @@ public final class CODESET_INCOMPATIBLE extends SystemException
 {{ site.data.Java.C.CODESET_INCOMPATIBLE.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CODESET_INCOMPATIBLE.ldc -%}
    <li>

@@ -27,7 +27,7 @@ static Character.UnicodeBlock ARABIC_MATHEMATICAL_ALPHABETIC_SYMBOLS
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

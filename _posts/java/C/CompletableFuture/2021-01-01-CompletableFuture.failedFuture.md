@@ -30,7 +30,7 @@ static <U> CompletableFuture<U> failedFuture(Throwable ex)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -33,7 +33,7 @@ public double getSampleDouble(int x, int y, int b, DataBuffer data)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -30,7 +30,7 @@ public static CannotProceed extract(Any a)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

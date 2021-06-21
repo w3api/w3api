@@ -28,7 +28,7 @@ public class IllegalFormatPrecisionException extends IllegalFormatException
 {{ site.data.Java.I.IllegalFormatPrecisionException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IllegalFormatPrecisionException.ldc -%}
    <li>

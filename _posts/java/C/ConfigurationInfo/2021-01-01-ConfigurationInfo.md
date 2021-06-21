@@ -32,7 +32,7 @@ public final class ConfigurationInfo extends Object
 {{ site.data.Java.C.ConfigurationInfo.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConfigurationInfo.ldc -%}
    <li>

@@ -34,7 +34,7 @@ sidebar:
 {{ site.data.Java.C.ContentSignerParameters.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContentSignerParameters.ldc -%}
    <li>

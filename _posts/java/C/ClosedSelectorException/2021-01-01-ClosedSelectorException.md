@@ -25,7 +25,7 @@ public class ClosedSelectorException extends IllegalStateException
 {{ site.data.Java.C.ClosedSelectorException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClosedSelectorException.ldc -%}
    <li>

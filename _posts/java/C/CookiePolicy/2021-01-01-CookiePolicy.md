@@ -30,7 +30,7 @@ public interface CookiePolicy
 {{ site.data.Java.C.CookiePolicy.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CookiePolicy.ldc -%}
    <li>

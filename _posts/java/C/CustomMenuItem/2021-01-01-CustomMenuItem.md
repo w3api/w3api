@@ -33,7 +33,7 @@ public class CustomMenuItem extends MenuItem
 {{ site.data.Java.C.CustomMenuItem.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CustomMenuItem.ldc -%}
    <li>

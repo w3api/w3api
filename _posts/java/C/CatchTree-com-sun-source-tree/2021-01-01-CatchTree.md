@@ -26,7 +26,7 @@ public interface CatchTree extends Tree
 {{ site.data.Java.C.CatchTree-com-sun-source-tree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CatchTree-com-sun-source-tree.ldc -%}
    <li>

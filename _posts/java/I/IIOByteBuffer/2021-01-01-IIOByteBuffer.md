@@ -33,7 +33,7 @@ public class IIOByteBuffer extends Object
 {{ site.data.Java.I.IIOByteBuffer.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IIOByteBuffer.ldc -%}
    <li>

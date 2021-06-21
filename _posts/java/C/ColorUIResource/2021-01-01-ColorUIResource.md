@@ -25,7 +25,7 @@ public class ColorUIResource extends Color implements UIResource
 {{ site.data.Java.C.ColorUIResource.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColorUIResource.ldc -%}
    <li>

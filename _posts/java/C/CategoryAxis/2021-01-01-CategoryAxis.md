@@ -55,7 +55,7 @@ public final class CategoryAxis extends Axis<String>
 {{ site.data.Java.C.CategoryAxis.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CategoryAxis.ldc -%}
    <li>

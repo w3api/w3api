@@ -25,7 +25,7 @@ public static interface Connector.StringArgument extends Connector.Argument
 {{ site.data.Java.C.Connector.StringArgument.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Connector.StringArgument.ldc -%}
    <li>

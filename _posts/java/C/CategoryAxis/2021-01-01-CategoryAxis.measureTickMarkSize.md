@@ -31,7 +31,7 @@ protected Dimension2D measureTickMarkSize(String value, Object range)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -41,7 +41,7 @@ protected ColorModel(int pixel_bits, int[] bits, ColorSpace cspace, boolean hasA
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

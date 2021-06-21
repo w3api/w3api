@@ -32,7 +32,7 @@ public CompletableFuture<T> completeAsync(Supplier<? extends T> supplier, Execut
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

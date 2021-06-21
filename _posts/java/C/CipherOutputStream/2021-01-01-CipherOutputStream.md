@@ -30,7 +30,7 @@ public class CipherOutputStream extends FilterOutputStream
 {{ site.data.Java.C.CipherOutputStream.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CipherOutputStream.ldc -%}
    <li>

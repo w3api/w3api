@@ -25,7 +25,7 @@ public interface Closeable extends AutoCloseable
 {{ site.data.Java.C.Closeable.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Closeable.ldc -%}
    <li>

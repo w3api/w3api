@@ -27,7 +27,7 @@ public final ObjectProperty<Callback<TreeItem<T>,ObservableValue<Boolean>>> sele
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

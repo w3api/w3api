@@ -30,7 +30,7 @@ public class CheckMenuItem extends MenuItem
 {{ site.data.Java.C.CheckMenuItem.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CheckMenuItem.ldc -%}
    <li>

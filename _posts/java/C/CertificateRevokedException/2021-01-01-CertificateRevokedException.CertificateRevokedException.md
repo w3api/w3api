@@ -37,7 +37,7 @@ public CertificateRevokedException(Date revocationDate, CRLReason reason, X500Pr
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

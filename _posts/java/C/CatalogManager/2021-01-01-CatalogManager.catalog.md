@@ -34,7 +34,7 @@ public static Catalog catalog(CatalogFeatures features, URI... uris)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

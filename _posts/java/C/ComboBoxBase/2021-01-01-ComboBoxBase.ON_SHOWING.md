@@ -27,7 +27,7 @@ static EventType<Event> ON_SHOWING
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

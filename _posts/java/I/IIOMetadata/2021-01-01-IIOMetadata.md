@@ -60,7 +60,7 @@ public abstract class IIOMetadata extends Object
 {{ site.data.Java.I.IIOMetadata.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IIOMetadata.ldc -%}
    <li>

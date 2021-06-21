@@ -25,7 +25,7 @@ public interface IdentifierTree extends DocTree
 {{ site.data.Java.I.IdentifierTree-com-sun-source-doctree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IdentifierTree-com-sun-source-doctree.ldc -%}
    <li>

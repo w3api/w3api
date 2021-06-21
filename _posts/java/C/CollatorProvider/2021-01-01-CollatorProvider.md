@@ -28,7 +28,7 @@ public abstract class CollatorProvider extends LocaleServiceProvider
 {{ site.data.Java.C.CollatorProvider.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CollatorProvider.ldc -%}
    <li>

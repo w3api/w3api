@@ -46,7 +46,7 @@ public enum ConditionalFeature extends Enum<ConditionalFeature>
 {{ site.data.Java.C.ConditionalFeature.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConditionalFeature.ldc -%}
    <li>

@@ -30,7 +30,7 @@ public class CellSkinBase<C extends Cell> extends LabeledSkinBase<C>
 {{ site.data.Java.C.CellSkinBase.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CellSkinBase.ldc -%}
    <li>

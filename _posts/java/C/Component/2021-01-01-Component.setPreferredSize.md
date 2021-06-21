@@ -30,7 +30,7 @@ public void setPreferredSize(Dimension preferredSize)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

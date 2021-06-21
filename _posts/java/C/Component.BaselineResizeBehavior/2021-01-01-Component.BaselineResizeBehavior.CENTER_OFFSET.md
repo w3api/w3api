@@ -27,7 +27,7 @@ public static final Component.BaselineResizeBehavior CENTER_OFFSET
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

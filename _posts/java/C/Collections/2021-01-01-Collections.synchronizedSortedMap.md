@@ -31,7 +31,7 @@ static <K,V> SortedMap<K,V> synchronizedSortedMap(SortedMap<K,V> m)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -42,7 +42,7 @@ public class IdentityHashMap<K,V> extends AbstractMap<K,V> implements Map<K,V>, 
 {{ site.data.Java.I.IdentityHashMap.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IdentityHashMap.ldc -%}
    <li>

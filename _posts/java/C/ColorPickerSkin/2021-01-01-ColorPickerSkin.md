@@ -29,7 +29,7 @@ public class ColorPickerSkin extends ComboBoxPopupControl<Color>
 {{ site.data.Java.C.ColorPickerSkin.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColorPickerSkin.ldc -%}
    <li>

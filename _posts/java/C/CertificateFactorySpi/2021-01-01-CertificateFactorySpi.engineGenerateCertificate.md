@@ -33,7 +33,7 @@ public abstract Certificate engineGenerateCertificate(InputStream inStream) thro
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

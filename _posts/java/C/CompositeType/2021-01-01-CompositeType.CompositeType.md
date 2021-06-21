@@ -37,7 +37,7 @@ public CompositeType(String typeName, String description, String[] itemNames, St
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

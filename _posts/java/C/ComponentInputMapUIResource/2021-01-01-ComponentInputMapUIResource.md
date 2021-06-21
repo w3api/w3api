@@ -25,7 +25,7 @@ public class ComponentInputMapUIResource extends ComponentInputMap implements UI
 {{ site.data.Java.C.ComponentInputMapUIResource.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComponentInputMapUIResource.ldc -%}
    <li>

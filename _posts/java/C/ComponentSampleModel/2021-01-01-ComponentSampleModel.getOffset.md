@@ -33,7 +33,7 @@ public int getOffset(int x, int y, int b)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

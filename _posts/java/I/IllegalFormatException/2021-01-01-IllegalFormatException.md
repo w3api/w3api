@@ -22,7 +22,7 @@ public class IllegalFormatException extends IllegalArgumentException
 {{ site.data.Java.I.IllegalFormatException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IllegalFormatException.ldc -%}
    <li>

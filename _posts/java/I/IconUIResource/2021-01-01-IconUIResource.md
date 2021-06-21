@@ -25,7 +25,7 @@ public class IconUIResource extends Object implements Icon, UIResource, Serializ
 {{ site.data.Java.I.IconUIResource.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IconUIResource.ldc -%}
    <li>

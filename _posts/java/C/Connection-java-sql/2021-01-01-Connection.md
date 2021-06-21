@@ -74,7 +74,7 @@ public interface Connection extends Wrapper, AutoCloseable
 {{ site.data.Java.C.Connection-java-sql.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Connection-java-sql.ldc -%}
    <li>

@@ -31,7 +31,7 @@ void add_request_service_context(ServiceContext service_context, boolean replace
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

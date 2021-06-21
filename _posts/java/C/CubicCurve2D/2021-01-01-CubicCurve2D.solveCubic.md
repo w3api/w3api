@@ -32,7 +32,7 @@ public static int solveCubic(double[] eqn, double[] res)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

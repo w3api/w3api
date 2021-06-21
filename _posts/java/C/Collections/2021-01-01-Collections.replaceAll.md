@@ -32,7 +32,7 @@ static <T> boolean replaceAll(List<T> list, T oldVal, T newVal)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

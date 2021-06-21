@@ -25,7 +25,7 @@ sidebar:
 {{ site.data.Java.C.CertificateNotYetValidException-javax-security-cert.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertificateNotYetValidException-javax-security-cert.ldc -%}
    <li>

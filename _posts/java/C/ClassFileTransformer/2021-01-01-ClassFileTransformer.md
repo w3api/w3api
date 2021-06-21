@@ -25,7 +25,7 @@ public interface ClassFileTransformer
 {{ site.data.Java.C.ClassFileTransformer.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassFileTransformer.ldc -%}
    <li>

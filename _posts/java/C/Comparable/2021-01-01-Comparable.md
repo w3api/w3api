@@ -25,7 +25,7 @@ public interface Comparable<T>
 {{ site.data.Java.C.Comparable.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Comparable.ldc -%}
    <li>

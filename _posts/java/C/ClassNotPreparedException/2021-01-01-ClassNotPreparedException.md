@@ -25,7 +25,7 @@ public class ClassNotPreparedException extends RuntimeException
 {{ site.data.Java.C.ClassNotPreparedException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassNotPreparedException.ldc -%}
    <li>

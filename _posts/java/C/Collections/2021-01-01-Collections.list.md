@@ -30,7 +30,7 @@ static <T> ArrayList<T> list(Enumeration<T> e)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

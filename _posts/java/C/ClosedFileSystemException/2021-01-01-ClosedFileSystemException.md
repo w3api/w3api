@@ -25,7 +25,7 @@ public class ClosedFileSystemException extends IllegalStateException
 {{ site.data.Java.C.ClosedFileSystemException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClosedFileSystemException.ldc -%}
    <li>

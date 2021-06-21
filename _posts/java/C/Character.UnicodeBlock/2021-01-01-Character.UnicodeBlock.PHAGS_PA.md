@@ -27,7 +27,7 @@ static Character.UnicodeBlock PHAGS_PA
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

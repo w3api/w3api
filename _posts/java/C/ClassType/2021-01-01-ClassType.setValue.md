@@ -34,7 +34,7 @@ void setValue(Field field, Value value) throws InvalidTypeException, ClassNotLoa
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

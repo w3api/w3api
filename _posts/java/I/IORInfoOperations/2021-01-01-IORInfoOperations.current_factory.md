@@ -31,7 +31,7 @@ void current_factory(ObjectReferenceFactory newCurrent_factory)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

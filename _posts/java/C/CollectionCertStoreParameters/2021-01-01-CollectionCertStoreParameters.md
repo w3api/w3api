@@ -30,7 +30,7 @@ public class CollectionCertStoreParameters extends Object implements CertStorePa
 {{ site.data.Java.C.CollectionCertStoreParameters.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CollectionCertStoreParameters.ldc -%}
    <li>

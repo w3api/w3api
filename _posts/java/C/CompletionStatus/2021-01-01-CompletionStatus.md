@@ -34,7 +34,7 @@ public final class CompletionStatus extends Object implements IDLEntity
 {{ site.data.Java.C.CompletionStatus.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompletionStatus.ldc -%}
    <li>

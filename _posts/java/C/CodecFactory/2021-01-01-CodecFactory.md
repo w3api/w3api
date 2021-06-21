@@ -22,7 +22,7 @@ public interface CodecFactory extends CodecFactoryOperations, Object, IDLEntity
 {{ site.data.Java.C.CodecFactory.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CodecFactory.ldc -%}
    <li>

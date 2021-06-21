@@ -33,7 +33,7 @@ public static Configuration getConfiguration(String name) throws IOException, Pa
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

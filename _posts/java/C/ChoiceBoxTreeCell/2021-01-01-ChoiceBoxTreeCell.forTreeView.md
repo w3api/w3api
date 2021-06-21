@@ -35,7 +35,7 @@ static <T> Callback<TreeView<T>,TreeCell<T>> forTreeView(T... items)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

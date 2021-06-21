@@ -30,7 +30,7 @@ public final class CssParser extends Object
 {{ site.data.Java.C.CssParser.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CssParser.ldc -%}
    <li>

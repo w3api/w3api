@@ -26,7 +26,7 @@ public class ColorChooserComponentFactory extends Object
 {{ site.data.Java.C.ColorChooserComponentFactory.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColorChooserComponentFactory.ldc -%}
    <li>

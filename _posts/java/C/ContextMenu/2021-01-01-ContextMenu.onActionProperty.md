@@ -27,7 +27,7 @@ public final ObjectProperty<EventHandler<ActionEvent>> onActionProperty()
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

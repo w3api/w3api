@@ -26,7 +26,7 @@ public final class IIORegistry extends ServiceRegistry
 {{ site.data.Java.I.IIORegistry.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IIORegistry.ldc -%}
    <li>

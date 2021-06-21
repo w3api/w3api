@@ -32,7 +32,7 @@ public class ColorPicker extends ComboBoxBase<Color>
 {{ site.data.Java.C.ColorPicker.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColorPicker.ldc -%}
    <li>

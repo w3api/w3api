@@ -38,7 +38,7 @@ protected Class<?> defineClass(String name, ByteBuffer b, ProtectionDomain prote
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

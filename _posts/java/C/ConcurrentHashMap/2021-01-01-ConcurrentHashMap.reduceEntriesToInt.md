@@ -34,7 +34,7 @@ public int reduceEntriesToInt(long parallelismThreshold, ToIntFunction<Map.Entry
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

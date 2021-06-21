@@ -25,7 +25,7 @@ public class ClosedByInterruptException extends AsynchronousCloseException
 {{ site.data.Java.C.ClosedByInterruptException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClosedByInterruptException.ldc -%}
    <li>

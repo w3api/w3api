@@ -27,7 +27,7 @@ public static final CryptoPrimitive KEY_WRAP
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public class ConnectException extends RemoteException
 {{ site.data.Java.C.ConnectException-java-rmi.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConnectException-java-rmi.ldc -%}
    <li>

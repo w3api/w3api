@@ -30,7 +30,7 @@ public abstract class ComboBoxBaseSkin<T> extends SkinBase<ComboBoxBase<T>>
 {{ site.data.Java.C.ComboBoxBaseSkin.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComboBoxBaseSkin.ldc -%}
    <li>

@@ -27,7 +27,7 @@ public interface ConditionalExpressionTree extends ExpressionTree
 {{ site.data.Java.C.ConditionalExpressionTree-com-sun-source-tree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConditionalExpressionTree-com-sun-source-tree.ldc -%}
    <li>

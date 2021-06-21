@@ -36,7 +36,7 @@ public int[] getUnnormalizedComponents(float[] normComponents, int normOffset, i
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

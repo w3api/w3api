@@ -78,7 +78,7 @@ public class IIOMetadataNode extends Object implements Element, NodeList
 {{ site.data.Java.I.IIOMetadataNode.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IIOMetadataNode.ldc -%}
    <li>

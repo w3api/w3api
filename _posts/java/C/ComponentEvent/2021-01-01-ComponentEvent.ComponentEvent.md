@@ -34,7 +34,7 @@ public ComponentEvent(Component source, int id)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

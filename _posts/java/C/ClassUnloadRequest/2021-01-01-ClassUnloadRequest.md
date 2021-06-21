@@ -26,7 +26,7 @@ public interface ClassUnloadRequest extends EventRequest
 {{ site.data.Java.C.ClassUnloadRequest.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassUnloadRequest.ldc -%}
    <li>

@@ -32,7 +32,7 @@ ConversionComparator.Comparison compareConversion(Class<?> sourceType, Class<?> 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

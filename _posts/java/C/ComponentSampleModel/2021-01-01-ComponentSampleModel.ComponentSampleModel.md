@@ -40,7 +40,7 @@ public ComponentSampleModel(int dataType, int w, int h, int pixelStride, int sca
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

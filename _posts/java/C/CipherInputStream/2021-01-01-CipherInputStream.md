@@ -32,7 +32,7 @@ public class CipherInputStream extends FilterInputStream
 {{ site.data.Java.C.CipherInputStream.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CipherInputStream.ldc -%}
    <li>

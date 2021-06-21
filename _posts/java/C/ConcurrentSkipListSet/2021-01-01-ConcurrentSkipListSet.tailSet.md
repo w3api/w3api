@@ -35,7 +35,7 @@ public NavigableSet<E> tailSet(E fromElement, boolean inclusive)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

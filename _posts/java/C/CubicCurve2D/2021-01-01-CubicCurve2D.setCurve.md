@@ -49,7 +49,7 @@ public void setCurve(Point2D p1, Point2D cp1, Point2D cp2, Point2D p2)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

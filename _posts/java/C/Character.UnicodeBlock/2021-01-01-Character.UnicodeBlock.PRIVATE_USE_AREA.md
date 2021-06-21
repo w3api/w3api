@@ -27,7 +27,7 @@ static Character.UnicodeBlock PRIVATE_USE_AREA
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

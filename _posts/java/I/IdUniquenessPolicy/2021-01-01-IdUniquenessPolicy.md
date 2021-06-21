@@ -22,7 +22,7 @@ public interface IdUniquenessPolicy extends IdUniquenessPolicyOperations, Policy
 {{ site.data.Java.I.IdUniquenessPolicy.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IdUniquenessPolicy.ldc -%}
    <li>

@@ -34,7 +34,7 @@ public class CodeSource extends Object implements Serializable
 {{ site.data.Java.C.CodeSource.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CodeSource.ldc -%}
    <li>

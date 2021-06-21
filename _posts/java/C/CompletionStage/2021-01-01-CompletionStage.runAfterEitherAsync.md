@@ -33,7 +33,7 @@ CompletionStage<Void> runAfterEitherAsync(CompletionStage<?> other, Runnable act
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

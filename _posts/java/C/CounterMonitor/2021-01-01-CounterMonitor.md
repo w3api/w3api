@@ -44,7 +44,7 @@ public class CounterMonitor extends Monitor implements CounterMonitorMBean
 {{ site.data.Java.C.CounterMonitor.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CounterMonitor.ldc -%}
    <li>

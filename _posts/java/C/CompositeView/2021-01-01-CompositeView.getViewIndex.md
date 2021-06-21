@@ -31,7 +31,7 @@ public int getViewIndex(int pos, Position.Bias b)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

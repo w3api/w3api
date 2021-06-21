@@ -33,7 +33,7 @@ public final CertPathBuilderResult build(CertPathParameters params) throws CertP
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

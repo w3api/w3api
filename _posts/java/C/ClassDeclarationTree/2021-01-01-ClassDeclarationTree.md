@@ -28,7 +28,7 @@ public interface ClassDeclarationTree extends StatementTree
 {{ site.data.Java.C.ClassDeclarationTree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassDeclarationTree.ldc -%}
    <li>

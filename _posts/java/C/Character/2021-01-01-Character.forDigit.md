@@ -31,7 +31,7 @@ public static char forDigit(int digit, int radix)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

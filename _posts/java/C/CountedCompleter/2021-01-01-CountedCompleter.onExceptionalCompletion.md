@@ -31,7 +31,7 @@ public boolean onExceptionalCompletion(Throwable ex, CountedCompleter<?> caller)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

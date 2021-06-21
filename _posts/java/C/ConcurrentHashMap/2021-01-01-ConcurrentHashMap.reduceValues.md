@@ -39,7 +39,7 @@ public V reduceValues(long parallelismThreshold, BiFunction<? super V,? super V,
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

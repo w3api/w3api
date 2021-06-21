@@ -35,7 +35,7 @@ public CODESET_INCOMPATIBLE(String detailMessage, int minorCode, CompletionStatu
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

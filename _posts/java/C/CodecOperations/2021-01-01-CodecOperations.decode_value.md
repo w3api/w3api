@@ -31,7 +31,7 @@ Any decode_value(byte[] data, TypeCode tc) throws FormatMismatch, TypeMismatch
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

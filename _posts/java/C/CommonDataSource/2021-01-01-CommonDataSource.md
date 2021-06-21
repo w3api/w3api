@@ -30,7 +30,7 @@ public interface CommonDataSource
 {{ site.data.Java.C.CommonDataSource.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CommonDataSource.ldc -%}
    <li>

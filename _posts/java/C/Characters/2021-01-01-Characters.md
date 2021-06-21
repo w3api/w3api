@@ -28,7 +28,7 @@ public interface Characters extends XMLEvent
 {{ site.data.Java.C.Characters.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Characters.ldc -%}
    <li>

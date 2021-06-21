@@ -30,7 +30,7 @@ public void setController(IIOMetadataController controller)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

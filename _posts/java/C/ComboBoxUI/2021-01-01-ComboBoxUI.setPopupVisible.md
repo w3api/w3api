@@ -31,7 +31,7 @@ public abstract void setPopupVisible(JComboBox<?> c, boolean v)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -89,7 +89,7 @@ public class Container extends Component
 {{ site.data.Java.C.Container.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Container.ldc -%}
    <li>

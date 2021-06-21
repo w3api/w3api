@@ -26,7 +26,7 @@ public interface CustomMarshal
 {{ site.data.Java.C.CustomMarshal.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CustomMarshal.ldc -%}
    <li>

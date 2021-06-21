@@ -30,7 +30,7 @@ public class CommandInfo extends Object
 {{ site.data.Java.C.CommandInfo.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CommandInfo.ldc -%}
    <li>

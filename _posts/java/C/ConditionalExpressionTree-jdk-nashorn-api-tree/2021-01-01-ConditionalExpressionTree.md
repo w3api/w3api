@@ -27,7 +27,7 @@ public interface ConditionalExpressionTree extends ExpressionTree
 {{ site.data.Java.C.ConditionalExpressionTree-jdk-nashorn-api-tree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConditionalExpressionTree-jdk-nashorn-api-tree.ldc -%}
    <li>

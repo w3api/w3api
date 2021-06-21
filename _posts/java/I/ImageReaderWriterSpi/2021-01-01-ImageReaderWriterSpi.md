@@ -55,7 +55,7 @@ public abstract class ImageReaderWriterSpi extends IIOServiceProvider
 {{ site.data.Java.I.ImageReaderWriterSpi.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ImageReaderWriterSpi.ldc -%}
    <li>

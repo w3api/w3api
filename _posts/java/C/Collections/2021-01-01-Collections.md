@@ -89,7 +89,7 @@ public class Collections extends Object
 {{ site.data.Java.C.Collections.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Collections.ldc -%}
    <li>

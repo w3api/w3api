@@ -34,7 +34,7 @@ public abstract void mergeTree(String formatName, Node root) throws IIOInvalidTr
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

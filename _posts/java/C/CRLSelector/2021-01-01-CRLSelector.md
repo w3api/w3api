@@ -26,7 +26,7 @@ public interface CRLSelector extends Cloneable
 {{ site.data.Java.C.CRLSelector.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CRLSelector.ldc -%}
    <li>

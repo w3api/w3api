@@ -51,7 +51,7 @@ public static class CubicCurve2D.Float extends CubicCurve2D implements Serializa
 {{ site.data.Java.C.CubicCurve2D.Float.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CubicCurve2D.Float.ldc -%}
    <li>

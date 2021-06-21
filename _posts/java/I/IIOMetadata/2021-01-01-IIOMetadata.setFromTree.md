@@ -34,7 +34,7 @@ public void setFromTree(String formatName, Node root) throws IIOInvalidTreeExcep
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

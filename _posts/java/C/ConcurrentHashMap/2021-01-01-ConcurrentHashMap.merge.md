@@ -37,7 +37,7 @@ public V merge(K key, V value, BiFunction<? super V,? super V,? extends V> remap
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

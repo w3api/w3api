@@ -36,7 +36,7 @@ default V compute(K key, BiFunction<? super K,? super V,? extends V> remappingFu
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

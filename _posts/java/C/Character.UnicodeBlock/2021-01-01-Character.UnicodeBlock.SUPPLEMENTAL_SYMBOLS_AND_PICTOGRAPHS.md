@@ -27,7 +27,7 @@ static Character.UnicodeBlock SUPPLEMENTAL_SYMBOLS_AND_PICTOGRAPHS
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

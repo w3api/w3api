@@ -25,7 +25,7 @@ public class ContextMenuSkin extends Object implements Skin<ContextMenu>
 {{ site.data.Java.C.ContextMenuSkin.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContextMenuSkin.ldc -%}
    <li>

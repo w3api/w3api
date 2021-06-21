@@ -34,7 +34,7 @@ public Component getComponentBefore(Container aContainer, Component aComponent)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -36,7 +36,7 @@ protected CompoundName(Enumeration<String> comps, Properties syntax)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

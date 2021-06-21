@@ -31,7 +31,7 @@ public abstract class Connection extends Object
 {{ site.data.Java.C.Connection-com-sun-jdi-connect-spi.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Connection-com-sun-jdi-connect-spi.ldc -%}
    <li>

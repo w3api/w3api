@@ -31,7 +31,7 @@ static <K> ConcurrentHashMap.KeySetView<K,Boolean> newKeySet(int initialCapacit
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -30,7 +30,7 @@ public abstract Map<String,List<String>> getHeaders() throws IOException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

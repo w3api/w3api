@@ -25,7 +25,7 @@ public interface ChangeListener extends EventListener
 {{ site.data.Java.C.ChangeListener-javax-swing-event.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ChangeListener-javax-swing-event.ldc -%}
    <li>

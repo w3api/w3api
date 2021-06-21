@@ -34,7 +34,7 @@ default void forEach(BiConsumer<? super K,? super V> action)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

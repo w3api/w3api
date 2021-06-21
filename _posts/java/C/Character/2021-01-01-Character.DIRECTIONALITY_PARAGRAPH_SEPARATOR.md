@@ -27,7 +27,7 @@ static byte DIRECTIONALITY_PARAGRAPH_SEPARATOR
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public abstract class ColorChooserUI extends ComponentUI
 {{ site.data.Java.C.ColorChooserUI.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColorChooserUI.ldc -%}
    <li>

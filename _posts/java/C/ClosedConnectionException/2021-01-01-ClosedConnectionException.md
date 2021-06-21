@@ -25,7 +25,7 @@ public class ClosedConnectionException extends IOException
 {{ site.data.Java.C.ClosedConnectionException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClosedConnectionException.ldc -%}
    <li>

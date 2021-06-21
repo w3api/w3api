@@ -25,7 +25,7 @@ public class CredentialException extends LoginException
 {{ site.data.Java.C.CredentialException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CredentialException.ldc -%}
    <li>

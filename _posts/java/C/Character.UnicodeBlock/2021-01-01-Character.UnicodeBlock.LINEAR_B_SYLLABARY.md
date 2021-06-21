@@ -27,7 +27,7 @@ static Character.UnicodeBlock LINEAR_B_SYLLABARY
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -28,7 +28,7 @@ public final class IORHolder extends Object implements Streamable
 {{ site.data.Java.I.IORHolder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IORHolder.ldc -%}
    <li>

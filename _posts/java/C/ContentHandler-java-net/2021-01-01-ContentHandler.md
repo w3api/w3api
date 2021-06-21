@@ -28,7 +28,7 @@ public abstract class ContentHandler extends Object
 {{ site.data.Java.C.ContentHandler-java-net.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContentHandler-java-net.ldc -%}
    <li>

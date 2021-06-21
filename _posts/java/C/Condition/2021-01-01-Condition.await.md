@@ -35,7 +35,7 @@ boolean await(long time, TimeUnit unit) throws InterruptedException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

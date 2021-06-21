@@ -25,7 +25,7 @@ public class ConnectException extends SocketException
 {{ site.data.Java.C.ConnectException-java-net.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConnectException-java-net.ldc -%}
    <li>

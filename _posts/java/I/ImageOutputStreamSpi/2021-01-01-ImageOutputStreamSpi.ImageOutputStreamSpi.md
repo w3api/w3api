@@ -36,7 +36,7 @@ public ImageOutputStreamSpi(String vendorName, String version, Class<?> outputCl
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

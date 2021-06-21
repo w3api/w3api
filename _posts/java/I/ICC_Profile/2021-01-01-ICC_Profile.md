@@ -157,7 +157,7 @@ public class ICC_Profile extends Object implements Serializable
 {{ site.data.Java.I.ICC_Profile.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ICC_Profile.ldc -%}
    <li>

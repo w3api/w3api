@@ -33,7 +33,7 @@ public static int digit(int codePoint, int radix)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public class CredentialNotFoundException extends CredentialException
 {{ site.data.Java.C.CredentialNotFoundException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CredentialNotFoundException.ldc -%}
    <li>

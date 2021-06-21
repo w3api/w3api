@@ -22,7 +22,7 @@ public interface ClientRequestInfo extends ClientRequestInfoOperations, RequestI
 {{ site.data.Java.C.ClientRequestInfo.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClientRequestInfo.ldc -%}
    <li>

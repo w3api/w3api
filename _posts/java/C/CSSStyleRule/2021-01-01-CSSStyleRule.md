@@ -27,7 +27,7 @@ public interface CSSStyleRule extends CSSRule
 {{ site.data.Java.C.CSSStyleRule.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CSSStyleRule.ldc -%}
    <li>

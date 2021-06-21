@@ -25,7 +25,7 @@ public interface CodecFactoryOperations
 {{ site.data.Java.C.CodecFactoryOperations.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CodecFactoryOperations.ldc -%}
    <li>

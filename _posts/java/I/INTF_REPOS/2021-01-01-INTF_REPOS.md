@@ -25,7 +25,7 @@ public final class INTF_REPOS extends SystemException
 {{ site.data.Java.I.INTF_REPOS.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.INTF_REPOS.ldc -%}
    <li>

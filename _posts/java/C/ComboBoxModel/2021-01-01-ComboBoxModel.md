@@ -26,7 +26,7 @@ public interface ComboBoxModel<E> extends ListModel<E>
 {{ site.data.Java.C.ComboBoxModel.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComboBoxModel.ldc -%}
    <li>

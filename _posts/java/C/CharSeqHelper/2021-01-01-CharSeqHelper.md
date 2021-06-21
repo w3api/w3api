@@ -33,7 +33,7 @@ public abstract class CharSeqHelper extends Object
 {{ site.data.Java.C.CharSeqHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CharSeqHelper.ldc -%}
    <li>

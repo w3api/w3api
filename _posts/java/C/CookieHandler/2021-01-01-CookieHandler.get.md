@@ -35,7 +35,7 @@ public abstract Map<String,List<String>> get(URI uri, Map<String,List<String>> r
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

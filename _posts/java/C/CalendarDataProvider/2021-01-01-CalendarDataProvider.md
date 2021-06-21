@@ -29,7 +29,7 @@ public abstract class CalendarDataProvider extends LocaleServiceProvider
 {{ site.data.Java.C.CalendarDataProvider.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CalendarDataProvider.ldc -%}
    <li>

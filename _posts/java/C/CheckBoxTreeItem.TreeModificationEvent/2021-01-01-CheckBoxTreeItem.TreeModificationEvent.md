@@ -33,7 +33,7 @@ public static class CheckBoxTreeItem.TreeModificationEvent<T> extends Event
 {{ site.data.Java.C.CheckBoxTreeItem.TreeModificationEvent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CheckBoxTreeItem.TreeModificationEvent.ldc -%}
    <li>

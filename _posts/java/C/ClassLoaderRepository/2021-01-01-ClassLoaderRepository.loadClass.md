@@ -33,7 +33,7 @@ Class<?> loadClass(String className) throws ClassNotFoundException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

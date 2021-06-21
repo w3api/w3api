@@ -32,7 +32,7 @@ static <T> void sort(List<T> list, Comparator<? super T> c)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

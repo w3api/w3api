@@ -32,7 +32,7 @@ public static enum Component.BaselineResizeBehavior extends Enum<Component.Basel
 {{ site.data.Java.C.Component.BaselineResizeBehavior.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Component.BaselineResizeBehavior.ldc -%}
    <li>

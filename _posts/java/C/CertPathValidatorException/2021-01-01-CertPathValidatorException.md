@@ -30,7 +30,7 @@ public class CertPathValidatorException extends GeneralSecurityException
 {{ site.data.Java.C.CertPathValidatorException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertPathValidatorException.ldc -%}
    <li>

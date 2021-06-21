@@ -39,7 +39,7 @@ public static int offsetByCodePoints(CharSequence seq, int index, int codePointO
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

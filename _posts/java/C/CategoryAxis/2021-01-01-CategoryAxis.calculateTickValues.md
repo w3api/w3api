@@ -31,7 +31,7 @@ protected List<String> calculateTickValues(double length, Object range)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

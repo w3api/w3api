@@ -33,7 +33,7 @@ public abstract class IORHelper extends Object
 {{ site.data.Java.I.IORHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IORHelper.ldc -%}
    <li>

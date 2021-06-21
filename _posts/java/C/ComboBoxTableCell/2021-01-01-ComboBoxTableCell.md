@@ -35,7 +35,7 @@ public class ComboBoxTableCell<S,T> extends TableCell<S,T>
 {{ site.data.Java.C.ComboBoxTableCell.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComboBoxTableCell.ldc -%}
    <li>

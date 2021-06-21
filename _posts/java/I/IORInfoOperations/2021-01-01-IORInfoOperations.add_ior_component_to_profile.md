@@ -31,7 +31,7 @@ void add_ior_component_to_profile(TaggedComponent tagged_component, int profile_
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

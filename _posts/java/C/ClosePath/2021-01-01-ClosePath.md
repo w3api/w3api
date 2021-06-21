@@ -28,7 +28,7 @@ public class ClosePath extends PathElement
 {{ site.data.Java.C.ClosePath.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClosePath.ldc -%}
    <li>

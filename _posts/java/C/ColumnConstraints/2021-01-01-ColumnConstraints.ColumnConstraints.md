@@ -39,7 +39,7 @@ public ColumnConstraints(double minWidth, double prefWidth, double maxWidth, Pri
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

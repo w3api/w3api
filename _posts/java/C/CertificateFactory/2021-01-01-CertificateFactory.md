@@ -36,7 +36,7 @@ public class CertificateFactory extends Object
 {{ site.data.Java.C.CertificateFactory.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertificateFactory.ldc -%}
    <li>

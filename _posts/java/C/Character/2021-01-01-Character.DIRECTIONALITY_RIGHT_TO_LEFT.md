@@ -27,7 +27,7 @@ static byte DIRECTIONALITY_RIGHT_TO_LEFT
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

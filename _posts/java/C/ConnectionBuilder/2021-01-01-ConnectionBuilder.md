@@ -29,7 +29,7 @@ public interface ConnectionBuilder
 {{ site.data.Java.C.ConnectionBuilder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConnectionBuilder.ldc -%}
    <li>

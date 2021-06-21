@@ -27,7 +27,7 @@ public final CertStoreParameters getCertStoreParameters()
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

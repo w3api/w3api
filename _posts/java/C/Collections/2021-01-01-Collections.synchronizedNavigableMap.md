@@ -31,7 +31,7 @@ static <K,V> NavigableMap<K,V> synchronizedNavigableMap(NavigableMap<K,V> m)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

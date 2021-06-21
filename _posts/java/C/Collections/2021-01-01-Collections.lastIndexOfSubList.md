@@ -31,7 +31,7 @@ public static int lastIndexOfSubList(List<?> source, List<?> target)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

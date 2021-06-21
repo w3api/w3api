@@ -33,7 +33,7 @@ public class ICC_ProfileRGB extends ICC_Profile
 {{ site.data.Java.I.ICC_ProfileRGB.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ICC_ProfileRGB.ldc -%}
    <li>

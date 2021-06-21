@@ -43,7 +43,7 @@ public final class Constructor<T> extends Executable
 {{ site.data.Java.C.Constructor.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Constructor.ldc -%}
    <li>

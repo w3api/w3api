@@ -33,7 +33,7 @@ public abstract class CertificateFactorySpi extends Object
 {{ site.data.Java.C.CertificateFactorySpi.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertificateFactorySpi.ldc -%}
    <li>

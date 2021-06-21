@@ -25,7 +25,7 @@ public interface CommandObject
 {{ site.data.Java.C.CommandObject.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CommandObject.ldc -%}
    <li>

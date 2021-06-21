@@ -35,7 +35,7 @@ public class CompositeType extends OpenType<CompositeData>
 {{ site.data.Java.C.CompositeType.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompositeType.ldc -%}
    <li>

@@ -40,7 +40,7 @@ public static void subdivide(CubicCurve2D src, CubicCurve2D left, CubicCurve2D r
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

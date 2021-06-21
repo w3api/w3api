@@ -36,7 +36,7 @@ public static int toChars(int codePoint, char[] dst, int dstIndex)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

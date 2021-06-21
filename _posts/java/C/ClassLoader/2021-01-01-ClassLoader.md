@@ -61,7 +61,7 @@ public abstract class ClassLoader extends Object
 {{ site.data.Java.C.ClassLoader.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassLoader.ldc -%}
    <li>

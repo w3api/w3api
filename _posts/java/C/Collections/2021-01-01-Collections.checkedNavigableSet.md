@@ -31,7 +31,7 @@ static <E> NavigableSet<E> checkedNavigableSet(NavigableSet<E> s, Class<E> type
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

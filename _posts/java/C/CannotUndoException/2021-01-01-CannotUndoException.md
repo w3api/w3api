@@ -25,7 +25,7 @@ public class CannotUndoException extends RuntimeException
 {{ site.data.Java.C.CannotUndoException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CannotUndoException.ldc -%}
    <li>

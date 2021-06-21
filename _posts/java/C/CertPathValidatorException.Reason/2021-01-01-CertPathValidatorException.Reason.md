@@ -22,7 +22,7 @@ public static interface CertPathValidatorException.Reason extends Serializable
 {{ site.data.Java.C.CertPathValidatorException.Reason.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertPathValidatorException.Reason.ldc -%}
    <li>

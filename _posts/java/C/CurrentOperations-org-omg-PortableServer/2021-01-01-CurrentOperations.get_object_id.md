@@ -27,7 +27,7 @@ byte[] get_object_id() throws NoContext
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

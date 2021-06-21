@@ -40,7 +40,7 @@ public abstract class ComponentUI extends Object
 {{ site.data.Java.C.ComponentUI.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComponentUI.ldc -%}
    <li>

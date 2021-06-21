@@ -26,7 +26,7 @@ public interface CompletionHandler<V,A>
 {{ site.data.Java.C.CompletionHandler.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompletionHandler.ldc -%}
    <li>

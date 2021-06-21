@@ -31,7 +31,7 @@ static <T> Comparator<T> reverseOrder(Comparator<T> cmp)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

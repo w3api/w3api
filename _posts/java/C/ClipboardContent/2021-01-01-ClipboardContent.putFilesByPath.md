@@ -30,7 +30,7 @@ public final boolean putFilesByPath(List<String> filePaths)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

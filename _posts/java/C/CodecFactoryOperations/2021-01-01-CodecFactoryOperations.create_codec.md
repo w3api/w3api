@@ -30,7 +30,7 @@ Codec create_codec(Encoding enc) throws UnknownEncoding
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

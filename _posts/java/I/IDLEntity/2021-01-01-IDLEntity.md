@@ -22,7 +22,7 @@ public interface IDLEntity extends Serializable
 {{ site.data.Java.I.IDLEntity.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IDLEntity.ldc -%}
    <li>

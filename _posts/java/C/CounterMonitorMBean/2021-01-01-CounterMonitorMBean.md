@@ -38,7 +38,7 @@ public interface CounterMonitorMBean extends MonitorMBean
 {{ site.data.Java.C.CounterMonitorMBean.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CounterMonitorMBean.ldc -%}
    <li>

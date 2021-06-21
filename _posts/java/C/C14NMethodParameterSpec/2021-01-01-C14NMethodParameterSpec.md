@@ -22,7 +22,7 @@ public interface C14NMethodParameterSpec extends TransformParameterSpec
 {{ site.data.Java.C.C14NMethodParameterSpec.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.C14NMethodParameterSpec.ldc -%}
    <li>

@@ -43,7 +43,7 @@ public class CompositeName extends Object implements Name
 {{ site.data.Java.C.CompositeName.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompositeName.ldc -%}
    <li>

@@ -29,7 +29,7 @@ public abstract class CaretEvent extends EventObject
 {{ site.data.Java.C.CaretEvent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CaretEvent.ldc -%}
    <li>

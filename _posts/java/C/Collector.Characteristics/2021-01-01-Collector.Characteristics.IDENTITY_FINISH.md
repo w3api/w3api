@@ -27,7 +27,7 @@ public static final Collector.Characteristics IDENTITY_FINISH
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

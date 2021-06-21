@@ -28,7 +28,7 @@ public interface CSSMediaRule extends CSSRule
 {{ site.data.Java.C.CSSMediaRule.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CSSMediaRule.ldc -%}
    <li>

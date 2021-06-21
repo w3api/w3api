@@ -37,7 +37,7 @@ public void forEachEntry(long parallelismThreshold, Consumer<? super Map.Entry<K
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

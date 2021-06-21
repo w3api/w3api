@@ -27,7 +27,7 @@ public static final ConditionalFeature TWO_LEVEL_FOCUS
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

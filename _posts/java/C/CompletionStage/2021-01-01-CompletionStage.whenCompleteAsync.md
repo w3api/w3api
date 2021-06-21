@@ -33,7 +33,7 @@ CompletionStage<T> whenCompleteAsync(BiConsumer<? super T,? super Throwable> act
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

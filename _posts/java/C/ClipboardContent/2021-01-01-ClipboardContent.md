@@ -46,7 +46,7 @@ public class ClipboardContent extends HashMap<DataFormat,Object>
 {{ site.data.Java.C.ClipboardContent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClipboardContent.ldc -%}
    <li>

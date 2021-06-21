@@ -32,7 +32,7 @@ void compose(Raster src, Raster dstIn, WritableRaster dstOut)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

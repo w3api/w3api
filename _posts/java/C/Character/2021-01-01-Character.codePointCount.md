@@ -39,7 +39,7 @@ public static int codePointCount(CharSequence seq, int beginIndex, int endIndex)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

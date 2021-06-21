@@ -36,7 +36,7 @@ public class ContainerEvent extends ComponentEvent
 {{ site.data.Java.C.ContainerEvent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContainerEvent.ldc -%}
    <li>

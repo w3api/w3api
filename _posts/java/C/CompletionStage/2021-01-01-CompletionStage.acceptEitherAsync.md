@@ -33,7 +33,7 @@ CompletionStage<Void> acceptEitherAsync(CompletionStage<? extends T> other, Cons
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

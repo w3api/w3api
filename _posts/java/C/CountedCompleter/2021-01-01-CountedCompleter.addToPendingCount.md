@@ -30,7 +30,7 @@ public final void addToPendingCount(int delta)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

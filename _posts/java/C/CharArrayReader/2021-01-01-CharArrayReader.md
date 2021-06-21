@@ -40,7 +40,7 @@ public class CharArrayReader extends Reader
 {{ site.data.Java.C.CharArrayReader.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CharArrayReader.ldc -%}
    <li>

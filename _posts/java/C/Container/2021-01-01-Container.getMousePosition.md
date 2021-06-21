@@ -33,7 +33,7 @@ public Point getMousePosition(boolean allowChildren) throws HeadlessException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

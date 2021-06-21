@@ -26,7 +26,7 @@ public interface CSSValueList extends CSSValue
 {{ site.data.Java.C.CSSValueList.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CSSValueList.ldc -%}
    <li>

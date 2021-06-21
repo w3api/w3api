@@ -25,7 +25,7 @@ public class ConnectIOException extends RemoteException
 {{ site.data.Java.C.ConnectIOException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConnectIOException.ldc -%}
    <li>

@@ -33,7 +33,7 @@ public void setPixel(int x, int y, int[] iArray, DataBuffer data)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

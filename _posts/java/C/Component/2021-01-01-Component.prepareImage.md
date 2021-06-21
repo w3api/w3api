@@ -34,7 +34,7 @@ public boolean prepareImage(Image image, ImageObserver observer)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -268,7 +268,7 @@ public interface CSS2Properties
 {{ site.data.Java.C.CSS2Properties.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CSS2Properties.ldc -%}
    <li>

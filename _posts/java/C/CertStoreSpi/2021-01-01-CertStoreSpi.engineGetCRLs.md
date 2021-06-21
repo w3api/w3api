@@ -33,7 +33,7 @@ public abstract Collection<? extends CRL> engineGetCRLs(CRLSelector selector) th
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

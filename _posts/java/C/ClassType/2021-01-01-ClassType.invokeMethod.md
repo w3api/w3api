@@ -36,7 +36,7 @@ Value invokeMethod(ThreadReference thread, Method method, List<? extends Value> 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

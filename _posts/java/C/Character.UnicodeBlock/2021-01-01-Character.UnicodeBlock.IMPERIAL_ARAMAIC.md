@@ -27,7 +27,7 @@ static Character.UnicodeBlock IMPERIAL_ARAMAIC
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

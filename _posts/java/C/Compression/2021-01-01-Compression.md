@@ -37,7 +37,7 @@ public class Compression extends EnumSyntax implements DocAttribute
 {{ site.data.Java.C.Compression.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Compression.ldc -%}
    <li>

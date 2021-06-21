@@ -27,7 +27,7 @@ public static final ChronoField MONTH_OF_YEAR
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

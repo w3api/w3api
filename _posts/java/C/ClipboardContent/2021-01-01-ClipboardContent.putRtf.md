@@ -30,7 +30,7 @@ public final boolean putRtf(String rtf)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

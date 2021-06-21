@@ -39,7 +39,7 @@ public enum CRLReason extends Enum<CRLReason>
 {{ site.data.Java.C.CRLReason.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CRLReason.ldc -%}
    <li>

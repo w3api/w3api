@@ -47,7 +47,7 @@ public abstract class CountedCompleter<T> extends ForkJoinTask<T>
 {{ site.data.Java.C.CountedCompleter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CountedCompleter.ldc -%}
    <li>

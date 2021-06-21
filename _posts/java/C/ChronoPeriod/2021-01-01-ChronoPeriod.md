@@ -40,7 +40,7 @@ public interface ChronoPeriod extends TemporalAmount
 {{ site.data.Java.C.ChronoPeriod.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ChronoPeriod.ldc -%}
    <li>

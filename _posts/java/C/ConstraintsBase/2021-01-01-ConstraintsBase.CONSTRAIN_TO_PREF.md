@@ -27,7 +27,7 @@ static double CONSTRAIN_TO_PREF
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

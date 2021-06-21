@@ -27,7 +27,7 @@ static Character.UnicodeBlock SPACING_MODIFIER_LETTERS
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

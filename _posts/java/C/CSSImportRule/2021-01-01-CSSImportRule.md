@@ -27,7 +27,7 @@ public interface CSSImportRule extends CSSRule
 {{ site.data.Java.C.CSSImportRule.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CSSImportRule.ldc -%}
    <li>

@@ -31,7 +31,7 @@ static <K,V> Map<K,V> synchronizedMap(Map<K,V> m)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

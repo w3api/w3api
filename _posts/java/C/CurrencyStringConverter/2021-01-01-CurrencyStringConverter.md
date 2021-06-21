@@ -25,7 +25,7 @@ public class CurrencyStringConverter extends NumberStringConverter
 {{ site.data.Java.C.CurrencyStringConverter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CurrencyStringConverter.ldc -%}
    <li>

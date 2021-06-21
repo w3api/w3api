@@ -28,7 +28,7 @@ public class IllformedLocaleException extends RuntimeException
 {{ site.data.Java.I.IllformedLocaleException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IllformedLocaleException.ldc -%}
    <li>

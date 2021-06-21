@@ -32,7 +32,7 @@ public class CertificateRevokedException extends CertificateException
 {{ site.data.Java.C.CertificateRevokedException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertificateRevokedException.ldc -%}
    <li>

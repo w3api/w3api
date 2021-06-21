@@ -25,7 +25,7 @@ public class CertificateExpiredException extends CertificateException
 {{ site.data.Java.C.CertificateExpiredException-java-security-cert.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertificateExpiredException-java-security-cert.ldc -%}
    <li>

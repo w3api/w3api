@@ -29,7 +29,7 @@ public abstract class ConfigurationSpi extends Object
 {{ site.data.Java.C.ConfigurationSpi.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConfigurationSpi.ldc -%}
    <li>

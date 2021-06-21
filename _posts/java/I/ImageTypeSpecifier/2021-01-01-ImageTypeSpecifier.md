@@ -47,7 +47,7 @@ public class ImageTypeSpecifier extends Object
 {{ site.data.Java.I.ImageTypeSpecifier.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ImageTypeSpecifier.ldc -%}
    <li>

@@ -30,7 +30,7 @@ static <T> SortedSet<T> synchronizedSortedSet(SortedSet<T> s)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

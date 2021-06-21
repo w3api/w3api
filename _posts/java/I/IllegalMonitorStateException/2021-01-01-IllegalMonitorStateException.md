@@ -25,7 +25,7 @@ public class IllegalMonitorStateException extends RuntimeException
 {{ site.data.Java.I.IllegalMonitorStateException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IllegalMonitorStateException.ldc -%}
    <li>

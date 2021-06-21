@@ -30,7 +30,7 @@ public abstract void remove(int index) throws Bounds
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

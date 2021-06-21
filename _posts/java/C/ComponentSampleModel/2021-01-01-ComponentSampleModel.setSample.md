@@ -38,7 +38,7 @@ public void setSample(int x, int y, int b, int s, DataBuffer data)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

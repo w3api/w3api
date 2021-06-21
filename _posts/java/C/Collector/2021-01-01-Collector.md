@@ -30,7 +30,7 @@ public interface Collector<T,A,R>
 {{ site.data.Java.C.Collector.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Collector.ldc -%}
    <li>

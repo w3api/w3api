@@ -28,7 +28,7 @@ public class IllegalCharsetNameException extends IllegalArgumentException
 {{ site.data.Java.I.IllegalCharsetNameException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IllegalCharsetNameException.ldc -%}
    <li>

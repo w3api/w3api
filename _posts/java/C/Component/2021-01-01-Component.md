@@ -222,7 +222,7 @@ public abstract class Component extends Object implements ImageObserver, MenuCon
 {{ site.data.Java.C.Component.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Component.ldc -%}
    <li>

@@ -40,7 +40,7 @@ public Shape modelToView(int p0, Position.Bias b0, int p1, Position.Bias b1, Sha
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

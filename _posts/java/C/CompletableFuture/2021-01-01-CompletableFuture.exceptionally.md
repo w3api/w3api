@@ -31,7 +31,7 @@ public CompletableFuture<T> exceptionally(Function<Throwable,? extends T> fn)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

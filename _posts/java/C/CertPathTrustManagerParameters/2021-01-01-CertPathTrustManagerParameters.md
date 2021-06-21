@@ -28,7 +28,7 @@ public class CertPathTrustManagerParameters extends Object implements ManagerFac
 {{ site.data.Java.C.CertPathTrustManagerParameters.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertPathTrustManagerParameters.ldc -%}
    <li>

@@ -33,7 +33,7 @@ public abstract CRL engineGenerateCRL(InputStream inStream) throws CRLException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -36,7 +36,7 @@ public class CompositeDataSupport extends Object implements CompositeData, Seria
 {{ site.data.Java.C.CompositeDataSupport.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompositeDataSupport.ldc -%}
    <li>

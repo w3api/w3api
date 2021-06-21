@@ -25,7 +25,7 @@ public class CompletionException extends RuntimeException
 {{ site.data.Java.C.CompletionException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompletionException.ldc -%}
    <li>

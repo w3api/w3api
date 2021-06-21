@@ -31,7 +31,7 @@ static <T> void fill(List<? super T> list, T obj)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

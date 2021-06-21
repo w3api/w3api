@@ -49,7 +49,7 @@ public abstract class CubicCurve2D extends Object implements Shape, Cloneable
 {{ site.data.Java.C.CubicCurve2D.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CubicCurve2D.ldc -%}
    <li>

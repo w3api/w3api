@@ -34,7 +34,7 @@ public class CertStore extends Object
 {{ site.data.Java.C.CertStore.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertStore.ldc -%}
    <li>

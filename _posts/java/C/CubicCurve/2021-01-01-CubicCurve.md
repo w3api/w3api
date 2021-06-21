@@ -52,7 +52,7 @@ public class CubicCurve extends Shape
 {{ site.data.Java.C.CubicCurve.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CubicCurve.ldc -%}
    <li>

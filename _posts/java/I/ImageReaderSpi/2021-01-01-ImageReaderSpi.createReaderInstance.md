@@ -34,7 +34,7 @@ public abstract ImageReader createReaderInstance(Object extension) throws IOExce
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

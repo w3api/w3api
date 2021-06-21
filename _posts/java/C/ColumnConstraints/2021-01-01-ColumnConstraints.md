@@ -49,7 +49,7 @@ public class ColumnConstraints extends ConstraintsBase
 {{ site.data.Java.C.ColumnConstraints.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColumnConstraints.ldc -%}
    <li>

@@ -28,7 +28,7 @@ public class CompositeDataInvocationHandler extends Object implements Invocation
 {{ site.data.Java.C.CompositeDataInvocationHandler.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompositeDataInvocationHandler.ldc -%}
    <li>

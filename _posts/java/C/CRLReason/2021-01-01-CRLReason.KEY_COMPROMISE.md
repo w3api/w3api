@@ -27,7 +27,7 @@ public static final CRLReason KEY_COMPROMISE
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

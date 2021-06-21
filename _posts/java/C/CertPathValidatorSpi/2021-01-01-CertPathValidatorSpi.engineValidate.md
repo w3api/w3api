@@ -34,7 +34,7 @@ public abstract CertPathValidatorResult engineValidate(CertPath certPath, CertPa
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

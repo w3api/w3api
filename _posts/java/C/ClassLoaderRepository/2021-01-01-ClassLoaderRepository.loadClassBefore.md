@@ -34,7 +34,7 @@ Class<?> loadClassBefore(ClassLoader stop, String className) throws ClassNotFoun
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

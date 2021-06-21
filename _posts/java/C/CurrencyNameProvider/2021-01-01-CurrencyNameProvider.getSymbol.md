@@ -34,7 +34,7 @@ public abstract String getSymbol(String currencyCode, Locale locale)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

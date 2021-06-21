@@ -36,7 +36,7 @@ public interface ClassType extends ReferenceType
 {{ site.data.Java.C.ClassType.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassType.ldc -%}
    <li>

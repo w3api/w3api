@@ -25,7 +25,7 @@ public class CloneNotSupportedException extends Exception
 {{ site.data.Java.C.CloneNotSupportedException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CloneNotSupportedException.ldc -%}
    <li>

@@ -27,7 +27,7 @@ public final CodeSigner[] getCodeSigners()
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

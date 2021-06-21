@@ -46,7 +46,7 @@ public abstract class CharBuffer extends Buffer implements Comparable<CharBuffer
 {{ site.data.Java.C.CharBuffer.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CharBuffer.ldc -%}
    <li>

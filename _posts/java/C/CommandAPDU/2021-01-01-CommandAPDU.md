@@ -38,7 +38,7 @@ public final class CommandAPDU extends Object implements Serializable
 {{ site.data.Java.C.CommandAPDU.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CommandAPDU.ldc -%}
    <li>

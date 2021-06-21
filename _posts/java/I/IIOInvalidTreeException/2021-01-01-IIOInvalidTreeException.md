@@ -31,7 +31,7 @@ public class IIOInvalidTreeException extends IIOException
 {{ site.data.Java.I.IIOInvalidTreeException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IIOInvalidTreeException.ldc -%}
    <li>

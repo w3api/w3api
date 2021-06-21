@@ -27,7 +27,7 @@ static <K,V> Map<K,V> emptyMap()
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -35,7 +35,7 @@ public void forEachKey(long parallelismThreshold, Consumer<? super K> action)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

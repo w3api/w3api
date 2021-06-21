@@ -27,7 +27,7 @@ static Character.UnicodeBlock COMMON_INDIC_NUMBER_FORMS
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

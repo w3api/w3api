@@ -31,7 +31,7 @@ static <T> boolean addAll(Collection<? super T> c, T... elements)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

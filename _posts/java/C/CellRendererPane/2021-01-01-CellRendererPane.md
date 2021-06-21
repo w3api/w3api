@@ -36,7 +36,7 @@ public class CellRendererPane extends Container implements Accessible
 {{ site.data.Java.C.CellRendererPane.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CellRendererPane.ldc -%}
    <li>

@@ -27,7 +27,7 @@ static Character.UnicodeBlock ANCIENT_GREEK_MUSICAL_NOTATION
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

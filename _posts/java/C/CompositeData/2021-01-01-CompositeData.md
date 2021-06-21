@@ -33,7 +33,7 @@ public interface CompositeData
 {{ site.data.Java.C.CompositeData.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompositeData.ldc -%}
    <li>

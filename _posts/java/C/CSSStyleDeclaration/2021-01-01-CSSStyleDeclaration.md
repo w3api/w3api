@@ -34,7 +34,7 @@ public interface CSSStyleDeclaration
 {{ site.data.Java.C.CSSStyleDeclaration.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CSSStyleDeclaration.ldc -%}
    <li>

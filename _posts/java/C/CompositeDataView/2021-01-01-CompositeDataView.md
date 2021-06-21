@@ -25,7 +25,7 @@ public interface CompositeDataView
 {{ site.data.Java.C.CompositeDataView.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompositeDataView.ldc -%}
    <li>

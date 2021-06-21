@@ -30,7 +30,7 @@ public class ComboBoxListViewSkin<T> extends ComboBoxPopupControl<T>
 {{ site.data.Java.C.ComboBoxListViewSkin.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComboBoxListViewSkin.ldc -%}
    <li>

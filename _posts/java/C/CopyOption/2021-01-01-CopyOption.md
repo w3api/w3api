@@ -22,7 +22,7 @@ public interface CopyOption
 {{ site.data.Java.C.CopyOption.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CopyOption.ldc -%}
    <li>

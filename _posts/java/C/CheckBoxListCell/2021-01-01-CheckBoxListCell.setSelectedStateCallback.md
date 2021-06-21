@@ -31,7 +31,7 @@ public final void setSelectedStateCallback(Callback<T,ObservableValue<Boolean>> 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

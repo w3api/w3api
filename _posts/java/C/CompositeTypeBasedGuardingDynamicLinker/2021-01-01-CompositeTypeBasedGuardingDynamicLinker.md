@@ -29,7 +29,7 @@ public class CompositeTypeBasedGuardingDynamicLinker extends Object implements T
 {{ site.data.Java.C.CompositeTypeBasedGuardingDynamicLinker.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompositeTypeBasedGuardingDynamicLinker.ldc -%}
    <li>

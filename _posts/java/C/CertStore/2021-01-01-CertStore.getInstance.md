@@ -38,7 +38,7 @@ public static CertStore getInstance(String type, CertStoreParameters params, Pro
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

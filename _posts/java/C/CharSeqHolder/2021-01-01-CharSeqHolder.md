@@ -28,7 +28,7 @@ public final class CharSeqHolder extends Object implements Streamable
 {{ site.data.Java.C.CharSeqHolder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CharSeqHolder.ldc -%}
    <li>

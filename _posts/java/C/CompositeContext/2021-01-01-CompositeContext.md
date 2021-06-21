@@ -26,7 +26,7 @@ public interface CompositeContext
 {{ site.data.Java.C.CompositeContext.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompositeContext.ldc -%}
    <li>

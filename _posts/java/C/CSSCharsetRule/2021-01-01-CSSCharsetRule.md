@@ -26,7 +26,7 @@ public interface CSSCharsetRule extends CSSRule
 {{ site.data.Java.C.CSSCharsetRule.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CSSCharsetRule.ldc -%}
    <li>

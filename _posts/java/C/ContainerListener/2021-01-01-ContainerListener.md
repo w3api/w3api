@@ -26,7 +26,7 @@ public interface ContainerListener extends EventListener
 {{ site.data.Java.C.ContainerListener.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContainerListener.ldc -%}
    <li>

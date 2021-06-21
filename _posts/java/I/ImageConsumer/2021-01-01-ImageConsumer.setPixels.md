@@ -39,7 +39,7 @@ void setPixels(int x, int y, int w, int h, ColorModel model, int[] pixels, int o
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

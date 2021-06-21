@@ -25,7 +25,7 @@ public class ConcurrentModificationException extends RuntimeException
 {{ site.data.Java.C.ConcurrentModificationException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConcurrentModificationException.ldc -%}
    <li>

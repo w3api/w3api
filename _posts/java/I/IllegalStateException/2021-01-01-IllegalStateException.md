@@ -25,7 +25,7 @@ public class IllegalStateException extends RuntimeException
 {{ site.data.Java.I.IllegalStateException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IllegalStateException.ldc -%}
    <li>

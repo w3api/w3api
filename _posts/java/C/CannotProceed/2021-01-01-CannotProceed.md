@@ -29,7 +29,7 @@ public final class CannotProceed extends UserException
 {{ site.data.Java.C.CannotProceed.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CannotProceed.ldc -%}
    <li>

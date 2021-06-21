@@ -31,7 +31,7 @@ public static enum Collector.Characteristics extends Enum<Collector.Characterist
 {{ site.data.Java.C.Collector.Characteristics.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Collector.Characteristics.ldc -%}
    <li>

@@ -42,7 +42,7 @@ public class ColorInput extends Effect
 {{ site.data.Java.C.ColorInput.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColorInput.ldc -%}
    <li>

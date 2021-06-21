@@ -35,7 +35,7 @@ public static void swap(List<?> list, int i, int j)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

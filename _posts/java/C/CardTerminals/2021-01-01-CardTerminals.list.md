@@ -34,7 +34,7 @@ public abstract List<CardTerminal> list(CardTerminals.State state) throws CardEx
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

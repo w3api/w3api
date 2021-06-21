@@ -35,7 +35,7 @@ public boolean intersects(Rectangle2D r)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

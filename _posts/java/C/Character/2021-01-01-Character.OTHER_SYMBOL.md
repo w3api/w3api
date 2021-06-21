@@ -27,7 +27,7 @@ static byte OTHER_SYMBOL
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

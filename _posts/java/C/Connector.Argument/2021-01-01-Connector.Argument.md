@@ -31,7 +31,7 @@ public static interface Connector.Argument extends Serializable
 {{ site.data.Java.C.Connector.Argument.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Connector.Argument.ldc -%}
    <li>

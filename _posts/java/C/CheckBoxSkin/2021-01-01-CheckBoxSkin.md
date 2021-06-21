@@ -25,7 +25,7 @@ public class CheckBoxSkin extends LabeledSkinBase<CheckBox>
 {{ site.data.Java.C.CheckBoxSkin.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CheckBoxSkin.ldc -%}
    <li>

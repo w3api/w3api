@@ -33,7 +33,7 @@ public final class CharHolder extends Object implements Streamable
 {{ site.data.Java.C.CharHolder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CharHolder.ldc -%}
    <li>

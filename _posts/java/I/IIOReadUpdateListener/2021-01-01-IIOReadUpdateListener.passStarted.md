@@ -39,7 +39,7 @@ void passStarted(ImageReader source, BufferedImage theImage, int pass, int minPa
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

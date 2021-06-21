@@ -34,7 +34,7 @@ public void setFocusTraversalKeys(int id, Set<? extends AWTKeyStroke> keystrokes
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

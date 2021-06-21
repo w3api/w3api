@@ -26,7 +26,7 @@ public final class CatalogManager extends Object
 {{ site.data.Java.C.CatalogManager.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CatalogManager.ldc -%}
    <li>

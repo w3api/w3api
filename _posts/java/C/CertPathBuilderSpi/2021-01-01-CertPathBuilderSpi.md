@@ -29,7 +29,7 @@ public abstract class CertPathBuilderSpi extends Object
 {{ site.data.Java.C.CertPathBuilderSpi.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertPathBuilderSpi.ldc -%}
    <li>

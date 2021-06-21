@@ -35,7 +35,7 @@ public Object setUserData(String key, Object data, UserDataHandler handler) thro
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

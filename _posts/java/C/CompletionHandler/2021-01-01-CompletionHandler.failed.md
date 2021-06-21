@@ -31,7 +31,7 @@ void failed(Throwable exc, A attachment)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

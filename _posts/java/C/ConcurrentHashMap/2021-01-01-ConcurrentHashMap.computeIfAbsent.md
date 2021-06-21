@@ -35,7 +35,7 @@ public V computeIfAbsent(K key, Function<? super K,? extends V> mappingFunction)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

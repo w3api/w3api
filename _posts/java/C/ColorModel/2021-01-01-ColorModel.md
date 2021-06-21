@@ -61,7 +61,7 @@ public abstract class ColorModel extends Object implements Transparency
 {{ site.data.Java.C.ColorModel.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColorModel.ldc -%}
    <li>

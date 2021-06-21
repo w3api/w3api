@@ -35,7 +35,7 @@ public final class ColorSupported extends EnumSyntax implements PrintServiceAttr
 {{ site.data.Java.C.ColorSupported.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColorSupported.ldc -%}
    <li>

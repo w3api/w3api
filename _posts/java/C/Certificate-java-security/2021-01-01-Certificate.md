@@ -31,7 +31,7 @@ sidebar:
 {{ site.data.Java.C.Certificate-java-security.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Certificate-java-security.ldc -%}
    <li>

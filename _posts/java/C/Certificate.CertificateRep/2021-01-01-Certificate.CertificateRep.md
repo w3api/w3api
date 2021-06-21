@@ -28,7 +28,7 @@ protected static class Certificate.CertificateRep extends Object implements Seri
 {{ site.data.Java.C.Certificate.CertificateRep.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Certificate.CertificateRep.ldc -%}
    <li>

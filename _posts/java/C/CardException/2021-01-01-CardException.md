@@ -25,7 +25,7 @@ public class CardException extends Exception
 {{ site.data.Java.C.CardException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CardException.ldc -%}
    <li>

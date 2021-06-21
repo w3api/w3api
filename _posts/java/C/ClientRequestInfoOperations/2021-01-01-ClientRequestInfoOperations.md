@@ -33,7 +33,7 @@ public interface ClientRequestInfoOperations extends RequestInfoOperations
 {{ site.data.Java.C.ClientRequestInfoOperations.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClientRequestInfoOperations.ldc -%}
    <li>

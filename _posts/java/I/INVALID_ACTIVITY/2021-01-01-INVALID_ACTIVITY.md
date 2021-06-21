@@ -25,7 +25,7 @@ public final class INVALID_ACTIVITY extends SystemException
 {{ site.data.Java.I.INVALID_ACTIVITY.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.INVALID_ACTIVITY.ldc -%}
    <li>

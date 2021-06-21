@@ -60,7 +60,7 @@ public interface CSSPrimitiveValue extends CSSValue
 {{ site.data.Java.C.CSSPrimitiveValue.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CSSPrimitiveValue.ldc -%}
    <li>

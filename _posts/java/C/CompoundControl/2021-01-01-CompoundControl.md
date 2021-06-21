@@ -29,7 +29,7 @@ public abstract class CompoundControl extends Control
 {{ site.data.Java.C.CompoundControl.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompoundControl.ldc -%}
    <li>

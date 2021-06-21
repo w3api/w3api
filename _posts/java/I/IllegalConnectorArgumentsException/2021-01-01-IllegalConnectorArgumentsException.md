@@ -28,7 +28,7 @@ public class IllegalConnectorArgumentsException extends Exception
 {{ site.data.Java.I.IllegalConnectorArgumentsException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IllegalConnectorArgumentsException.ldc -%}
    <li>

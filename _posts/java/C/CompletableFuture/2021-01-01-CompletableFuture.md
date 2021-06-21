@@ -58,7 +58,7 @@ public class CompletableFuture<T> extends Object implements Future<T>, Completio
 {{ site.data.Java.C.CompletableFuture.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompletableFuture.ldc -%}
    <li>

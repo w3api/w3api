@@ -26,7 +26,7 @@ public interface ImageTranscoder
 {{ site.data.Java.I.ImageTranscoder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ImageTranscoder.ldc -%}
    <li>

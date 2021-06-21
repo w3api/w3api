@@ -28,7 +28,7 @@ public class ChainedCallSite extends AbstractRelinkableCallSite
 {{ site.data.Java.C.ChainedCallSite.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ChainedCallSite.ldc -%}
    <li>

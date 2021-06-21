@@ -33,7 +33,7 @@ public final Collection<? extends Certificate> getCertificates(CertSelector sele
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

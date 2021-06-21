@@ -25,7 +25,7 @@ public class CommunicationException extends NamingException
 {{ site.data.Java.C.CommunicationException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CommunicationException.ldc -%}
    <li>

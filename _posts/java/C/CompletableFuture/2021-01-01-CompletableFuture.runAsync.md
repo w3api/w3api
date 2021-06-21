@@ -32,7 +32,7 @@ public static CompletableFuture<Void> runAsync(Runnable runnable, Executor execu
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

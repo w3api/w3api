@@ -28,7 +28,7 @@ public final class CannotProceedHolder extends Object implements Streamable
 {{ site.data.Java.C.CannotProceedHolder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CannotProceedHolder.ldc -%}
    <li>

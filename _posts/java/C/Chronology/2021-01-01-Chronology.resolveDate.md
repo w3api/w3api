@@ -35,7 +35,7 @@ ChronoLocalDate resolveDate(Map<TemporalField,Long> fieldValues, ResolverStyle r
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

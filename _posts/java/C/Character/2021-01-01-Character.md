@@ -154,7 +154,7 @@ public final class Character extends Object implements Serializable, Comparable<
 {{ site.data.Java.C.Character.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Character.ldc -%}
    <li>

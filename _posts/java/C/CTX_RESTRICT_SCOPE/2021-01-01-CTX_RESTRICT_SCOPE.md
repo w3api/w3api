@@ -25,7 +25,7 @@ public interface CTX_RESTRICT_SCOPE
 {{ site.data.Java.C.CTX_RESTRICT_SCOPE.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CTX_RESTRICT_SCOPE.ldc -%}
    <li>

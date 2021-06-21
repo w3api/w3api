@@ -25,7 +25,7 @@ public class IOException extends Exception
 {{ site.data.Java.I.IOException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IOException.ldc -%}
    <li>

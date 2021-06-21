@@ -31,7 +31,7 @@ static <E> Collection<E> checkedCollection(Collection<E> c, Class<E> type)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

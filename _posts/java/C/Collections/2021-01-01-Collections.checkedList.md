@@ -31,7 +31,7 @@ static <E> List<E> checkedList(List<E> list, Class<E> type)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

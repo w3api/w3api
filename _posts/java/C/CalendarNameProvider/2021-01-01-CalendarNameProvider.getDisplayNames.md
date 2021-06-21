@@ -36,7 +36,7 @@ public abstract Map<String,Integer> getDisplayNames(String calendarType, int fie
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

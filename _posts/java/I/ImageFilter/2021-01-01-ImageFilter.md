@@ -39,7 +39,7 @@ public class ImageFilter extends Object implements ImageConsumer, Cloneable
 {{ site.data.Java.I.ImageFilter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ImageFilter.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public interface IIOWriteWarningListener extends EventListener
 {{ site.data.Java.I.IIOWriteWarningListener.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IIOWriteWarningListener.ldc -%}
    <li>

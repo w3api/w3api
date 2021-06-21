@@ -30,7 +30,7 @@ public interface ClassTree extends StatementTree
 {{ site.data.Java.C.ClassTree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassTree.ldc -%}
    <li>

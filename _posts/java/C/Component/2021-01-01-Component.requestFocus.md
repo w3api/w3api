@@ -34,7 +34,7 @@ public void requestFocus(FocusEvent.Cause cause)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

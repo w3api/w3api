@@ -31,7 +31,7 @@ public abstract class ComponentAdapter extends Object implements ComponentListen
 {{ site.data.Java.C.ComponentAdapter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComponentAdapter.ldc -%}
    <li>

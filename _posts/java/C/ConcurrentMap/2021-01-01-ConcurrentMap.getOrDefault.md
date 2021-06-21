@@ -34,7 +34,7 @@ default V getOrDefault(Object key, V defaultValue)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

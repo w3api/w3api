@@ -37,7 +37,7 @@ public class ColorType extends Object
 {{ site.data.Java.C.ColorType.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColorType.ldc -%}
    <li>

@@ -34,7 +34,7 @@ public void setComponentZOrder(Component comp, int index)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

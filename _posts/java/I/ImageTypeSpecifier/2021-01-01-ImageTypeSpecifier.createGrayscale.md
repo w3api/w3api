@@ -37,7 +37,7 @@ public static ImageTypeSpecifier createGrayscale(int bits, int dataType, boolean
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

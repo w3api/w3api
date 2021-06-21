@@ -53,7 +53,7 @@ public abstract class CompositeView extends View
 {{ site.data.Java.C.CompositeView.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompositeView.ldc -%}
    <li>

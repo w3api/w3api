@@ -27,7 +27,7 @@ public static final ChronoField AMPM_OF_DAY
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -34,7 +34,7 @@ public class ColorConvertOp extends Object implements BufferedImageOp, RasterOp
 {{ site.data.Java.C.ColorConvertOp.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColorConvertOp.ldc -%}
    <li>

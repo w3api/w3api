@@ -37,7 +37,7 @@ public interface CharacterIterator extends Cloneable
 {{ site.data.Java.C.CharacterIterator.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CharacterIterator.ldc -%}
    <li>

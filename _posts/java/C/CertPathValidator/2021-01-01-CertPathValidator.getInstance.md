@@ -37,7 +37,7 @@ public static CertPathValidator getInstance(String algorithm, Provider provider)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

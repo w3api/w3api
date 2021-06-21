@@ -27,7 +27,7 @@ static byte DECIMAL_DIGIT_NUMBER
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

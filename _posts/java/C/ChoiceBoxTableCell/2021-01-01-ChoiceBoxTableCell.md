@@ -32,7 +32,7 @@ public class ChoiceBoxTableCell<S,T> extends TableCell<S,T>
 {{ site.data.Java.C.ChoiceBoxTableCell.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ChoiceBoxTableCell.ldc -%}
    <li>

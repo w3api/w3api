@@ -25,7 +25,7 @@ public class CatalogException extends RuntimeException
 {{ site.data.Java.C.CatalogException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CatalogException.ldc -%}
    <li>

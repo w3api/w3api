@@ -36,7 +36,7 @@ public final class ContentModel extends Object implements Serializable
 {{ site.data.Java.C.ContentModel.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContentModel.ldc -%}
    <li>

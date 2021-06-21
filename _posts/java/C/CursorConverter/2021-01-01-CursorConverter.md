@@ -25,7 +25,7 @@ public final class CursorConverter extends StyleConverter<String,Cursor>
 {{ site.data.Java.C.CursorConverter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CursorConverter.ldc -%}
    <li>

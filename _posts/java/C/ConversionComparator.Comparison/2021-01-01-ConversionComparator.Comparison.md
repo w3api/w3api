@@ -31,7 +31,7 @@ public static enum ConversionComparator.Comparison extends Enum<ConversionCompar
 {{ site.data.Java.C.ConversionComparator.Comparison.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConversionComparator.Comparison.ldc -%}
    <li>

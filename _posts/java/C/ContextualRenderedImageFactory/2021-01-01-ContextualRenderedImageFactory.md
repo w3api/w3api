@@ -30,7 +30,7 @@ public interface ContextualRenderedImageFactory extends RenderedImageFactory
 {{ site.data.Java.C.ContextualRenderedImageFactory.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContextualRenderedImageFactory.ldc -%}
    <li>

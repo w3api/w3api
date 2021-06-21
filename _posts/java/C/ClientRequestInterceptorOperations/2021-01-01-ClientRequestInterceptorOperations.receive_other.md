@@ -30,7 +30,7 @@ void receive_other(ClientRequestInfo ri) throws ForwardRequest
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

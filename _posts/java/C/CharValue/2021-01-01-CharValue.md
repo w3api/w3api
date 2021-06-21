@@ -27,7 +27,7 @@ public interface CharValue extends PrimitiveValue, Comparable<CharValue>
 {{ site.data.Java.C.CharValue.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CharValue.ldc -%}
    <li>

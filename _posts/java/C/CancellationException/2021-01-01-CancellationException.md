@@ -25,7 +25,7 @@ public class CancellationException extends IllegalStateException
 {{ site.data.Java.C.CancellationException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CancellationException.ldc -%}
    <li>

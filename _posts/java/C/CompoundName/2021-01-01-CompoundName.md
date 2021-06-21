@@ -46,7 +46,7 @@ public class CompoundName extends Object implements Name
 {{ site.data.Java.C.CompoundName.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompoundName.ldc -%}
    <li>

@@ -30,7 +30,7 @@ default <R> R query(TemporalQuery<R> query)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

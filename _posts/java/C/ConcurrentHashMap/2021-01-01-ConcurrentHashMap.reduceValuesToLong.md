@@ -33,7 +33,7 @@ public long reduceValuesToLong(long parallelismThreshold, ToLongFunction<? super
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

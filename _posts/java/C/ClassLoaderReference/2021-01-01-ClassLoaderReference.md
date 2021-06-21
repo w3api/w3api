@@ -26,7 +26,7 @@ public interface ClassLoaderReference extends ObjectReference
 {{ site.data.Java.C.ClassLoaderReference.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassLoaderReference.ldc -%}
    <li>

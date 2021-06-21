@@ -31,7 +31,7 @@ static <K,V> NavigableMap<K,V> unmodifiableNavigableMap(NavigableMap<K,? extend
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

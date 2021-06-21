@@ -32,7 +32,7 @@ public class CheckboxGroup extends Object implements Serializable
 {{ site.data.Java.C.CheckboxGroup.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CheckboxGroup.ldc -%}
    <li>

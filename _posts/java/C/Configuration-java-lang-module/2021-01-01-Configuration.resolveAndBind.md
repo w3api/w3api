@@ -37,7 +37,7 @@ public static Configuration resolveAndBind(ModuleFinder before, List<Configurati
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

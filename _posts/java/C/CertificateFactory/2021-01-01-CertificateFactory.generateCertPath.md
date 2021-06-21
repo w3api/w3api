@@ -37,7 +37,7 @@ public final CertPath generateCertPath(List<? extends Certificate> certificates)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

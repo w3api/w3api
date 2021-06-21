@@ -36,7 +36,7 @@ public void setSamples(int x, int y, int w, int h, int b, int[] iArray, DataBuff
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

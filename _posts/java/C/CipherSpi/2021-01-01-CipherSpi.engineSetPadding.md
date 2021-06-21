@@ -33,7 +33,7 @@ protected abstract void engineSetPadding(String padding) throws NoSuchPaddingExc
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

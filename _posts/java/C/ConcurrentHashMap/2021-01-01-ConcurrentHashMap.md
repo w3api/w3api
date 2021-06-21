@@ -76,7 +76,7 @@ public class ConcurrentHashMap<K,V> extends AbstractMap<K,V> implements Concurre
 {{ site.data.Java.C.ConcurrentHashMap.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConcurrentHashMap.ldc -%}
    <li>

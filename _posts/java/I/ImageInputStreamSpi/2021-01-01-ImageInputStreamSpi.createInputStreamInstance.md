@@ -36,7 +36,7 @@ public abstract ImageInputStream createInputStreamInstance(Object input, boolean
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

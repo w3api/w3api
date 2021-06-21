@@ -51,7 +51,7 @@ public static class CubicCurve2D.Double extends CubicCurve2D implements Serializ
 {{ site.data.Java.C.CubicCurve2D.Double.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CubicCurve2D.Double.ldc -%}
    <li>

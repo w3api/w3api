@@ -37,7 +37,7 @@ public abstract class ImageReaderSpi extends ImageReaderWriterSpi
 {{ site.data.Java.I.ImageReaderSpi.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ImageReaderSpi.ldc -%}
    <li>

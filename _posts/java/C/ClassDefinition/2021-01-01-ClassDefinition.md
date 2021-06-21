@@ -29,7 +29,7 @@ public final class ClassDefinition extends Object
 {{ site.data.Java.C.ClassDefinition.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassDefinition.ldc -%}
    <li>

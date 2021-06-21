@@ -33,7 +33,7 @@ void setBackgroundAttachment(String backgroundAttachment) throws DOMException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

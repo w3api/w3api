@@ -29,7 +29,7 @@ public interface CompilationUnitTree extends Tree
 {{ site.data.Java.C.CompilationUnitTree-jdk-nashorn-api-tree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompilationUnitTree-jdk-nashorn-api-tree.ldc -%}
    <li>

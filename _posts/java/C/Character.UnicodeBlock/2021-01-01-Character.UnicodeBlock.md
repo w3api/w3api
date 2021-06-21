@@ -291,7 +291,7 @@ public static final class Character.UnicodeBlock extends Character.Subset
 {{ site.data.Java.C.Character.UnicodeBlock.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Character.UnicodeBlock.ldc -%}
    <li>

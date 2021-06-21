@@ -31,7 +31,7 @@ void adapter_state_changed(ObjectReferenceTemplate[] templates, short state)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

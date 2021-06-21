@@ -22,7 +22,7 @@ sidebar:
 {{ site.data.Java.C.ContentType.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContentType.ldc -%}
    <li>

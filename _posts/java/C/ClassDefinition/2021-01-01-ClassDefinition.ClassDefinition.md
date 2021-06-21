@@ -34,7 +34,7 @@ public ClassDefinition(Class<?> theClass, byte[] theClassFile)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

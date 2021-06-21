@@ -25,7 +25,7 @@ public class CardNotPresentException extends CardException
 {{ site.data.Java.C.CardNotPresentException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CardNotPresentException.ldc -%}
    <li>

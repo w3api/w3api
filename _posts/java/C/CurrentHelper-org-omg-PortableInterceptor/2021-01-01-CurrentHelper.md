@@ -35,7 +35,7 @@ public abstract class CurrentHelper extends Object
 {{ site.data.Java.C.CurrentHelper-org-omg-PortableInterceptor.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CurrentHelper-org-omg-PortableInterceptor.ldc -%}
    <li>

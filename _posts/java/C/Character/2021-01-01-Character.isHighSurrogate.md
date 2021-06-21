@@ -30,7 +30,7 @@ public static boolean isHighSurrogate(char ch)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -35,7 +35,7 @@ public class IdAssignmentPolicyValue extends Object implements IDLEntity
 {{ site.data.Java.I.IdAssignmentPolicyValue.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IdAssignmentPolicyValue.ldc -%}
    <li>

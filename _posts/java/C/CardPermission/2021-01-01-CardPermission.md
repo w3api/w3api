@@ -31,7 +31,7 @@ public class CardPermission extends Permission
 {{ site.data.Java.C.CardPermission.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CardPermission.ldc -%}
    <li>

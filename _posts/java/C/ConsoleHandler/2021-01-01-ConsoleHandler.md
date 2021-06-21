@@ -29,7 +29,7 @@ public class ConsoleHandler extends StreamHandler
 {{ site.data.Java.C.ConsoleHandler.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConsoleHandler.ldc -%}
    <li>

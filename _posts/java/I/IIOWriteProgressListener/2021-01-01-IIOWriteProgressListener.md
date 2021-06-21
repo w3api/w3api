@@ -31,7 +31,7 @@ public interface IIOWriteProgressListener extends EventListener
 {{ site.data.Java.I.IIOWriteProgressListener.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IIOWriteProgressListener.ldc -%}
    <li>

@@ -30,7 +30,7 @@ public enum Collation extends Enum<Collation>
 {{ site.data.Java.C.Collation.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Collation.ldc -%}
    <li>

@@ -30,7 +30,7 @@ void receive_reply(ClientRequestInfo ri)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -34,7 +34,7 @@ static <T> int binarySearch(List<? extends T> list, T key, Comparator<? super T
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

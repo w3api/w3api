@@ -31,7 +31,7 @@ public interface IORInfoOperations
 {{ site.data.Java.I.IORInfoOperations.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IORInfoOperations.ldc -%}
    <li>

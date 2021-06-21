@@ -37,7 +37,7 @@ protected int getNextEastWestVisualPositionFrom(int pos, Position.Bias b, Shape 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

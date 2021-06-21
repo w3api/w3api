@@ -27,7 +27,7 @@ static byte DIRECTIONALITY_EUROPEAN_NUMBER_TERMINATOR
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

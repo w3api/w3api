@@ -32,7 +32,7 @@ public final Rectangle2D getBounds2D(Raster src)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

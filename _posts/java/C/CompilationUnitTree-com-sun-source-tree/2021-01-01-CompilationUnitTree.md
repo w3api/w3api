@@ -31,7 +31,7 @@ public interface CompilationUnitTree extends Tree
 {{ site.data.Java.C.CompilationUnitTree-com-sun-source-tree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompilationUnitTree-com-sun-source-tree.ldc -%}
    <li>

@@ -34,7 +34,7 @@ Class<?> loadClassWithout(ClassLoader exclude, String className) throws ClassNot
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

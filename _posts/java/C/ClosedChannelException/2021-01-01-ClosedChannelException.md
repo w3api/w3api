@@ -25,7 +25,7 @@ public class ClosedChannelException extends IOException
 {{ site.data.Java.C.ClosedChannelException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClosedChannelException.ldc -%}
    <li>

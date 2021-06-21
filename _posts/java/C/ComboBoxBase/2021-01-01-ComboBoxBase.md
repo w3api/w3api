@@ -65,7 +65,7 @@ public abstract class ComboBoxBase<T> extends Control
 {{ site.data.Java.C.ComboBoxBase.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComboBoxBase.ldc -%}
    <li>

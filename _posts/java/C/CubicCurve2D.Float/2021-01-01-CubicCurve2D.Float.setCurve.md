@@ -46,7 +46,7 @@ public void setCurve(float x1, float y1, float ctrlx1, float ctrly1, float ctrlx
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

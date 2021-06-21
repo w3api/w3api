@@ -27,7 +27,7 @@ static byte DIRECTIONALITY_POP_DIRECTIONAL_FORMAT
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

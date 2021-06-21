@@ -34,7 +34,7 @@ public void putAll(Map<? extends K,? extends V> m)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -32,7 +32,7 @@ public final class CodeSigner extends Object implements Serializable
 {{ site.data.Java.C.CodeSigner.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CodeSigner.ldc -%}
    <li>

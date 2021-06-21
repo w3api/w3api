@@ -28,7 +28,7 @@ public class ConnectionEvent extends EventObject
 {{ site.data.Java.C.ConnectionEvent.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConnectionEvent.ldc -%}
    <li>

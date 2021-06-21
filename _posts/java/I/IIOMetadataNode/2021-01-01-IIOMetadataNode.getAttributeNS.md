@@ -31,7 +31,7 @@ public String getAttributeNS(String namespaceURI, String localName)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

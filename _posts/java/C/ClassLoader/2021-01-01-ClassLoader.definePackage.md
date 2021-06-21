@@ -40,7 +40,7 @@ protected Package definePackage(String name, String specTitle, String specVersio
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -33,7 +33,7 @@ static <K,V> Map<K,V> checkedMap(Map<K,V> m, Class<K> keyType, Class<V> valueTy
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

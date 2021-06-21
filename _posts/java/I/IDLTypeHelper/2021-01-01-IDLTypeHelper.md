@@ -34,7 +34,7 @@ public abstract class IDLTypeHelper extends Object
 {{ site.data.Java.I.IDLTypeHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IDLTypeHelper.ldc -%}
    <li>

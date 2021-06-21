@@ -48,7 +48,7 @@ public enum ChronoUnit extends Enum<ChronoUnit> implements TemporalUnit
 {{ site.data.Java.C.ChronoUnit.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ChronoUnit.ldc -%}
    <li>

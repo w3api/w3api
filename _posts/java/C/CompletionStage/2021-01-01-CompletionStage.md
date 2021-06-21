@@ -50,7 +50,7 @@ public interface CompletionStage<T>
 {{ site.data.Java.C.CompletionStage.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CompletionStage.ldc -%}
    <li>

@@ -26,7 +26,7 @@ public interface Completion
 {{ site.data.Java.C.Completion.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Completion.ldc -%}
    <li>

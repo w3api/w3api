@@ -25,7 +25,7 @@ public class IllegalBlockSizeException extends GeneralSecurityException
 {{ site.data.Java.I.IllegalBlockSizeException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IllegalBlockSizeException.ldc -%}
    <li>

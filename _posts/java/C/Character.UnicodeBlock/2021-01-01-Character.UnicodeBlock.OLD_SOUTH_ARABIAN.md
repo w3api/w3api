@@ -27,7 +27,7 @@ static Character.UnicodeBlock OLD_SOUTH_ARABIAN
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

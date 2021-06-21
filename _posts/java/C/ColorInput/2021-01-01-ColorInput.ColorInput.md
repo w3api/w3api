@@ -35,7 +35,7 @@ public ColorInput(double x, double y, double width, double height, Paint paint)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

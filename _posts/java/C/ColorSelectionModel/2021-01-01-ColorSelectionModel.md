@@ -28,7 +28,7 @@ public interface ColorSelectionModel
 {{ site.data.Java.C.ColorSelectionModel.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColorSelectionModel.ldc -%}
    <li>

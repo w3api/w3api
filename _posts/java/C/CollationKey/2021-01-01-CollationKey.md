@@ -30,7 +30,7 @@ public abstract class CollationKey extends Object implements Comparable<Collatio
 {{ site.data.Java.C.CollationKey.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CollationKey.ldc -%}
    <li>

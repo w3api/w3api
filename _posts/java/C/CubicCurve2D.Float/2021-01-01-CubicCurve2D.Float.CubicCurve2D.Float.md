@@ -38,7 +38,7 @@ public Float(float x1, float y1, float ctrlx1, float ctrly1, float ctrlx2, float
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

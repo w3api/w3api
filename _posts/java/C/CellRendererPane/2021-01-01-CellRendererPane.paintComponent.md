@@ -40,7 +40,7 @@ public void paintComponent(Graphics g, Component c, Container p, Rectangle r)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

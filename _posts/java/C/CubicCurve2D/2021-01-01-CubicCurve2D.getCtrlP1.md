@@ -27,7 +27,7 @@ public abstract Point2D getCtrlP1()
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

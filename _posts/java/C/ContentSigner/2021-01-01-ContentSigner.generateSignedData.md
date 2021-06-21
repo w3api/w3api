@@ -35,7 +35,7 @@ public abstract byte[] generateSignedData(ContentSignerParameters parameters, bo
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

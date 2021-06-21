@@ -34,7 +34,7 @@ public interface ConcurrentMap<K,V> extends Map<K,V>
 {{ site.data.Java.C.ConcurrentMap.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConcurrentMap.ldc -%}
    <li>

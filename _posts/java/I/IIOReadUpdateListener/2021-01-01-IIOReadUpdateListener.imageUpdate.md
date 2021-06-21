@@ -38,7 +38,7 @@ void imageUpdate(ImageReader source, BufferedImage theImage, int minX, int minY,
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

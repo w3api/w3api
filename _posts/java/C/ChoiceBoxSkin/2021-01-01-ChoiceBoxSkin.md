@@ -25,7 +25,7 @@ public class ChoiceBoxSkin<T> extends SkinBase<ChoiceBox<T>>
 {{ site.data.Java.C.ChoiceBoxSkin.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ChoiceBoxSkin.ldc -%}
    <li>

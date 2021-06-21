@@ -41,7 +41,7 @@ public class ConcurrentLinkedQueue<E> extends AbstractQueue<E> implements Queue<
 {{ site.data.Java.C.ConcurrentLinkedQueue.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConcurrentLinkedQueue.ldc -%}
    <li>

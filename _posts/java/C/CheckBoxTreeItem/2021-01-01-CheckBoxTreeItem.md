@@ -37,7 +37,7 @@ public class CheckBoxTreeItem<T> extends TreeItem<T>
 {{ site.data.Java.C.CheckBoxTreeItem.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CheckBoxTreeItem.ldc -%}
    <li>

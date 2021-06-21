@@ -31,7 +31,7 @@ static ChronoPeriod between(ChronoLocalDate startDateInclusive, ChronoLocalDate 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

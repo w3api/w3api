@@ -22,7 +22,7 @@ public static final class CssParser.ParseError.InlineStyleParsingError extends C
 {{ site.data.Java.C.CssParser.ParseError.InlineStyleParsingError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CssParser.ParseError.InlineStyleParsingError.ldc -%}
    <li>

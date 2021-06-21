@@ -28,7 +28,7 @@ public interface ComponentListener extends EventListener
 {{ site.data.Java.C.ComponentListener.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComponentListener.ldc -%}
    <li>

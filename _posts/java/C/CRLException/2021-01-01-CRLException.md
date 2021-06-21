@@ -25,7 +25,7 @@ public class CRLException extends GeneralSecurityException
 {{ site.data.Java.C.CRLException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CRLException.ldc -%}
    <li>

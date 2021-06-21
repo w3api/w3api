@@ -33,7 +33,7 @@ public abstract class CannotProceedHelper extends Object
 {{ site.data.Java.C.CannotProceedHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CannotProceedHelper.ldc -%}
    <li>

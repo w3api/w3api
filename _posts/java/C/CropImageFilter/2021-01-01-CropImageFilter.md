@@ -30,7 +30,7 @@ public class CropImageFilter extends ImageFilter
 {{ site.data.Java.C.CropImageFilter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CropImageFilter.ldc -%}
    <li>

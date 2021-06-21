@@ -46,7 +46,7 @@ public interface ChronoLocalDateTime<D extends ChronoLocalDate> extends Temporal
 {{ site.data.Java.C.ChronoLocalDateTime.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ChronoLocalDateTime.ldc -%}
    <li>

@@ -37,7 +37,7 @@ public static Control getControlInstance(Control ctl, Context ctx, Hashtable<?,?
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

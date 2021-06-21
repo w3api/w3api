@@ -28,7 +28,7 @@ public static interface Connector.BooleanArgument extends Connector.Argument
 {{ site.data.Java.C.Connector.BooleanArgument.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Connector.BooleanArgument.ldc -%}
    <li>

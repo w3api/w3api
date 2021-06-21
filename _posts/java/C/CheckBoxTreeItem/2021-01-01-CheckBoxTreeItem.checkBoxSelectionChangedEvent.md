@@ -27,7 +27,7 @@ static <T> EventType<CheckBoxTreeItem.TreeModificationEvent<T>> checkBoxSelecti
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

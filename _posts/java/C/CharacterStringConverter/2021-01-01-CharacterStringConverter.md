@@ -25,7 +25,7 @@ public class CharacterStringConverter extends StringConverter<Character>
 {{ site.data.Java.C.CharacterStringConverter.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CharacterStringConverter.ldc -%}
    <li>

@@ -54,7 +54,7 @@ public class CopyOnWriteArrayList<E> extends Object implements List<E>, RandomAc
 {{ site.data.Java.C.CopyOnWriteArrayList.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CopyOnWriteArrayList.ldc -%}
    <li>

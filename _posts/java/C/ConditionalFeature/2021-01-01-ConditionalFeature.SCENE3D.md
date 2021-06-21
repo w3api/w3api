@@ -27,7 +27,7 @@ public static final ConditionalFeature SCENE3D
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

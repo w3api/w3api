@@ -30,7 +30,7 @@ static <T> Set<T> unmodifiableSet(Set<? extends T> s)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -29,7 +29,7 @@ public interface ClientRequestInterceptorOperations extends InterceptorOperation
 {{ site.data.Java.C.ClientRequestInterceptorOperations.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClientRequestInterceptorOperations.ldc -%}
    <li>

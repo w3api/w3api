@@ -22,7 +22,7 @@ public interface CSSUnknownRule extends CSSRule
 {{ site.data.Java.C.CSSUnknownRule.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CSSUnknownRule.ldc -%}
    <li>

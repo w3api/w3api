@@ -57,7 +57,7 @@ public class ComponentSampleModel extends SampleModel
 {{ site.data.Java.C.ComponentSampleModel.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComponentSampleModel.ldc -%}
    <li>

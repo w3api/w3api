@@ -27,7 +27,7 @@ public final Callback<TreeItem<T>,ObservableValue<Boolean>> getSelectedStateCall
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -34,7 +34,7 @@ public abstract class ImageOutputStreamSpi extends IIOServiceProvider
 {{ site.data.Java.I.ImageOutputStreamSpi.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ImageOutputStreamSpi.ldc -%}
    <li>

@@ -27,7 +27,7 @@ static Character.UnicodeBlock TAI_XUAN_JING_SYMBOLS
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

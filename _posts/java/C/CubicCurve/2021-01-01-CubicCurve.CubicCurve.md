@@ -38,7 +38,7 @@ public CubicCurve(double startX, double startY, double controlX1, double control
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

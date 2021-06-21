@@ -27,7 +27,7 @@ public static final ChronoField ALIGNED_DAY_OF_WEEK_IN_MONTH
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public class CannotRedoException extends RuntimeException
 {{ site.data.Java.C.CannotRedoException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CannotRedoException.ldc -%}
    <li>

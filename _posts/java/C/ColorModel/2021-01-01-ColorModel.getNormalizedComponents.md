@@ -38,7 +38,7 @@ public float[] getNormalizedComponents(Object pixel, float[] normComponents, int
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

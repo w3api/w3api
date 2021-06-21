@@ -32,7 +32,7 @@ public CipherOutputStream(OutputStream os, Cipher c)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

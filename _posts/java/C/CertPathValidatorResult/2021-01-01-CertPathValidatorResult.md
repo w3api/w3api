@@ -25,7 +25,7 @@ public interface CertPathValidatorResult extends Cloneable
 {{ site.data.Java.C.CertPathValidatorResult.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertPathValidatorResult.ldc -%}
    <li>

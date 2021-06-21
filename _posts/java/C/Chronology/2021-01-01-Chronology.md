@@ -49,7 +49,7 @@ public interface Chronology extends Comparable<Chronology>
 {{ site.data.Java.C.Chronology.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Chronology.ldc -%}
    <li>

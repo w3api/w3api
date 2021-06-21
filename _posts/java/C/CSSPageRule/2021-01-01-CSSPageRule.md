@@ -27,7 +27,7 @@ public interface CSSPageRule extends CSSRule
 {{ site.data.Java.C.CSSPageRule.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CSSPageRule.ldc -%}
    <li>

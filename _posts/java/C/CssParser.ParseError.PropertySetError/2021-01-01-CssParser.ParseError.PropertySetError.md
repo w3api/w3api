@@ -25,7 +25,7 @@ public static final class CssParser.ParseError.PropertySetError extends CssParse
 {{ site.data.Java.C.CssParser.ParseError.PropertySetError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CssParser.ParseError.PropertySetError.ldc -%}
    <li>

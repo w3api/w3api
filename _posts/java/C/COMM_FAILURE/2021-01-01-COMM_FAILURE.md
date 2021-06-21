@@ -25,7 +25,7 @@ public final class COMM_FAILURE extends SystemException
 {{ site.data.Java.C.COMM_FAILURE.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.COMM_FAILURE.ldc -%}
    <li>

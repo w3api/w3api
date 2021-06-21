@@ -25,7 +25,7 @@ public interface CancelablePrintJob extends DocPrintJob
 {{ site.data.Java.C.CancelablePrintJob.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CancelablePrintJob.ldc -%}
    <li>

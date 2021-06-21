@@ -25,7 +25,7 @@ public class CertificateParsingException extends CertificateException
 {{ site.data.Java.C.CertificateParsingException-java-security-cert.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertificateParsingException-java-security-cert.ldc -%}
    <li>

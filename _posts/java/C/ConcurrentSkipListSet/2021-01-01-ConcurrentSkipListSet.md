@@ -49,7 +49,7 @@ public class ConcurrentSkipListSet<E> extends AbstractSet<E> implements Navigabl
 {{ site.data.Java.C.ConcurrentSkipListSet.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConcurrentSkipListSet.ldc -%}
    <li>

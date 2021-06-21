@@ -38,7 +38,7 @@ void thumbnailUpdate(ImageReader source, BufferedImage theThumbnail, int minX, i
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

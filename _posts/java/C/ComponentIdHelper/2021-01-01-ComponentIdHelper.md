@@ -33,7 +33,7 @@ public abstract class ComponentIdHelper extends Object
 {{ site.data.Java.C.ComponentIdHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComponentIdHelper.ldc -%}
    <li>

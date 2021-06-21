@@ -33,7 +33,7 @@ static <K,V> NavigableMap<K,V> checkedNavigableMap(NavigableMap<K,V> m, Class<K
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

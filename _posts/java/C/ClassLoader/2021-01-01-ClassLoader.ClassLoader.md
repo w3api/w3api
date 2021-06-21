@@ -36,7 +36,7 @@ protected ClassLoader(String name, ClassLoader parent)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

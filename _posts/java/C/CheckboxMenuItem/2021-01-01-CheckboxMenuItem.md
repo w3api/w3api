@@ -39,7 +39,7 @@ public class CheckboxMenuItem extends MenuItem implements ItemSelectable, Access
 {{ site.data.Java.C.CheckboxMenuItem.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CheckboxMenuItem.ldc -%}
    <li>

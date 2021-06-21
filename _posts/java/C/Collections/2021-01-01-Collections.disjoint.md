@@ -34,7 +34,7 @@ public static boolean disjoint(Collection<?> c1, Collection<?> c2)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

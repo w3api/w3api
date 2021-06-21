@@ -38,7 +38,7 @@ public enum CryptoPrimitive extends Enum<CryptoPrimitive>
 {{ site.data.Java.C.CryptoPrimitive.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CryptoPrimitive.ldc -%}
    <li>

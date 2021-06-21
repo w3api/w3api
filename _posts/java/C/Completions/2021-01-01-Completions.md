@@ -25,7 +25,7 @@ public class Completions extends Object
 {{ site.data.Java.C.Completions.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Completions.ldc -%}
    <li>

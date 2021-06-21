@@ -27,7 +27,7 @@ static int INVOKE_SINGLE_THREADED
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

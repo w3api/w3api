@@ -25,7 +25,7 @@ public class CharConversionException extends IOException
 {{ site.data.Java.C.CharConversionException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CharConversionException.ldc -%}
    <li>

@@ -22,7 +22,7 @@ public static final class CssParser.ParseError.StylesheetParsingError extends Cs
 {{ site.data.Java.C.CssParser.ParseError.StylesheetParsingError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CssParser.ParseError.StylesheetParsingError.ldc -%}
    <li>

@@ -30,7 +30,7 @@ public final boolean putFiles(List<File> files)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

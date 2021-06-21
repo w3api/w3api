@@ -36,7 +36,7 @@ ObjectReference newInstance(ThreadReference thread, Method method, List<? extend
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

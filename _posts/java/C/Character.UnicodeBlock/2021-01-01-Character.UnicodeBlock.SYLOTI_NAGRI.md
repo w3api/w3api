@@ -27,7 +27,7 @@ static Character.UnicodeBlock SYLOTI_NAGRI
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

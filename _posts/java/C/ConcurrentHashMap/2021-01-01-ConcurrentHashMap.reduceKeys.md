@@ -39,7 +39,7 @@ public K reduceKeys(long parallelismThreshold, BiFunction<? super K,? super K,? 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

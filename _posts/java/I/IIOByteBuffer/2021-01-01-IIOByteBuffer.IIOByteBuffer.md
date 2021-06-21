@@ -32,7 +32,7 @@ public IIOByteBuffer(byte[] data, int offset, int length)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

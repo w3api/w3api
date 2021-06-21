@@ -37,7 +37,7 @@ public int getNextVisualPositionFrom(int pos, Position.Bias b, Shape a, int dire
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

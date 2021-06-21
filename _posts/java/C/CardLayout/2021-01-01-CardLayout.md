@@ -46,7 +46,7 @@ public class CardLayout extends Object implements LayoutManager2, Serializable
 {{ site.data.Java.C.CardLayout.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CardLayout.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public interface CaretListener extends EventListener
 {{ site.data.Java.C.CaretListener.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CaretListener.ldc -%}
    <li>

@@ -27,7 +27,7 @@ public final ObjectProperty<Callback<T,ObservableValue<Boolean>>> selectedStateC
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -31,7 +31,7 @@ public abstract class CookieHandler extends Object
 {{ site.data.Java.C.CookieHandler.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CookieHandler.ldc -%}
    <li>

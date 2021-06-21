@@ -27,7 +27,7 @@ static Character.UnicodeBlock SMALL_FORM_VARIANTS
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

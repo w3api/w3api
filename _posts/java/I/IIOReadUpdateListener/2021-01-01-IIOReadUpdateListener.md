@@ -30,7 +30,7 @@ public interface IIOReadUpdateListener extends EventListener
 {{ site.data.Java.I.IIOReadUpdateListener.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IIOReadUpdateListener.ldc -%}
    <li>

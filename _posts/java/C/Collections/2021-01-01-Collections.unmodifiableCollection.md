@@ -30,7 +30,7 @@ static <T> Collection<T> unmodifiableCollection(Collection<? extends T> c)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

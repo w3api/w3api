@@ -22,7 +22,7 @@ public static final class CssParser.ParseError.StringParsingError extends CssPar
 {{ site.data.Java.C.CssParser.ParseError.StringParsingError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CssParser.ParseError.StringParsingError.ldc -%}
    <li>

@@ -31,7 +31,7 @@ public abstract class ContextList extends Object
 {{ site.data.Java.C.ContextList.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContextList.ldc -%}
    <li>

@@ -37,7 +37,7 @@ ConcurrentNavigableMap<K,V> subMap(K fromKey, K toKey)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

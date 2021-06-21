@@ -33,7 +33,7 @@ sidebar:
 {{ site.data.Java.C.ContextMenu.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContextMenu.ldc -%}
    <li>

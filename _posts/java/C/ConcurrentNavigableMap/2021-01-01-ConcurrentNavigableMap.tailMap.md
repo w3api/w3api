@@ -35,7 +35,7 @@ ConcurrentNavigableMap<K,V> tailMap(K fromKey, boolean inclusive)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

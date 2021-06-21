@@ -27,7 +27,7 @@ public interface IORInterceptor_3_0Operations extends IORInterceptorOperations
 {{ site.data.Java.I.IORInterceptor_3_0Operations.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IORInterceptor_3_0Operations.ldc -%}
    <li>

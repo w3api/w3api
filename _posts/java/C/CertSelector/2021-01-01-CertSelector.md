@@ -26,7 +26,7 @@ public interface CertSelector extends Cloneable
 {{ site.data.Java.C.CertSelector.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CertSelector.ldc -%}
    <li>

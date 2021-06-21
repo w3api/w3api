@@ -26,7 +26,7 @@ public interface IRObjectOperations
 {{ site.data.Java.I.IRObjectOperations.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IRObjectOperations.ldc -%}
    <li>

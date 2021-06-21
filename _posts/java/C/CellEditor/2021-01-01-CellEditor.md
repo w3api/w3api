@@ -31,7 +31,7 @@ public interface CellEditor
 {{ site.data.Java.C.CellEditor.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CellEditor.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public class ClassDesc extends Object implements Serializable
 {{ site.data.Java.C.ClassDesc.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassDesc.ldc -%}
    <li>

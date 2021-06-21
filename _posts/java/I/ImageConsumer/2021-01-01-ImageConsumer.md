@@ -41,7 +41,7 @@ public interface ImageConsumer
 {{ site.data.Java.I.ImageConsumer.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ImageConsumer.ldc -%}
    <li>

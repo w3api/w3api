@@ -39,7 +39,7 @@ public static class ConcurrentHashMap.KeySetView<K,V> extends Object implements 
 {{ site.data.Java.C.ConcurrentHashMap.KeySetView.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConcurrentHashMap.KeySetView.ldc -%}
    <li>

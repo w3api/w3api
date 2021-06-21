@@ -27,7 +27,7 @@ public static final CRLReason REMOVE_FROM_CRL
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

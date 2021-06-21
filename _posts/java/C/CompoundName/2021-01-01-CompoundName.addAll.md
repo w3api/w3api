@@ -36,7 +36,7 @@ public Name addAll(Name suffix) throws InvalidNameException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

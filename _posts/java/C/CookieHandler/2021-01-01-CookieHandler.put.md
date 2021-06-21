@@ -35,7 +35,7 @@ public abstract void put(URI uri, Map<String,List<String>> responseHeaders) thro
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -32,7 +32,7 @@ public interface ComboPopup
 {{ site.data.Java.C.ComboPopup.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComboPopup.ldc -%}
    <li>

@@ -34,7 +34,7 @@ public class ICC_ColorSpace extends ColorSpace
 {{ site.data.Java.I.ICC_ColorSpace.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ICC_ColorSpace.ldc -%}
    <li>

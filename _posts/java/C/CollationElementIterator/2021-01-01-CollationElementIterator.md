@@ -37,7 +37,7 @@ public final class CollationElementIterator extends Object
 {{ site.data.Java.C.CollationElementIterator.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CollationElementIterator.ldc -%}
    <li>

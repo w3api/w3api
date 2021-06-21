@@ -31,7 +31,7 @@ public final Point2D getPoint2D(Point2D srcPt, Point2D dstPt)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

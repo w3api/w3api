@@ -42,7 +42,7 @@ public class ColorAdjust extends Effect
 {{ site.data.Java.C.ColorAdjust.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ColorAdjust.ldc -%}
    <li>

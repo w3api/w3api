@@ -35,7 +35,7 @@ static <S,T> Callback<TableColumn<S,T>,TableCell<S,T>> forTableColumn(T... item
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

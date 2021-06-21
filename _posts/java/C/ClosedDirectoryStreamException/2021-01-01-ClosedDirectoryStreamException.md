@@ -25,7 +25,7 @@ public class ClosedDirectoryStreamException extends IllegalStateException
 {{ site.data.Java.C.ClosedDirectoryStreamException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClosedDirectoryStreamException.ldc -%}
    <li>

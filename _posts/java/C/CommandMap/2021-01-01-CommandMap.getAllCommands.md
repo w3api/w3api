@@ -32,7 +32,7 @@ public CommandInfo[] getAllCommands(String mimeType, DataSource ds)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

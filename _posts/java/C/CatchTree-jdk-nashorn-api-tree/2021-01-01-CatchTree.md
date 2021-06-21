@@ -27,7 +27,7 @@ public interface CatchTree extends Tree
 {{ site.data.Java.C.CatchTree-jdk-nashorn-api-tree.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CatchTree-jdk-nashorn-api-tree.ldc -%}
    <li>

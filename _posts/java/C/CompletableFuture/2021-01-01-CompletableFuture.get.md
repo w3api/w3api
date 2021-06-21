@@ -35,7 +35,7 @@ public T get(long timeout, TimeUnit unit) throws InterruptedException, Execution
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

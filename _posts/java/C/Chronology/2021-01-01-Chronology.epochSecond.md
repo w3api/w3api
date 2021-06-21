@@ -42,7 +42,7 @@ default long epochSecond(Era era, int yearOfEra, int month, int dayOfMonth, int 
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

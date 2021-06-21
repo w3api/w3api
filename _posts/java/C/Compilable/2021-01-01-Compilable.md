@@ -25,7 +25,7 @@ public interface Compilable
 {{ site.data.Java.C.Compilable.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Compilable.ldc -%}
    <li>

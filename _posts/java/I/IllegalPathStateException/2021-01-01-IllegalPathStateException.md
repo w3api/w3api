@@ -25,7 +25,7 @@ public class IllegalPathStateException extends RuntimeException
 {{ site.data.Java.I.IllegalPathStateException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IllegalPathStateException.ldc -%}
    <li>

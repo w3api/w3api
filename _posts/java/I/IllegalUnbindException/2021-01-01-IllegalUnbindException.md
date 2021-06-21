@@ -25,7 +25,7 @@ public class IllegalUnbindException extends IllegalStateException
 {{ site.data.Java.I.IllegalUnbindException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IllegalUnbindException.ldc -%}
    <li>

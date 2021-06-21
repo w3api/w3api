@@ -33,7 +33,7 @@ public final Collection<? extends CRL> generateCRLs(InputStream inStream) throws
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public interface IMPLICIT_ACTIVATION_POLICY_ID
 {{ site.data.Java.I.IMPLICIT_ACTIVATION_POLICY_ID.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IMPLICIT_ACTIVATION_POLICY_ID.ldc -%}
    <li>

@@ -27,7 +27,7 @@ static byte DIRECTIONALITY_OTHER_NEUTRALS
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -28,7 +28,7 @@ public final class CookieHolder extends Object implements Streamable
 {{ site.data.Java.C.CookieHolder.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CookieHolder.ldc -%}
    <li>

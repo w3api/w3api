@@ -27,7 +27,7 @@ static Character.UnicodeBlock ETHIOPIC_EXTENDED_A
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

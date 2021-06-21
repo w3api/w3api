@@ -25,7 +25,7 @@ public class IllegalThreadStateException extends IllegalArgumentException
 {{ site.data.Java.I.IllegalThreadStateException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IllegalThreadStateException.ldc -%}
    <li>

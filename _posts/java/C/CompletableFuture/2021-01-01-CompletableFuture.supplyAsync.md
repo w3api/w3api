@@ -32,7 +32,7 @@ static <U> CompletableFuture<U> supplyAsync(Supplier<U> supplier, Executor exec
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

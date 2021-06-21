@@ -63,7 +63,7 @@ public enum ChronoField extends Enum<ChronoField> implements TemporalField
 {{ site.data.Java.C.ChronoField.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ChronoField.ldc -%}
    <li>

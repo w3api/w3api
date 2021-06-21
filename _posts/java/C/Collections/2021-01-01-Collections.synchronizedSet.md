@@ -30,7 +30,7 @@ static <T> Set<T> synchronizedSet(Set<T> s)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

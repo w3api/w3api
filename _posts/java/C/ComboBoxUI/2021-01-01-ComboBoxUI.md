@@ -30,7 +30,7 @@ public abstract class ComboBoxUI extends ComponentUI
 {{ site.data.Java.C.ComboBoxUI.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComboBoxUI.ldc -%}
    <li>

@@ -36,7 +36,7 @@ public static CatalogResolver catalogResolver(CatalogFeatures features, URI... u
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

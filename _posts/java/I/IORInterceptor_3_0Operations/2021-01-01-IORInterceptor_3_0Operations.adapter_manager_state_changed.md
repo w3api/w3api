@@ -31,7 +31,7 @@ void adapter_manager_state_changed(int id, short state)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

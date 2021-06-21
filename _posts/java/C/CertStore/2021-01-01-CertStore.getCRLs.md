@@ -33,7 +33,7 @@ public final Collection<? extends CRL> getCRLs(CRLSelector selector) throws Cert
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

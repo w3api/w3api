@@ -26,7 +26,7 @@ public interface ConnectionEventListener extends EventListener
 {{ site.data.Java.C.ConnectionEventListener.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConnectionEventListener.ldc -%}
    <li>

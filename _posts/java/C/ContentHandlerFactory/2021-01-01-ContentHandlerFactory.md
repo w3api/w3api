@@ -25,7 +25,7 @@ public interface ContentHandlerFactory
 {{ site.data.Java.C.ContentHandlerFactory.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContentHandlerFactory.ldc -%}
    <li>

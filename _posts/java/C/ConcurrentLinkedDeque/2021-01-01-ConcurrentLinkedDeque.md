@@ -56,7 +56,7 @@ public class ConcurrentLinkedDeque<E> extends AbstractCollection<E> implements D
 {{ site.data.Java.C.ConcurrentLinkedDeque.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConcurrentLinkedDeque.ldc -%}
    <li>

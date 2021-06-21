@@ -29,7 +29,7 @@ public class ClassNotFoundException extends ReflectiveOperationException
 {{ site.data.Java.C.ClassNotFoundException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassNotFoundException.ldc -%}
    <li>

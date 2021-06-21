@@ -28,7 +28,7 @@ public interface CSSStyleSheet extends StyleSheet
 {{ site.data.Java.C.CSSStyleSheet.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CSSStyleSheet.ldc -%}
    <li>

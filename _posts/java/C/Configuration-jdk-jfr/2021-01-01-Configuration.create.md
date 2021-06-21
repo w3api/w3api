@@ -35,7 +35,7 @@ public static Configuration create(Path path) throws IOException, ParseException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

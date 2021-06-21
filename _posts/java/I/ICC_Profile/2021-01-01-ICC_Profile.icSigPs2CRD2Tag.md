@@ -27,7 +27,7 @@ static int icSigPs2CRD2Tag
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

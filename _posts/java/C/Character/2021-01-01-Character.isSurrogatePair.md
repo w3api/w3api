@@ -31,7 +31,7 @@ public static boolean isSurrogatePair(char high, char low)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

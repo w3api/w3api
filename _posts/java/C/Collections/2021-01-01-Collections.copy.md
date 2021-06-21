@@ -31,7 +31,7 @@ static <T> void copy(List<? super T> dest, List<? extends T> src)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

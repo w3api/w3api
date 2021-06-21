@@ -35,7 +35,7 @@ public abstract class CodecFactoryHelper extends Object
 {{ site.data.Java.C.CodecFactoryHelper.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CodecFactoryHelper.ldc -%}
    <li>

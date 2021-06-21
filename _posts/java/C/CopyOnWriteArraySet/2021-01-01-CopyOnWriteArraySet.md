@@ -43,7 +43,7 @@ public class CopyOnWriteArraySet<E> extends AbstractSet<E> implements Serializab
 {{ site.data.Java.C.CopyOnWriteArraySet.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CopyOnWriteArraySet.ldc -%}
    <li>

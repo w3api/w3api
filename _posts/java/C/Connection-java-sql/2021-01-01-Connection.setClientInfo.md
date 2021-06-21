@@ -36,7 +36,7 @@ void setClientInfo(Properties properties) throws SQLClientInfoException
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -25,7 +25,7 @@ public class CredentialExpiredException extends CredentialException
 {{ site.data.Java.C.CredentialExpiredException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CredentialExpiredException.ldc -%}
    <li>

@@ -30,7 +30,7 @@ public interface CharSequence
 {{ site.data.Java.C.CharSequence.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CharSequence.ldc -%}
    <li>

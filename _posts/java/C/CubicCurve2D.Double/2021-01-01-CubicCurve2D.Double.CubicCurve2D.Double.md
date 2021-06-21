@@ -38,7 +38,7 @@ public Double(double x1, double y1, double ctrlx1, double ctrly1, double ctrlx2,
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

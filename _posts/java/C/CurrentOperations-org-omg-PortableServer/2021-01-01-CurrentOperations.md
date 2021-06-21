@@ -26,7 +26,7 @@ public interface CurrentOperations extends CurrentOperations
 {{ site.data.Java.C.CurrentOperations-org-omg-PortableServer.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CurrentOperations-org-omg-PortableServer.ldc -%}
    <li>

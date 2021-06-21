@@ -25,7 +25,7 @@ public class ClassFormatError extends LinkageError
 {{ site.data.Java.C.ClassFormatError.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ClassFormatError.ldc -%}
    <li>

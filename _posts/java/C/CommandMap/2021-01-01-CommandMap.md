@@ -34,7 +34,7 @@ public abstract class CommandMap extends Object
 {{ site.data.Java.C.CommandMap.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CommandMap.ldc -%}
    <li>

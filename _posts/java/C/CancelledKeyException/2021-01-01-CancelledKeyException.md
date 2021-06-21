@@ -25,7 +25,7 @@ public class CancelledKeyException extends IllegalStateException
 {{ site.data.Java.C.CancelledKeyException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CancelledKeyException.ldc -%}
    <li>

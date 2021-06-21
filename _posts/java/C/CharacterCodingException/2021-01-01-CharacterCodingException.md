@@ -25,7 +25,7 @@ public class CharacterCodingException extends IOException
 {{ site.data.Java.C.CharacterCodingException.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CharacterCodingException.ldc -%}
    <li>

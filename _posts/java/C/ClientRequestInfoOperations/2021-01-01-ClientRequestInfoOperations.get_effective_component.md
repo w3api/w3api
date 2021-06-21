@@ -30,7 +30,7 @@ TaggedComponent get_effective_component(int id)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

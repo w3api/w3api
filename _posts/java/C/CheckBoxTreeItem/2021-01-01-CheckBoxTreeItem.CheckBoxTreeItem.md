@@ -37,7 +37,7 @@ public CheckBoxTreeItem(T value, Node graphic, boolean selected, boolean indepen
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

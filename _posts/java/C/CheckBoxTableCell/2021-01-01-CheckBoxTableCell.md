@@ -34,7 +34,7 @@ public class CheckBoxTableCell<S,T> extends TableCell<S,T>
 {{ site.data.Java.C.CheckBoxTableCell.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CheckBoxTableCell.ldc -%}
    <li>

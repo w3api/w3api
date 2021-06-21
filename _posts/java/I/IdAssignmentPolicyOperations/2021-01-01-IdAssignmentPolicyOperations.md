@@ -25,7 +25,7 @@ public interface IdAssignmentPolicyOperations extends PolicyOperations
 {{ site.data.Java.I.IdAssignmentPolicyOperations.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.IdAssignmentPolicyOperations.ldc -%}
    <li>

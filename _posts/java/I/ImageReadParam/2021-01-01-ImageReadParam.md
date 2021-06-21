@@ -46,7 +46,7 @@ public class ImageReadParam extends IIOParam
 {{ site.data.Java.I.ImageReadParam.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.I.ImageReadParam.ldc -%}
    <li>

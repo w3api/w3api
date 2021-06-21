@@ -31,7 +31,7 @@ public interface CanonicalizationMethod extends Transform
 {{ site.data.Java.C.CanonicalizationMethod.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CanonicalizationMethod.ldc -%}
    <li>

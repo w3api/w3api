@@ -32,7 +32,7 @@ public CardLayout(int hgap, int vgap)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

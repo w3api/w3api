@@ -33,7 +33,7 @@ protected void setInsets(short top, short left, short bottom, short right)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

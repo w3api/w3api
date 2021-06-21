@@ -32,7 +32,7 @@ public PropertySetError(CssMetaData styleableProperty, Styleable styleable, Stri
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

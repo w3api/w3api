@@ -31,7 +31,7 @@ public CompletableFuture<T> orTimeout(long timeout, TimeUnit unit)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -27,7 +27,7 @@ public static final Character.UnicodeScript LEPCHA
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

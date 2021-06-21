@@ -30,7 +30,7 @@ public abstract class CardTerminals extends Object
 {{ site.data.Java.C.CardTerminals.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CardTerminals.ldc -%}
    <li>

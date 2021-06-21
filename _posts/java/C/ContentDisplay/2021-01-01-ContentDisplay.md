@@ -35,7 +35,7 @@ public enum ContentDisplay extends Enum<ContentDisplay>
 {{ site.data.Java.C.ContentDisplay.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ContentDisplay.ldc -%}
    <li>

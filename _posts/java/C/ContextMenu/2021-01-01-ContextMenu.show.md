@@ -36,7 +36,7 @@ public void show(Node anchor, Side side, double dx, double dy)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

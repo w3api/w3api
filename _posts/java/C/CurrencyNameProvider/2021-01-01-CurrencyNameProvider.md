@@ -29,7 +29,7 @@ public abstract class CurrencyNameProvider extends LocaleServiceProvider
 {{ site.data.Java.C.CurrencyNameProvider.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CurrencyNameProvider.ldc -%}
    <li>

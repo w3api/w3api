@@ -31,7 +31,7 @@ public class CountDownLatch extends Object
 {{ site.data.Java.C.CountDownLatch.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CountDownLatch.ldc -%}
    <li>

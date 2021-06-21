@@ -27,7 +27,7 @@ public static final ConversionComparator.Comparison TYPE_2_BETTER
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

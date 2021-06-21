@@ -37,7 +37,7 @@ public class ComponentView extends View
 {{ site.data.Java.C.ComponentView.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ComponentView.ldc -%}
    <li>

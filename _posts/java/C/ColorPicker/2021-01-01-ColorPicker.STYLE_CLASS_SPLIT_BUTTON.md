@@ -27,7 +27,7 @@ static String STYLE_CLASS_SPLIT_BUTTON
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

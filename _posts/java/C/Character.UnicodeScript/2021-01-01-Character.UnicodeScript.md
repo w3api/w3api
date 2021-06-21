@@ -162,7 +162,7 @@ public static enum Character.UnicodeScript extends Enum<Character.UnicodeScript>
 {{ site.data.Java.C.Character.UnicodeScript.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.Character.UnicodeScript.ldc -%}
    <li>

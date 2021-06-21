@@ -46,7 +46,7 @@ public class CubicCurveTo extends PathElement
 {{ site.data.Java.C.CubicCurveTo.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.CubicCurveTo.ldc -%}
    <li>

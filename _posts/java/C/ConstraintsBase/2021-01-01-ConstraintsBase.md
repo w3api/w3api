@@ -28,7 +28,7 @@ public abstract class ConstraintsBase extends Object
 {{ site.data.Java.C.ConstraintsBase.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.C.ConstraintsBase.ldc -%}
    <li>
