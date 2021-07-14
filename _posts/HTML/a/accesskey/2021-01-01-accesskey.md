@@ -1,10 +1,10 @@
 ---
 title: accesskey
 permalink: /HTML/accesskey/
-date: 2021-02-15 01:07:21.547490
+date: 2021-07-11 13:00:54.751383 +0200
 key: HTML.a.accesskey
 category: HTML
-tags: ['atributo html']
+tags: ['atributo html', 'html 4.01', 'html 5', 'html 5.1', 'html 5.2']
 sidebar: 
   nav: html
 ---
@@ -14,6 +14,7 @@ sidebar:
 
 ## Sintaxis
 ~~~html
+<elemento accesskey="caracter"/>
 ~~~
 
 ## Ejemplo
