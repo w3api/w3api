@@ -1,7 +1,7 @@
 ---
 title: ArrayList.addAll()
 permalink: /Java/ArrayList/addAll/
-date: 2021-01-11
+date: 2021-08-05 01:09:57.428273 +0200
 key: Java.A.ArrayList
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
@@ -35,7 +35,7 @@ public boolean addAll(Collection<? extends E> c)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

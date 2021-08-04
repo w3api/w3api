@@ -1,7 +1,7 @@
 ---
 title: ArrayList
 permalink: /Java/ArrayList/
-date: 2021-01-11
+date: 2021-08-05 01:09:17.682417 +0200
 key: Java.A.ArrayList
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.2']
@@ -51,7 +51,7 @@ public class ArrayList<E> extends AbstractList<E> implements List<E>, RandomAcce
 {{ site.data.Java.A.ArrayList.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in site.data.Java.A.ArrayList.ldc -%}
    <li>

@@ -1,7 +1,7 @@
 ---
 title: blockquote.cite
 permalink: /HTML/blockquote/cite/
-date: 2021-02-15 01:07:21.111279
+date: 2021-07-15 13:30:37.109083 +0200
 key: HTML.b.blockquote.cite
 category: HTML
 tags: ['atributo html']
@@ -16,6 +16,7 @@ sidebar:
 
 ## Sintaxis
 ~~~html
+<blockquote cite="url"></blockquote>
 ~~~
 
 ## Elemento Padre

@@ -1,7 +1,7 @@
 ---
 title: ArrayList.add()
 permalink: /Java/ArrayList/add/
-date: 2021-01-11
+date: 2021-08-05 01:09:47.498055 +0200
 key: Java.A.ArrayList
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
@@ -36,7 +36,7 @@ public boolean add(E e)
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>

@@ -1,7 +1,7 @@
 ---
 title: ArrayList.clear()
 permalink: /Java/ArrayList/clear/
-date: 2021-01-11
+date: 2021-08-05 01:10:27.512071 +0200
 key: Java.A.ArrayList
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
@@ -27,7 +27,7 @@ public void clear()
 {{ _dato.code}}
 ~~~
 
-## Líneas de Código
+## Artículos
 <ul>
 {%- for _ldc in _dato.ldc -%}
    <li>
