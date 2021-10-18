@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Elementos Javascript"
-permalink: /Javascript/elementos-javascript/
+permalink: /Javascript/elementos-javascript//
 date: 2011-06-23T18:38:52+00:00
 key: ElementosJavascript
 show_date: false
