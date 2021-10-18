@@ -1,7 +1,7 @@
 ---
 title: text-align
 permalink: /CSS/text-align/
-date: 2021-03-07 03:11:52.467322
+date: 2021-10-11 12:44:37.218555 +0200
 key: CSS.t.text-align
 category: CSS
 tags: ['propiedad css']

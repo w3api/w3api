@@ -1,7 +1,7 @@
 ---
 title: ArrayList.removeAll()
 permalink: /Java/ArrayList/removeAll/
-date: 2021-01-11
+date: 2021-08-11 00:28:24.193399 +0200
 key: Java.A.ArrayList
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']

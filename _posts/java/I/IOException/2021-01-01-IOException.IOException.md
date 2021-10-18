@@ -1,7 +1,7 @@
 ---
 title: IOException.IOException()
 permalink: /Java/IOException/IOException/
-date: 2021-01-11
+date: 2021-08-18 18:26:56.158696 +0200
 key: Java.I.IOException
 category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']

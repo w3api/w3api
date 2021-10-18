@@ -1,7 +1,7 @@
 ---
 title: ArrayList.forEach()
 permalink: /Java/ArrayList/forEach/
-date: 2021-01-11
+date: 2021-08-06 11:05:07.217603 +0200
 key: Java.A.ArrayList
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']

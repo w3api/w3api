@@ -1,7 +1,7 @@
 ---
 title: ArrayList.size()
 permalink: /Java/ArrayList/size/
-date: 2021-01-11
+date: 2021-08-11 12:12:41.087145 +0200
 key: Java.A.ArrayList
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']

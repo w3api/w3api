@@ -1,7 +1,7 @@
 ---
 title: ArrayList.removeIf()
 permalink: /Java/ArrayList/removeIf/
-date: 2021-01-11
+date: 2021-08-11 01:29:12.090130 +0200
 key: Java.A.ArrayList
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']

@@ -1,7 +1,7 @@
 ---
 title: ArrayList.set()
 permalink: /Java/ArrayList/set/
-date: 2021-01-11
+date: 2021-08-11 12:12:38.291176 +0200
 key: Java.A.ArrayList
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']

@@ -1,7 +1,7 @@
 ---
 title: ArrayList.indexOf()
 permalink: /Java/ArrayList/indexOf/
-date: 2021-01-11
+date: 2021-08-06 11:33:05.611440 +0200
 key: Java.A.ArrayList
 category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
