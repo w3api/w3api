@@ -1,0 +1,837 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class CCompiler\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "add_include_dir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_include_dir(dir)\n",
+            "parametros": [
+                {
+                    "nombre": "dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_library",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_library(libname)\n",
+            "parametros": [
+                {
+                    "nombre": "libname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_library_dir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_library_dir(dir)\n",
+            "parametros": [
+                {
+                    "nombre": "dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_link_object",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_link_object(object)\n",
+            "parametros": [
+                {
+                    "nombre": "object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_runtime_library_dir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_runtime_library_dir(dir)\n",
+            "parametros": [
+                {
+                    "nombre": "dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "announce",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "announce(msg[, level=1])\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "compile(sources[, output_dir=None, macros=None, include_dirs=None, debug=0, extra_preargs=None, extra_postargs=None, depends=None])\n",
+            "parametros": [
+                {
+                    "nombre": "macros",
+                    "description": ""
+                },
+                {
+                    "nombre": "include_dirs",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra_postargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "sources",
+                    "description": ""
+                },
+                {
+                    "nombre": "debug",
+                    "description": ""
+                },
+                {
+                    "nombre": "depends",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra_preargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_static_lib",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "create_static_lib(objects, output_libname[, output_dir=None, debug=0, target_lang=None])\n",
+            "parametros": [
+                {
+                    "nombre": "output_dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "objects",
+                    "description": ""
+                },
+                {
+                    "nombre": "debug",
+                    "description": ""
+                },
+                {
+                    "nombre": "target_lang",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_libname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "debug_print",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "debug_print(msg)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "define_macro",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "define_macro(name[, value=None])\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "detect_language",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "detect_language(sources)\n",
+            "parametros": [
+                {
+                    "nombre": "sources",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "executable_filename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "executable_filename(basename[, strip_dir=0, output_dir=''])\n",
+            "parametros": [
+                {
+                    "nombre": "basename",
+                    "description": ""
+                },
+                {
+                    "nombre": "strip_dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "execute",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "execute(func, args[, msg=None, level=1])\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "level",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "find_library_file",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "find_library_file(dirs, lib[, debug=0])\n",
+            "parametros": [
+                {
+                    "nombre": "lib",
+                    "description": ""
+                },
+                {
+                    "nombre": "debug",
+                    "description": ""
+                },
+                {
+                    "nombre": "dirs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "has_function",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "has_function(funcname[, includes=None, include_dirs=None, libraries=None, library_dirs=None])\n",
+            "parametros": [
+                {
+                    "nombre": "include_dirs",
+                    "description": ""
+                },
+                {
+                    "nombre": "funcname",
+                    "description": ""
+                },
+                {
+                    "nombre": "libraries",
+                    "description": ""
+                },
+                {
+                    "nombre": "library_dirs",
+                    "description": ""
+                },
+                {
+                    "nombre": "includes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "library_dir_option",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "library_dir_option(dir)\n",
+            "parametros": [
+                {
+                    "nombre": "dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "library_filename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "library_filename(libname[, lib_type='static', strip_dir=0, output_dir=''])\n",
+            "parametros": [
+                {
+                    "nombre": "lib_type",
+                    "description": ""
+                },
+                {
+                    "nombre": "strip_dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "libname",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "library_option",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "library_option(lib)\n",
+            "parametros": [
+                {
+                    "nombre": "lib",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "link",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "link(target_desc, objects, output_filename[, output_dir=None, libraries=None, library_dirs=None, runtime_library_dirs=None, export_symbols=None, debug=0, extra_preargs=None, extra_postargs=None, build_temp=None, target_lang=None])\n",
+            "parametros": [
+                {
+                    "nombre": "build_temp",
+                    "description": ""
+                },
+                {
+                    "nombre": "runtime_library_dirs",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "target_desc",
+                    "description": ""
+                },
+                {
+                    "nombre": "objects",
+                    "description": ""
+                },
+                {
+                    "nombre": "export_symbols",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra_postargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "debug",
+                    "description": ""
+                },
+                {
+                    "nombre": "libraries",
+                    "description": ""
+                },
+                {
+                    "nombre": "target_lang",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra_preargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "library_dirs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "link_executable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "link_executable(objects, output_progname[, output_dir=None, libraries=None, library_dirs=None, runtime_library_dirs=None, debug=0, extra_preargs=None, extra_postargs=None, target_lang=None])\n",
+            "parametros": [
+                {
+                    "nombre": "runtime_library_dirs",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "objects",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_progname",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra_postargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "debug",
+                    "description": ""
+                },
+                {
+                    "nombre": "libraries",
+                    "description": ""
+                },
+                {
+                    "nombre": "target_lang",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra_preargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "library_dirs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "link_shared_lib",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "link_shared_lib(objects, output_libname[, output_dir=None, libraries=None, library_dirs=None, runtime_library_dirs=None, export_symbols=None, debug=0, extra_preargs=None, extra_postargs=None, build_temp=None, target_lang=None])\n",
+            "parametros": [
+                {
+                    "nombre": "extra_preargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "build_temp",
+                    "description": ""
+                },
+                {
+                    "nombre": "runtime_library_dirs",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "objects",
+                    "description": ""
+                },
+                {
+                    "nombre": "export_symbols",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra_postargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "debug",
+                    "description": ""
+                },
+                {
+                    "nombre": "libraries",
+                    "description": ""
+                },
+                {
+                    "nombre": "target_lang",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_libname",
+                    "description": ""
+                },
+                {
+                    "nombre": "library_dirs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "link_shared_object",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "link_shared_object(objects, output_filename[, output_dir=None, libraries=None, library_dirs=None, runtime_library_dirs=None, export_symbols=None, debug=0, extra_preargs=None, extra_postargs=None, build_temp=None, target_lang=None])\n",
+            "parametros": [
+                {
+                    "nombre": "build_temp",
+                    "description": ""
+                },
+                {
+                    "nombre": "runtime_library_dirs",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "objects",
+                    "description": ""
+                },
+                {
+                    "nombre": "export_symbols",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra_postargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "debug",
+                    "description": ""
+                },
+                {
+                    "nombre": "libraries",
+                    "description": ""
+                },
+                {
+                    "nombre": "target_lang",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra_preargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "library_dirs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mkpath",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "mkpath(name[, mode=511])\n",
+            "parametros": [
+                {
+                    "nombre": "mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "move_file",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "move_file(src, dst)\n",
+            "parametros": [
+                {
+                    "nombre": "dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "object_filenames",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "object_filenames(source_filenames[, strip_dir=0, output_dir=''])\n",
+            "parametros": [
+                {
+                    "nombre": "source_filenames",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "strip_dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preprocess",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "preprocess(source[, output_file=None, macros=None, include_dirs=None, extra_preargs=None, extra_postargs=None])\n",
+            "parametros": [
+                {
+                    "nombre": "output_file",
+                    "description": ""
+                },
+                {
+                    "nombre": "macros",
+                    "description": ""
+                },
+                {
+                    "nombre": "include_dirs",
+                    "description": ""
+                },
+                {
+                    "nombre": "source",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra_postargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra_preargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runtime_library_dir_option",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "runtime_library_dir_option(dir)\n",
+            "parametros": [
+                {
+                    "nombre": "dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_executables",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_executables(**args)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_include_dirs",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_include_dirs(dirs)\n",
+            "parametros": [
+                {
+                    "nombre": "dirs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_libraries",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_libraries(libnames)\n",
+            "parametros": [
+                {
+                    "nombre": "libnames",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_library_dirs",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_library_dirs(dirs)\n",
+            "parametros": [
+                {
+                    "nombre": "dirs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_link_objects",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_link_objects(objects)\n",
+            "parametros": [
+                {
+                    "nombre": "objects",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_runtime_library_dirs",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_runtime_library_dirs(dirs)\n",
+            "parametros": [
+                {
+                    "nombre": "dirs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shared_object_filename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shared_object_filename(basename[, strip_dir=0, output_dir=''])\n",
+            "parametros": [
+                {
+                    "nombre": "basename",
+                    "description": ""
+                },
+                {
+                    "nombre": "strip_dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "output_dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "spawn",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "spawn(cmd)\n",
+            "parametros": [
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "undefine_macro",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "undefine_macro(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "warn",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "warn(msg)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "CCompiler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class distutils.ccompiler.CCompiler([verbose=0, dry_run=0, force=0])\n",
+            "parametros": [
+                {
+                    "nombre": "force",
+                    "description": ""
+                },
+                {
+                    "nombre": "dry_run",
+                    "description": ""
+                },
+                {
+                    "nombre": "verbose",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

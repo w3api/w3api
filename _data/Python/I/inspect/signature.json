@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Signature\n",
+    "atributos": [
+        {
+            "nombre": "empty",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "empty\n"
+        },
+        {
+            "nombre": "parameters",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "parameters\n"
+        },
+        {
+            "nombre": "return_annotation",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "return_annotation\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bind",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bind(*args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bind_partial",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bind_partial(*args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "from_callable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod from_callable(obj, *, follow_wrapped=True, globalns=None, localns=None)\n",
+            "parametros": [
+                {
+                    "nombre": "obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "localns",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "follow_wrapped",
+                    "description": ""
+                },
+                {
+                    "nombre": "globalns",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "replace(*[, parameters][, return_annotation])\n",
+            "parametros": [
+                {
+                    "nombre": "*[, parameters][, return_annotation]",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Signature",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class inspect.Signature(parameters=None, *, return_annotation=Signature.empty)\n",
+            "parametros": [
+                {
+                    "nombre": "parameters",
+                    "description": ""
+                },
+                {
+                    "nombre": "return_annotation",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

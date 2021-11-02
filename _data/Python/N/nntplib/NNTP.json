@@ -1,0 +1,466 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class NNTP\n",
+    "atributos": [
+        {
+            "nombre": "nntp_implementation",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.nntp_implementation\n"
+        },
+        {
+            "nombre": "nntp_version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.nntp_version\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "article",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.article(message_spec=None, *, file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "message_spec",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "body",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.body(message_spec=None, *, file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "message_spec",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "date",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.date()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "description",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.description(group)\n",
+            "parametros": [
+                {
+                    "nombre": "group",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "descriptions",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.descriptions(grouppattern)\n",
+            "parametros": [
+                {
+                    "nombre": "grouppattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getcapabilities",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.getcapabilities()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getwelcome",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.getwelcome()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "group",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.group(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "head",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.head(message_spec=None, *, file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "message_spec",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "help",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.help(*, file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ihave",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.ihave(message_id, data)\n",
+            "parametros": [
+                {
+                    "nombre": "message_id",
+                    "description": ""
+                },
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "last",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.last()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "list",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.list(group_pattern=None, *, file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "group_pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "login",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.login(user=None, password=None, usenetrc=True)\n",
+            "parametros": [
+                {
+                    "nombre": "usenetrc",
+                    "description": ""
+                },
+                {
+                    "nombre": "user",
+                    "description": ""
+                },
+                {
+                    "nombre": "password",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newgroups",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.newgroups(date, *, file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "date",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newnews",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.newnews(group, date, *, file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "date",
+                    "description": ""
+                },
+                {
+                    "nombre": "group",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "next",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.next()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "over",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.over(message_spec, *, file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "message_spec",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "post",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.post(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "quit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.quit()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "set_debuglevel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.set_debuglevel(level)\n",
+            "parametros": [
+                {
+                    "nombre": "level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "slave",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.slave()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "starttls",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.starttls(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.stat(message_spec=None)\n",
+            "parametros": [
+                {
+                    "nombre": "message_spec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "xhdr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.xhdr(hdr, str, *, file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "hdr",
+                    "description": ""
+                },
+                {
+                    "nombre": "str",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "xover",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "NNTP.xover(start, end, *, file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "end",
+                    "description": ""
+                },
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "NNTP",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class nntplib.NNTP(host, port=119, user=None, password=None, readermode=None, usenetrc=False[, timeout])\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "usenetrc",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                },
+                {
+                    "nombre": "user",
+                    "description": ""
+                },
+                {
+                    "nombre": "port",
+                    "description": ""
+                },
+                {
+                    "nombre": "readermode",
+                    "description": ""
+                },
+                {
+                    "nombre": "password",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

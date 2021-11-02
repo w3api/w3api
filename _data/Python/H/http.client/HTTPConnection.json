@@ -1,0 +1,219 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class HTTPConnection\n",
+    "atributos": [
+        {
+            "nombre": "blocksize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPConnection.blocksize\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPConnection.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPConnection.connect()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "endheaders",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPConnection.endheaders(message_body=None, *, encode_chunked=False)\n",
+            "parametros": [
+                {
+                    "nombre": "encode_chunked",
+                    "description": ""
+                },
+                {
+                    "nombre": "message_body",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getresponse",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPConnection.getresponse()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "putheader",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPConnection.putheader(header, argument[, ...])\n",
+            "parametros": [
+                {
+                    "nombre": "...",
+                    "description": ""
+                },
+                {
+                    "nombre": "argument",
+                    "description": ""
+                },
+                {
+                    "nombre": "header",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putrequest",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPConnection.putrequest(method, url, skip_host=False, skip_accept_encoding=False)\n",
+            "parametros": [
+                {
+                    "nombre": "skip_host",
+                    "description": ""
+                },
+                {
+                    "nombre": "url",
+                    "description": ""
+                },
+                {
+                    "nombre": "skip_accept_encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "method",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "request",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPConnection.request(method, url, body=None, headers={}, *, encode_chunked=False)\n",
+            "parametros": [
+                {
+                    "nombre": "url",
+                    "description": ""
+                },
+                {
+                    "nombre": "body",
+                    "description": ""
+                },
+                {
+                    "nombre": "method",
+                    "description": ""
+                },
+                {
+                    "nombre": "headers",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "encode_chunked",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPConnection.send(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_debuglevel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPConnection.set_debuglevel(level)\n",
+            "parametros": [
+                {
+                    "nombre": "level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_tunnel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPConnection.set_tunnel(host, port=None, headers=None)\n",
+            "parametros": [
+                {
+                    "nombre": "port",
+                    "description": ""
+                },
+                {
+                    "nombre": "headers",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "HTTPConnection",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class http.client.HTTPConnection(host, port=None, [timeout, ]source_address=None, blocksize=8192)\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                },
+                {
+                    "nombre": "source_address",
+                    "description": ""
+                },
+                {
+                    "nombre": "blocksize",
+                    "description": ""
+                },
+                {
+                    "nombre": "port",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

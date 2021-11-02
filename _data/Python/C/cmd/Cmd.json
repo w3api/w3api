@@ -1,0 +1,221 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Cmd\n",
+    "atributos": [
+        {
+            "nombre": "cmdqueue",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.cmdqueue\n"
+        },
+        {
+            "nombre": "doc_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.doc_header\n"
+        },
+        {
+            "nombre": "identchars",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.identchars\n"
+        },
+        {
+            "nombre": "intro",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.intro\n"
+        },
+        {
+            "nombre": "lastcmd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.lastcmd\n"
+        },
+        {
+            "nombre": "misc_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.misc_header\n"
+        },
+        {
+            "nombre": "prompt",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.prompt\n"
+        },
+        {
+            "nombre": "ruler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.ruler\n"
+        },
+        {
+            "nombre": "undoc_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.undoc_header\n"
+        },
+        {
+            "nombre": "use_rawinput",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.use_rawinput\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cmdloop",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.cmdloop(intro=None)\n",
+            "parametros": [
+                {
+                    "nombre": "intro",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "completedefault",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.completedefault(text, line, begidx, endidx)\n",
+            "parametros": [
+                {
+                    "nombre": "line",
+                    "description": ""
+                },
+                {
+                    "nombre": "begidx",
+                    "description": ""
+                },
+                {
+                    "nombre": "text",
+                    "description": ""
+                },
+                {
+                    "nombre": "endidx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "default",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.default(line)\n",
+            "parametros": [
+                {
+                    "nombre": "line",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "emptyline",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.emptyline()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "onecmd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.onecmd(str)\n",
+            "parametros": [
+                {
+                    "nombre": "str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "postcmd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.postcmd(stop, line)\n",
+            "parametros": [
+                {
+                    "nombre": "stop",
+                    "description": ""
+                },
+                {
+                    "nombre": "line",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "postloop",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.postloop()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "precmd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.precmd(line)\n",
+            "parametros": [
+                {
+                    "nombre": "line",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preloop",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cmd.preloop()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Cmd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class cmd.Cmd(completekey='tab', stdin=None, stdout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "completekey",
+                    "description": ""
+                },
+                {
+                    "nombre": "stdout",
+                    "description": ""
+                },
+                {
+                    "nombre": "stdin",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

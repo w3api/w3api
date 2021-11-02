@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class SimpleQueue\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "empty",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SimpleQueue.empty()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SimpleQueue.get(block=True, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "block",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_nowait",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SimpleQueue.get_nowait()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SimpleQueue.put(item, block=True, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                },
+                {
+                    "nombre": "block",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "put_nowait",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SimpleQueue.put_nowait(item)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "qsize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SimpleQueue.qsize()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "SimpleQueue",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class queue.SimpleQueue\n",
+            "parametros": []
+        }
+    ]
+}

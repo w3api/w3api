@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Trace\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "results",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "results()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "run",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "run(cmd)\n",
+            "parametros": [
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runctx",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "runctx(cmd, globals=None, locals=None)\n",
+            "parametros": [
+                {
+                    "nombre": "locals",
+                    "description": ""
+                },
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                },
+                {
+                    "nombre": "globals",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runfunc",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "runfunc(func, /, *args, **kwds)\n",
+            "parametros": [
+                {
+                    "nombre": "**kwds",
+                    "description": ""
+                },
+                {
+                    "nombre": "*args",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "/",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Trace",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class trace.Trace(count=1, trace=1, countfuncs=0, countcallers=0, ignoremods=(), ignoredirs=(), infile=None, outfile=None, timing=False)\n",
+            "parametros": [
+                {
+                    "nombre": "count",
+                    "description": ""
+                },
+                {
+                    "nombre": "outfile",
+                    "description": ""
+                },
+                {
+                    "nombre": "infile",
+                    "description": ""
+                },
+                {
+                    "nombre": "ignoredirs",
+                    "description": ""
+                },
+                {
+                    "nombre": "timing",
+                    "description": ""
+                },
+                {
+                    "nombre": "countcallers",
+                    "description": ""
+                },
+                {
+                    "nombre": "ignoremods",
+                    "description": ""
+                },
+                {
+                    "nombre": "countfuncs",
+                    "description": ""
+                },
+                {
+                    "nombre": "trace",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

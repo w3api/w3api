@@ -1,0 +1,348 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class BaseHTTPRequestHandler\n",
+    "atributos": [
+        {
+            "nombre": "client_address",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "client_address\n"
+        },
+        {
+            "nombre": "close_connection",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close_connection\n"
+        },
+        {
+            "nombre": "command",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "command\n"
+        },
+        {
+            "nombre": "error_content_type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "error_content_type\n"
+        },
+        {
+            "nombre": "error_message_format",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "error_message_format\n"
+        },
+        {
+            "nombre": "headers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "headers\n"
+        },
+        {
+            "nombre": "MessageClass",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "MessageClass\n"
+        },
+        {
+            "nombre": "path",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "path\n"
+        },
+        {
+            "nombre": "protocol_version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "protocol_version\n"
+        },
+        {
+            "nombre": "requestline",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "requestline\n"
+        },
+        {
+            "nombre": "request_version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "request_version\n"
+        },
+        {
+            "nombre": "responses",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "responses\n"
+        },
+        {
+            "nombre": "rfile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "rfile\n"
+        },
+        {
+            "nombre": "server",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "server\n"
+        },
+        {
+            "nombre": "server_version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "server_version\n"
+        },
+        {
+            "nombre": "sys_version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "sys_version\n"
+        },
+        {
+            "nombre": "wfile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "wfile\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "address_string",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "address_string()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "date_time_string",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date_time_string(timestamp=None)\n",
+            "parametros": [
+                {
+                    "nombre": "timestamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "end_headers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "end_headers()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "flush_headers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "flush_headers()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle_expect_100",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_expect_100()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle_one_request",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_one_request()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "log_date_time_string",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "log_date_time_string()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "log_error",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "log_error(...)\n",
+            "parametros": [
+                {
+                    "nombre": "...",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "log_message",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "log_message(format, ...)\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                },
+                {
+                    "nombre": "...",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "log_request",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "log_request(code='-', size='-')\n",
+            "parametros": [
+                {
+                    "nombre": "code",
+                    "description": ""
+                },
+                {
+                    "nombre": "size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send_error",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "send_error(code, message=None, explain=None)\n",
+            "parametros": [
+                {
+                    "nombre": "code",
+                    "description": ""
+                },
+                {
+                    "nombre": "explain",
+                    "description": ""
+                },
+                {
+                    "nombre": "message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "send_header(keyword, value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "keyword",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send_response",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "send_response(code, message=None)\n",
+            "parametros": [
+                {
+                    "nombre": "code",
+                    "description": ""
+                },
+                {
+                    "nombre": "message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send_response_only",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "send_response_only(code, message=None)\n",
+            "parametros": [
+                {
+                    "nombre": "code",
+                    "description": ""
+                },
+                {
+                    "nombre": "message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "version_string",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "version_string()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "BaseHTTPRequestHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class http.server.BaseHTTPRequestHandler(request, client_address, server)\n",
+            "parametros": [
+                {
+                    "nombre": "client_address",
+                    "description": ""
+                },
+                {
+                    "nombre": "request",
+                    "description": ""
+                },
+                {
+                    "nombre": "server",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

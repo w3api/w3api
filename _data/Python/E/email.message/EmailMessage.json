@@ -1,0 +1,670 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class EmailMessage\n",
+    "atributos": [
+        {
+            "nombre": "defects",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "defects\n"
+        },
+        {
+            "nombre": "epilogue",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "epilogue\n"
+        },
+        {
+            "nombre": "preamble",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "preamble\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add_alternative",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_alternative(*args, content_manager=None, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "content_manager",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_attachment",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_attachment(*args, content_manager=None, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "content_manager",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_header(_name, _value, **_params)\n",
+            "parametros": [
+                {
+                    "nombre": "_params",
+                    "description": ""
+                },
+                {
+                    "nombre": "_value",
+                    "description": ""
+                },
+                {
+                    "nombre": "_name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_related",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_related(*args, content_manager=None, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "content_manager",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "as_bytes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "as_bytes(unixfrom=False, policy=None)\n",
+            "parametros": [
+                {
+                    "nombre": "unixfrom",
+                    "description": ""
+                },
+                {
+                    "nombre": "policy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "as_string",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "as_string(unixfrom=False, maxheaderlen=None, policy=None)\n",
+            "parametros": [
+                {
+                    "nombre": "unixfrom",
+                    "description": ""
+                },
+                {
+                    "nombre": "policy",
+                    "description": ""
+                },
+                {
+                    "nombre": "maxheaderlen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "clear()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "clear_content",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "clear_content()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "del_param",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "del_param(param, header='content-type', requote=True)\n",
+            "parametros": [
+                {
+                    "nombre": "requote",
+                    "description": ""
+                },
+                {
+                    "nombre": "header",
+                    "description": ""
+                },
+                {
+                    "nombre": "param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get(name, failobj=None)\n",
+            "parametros": [
+                {
+                    "nombre": "failobj",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_all",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_all(name, failobj=None)\n",
+            "parametros": [
+                {
+                    "nombre": "failobj",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_body",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_body(preferencelist='related', 'html', 'plain')\n",
+            "parametros": [
+                {
+                    "nombre": "preferencelist",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_boundary",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_boundary(failobj=None)\n",
+            "parametros": [
+                {
+                    "nombre": "failobj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_charsets",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_charsets(failobj=None)\n",
+            "parametros": [
+                {
+                    "nombre": "failobj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_content",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_content(*args, content_manager=None, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "content_manager",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_content_charset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_content_charset(failobj=None)\n",
+            "parametros": [
+                {
+                    "nombre": "failobj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_content_disposition",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_content_disposition()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_content_maintype",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_content_maintype()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_content_subtype",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_content_subtype()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_content_type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_content_type()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_default_type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_default_type()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_filename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_filename(failobj=None)\n",
+            "parametros": [
+                {
+                    "nombre": "failobj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_unixfrom",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_unixfrom()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_attachment",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_attachment()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_multipart",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_multipart()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "items",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "items()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "iter_attachments",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "iter_attachments()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "iter_parts",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "iter_parts()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "keys",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "keys()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "make_alternative",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "make_alternative(boundary=None)\n",
+            "parametros": [
+                {
+                    "nombre": "boundary",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "make_mixed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "make_mixed(boundary=None)\n",
+            "parametros": [
+                {
+                    "nombre": "boundary",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "make_related",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "make_related(boundary=None)\n",
+            "parametros": [
+                {
+                    "nombre": "boundary",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "replace_header(_name, _value)\n",
+            "parametros": [
+                {
+                    "nombre": "_value",
+                    "description": ""
+                },
+                {
+                    "nombre": "_name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_boundary",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_boundary(boundary)\n",
+            "parametros": [
+                {
+                    "nombre": "boundary",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_content",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_content(*args, content_manager=None, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "content_manager",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_default_type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_default_type(ctype)\n",
+            "parametros": [
+                {
+                    "nombre": "ctype",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_param",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_param(param, value, header='Content-Type', requote=True, charset=None, language='', replace=False)\n",
+            "parametros": [
+                {
+                    "nombre": "charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "requote",
+                    "description": ""
+                },
+                {
+                    "nombre": "param",
+                    "description": ""
+                },
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "language",
+                    "description": ""
+                },
+                {
+                    "nombre": "replace",
+                    "description": ""
+                },
+                {
+                    "nombre": "header",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_unixfrom",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_unixfrom(unixfrom)\n",
+            "parametros": [
+                {
+                    "nombre": "unixfrom",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "values",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "values()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "walk",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "walk()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "__bytes__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__bytes__()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "__contains__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__contains__(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__delitem__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__delitem__(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__getitem__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__getitem__(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__len__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__len__()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "__setitem__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__setitem__(name, val)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__str__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__str__()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "EmailMessage",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class email.message.EmailMessage(policy=default)\n",
+            "parametros": [
+                {
+                    "nombre": "policy",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class CookieJar\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "add_cookie_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookieJar.add_cookie_header(request)\n",
+            "parametros": [
+                {
+                    "nombre": "request",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookieJar.clear([domain[, path[, name]]])\n",
+            "parametros": [
+                {
+                    "nombre": "domain",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear_session_cookies",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookieJar.clear_session_cookies()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "extract_cookies",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookieJar.extract_cookies(response, request)\n",
+            "parametros": [
+                {
+                    "nombre": "response",
+                    "description": ""
+                },
+                {
+                    "nombre": "request",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "make_cookies",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookieJar.make_cookies(response, request)\n",
+            "parametros": [
+                {
+                    "nombre": "response",
+                    "description": ""
+                },
+                {
+                    "nombre": "request",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_cookie",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookieJar.set_cookie(cookie)\n",
+            "parametros": [
+                {
+                    "nombre": "cookie",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_cookie_if_ok",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookieJar.set_cookie_if_ok(cookie, request)\n",
+            "parametros": [
+                {
+                    "nombre": "cookie",
+                    "description": ""
+                },
+                {
+                    "nombre": "request",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_policy",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookieJar.set_policy(policy)\n",
+            "parametros": [
+                {
+                    "nombre": "policy",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "CookieJar",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class http.cookiejar.CookieJar(policy=None)\n",
+            "parametros": [
+                {
+                    "nombre": "policy",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

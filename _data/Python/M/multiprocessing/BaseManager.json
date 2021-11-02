@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class BaseManager\n",
+    "atributos": [
+        {
+            "nombre": "address",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "address\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "connect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "connect()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_server",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_server()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "register",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "register(typeid[, callable[, proxytype[, exposed[, method_to_typeid[, create_method]]]]])\n",
+            "parametros": [
+                {
+                    "nombre": "exposed",
+                    "description": ""
+                },
+                {
+                    "nombre": "method_to_typeid",
+                    "description": ""
+                },
+                {
+                    "nombre": "typeid",
+                    "description": ""
+                },
+                {
+                    "nombre": "create_method",
+                    "description": ""
+                },
+                {
+                    "nombre": "proxytype",
+                    "description": ""
+                },
+                {
+                    "nombre": "callable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shutdown",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shutdown()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "start",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "start([initializer[, initargs]])\n",
+            "parametros": [
+                {
+                    "nombre": "initializer",
+                    "description": ""
+                },
+                {
+                    "nombre": "initargs",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "BaseManager",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class multiprocessing.managers.BaseManager([address[, authkey]])\n",
+            "parametros": [
+                {
+                    "nombre": "address",
+                    "description": ""
+                },
+                {
+                    "nombre": "authkey",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Element\n",
+    "atributos": [
+        {
+            "nombre": "attrib",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "attrib\n"
+        },
+        {
+            "nombre": "tag",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "tag\n"
+        },
+        {
+            "nombre": "text",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "text\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "append",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "append(subelement)\n",
+            "parametros": [
+                {
+                    "nombre": "subelement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "clear()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "extend",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "extend(subelements)\n",
+            "parametros": [
+                {
+                    "nombre": "subelements",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "find",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "find(match, namespaces=None)\n",
+            "parametros": [
+                {
+                    "nombre": "namespaces",
+                    "description": ""
+                },
+                {
+                    "nombre": "match",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findall",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "findall(match, namespaces=None)\n",
+            "parametros": [
+                {
+                    "nombre": "namespaces",
+                    "description": ""
+                },
+                {
+                    "nombre": "match",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findtext",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "findtext(match, default=None, namespaces=None)\n",
+            "parametros": [
+                {
+                    "nombre": "namespaces",
+                    "description": ""
+                },
+                {
+                    "nombre": "default",
+                    "description": ""
+                },
+                {
+                    "nombre": "match",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get(key, default=None)\n",
+            "parametros": [
+                {
+                    "nombre": "key",
+                    "description": ""
+                },
+                {
+                    "nombre": "default",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insert",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "insert(index, subelement)\n",
+            "parametros": [
+                {
+                    "nombre": "subelement",
+                    "description": ""
+                },
+                {
+                    "nombre": "index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "items",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "items()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "iter",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "iter(tag=None)\n",
+            "parametros": [
+                {
+                    "nombre": "tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "iterfind",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "iterfind(match, namespaces=None)\n",
+            "parametros": [
+                {
+                    "nombre": "namespaces",
+                    "description": ""
+                },
+                {
+                    "nombre": "match",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "itertext",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "itertext()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "keys",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "keys()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "makeelement",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "makeelement(tag, attrib)\n",
+            "parametros": [
+                {
+                    "nombre": "tag",
+                    "description": ""
+                },
+                {
+                    "nombre": "attrib",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "remove(subelement)\n",
+            "parametros": [
+                {
+                    "nombre": "subelement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set(key, value)\n",
+            "parametros": [
+                {
+                    "nombre": "key",
+                    "description": ""
+                },
+                {
+                    "nombre": "value",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Element",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class xml.etree.ElementTree.Element(tag, attrib={}, **extra)\n",
+            "parametros": [
+                {
+                    "nombre": "extra",
+                    "description": ""
+                },
+                {
+                    "nombre": "tag",
+                    "description": ""
+                },
+                {
+                    "nombre": "attrib",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

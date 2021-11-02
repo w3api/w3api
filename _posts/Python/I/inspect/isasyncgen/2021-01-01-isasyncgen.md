@@ -1,0 +1,34 @@
+---
+title: inspect.isasyncgen
+permalink: /Python/inspect/isasyncgen/
+date: 2021-01-01
+key: Python.I.inspect.isasyncgen
+category: python
+tags: ['funcion python', 'inspect']
+sidebar: 
+  nav: python
+---
+
+## Descripción
+{{site.data.Python.I.inspect.isasyncgen.description }}
+
+## Sintaxis
+~~~python
+{{ site.data.Python.I.inspect.isasyncgen.sintaxis }}~~~
+
+## Parámetros
+* **object**,  {% include w3api/function_param_description.html propiedad=site.data.Python.I.inspect.isasyncgen valor="object" %}
+
+## Ejemplo
+~~~python
+{{ site.data.Python.I.inspect.isasyncgen.code}}
+~~~
+
+## Artículos
+<ul>
+{%- for _ldc in site.data.Python.I.inspect.isasyncgen.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

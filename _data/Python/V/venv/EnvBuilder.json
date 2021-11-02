@@ -1,0 +1,156 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class EnvBuilder\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "create",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "create(env_dir)\n",
+            "parametros": [
+                {
+                    "nombre": "env_dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_configuration",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "create_configuration(context)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ensure_directories",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ensure_directories(env_dir)\n",
+            "parametros": [
+                {
+                    "nombre": "env_dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "install_scripts",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "install_scripts(context, path)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "post_setup",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "post_setup(context)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setup_python",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "setup_python(context)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setup_scripts",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "setup_scripts(context)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "upgrade_dependencies",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "upgrade_dependencies(context)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "EnvBuilder",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class venv.EnvBuilder(system_site_packages=False, clear=False, symlinks=False, upgrade=False, with_pip=False, prompt=None, upgrade_deps=False)\n",
+            "parametros": [
+                {
+                    "nombre": "symlinks",
+                    "description": ""
+                },
+                {
+                    "nombre": "system_site_packages",
+                    "description": ""
+                },
+                {
+                    "nombre": "clear",
+                    "description": ""
+                },
+                {
+                    "nombre": "with_pip",
+                    "description": ""
+                },
+                {
+                    "nombre": "upgrade_deps",
+                    "description": ""
+                },
+                {
+                    "nombre": "upgrade",
+                    "description": ""
+                },
+                {
+                    "nombre": "prompt",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

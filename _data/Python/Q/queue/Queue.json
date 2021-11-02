@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Queue\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "empty",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Queue.empty()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "full",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Queue.full()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Queue.get(block=True, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "block",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_nowait",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Queue.get_nowait()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "join",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Queue.join()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Queue.put(item, block=True, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                },
+                {
+                    "nombre": "block",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "put_nowait",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Queue.put_nowait(item)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "qsize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Queue.qsize()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "task_done",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Queue.task_done()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Queue",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class queue.Queue(maxsize=0)\n",
+            "parametros": [
+                {
+                    "nombre": "maxsize",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

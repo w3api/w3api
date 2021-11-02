@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Pickler\n",
+    "atributos": [
+        {
+            "nombre": "dispatch_table",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "dispatch_table\n"
+        },
+        {
+            "nombre": "fast",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "fast\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "dump",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "dump(obj)\n",
+            "parametros": [
+                {
+                    "nombre": "obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "persistent_id",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "persistent_id(obj)\n",
+            "parametros": [
+                {
+                    "nombre": "obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reducer_override",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "reducer_override(self, obj)\n",
+            "parametros": [
+                {
+                    "nombre": "obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "self",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Pickler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class pickle.Pickler(file, protocol=None, *, fix_imports=True, buffer_callback=None)\n",
+            "parametros": [
+                {
+                    "nombre": "protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "fix_imports",
+                    "description": ""
+                },
+                {
+                    "nombre": "buffer_callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

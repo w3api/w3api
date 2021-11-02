@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class LZMADecompressor\n",
+    "atributos": [
+        {
+            "nombre": "check",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "check\n"
+        },
+        {
+            "nombre": "eof",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "eof\n"
+        },
+        {
+            "nombre": "needs_input",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "needs_input\n"
+        },
+        {
+            "nombre": "unused_data",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "unused_data\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "decompress",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "decompress(data, max_length=- 1)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                },
+                {
+                    "nombre": "max_length",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "LZMADecompressor",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class lzma.LZMADecompressor(format=FORMAT_AUTO, memlimit=None, filters=None)\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                },
+                {
+                    "nombre": "memlimit",
+                    "description": ""
+                },
+                {
+                    "nombre": "filters",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

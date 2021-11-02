@@ -1,0 +1,238 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class BaseServer\n",
+    "atributos": [
+        {
+            "nombre": "address_family",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "address_family\n"
+        },
+        {
+            "nombre": "allow_reuse_address",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "allow_reuse_address\n"
+        },
+        {
+            "nombre": "RequestHandlerClass",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "RequestHandlerClass\n"
+        },
+        {
+            "nombre": "request_queue_size",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "request_queue_size\n"
+        },
+        {
+            "nombre": "server_address",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "server_address\n"
+        },
+        {
+            "nombre": "socket",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket\n"
+        },
+        {
+            "nombre": "socket_type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket_type\n"
+        },
+        {
+            "nombre": "timeout",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "timeout\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "fileno",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "fileno()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "finish_request",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "finish_request(request, client_address)\n",
+            "parametros": [
+                {
+                    "nombre": "client_address",
+                    "description": ""
+                },
+                {
+                    "nombre": "request",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_request",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_request()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle_error",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_error(request, client_address)\n",
+            "parametros": [
+                {
+                    "nombre": "client_address",
+                    "description": ""
+                },
+                {
+                    "nombre": "request",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle_request",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_request()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle_timeout",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_timeout()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "process_request",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "process_request(request, client_address)\n",
+            "parametros": [
+                {
+                    "nombre": "client_address",
+                    "description": ""
+                },
+                {
+                    "nombre": "request",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "server_activate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "server_activate()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "server_bind",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "server_bind()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "server_close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "server_close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "serve_forever",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "serve_forever(poll_interval=0.5)\n",
+            "parametros": [
+                {
+                    "nombre": "poll_interval",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "service_actions",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "service_actions()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "shutdown",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shutdown()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "verify_request",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "verify_request(request, client_address)\n",
+            "parametros": [
+                {
+                    "nombre": "client_address",
+                    "description": ""
+                },
+                {
+                    "nombre": "request",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "BaseServer",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class socketserver.BaseServer(server_address, RequestHandlerClass)\n",
+            "parametros": [
+                {
+                    "nombre": "server_address",
+                    "description": ""
+                },
+                {
+                    "nombre": "RequestHandlerClass",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

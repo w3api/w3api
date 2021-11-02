@@ -1,0 +1,796 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class IMAP4\n",
+    "atributos": [
+        {
+            "nombre": "debug",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.debug\n"
+        },
+        {
+            "nombre": "PROTOCOL_VERSION",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.PROTOCOL_VERSION\n"
+        },
+        {
+            "nombre": "utf8_enabled",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.utf8_enabled\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "append",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.append(mailbox, flags, date_time, message)\n",
+            "parametros": [
+                {
+                    "nombre": "date_time",
+                    "description": ""
+                },
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                },
+                {
+                    "nombre": "message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "authenticate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.authenticate(mechanism, authobject)\n",
+            "parametros": [
+                {
+                    "nombre": "authobject",
+                    "description": ""
+                },
+                {
+                    "nombre": "mechanism",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "check",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.check()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "copy",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.copy(message_set, new_mailbox)\n",
+            "parametros": [
+                {
+                    "nombre": "new_mailbox",
+                    "description": ""
+                },
+                {
+                    "nombre": "message_set",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.create(mailbox)\n",
+            "parametros": [
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "delete",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.delete(mailbox)\n",
+            "parametros": [
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deleteacl",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.deleteacl(mailbox, who)\n",
+            "parametros": [
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                },
+                {
+                    "nombre": "who",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "enable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.enable(capability)\n",
+            "parametros": [
+                {
+                    "nombre": "capability",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "expunge",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.expunge()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fetch",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.fetch(message_set, message_parts)\n",
+            "parametros": [
+                {
+                    "nombre": "message_set",
+                    "description": ""
+                },
+                {
+                    "nombre": "message_parts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getacl",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.getacl(mailbox)\n",
+            "parametros": [
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getannotation",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.getannotation(mailbox, entry, attribute)\n",
+            "parametros": [
+                {
+                    "nombre": "entry",
+                    "description": ""
+                },
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                },
+                {
+                    "nombre": "attribute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getquota",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.getquota(root)\n",
+            "parametros": [
+                {
+                    "nombre": "root",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getquotaroot",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.getquotaroot(mailbox)\n",
+            "parametros": [
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "list",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.list([directory[, pattern]])\n",
+            "parametros": [
+                {
+                    "nombre": "pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "directory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "login",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.login(user, password)\n",
+            "parametros": [
+                {
+                    "nombre": "user",
+                    "description": ""
+                },
+                {
+                    "nombre": "password",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "login_cram_md5",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.login_cram_md5(user, password)\n",
+            "parametros": [
+                {
+                    "nombre": "user",
+                    "description": ""
+                },
+                {
+                    "nombre": "password",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "logout",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.logout()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "lsub",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.lsub(directory='\"\"', pattern='*')\n",
+            "parametros": [
+                {
+                    "nombre": "pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "directory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "myrights",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.myrights(mailbox)\n",
+            "parametros": [
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "namespace",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.namespace()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "noop",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.noop()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.open(host, port, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "port",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "partial",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.partial(message_num, message_part, start, length)\n",
+            "parametros": [
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "length",
+                    "description": ""
+                },
+                {
+                    "nombre": "message_part",
+                    "description": ""
+                },
+                {
+                    "nombre": "message_num",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "proxyauth",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.proxyauth(user)\n",
+            "parametros": [
+                {
+                    "nombre": "user",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.read(size)\n",
+            "parametros": [
+                {
+                    "nombre": "size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readline",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.readline()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "recent",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.recent()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "rename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.rename(oldmailbox, newmailbox)\n",
+            "parametros": [
+                {
+                    "nombre": "newmailbox",
+                    "description": ""
+                },
+                {
+                    "nombre": "oldmailbox",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "response",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.response(code)\n",
+            "parametros": [
+                {
+                    "nombre": "code",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "search",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.search(charset, criterion[, ...])\n",
+            "parametros": [
+                {
+                    "nombre": "charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "...",
+                    "description": ""
+                },
+                {
+                    "nombre": "criterion",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "select",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.select(mailbox='INBOX', readonly=False)\n",
+            "parametros": [
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                },
+                {
+                    "nombre": "readonly",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.send(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setacl",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.setacl(mailbox, who, what)\n",
+            "parametros": [
+                {
+                    "nombre": "what",
+                    "description": ""
+                },
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                },
+                {
+                    "nombre": "who",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setannotation",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.setannotation(mailbox, entry, attribute[, ...])\n",
+            "parametros": [
+                {
+                    "nombre": "entry",
+                    "description": ""
+                },
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                },
+                {
+                    "nombre": "attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "...",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setquota",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.setquota(root, limits)\n",
+            "parametros": [
+                {
+                    "nombre": "limits",
+                    "description": ""
+                },
+                {
+                    "nombre": "root",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shutdown",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.shutdown()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "socket",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.socket()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "sort",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.sort(sort_criteria, charset, search_criterion[, ...])\n",
+            "parametros": [
+                {
+                    "nombre": "sort_criteria",
+                    "description": ""
+                },
+                {
+                    "nombre": "search_criterion",
+                    "description": ""
+                },
+                {
+                    "nombre": "...",
+                    "description": ""
+                },
+                {
+                    "nombre": "charset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "starttls",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.starttls(ssl_context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "ssl_context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "status",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.status(mailbox, names)\n",
+            "parametros": [
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                },
+                {
+                    "nombre": "names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "store",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.store(message_set, command, flag_list)\n",
+            "parametros": [
+                {
+                    "nombre": "command",
+                    "description": ""
+                },
+                {
+                    "nombre": "flag_list",
+                    "description": ""
+                },
+                {
+                    "nombre": "message_set",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "subscribe",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.subscribe(mailbox)\n",
+            "parametros": [
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thread",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.thread(threading_algorithm, charset, search_criterion[, ...])\n",
+            "parametros": [
+                {
+                    "nombre": "charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "threading_algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "search_criterion",
+                    "description": ""
+                },
+                {
+                    "nombre": "...",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uid",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.uid(command, arg[, ...])\n",
+            "parametros": [
+                {
+                    "nombre": "command",
+                    "description": ""
+                },
+                {
+                    "nombre": "...",
+                    "description": ""
+                },
+                {
+                    "nombre": "arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unselect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.unselect()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "unsubscribe",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.unsubscribe(mailbox)\n",
+            "parametros": [
+                {
+                    "nombre": "mailbox",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "xatom",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "IMAP4.xatom(name[, ...])\n",
+            "parametros": [
+                {
+                    "nombre": "...",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "IMAP4",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class imaplib.IMAP4(host='', port=IMAP4_PORT, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "port",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

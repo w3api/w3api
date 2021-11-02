@@ -1,0 +1,215 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class oss_audio_device\n",
+    "atributos": [
+        {
+            "nombre": "closed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.closed\n"
+        },
+        {
+            "nombre": "mode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.mode\n"
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.name\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bufsize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.bufsize()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "channels",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.channels(nchannels)\n",
+            "parametros": [
+                {
+                    "nombre": "nchannels",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fileno",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.fileno()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getfmts",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.getfmts()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "nonblock",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.nonblock()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "obufcount",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.obufcount()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "obuffree",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.obuffree()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "post",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.post()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.read(size)\n",
+            "parametros": [
+                {
+                    "nombre": "size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.reset()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "setfmt",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.setfmt(format)\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setparameters",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.setparameters(format, nchannels, samplerate[, strict=False])\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                },
+                {
+                    "nombre": "nchannels",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict",
+                    "description": ""
+                },
+                {
+                    "nombre": "samplerate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "speed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.speed(samplerate)\n",
+            "parametros": [
+                {
+                    "nombre": "samplerate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sync",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.sync()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.write(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeall",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "oss_audio_device.writeall(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": []
+}

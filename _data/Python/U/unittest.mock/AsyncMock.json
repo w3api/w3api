@@ -1,0 +1,183 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class AsyncMock\n",
+    "atributos": [
+        {
+            "nombre": "await_args",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "await_args\n"
+        },
+        {
+            "nombre": "await_args_list",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "await_args_list\n"
+        },
+        {
+            "nombre": "await_count",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "await_count\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "assert_any_await",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_any_await(*args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assert_awaited",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_awaited()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "assert_awaited_once",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_awaited_once()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "assert_awaited_once_with",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_awaited_once_with(*args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assert_awaited_with",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_awaited_with(*args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assert_has_awaits",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_has_awaits(calls, any_order=False)\n",
+            "parametros": [
+                {
+                    "nombre": "calls",
+                    "description": ""
+                },
+                {
+                    "nombre": "any_order",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assert_not_awaited",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_not_awaited()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "reset_mock",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "reset_mock(*args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "AsyncMock",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class unittest.mock.AsyncMock(spec=None, side_effect=None, return_value=DEFAULT, wraps=None, name=None, spec_set=None, unsafe=False, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "spec_set",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "side_effect",
+                    "description": ""
+                },
+                {
+                    "nombre": "wraps",
+                    "description": ""
+                },
+                {
+                    "nombre": "unsafe",
+                    "description": ""
+                },
+                {
+                    "nombre": "spec",
+                    "description": ""
+                },
+                {
+                    "nombre": "return_value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

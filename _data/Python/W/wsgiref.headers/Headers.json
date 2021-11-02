@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Headers\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "add_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_header(name, value, **_params)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "_params",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_all",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_all(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Headers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class wsgiref.headers.Headers([headers])\n",
+            "parametros": [
+                {
+                    "nombre": "headers",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

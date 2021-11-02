@@ -1,0 +1,566 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class xmlparser\n",
+    "atributos": [
+        {
+            "nombre": "buffer_size",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.buffer_size\n"
+        },
+        {
+            "nombre": "buffer_text",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.buffer_text\n"
+        },
+        {
+            "nombre": "buffer_used",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.buffer_used\n"
+        },
+        {
+            "nombre": "CurrentByteIndex",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.CurrentByteIndex\n"
+        },
+        {
+            "nombre": "CurrentColumnNumber",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.CurrentColumnNumber\n"
+        },
+        {
+            "nombre": "CurrentLineNumber",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.CurrentLineNumber\n"
+        },
+        {
+            "nombre": "ErrorByteIndex",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.ErrorByteIndex\n"
+        },
+        {
+            "nombre": "ErrorCode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.ErrorCode\n"
+        },
+        {
+            "nombre": "ErrorColumnNumber",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.ErrorColumnNumber\n"
+        },
+        {
+            "nombre": "ErrorLineNumber",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.ErrorLineNumber\n"
+        },
+        {
+            "nombre": "ordered_attributes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.ordered_attributes\n"
+        },
+        {
+            "nombre": "specified_attributes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.specified_attributes\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "AttlistDeclHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.AttlistDeclHandler(elname, attname, type, default, required)\n",
+            "parametros": [
+                {
+                    "nombre": "required",
+                    "description": ""
+                },
+                {
+                    "nombre": "elname",
+                    "description": ""
+                },
+                {
+                    "nombre": "type",
+                    "description": ""
+                },
+                {
+                    "nombre": "attname",
+                    "description": ""
+                },
+                {
+                    "nombre": "default",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "CharacterDataHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.CharacterDataHandler(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "CommentHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.CommentHandler(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "DefaultHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.DefaultHandler(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "DefaultHandlerExpand",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.DefaultHandlerExpand(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ElementDeclHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.ElementDeclHandler(name, model)\n",
+            "parametros": [
+                {
+                    "nombre": "model",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "EndCdataSectionHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.EndCdataSectionHandler()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "EndDoctypeDeclHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.EndDoctypeDeclHandler()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "EndElementHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.EndElementHandler(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "EndNamespaceDeclHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.EndNamespaceDeclHandler(prefix)\n",
+            "parametros": [
+                {
+                    "nombre": "prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "EntityDeclHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.EntityDeclHandler(entityName, is_parameter_entity, value, base, systemId, publicId, notationName)\n",
+            "parametros": [
+                {
+                    "nombre": "is_parameter_entity",
+                    "description": ""
+                },
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "entityName",
+                    "description": ""
+                },
+                {
+                    "nombre": "base",
+                    "description": ""
+                },
+                {
+                    "nombre": "systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "notationName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ExternalEntityParserCreate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.ExternalEntityParserCreate(context[, encoding])\n",
+            "parametros": [
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ExternalEntityRefHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.ExternalEntityRefHandler(context, base, systemId, publicId)\n",
+            "parametros": [
+                {
+                    "nombre": "base",
+                    "description": ""
+                },
+                {
+                    "nombre": "publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "systemId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "GetBase",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.GetBase()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "GetInputContext",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.GetInputContext()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "NotationDeclHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.NotationDeclHandler(notationName, base, systemId, publicId)\n",
+            "parametros": [
+                {
+                    "nombre": "publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "base",
+                    "description": ""
+                },
+                {
+                    "nombre": "systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "notationName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "NotStandaloneHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.NotStandaloneHandler()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "Parse",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.Parse(data[, isfinal])\n",
+            "parametros": [
+                {
+                    "nombre": "isfinal",
+                    "description": ""
+                },
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ParseFile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.ParseFile(file)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ProcessingInstructionHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.ProcessingInstructionHandler(target, data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                },
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "SetBase",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.SetBase(base)\n",
+            "parametros": [
+                {
+                    "nombre": "base",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "SetParamEntityParsing",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.SetParamEntityParsing(flag)\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "StartCdataSectionHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.StartCdataSectionHandler()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "StartDoctypeDeclHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.StartDoctypeDeclHandler(doctypeName, systemId, publicId, has_internal_subset)\n",
+            "parametros": [
+                {
+                    "nombre": "publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "has_internal_subset",
+                    "description": ""
+                },
+                {
+                    "nombre": "doctypeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "systemId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "StartElementHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.StartElementHandler(name, attributes)\n",
+            "parametros": [
+                {
+                    "nombre": "attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "StartNamespaceDeclHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.StartNamespaceDeclHandler(prefix, uri)\n",
+            "parametros": [
+                {
+                    "nombre": "uri",
+                    "description": ""
+                },
+                {
+                    "nombre": "prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "UnparsedEntityDeclHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.UnparsedEntityDeclHandler(entityName, base, systemId, publicId, notationName)\n",
+            "parametros": [
+                {
+                    "nombre": "publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "entityName",
+                    "description": ""
+                },
+                {
+                    "nombre": "base",
+                    "description": ""
+                },
+                {
+                    "nombre": "systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "notationName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "UseForeignDTD",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.UseForeignDTD([flag])\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "XmlDeclHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xmlparser.XmlDeclHandler(version, encoding, standalone)\n",
+            "parametros": [
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "version",
+                    "description": ""
+                },
+                {
+                    "nombre": "standalone",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": []
+}

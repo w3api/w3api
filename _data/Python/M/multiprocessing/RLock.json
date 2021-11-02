@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class RLock\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "acquire",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "acquire(block=True, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "block",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "release",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "release()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "RLock",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class multiprocessing.RLock\n",
+            "parametros": []
+        }
+    ]
+}

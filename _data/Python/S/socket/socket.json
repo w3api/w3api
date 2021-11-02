@@ -1,0 +1,581 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class socket\n",
+    "atributos": [
+        {
+            "nombre": "family",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.family\n"
+        },
+        {
+            "nombre": "proto",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.proto\n"
+        },
+        {
+            "nombre": "type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.type\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accept",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.accept()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "bind",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.bind(address)\n",
+            "parametros": [
+                {
+                    "nombre": "address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.connect(address)\n",
+            "parametros": [
+                {
+                    "nombre": "address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "connect_ex",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.connect_ex(address)\n",
+            "parametros": [
+                {
+                    "nombre": "address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "detach",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.detach()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "dup",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.dup()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fileno",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.fileno()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getblocking",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.getblocking()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getpeername",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.getpeername()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getsockname",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.getsockname()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getsockopt",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.getsockopt(level, optname[, buflen])\n",
+            "parametros": [
+                {
+                    "nombre": "buflen",
+                    "description": ""
+                },
+                {
+                    "nombre": "level",
+                    "description": ""
+                },
+                {
+                    "nombre": "optname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "gettimeout",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.gettimeout()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_inheritable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.get_inheritable()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "ioctl",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.ioctl(control, option)\n",
+            "parametros": [
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "control",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "listen",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.listen([backlog])\n",
+            "parametros": [
+                {
+                    "nombre": "backlog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "makefile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.makefile(mode='r', buffering=None, *, encoding=None, errors=None, newline=None)\n",
+            "parametros": [
+                {
+                    "nombre": "newline",
+                    "description": ""
+                },
+                {
+                    "nombre": "buffering",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "mode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "recv",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.recv(bufsize[, flags])\n",
+            "parametros": [
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "bufsize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "recvfrom",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.recvfrom(bufsize[, flags])\n",
+            "parametros": [
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "bufsize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "recvfrom_into",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.recvfrom_into(buffer[, nbytes[, flags]])\n",
+            "parametros": [
+                {
+                    "nombre": "buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "nbytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "recvmsg",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.recvmsg(bufsize[, ancbufsize[, flags]])\n",
+            "parametros": [
+                {
+                    "nombre": "ancbufsize",
+                    "description": ""
+                },
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "bufsize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "recvmsg_into",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.recvmsg_into(buffers[, ancbufsize[, flags]])\n",
+            "parametros": [
+                {
+                    "nombre": "buffers",
+                    "description": ""
+                },
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "ancbufsize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "recv_into",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.recv_into(buffer[, nbytes[, flags]])\n",
+            "parametros": [
+                {
+                    "nombre": "buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "nbytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.send(bytes[, flags])\n",
+            "parametros": [
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "bytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendall",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.sendall(bytes[, flags])\n",
+            "parametros": [
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "bytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendfile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.sendfile(file, offset=0, count=None)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "count",
+                    "description": ""
+                },
+                {
+                    "nombre": "offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendmsg",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.sendmsg(buffers[, ancdata[, flags[, address]]])\n",
+            "parametros": [
+                {
+                    "nombre": "buffers",
+                    "description": ""
+                },
+                {
+                    "nombre": "ancdata",
+                    "description": ""
+                },
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendmsg_afalg",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.sendmsg_afalg([msg, ]*, op[, iv[, assoclen[, flags]]])\n",
+            "parametros": [
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "iv",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "op",
+                    "description": ""
+                },
+                {
+                    "nombre": "assoclen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendto",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.sendto(bytes, address)\nsocket.sendto(bytes, flags, address)\n",
+            "parametros": [
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "address",
+                    "description": ""
+                },
+                {
+                    "nombre": "bytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setblocking",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.setblocking(flag)\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setsockopt",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.setsockopt(level, optname, value: buffer)\nsocket.setsockopt(level, optname, None, optlen: int)\nsocket.setsockopt(level, optname, value: int)\n",
+            "parametros": [
+                {
+                    "nombre": "level",
+                    "description": ""
+                },
+                {
+                    "nombre": "optname",
+                    "description": ""
+                },
+                {
+                    "nombre": "optlen: int",
+                    "description": ""
+                },
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "None",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "settimeout",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.settimeout(value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_inheritable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.set_inheritable(inheritable)\n",
+            "parametros": [
+                {
+                    "nombre": "inheritable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "share",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.share(process_id)\n",
+            "parametros": [
+                {
+                    "nombre": "process_id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shutdown",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "socket.shutdown(how)\n",
+            "parametros": [
+                {
+                    "nombre": "how",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": []
+}

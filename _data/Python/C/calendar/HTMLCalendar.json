@@ -1,0 +1,137 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class HTMLCalendar\n",
+    "atributos": [
+        {
+            "nombre": "cssclasses",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cssclasses\n"
+        },
+        {
+            "nombre": "cssclasses_weekday_head",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cssclasses_weekday_head\n"
+        },
+        {
+            "nombre": "cssclass_month",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cssclass_month\n"
+        },
+        {
+            "nombre": "cssclass_month_head",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cssclass_month_head\n"
+        },
+        {
+            "nombre": "cssclass_noday",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cssclass_noday\n"
+        },
+        {
+            "nombre": "cssclass_year",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cssclass_year\n"
+        },
+        {
+            "nombre": "cssclass_year_head",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cssclass_year_head\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "formatmonth",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "formatmonth(theyear, themonth, withyear=True)\n",
+            "parametros": [
+                {
+                    "nombre": "withyear",
+                    "description": ""
+                },
+                {
+                    "nombre": "theyear",
+                    "description": ""
+                },
+                {
+                    "nombre": "themonth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "formatyear",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "formatyear(theyear, width=3)\n",
+            "parametros": [
+                {
+                    "nombre": "width",
+                    "description": ""
+                },
+                {
+                    "nombre": "theyear",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "formatyearpage",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "formatyearpage(theyear, width=3, css='calendar.css', encoding=None)\n",
+            "parametros": [
+                {
+                    "nombre": "width",
+                    "description": ""
+                },
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "theyear",
+                    "description": ""
+                },
+                {
+                    "nombre": "css",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "HTMLCalendar",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class calendar.HTMLCalendar(firstweekday=0)\n",
+            "parametros": [
+                {
+                    "nombre": "firstweekday",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,347 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Dialog\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "bitmap",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bitmap(name, x, y, width, height, text)\n",
+            "parametros": [
+                {
+                    "nombre": "height",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "width",
+                    "description": ""
+                },
+                {
+                    "nombre": "text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkbox",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "checkbox(name, x, y, width, height, attributes, property, text, next_control)\n",
+            "parametros": [
+                {
+                    "nombre": "height",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "property",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "next_control",
+                    "description": ""
+                },
+                {
+                    "nombre": "width",
+                    "description": ""
+                },
+                {
+                    "nombre": "text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "control",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "control(name, type, x, y, width, height, attributes, property, text, control_next, help)\n",
+            "parametros": [
+                {
+                    "nombre": "height",
+                    "description": ""
+                },
+                {
+                    "nombre": "help",
+                    "description": ""
+                },
+                {
+                    "nombre": "control_next",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "property",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "type",
+                    "description": ""
+                },
+                {
+                    "nombre": "attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "width",
+                    "description": ""
+                },
+                {
+                    "nombre": "text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "line",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "line(name, x, y, width, height)\n",
+            "parametros": [
+                {
+                    "nombre": "height",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "width",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pushbutton",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "pushbutton(name, x, y, width, height, attributes, text, next_control)\n",
+            "parametros": [
+                {
+                    "nombre": "height",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "next_control",
+                    "description": ""
+                },
+                {
+                    "nombre": "width",
+                    "description": ""
+                },
+                {
+                    "nombre": "text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "radiogroup",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "radiogroup(name, x, y, width, height, attributes, property, text, next_control)\n",
+            "parametros": [
+                {
+                    "nombre": "height",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "property",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "next_control",
+                    "description": ""
+                },
+                {
+                    "nombre": "width",
+                    "description": ""
+                },
+                {
+                    "nombre": "text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "text",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "text(name, x, y, width, height, attributes, text)\n",
+            "parametros": [
+                {
+                    "nombre": "height",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "width",
+                    "description": ""
+                },
+                {
+                    "nombre": "text",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Dialog",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class msilib.Dialog(db, name, x, y, w, h, attr, title, first, default, cancel)\n",
+            "parametros": [
+                {
+                    "nombre": "attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "cancel",
+                    "description": ""
+                },
+                {
+                    "nombre": "first",
+                    "description": ""
+                },
+                {
+                    "nombre": "default",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "w",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "db",
+                    "description": ""
+                },
+                {
+                    "nombre": "h",
+                    "description": ""
+                },
+                {
+                    "nombre": "title",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

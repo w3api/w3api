@@ -1,0 +1,592 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Bdb\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "break_anywhere",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "break_anywhere(frame)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "break_here",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "break_here(frame)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canonic",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "canonic(filename)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear_all_breaks",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "clear_all_breaks()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "clear_all_file_breaks",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "clear_all_file_breaks(filename)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear_bpbynumber",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "clear_bpbynumber(arg)\n",
+            "parametros": [
+                {
+                    "nombre": "arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear_break",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "clear_break(filename, lineno)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "lineno",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dispatch_call",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "dispatch_call(frame, arg)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                },
+                {
+                    "nombre": "arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dispatch_exception",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "dispatch_exception(frame, arg)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                },
+                {
+                    "nombre": "arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dispatch_line",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "dispatch_line(frame)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dispatch_return",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "dispatch_return(frame, arg)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                },
+                {
+                    "nombre": "arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "do_clear",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "do_clear(arg)\n",
+            "parametros": [
+                {
+                    "nombre": "arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format_stack_entry",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "format_stack_entry(frame_lineno, lprefix=': ')\n",
+            "parametros": [
+                {
+                    "nombre": "frame_lineno",
+                    "description": ""
+                },
+                {
+                    "nombre": "lprefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_all_breaks",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_all_breaks()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_bpbynumber",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_bpbynumber(arg)\n",
+            "parametros": [
+                {
+                    "nombre": "arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_break",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_break(filename, lineno)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "lineno",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_breaks",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_breaks(filename, lineno)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "lineno",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_file_breaks",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_file_breaks(filename)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_stack",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_stack(f, t)\n",
+            "parametros": [
+                {
+                    "nombre": "t",
+                    "description": ""
+                },
+                {
+                    "nombre": "f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "reset()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "run",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "run(cmd, globals=None, locals=None)\n",
+            "parametros": [
+                {
+                    "nombre": "locals",
+                    "description": ""
+                },
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                },
+                {
+                    "nombre": "globals",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runcall",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "runcall(func, /, *args, **kwds)\n",
+            "parametros": [
+                {
+                    "nombre": "**kwds",
+                    "description": ""
+                },
+                {
+                    "nombre": "*args",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "/",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runctx",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "runctx(cmd, globals, locals)\n",
+            "parametros": [
+                {
+                    "nombre": "locals",
+                    "description": ""
+                },
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                },
+                {
+                    "nombre": "globals",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runeval",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "runeval(expr, globals=None, locals=None)\n",
+            "parametros": [
+                {
+                    "nombre": "locals",
+                    "description": ""
+                },
+                {
+                    "nombre": "expr",
+                    "description": ""
+                },
+                {
+                    "nombre": "globals",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_break",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_break(filename, lineno, temporary=0, cond, funcname)\n",
+            "parametros": [
+                {
+                    "nombre": "funcname",
+                    "description": ""
+                },
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "cond",
+                    "description": ""
+                },
+                {
+                    "nombre": "temporary",
+                    "description": ""
+                },
+                {
+                    "nombre": "lineno",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_continue",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_continue()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "set_next",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_next(frame)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_quit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_quit()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "set_return",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_return(frame)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_step",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_step()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "set_trace",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_trace([frame])\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_until",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_until(frame)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stop_here",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "stop_here(frame)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "trace_dispatch",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "trace_dispatch(frame, event, arg)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                },
+                {
+                    "nombre": "event",
+                    "description": ""
+                },
+                {
+                    "nombre": "arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "user_call",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "user_call(frame, argument_list)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                },
+                {
+                    "nombre": "argument_list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "user_exception",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "user_exception(frame, exc_info)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                },
+                {
+                    "nombre": "exc_info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "user_line",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "user_line(frame)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "user_return",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "user_return(frame, return_value)\n",
+            "parametros": [
+                {
+                    "nombre": "frame",
+                    "description": ""
+                },
+                {
+                    "nombre": "return_value",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Bdb",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class bdb.Bdb(skip=None)\n",
+            "parametros": [
+                {
+                    "nombre": "skip",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

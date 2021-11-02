@@ -1,0 +1,560 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Treeview\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "bbox",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bbox(item, column=None)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                },
+                {
+                    "nombre": "column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "column",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "column(column, option=None, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                },
+                {
+                    "nombre": "column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "delete",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "delete(*items)\n",
+            "parametros": [
+                {
+                    "nombre": "items",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "detach",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "detach(*items)\n",
+            "parametros": [
+                {
+                    "nombre": "items",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exists",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "exists(item)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "focus",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "focus(item=None)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_children",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_children(item=None)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "heading",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "heading(column, option=None, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                },
+                {
+                    "nombre": "column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "identify",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "identify(component, x, y)\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "identify_column",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "identify_column(x)\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "identify_element",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "identify_element(x, y)\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "identify_region",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "identify_region(x, y)\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "identify_row",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "identify_row(y)\n",
+            "parametros": [
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "index",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "index(item)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insert",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "insert(parent, index, iid=None, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "iid",
+                    "description": ""
+                },
+                {
+                    "nombre": "index",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                },
+                {
+                    "nombre": "parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "item",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "item(item, option=None, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "item",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "move",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "move(item, parent, index)\n",
+            "parametros": [
+                {
+                    "nombre": "index",
+                    "description": ""
+                },
+                {
+                    "nombre": "item",
+                    "description": ""
+                },
+                {
+                    "nombre": "parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "next",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "next(item)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parent",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "parent(item)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prev",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "prev(item)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reattach",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "reattach(item, parent, index)\n",
+            "parametros": [
+                {
+                    "nombre": "index",
+                    "description": ""
+                },
+                {
+                    "nombre": "item",
+                    "description": ""
+                },
+                {
+                    "nombre": "parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "see",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "see(item)\n",
+            "parametros": [
+                {
+                    "nombre": "item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selection",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "selection()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "selection_add",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "selection_add(*items)\n",
+            "parametros": [
+                {
+                    "nombre": "items",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selection_remove",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "selection_remove(*items)\n",
+            "parametros": [
+                {
+                    "nombre": "items",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selection_set",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "selection_set(*items)\n",
+            "parametros": [
+                {
+                    "nombre": "items",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selection_toggle",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "selection_toggle(*items)\n",
+            "parametros": [
+                {
+                    "nombre": "items",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set(item, column=None, value=None)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "item",
+                    "description": ""
+                },
+                {
+                    "nombre": "column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_children",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_children(item, *newchildren)\n",
+            "parametros": [
+                {
+                    "nombre": "newchildren",
+                    "description": ""
+                },
+                {
+                    "nombre": "item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tag_bind",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "tag_bind(tagname, sequence=None, callback=None)\n",
+            "parametros": [
+                {
+                    "nombre": "tagname",
+                    "description": ""
+                },
+                {
+                    "nombre": "callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "sequence",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tag_configure",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "tag_configure(tagname, option=None, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "tagname",
+                    "description": ""
+                },
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tag_has",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "tag_has(tagname, item=None)\n",
+            "parametros": [
+                {
+                    "nombre": "tagname",
+                    "description": ""
+                },
+                {
+                    "nombre": "item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "xview",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "xview(*args)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "yview",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "yview(*args)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Treeview",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class tkinter.ttk.Treeview\n",
+            "parametros": []
+        }
+    ]
+}

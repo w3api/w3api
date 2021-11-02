@@ -1,0 +1,65 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class DTDHandler\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "notationDecl",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DTDHandler.notationDecl(name, publicId, systemId)\n",
+            "parametros": [
+                {
+                    "nombre": "publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "systemId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unparsedEntityDecl",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DTDHandler.unparsedEntityDecl(name, publicId, systemId, ndata)\n",
+            "parametros": [
+                {
+                    "nombre": "publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "ndata",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "systemId",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "DTDHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class xml.sax.handler.DTDHandler\n",
+            "parametros": []
+        }
+    ]
+}

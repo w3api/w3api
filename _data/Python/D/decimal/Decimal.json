@@ -1,0 +1,737 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Decimal\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "adjusted",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "adjusted()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "as_integer_ratio",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "as_integer_ratio()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "as_tuple",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "as_tuple()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "canonical",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "canonical()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "compare",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "compare(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compare_signal",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "compare_signal(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compare_total",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "compare_total(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compare_total_mag",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "compare_total_mag(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "conjugate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "conjugate()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "copy_abs",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "copy_abs()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "copy_negate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "copy_negate()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "copy_sign",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "copy_sign(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exp",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "exp(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fma",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "fma(other, third, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "third",
+                    "description": ""
+                },
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "from_float",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "from_float(f)\n",
+            "parametros": [
+                {
+                    "nombre": "f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_canonical",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_canonical()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_finite",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_finite()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_infinite",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_infinite()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_nan",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_nan()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_normal",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_normal(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_qnan",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_qnan()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_signed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_signed()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_snan",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_snan()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_subnormal",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_subnormal(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_zero",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_zero()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "ln",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ln(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "log10",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "log10(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "logb",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "logb(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "logical_and",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "logical_and(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "logical_invert",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "logical_invert(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "logical_or",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "logical_or(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "logical_xor",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "logical_xor(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "max",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "max(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "max_mag",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "max_mag(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "min",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "min(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "min_mag",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "min_mag(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "next_minus",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "next_minus(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "next_plus",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "next_plus(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "next_toward",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "next_toward(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "normalize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "normalize(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "number_class",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "number_class(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "quantize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "quantize(exp, rounding=None, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "rounding",
+                    "description": ""
+                },
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "exp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "radix",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "radix()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "remainder_near",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "remainder_near(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rotate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "rotate(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "same_quantum",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "same_quantum(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scaleb",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "scaleb(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shift",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shift(other, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sqrt",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "sqrt(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "to_eng_string",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "to_eng_string(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "to_integral",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "to_integral(rounding=None, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "rounding",
+                    "description": ""
+                },
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "to_integral_exact",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "to_integral_exact(rounding=None, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "rounding",
+                    "description": ""
+                },
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "to_integral_value",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "to_integral_value(rounding=None, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "rounding",
+                    "description": ""
+                },
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Decimal",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class decimal.Decimal(value='0', context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

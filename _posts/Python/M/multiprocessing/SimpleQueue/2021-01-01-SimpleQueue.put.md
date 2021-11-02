@@ -1,0 +1,39 @@
+---
+title: multiprocessing.SimpleQueue.put
+permalink: /Python/multiprocessing/SimpleQueue/put/
+date: 2021-01-01
+key: Python.M.multiprocessing.SimpleQueue.put
+category: python
+tags: ['metodo python', 'multiprocessing']
+sidebar: 
+  nav: python
+---
+
+{% include w3api/datos.html clase=site.data.Python.M.multiprocessing.SimpleQueue.metodos valor="put" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~python
+{{ _dato.sintaxis }}~~~
+
+## Parámetros
+* **item**,  {% include w3api/function_param_description.html propiedad=_dato valor="item" %}
+
+## Clase Padre
+[SimpleQueue](/Python/multiprocessing/SimpleQueue/)
+
+## Ejemplo
+~~~python
+{{ _dato.code}}
+~~~
+
+## Artículos
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

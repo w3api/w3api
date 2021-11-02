@@ -1,0 +1,128 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class scheduler\n",
+    "atributos": [
+        {
+            "nombre": "queue",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "scheduler.queue\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cancel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "scheduler.cancel(event)\n",
+            "parametros": [
+                {
+                    "nombre": "event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "empty",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "scheduler.empty()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "enter",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "scheduler.enter(delay, priority, action, argument=(), kwargs={})\n",
+            "parametros": [
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "delay",
+                    "description": ""
+                },
+                {
+                    "nombre": "priority",
+                    "description": ""
+                },
+                {
+                    "nombre": "action",
+                    "description": ""
+                },
+                {
+                    "nombre": "argument",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "enterabs",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "scheduler.enterabs(time, priority, action, argument=(), kwargs={})\n",
+            "parametros": [
+                {
+                    "nombre": "time",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "priority",
+                    "description": ""
+                },
+                {
+                    "nombre": "action",
+                    "description": ""
+                },
+                {
+                    "nombre": "argument",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "run",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "scheduler.run(blocking=True)\n",
+            "parametros": [
+                {
+                    "nombre": "blocking",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "scheduler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class sched.scheduler(timefunc=time.monotonic, delayfunc=time.sleep)\n",
+            "parametros": [
+                {
+                    "nombre": "timefunc",
+                    "description": ""
+                },
+                {
+                    "nombre": "delayfunc",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

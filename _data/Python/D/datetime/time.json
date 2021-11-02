@@ -1,0 +1,233 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class time\n",
+    "atributos": [
+        {
+            "nombre": "fold",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.fold\n"
+        },
+        {
+            "nombre": "hour",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.hour\n"
+        },
+        {
+            "nombre": "max",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.max\n"
+        },
+        {
+            "nombre": "microsecond",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.microsecond\n"
+        },
+        {
+            "nombre": "min",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.min\n"
+        },
+        {
+            "nombre": "minute",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.minute\n"
+        },
+        {
+            "nombre": "resolution",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.resolution\n"
+        },
+        {
+            "nombre": "second",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.second\n"
+        },
+        {
+            "nombre": "tzinfo",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.tzinfo\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "dst",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.dst()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fromisoformat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod time.fromisoformat(time_string)\n",
+            "parametros": [
+                {
+                    "nombre": "time_string",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isoformat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.isoformat(timespec='auto')\n",
+            "parametros": [
+                {
+                    "nombre": "timespec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.replace(hour=self.hour, minute=self.minute, second=self.second, microsecond=self.microsecond, tzinfo=self.tzinfo, *, fold=0)\n",
+            "parametros": [
+                {
+                    "nombre": "microsecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "tzinfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                },
+                {
+                    "nombre": "fold",
+                    "description": ""
+                },
+                {
+                    "nombre": "hour",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "minute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strftime",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.strftime(format)\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tzname",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.tzname()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "utcoffset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.utcoffset()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "__format__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.__format__(format)\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__str__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "time.__str__()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "time",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class datetime.time(hour=0, minute=0, second=0, microsecond=0, tzinfo=None, *, fold=0)\nclass datetime.time\n",
+            "parametros": [
+                {
+                    "nombre": "microsecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "tzinfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                },
+                {
+                    "nombre": "fold",
+                    "description": ""
+                },
+                {
+                    "nombre": "hour",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "minute",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

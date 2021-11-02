@@ -1,0 +1,1211 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class window\n",
+    "atributos": [
+        {
+            "nombre": "encoding",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.encoding\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addch",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.addch(y, x, ch[, attr])\nwindow.addch(ch[, attr])\n",
+            "parametros": [
+                {
+                    "nombre": "ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addnstr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.addnstr(str, n[, attr])\nwindow.addnstr(y, x, str, n[, attr])\n",
+            "parametros": [
+                {
+                    "nombre": "attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "n",
+                    "description": ""
+                },
+                {
+                    "nombre": "str",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addstr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.addstr(y, x, str[, attr])\nwindow.addstr(str[, attr])\n",
+            "parametros": [
+                {
+                    "nombre": "attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "str",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "attroff",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.attroff(attr)\n",
+            "parametros": [
+                {
+                    "nombre": "attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "attron",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.attron(attr)\n",
+            "parametros": [
+                {
+                    "nombre": "attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "attrset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.attrset(attr)\n",
+            "parametros": [
+                {
+                    "nombre": "attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bkgd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.bkgd(ch[, attr])\n",
+            "parametros": [
+                {
+                    "nombre": "ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bkgdset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.bkgdset(ch[, attr])\n",
+            "parametros": [
+                {
+                    "nombre": "ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "border",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.border([ls[, rs[, ts[, bs[, tl[, tr[, bl[, br]]]]]]]])\n",
+            "parametros": [
+                {
+                    "nombre": "bs",
+                    "description": ""
+                },
+                {
+                    "nombre": "tr",
+                    "description": ""
+                },
+                {
+                    "nombre": "bl",
+                    "description": ""
+                },
+                {
+                    "nombre": "tl",
+                    "description": ""
+                },
+                {
+                    "nombre": "rs",
+                    "description": ""
+                },
+                {
+                    "nombre": "ls",
+                    "description": ""
+                },
+                {
+                    "nombre": "br",
+                    "description": ""
+                },
+                {
+                    "nombre": "ts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "box",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.box([vertch, horch])\n",
+            "parametros": [
+                {
+                    "nombre": "horch",
+                    "description": ""
+                },
+                {
+                    "nombre": "vertch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "chgat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.chgat(y, x, num, attr)\nwindow.chgat(num, attr)\nwindow.chgat(attr)\nwindow.chgat(y, x, attr)\n",
+            "parametros": [
+                {
+                    "nombre": "attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "num",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.clear()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "clearok",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.clearok(flag)\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clrtobot",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.clrtobot()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "clrtoeol",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.clrtoeol()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "cursyncup",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.cursyncup()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "delch",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.delch([y, x])\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deleteln",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.deleteln()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "derwin",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.derwin(nlines, ncols, begin_y, begin_x)\nwindow.derwin(begin_y, begin_x)\n",
+            "parametros": [
+                {
+                    "nombre": "nlines",
+                    "description": ""
+                },
+                {
+                    "nombre": "ncols",
+                    "description": ""
+                },
+                {
+                    "nombre": "begin_x",
+                    "description": ""
+                },
+                {
+                    "nombre": "begin_y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "echochar",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.echochar(ch[, attr])\n",
+            "parametros": [
+                {
+                    "nombre": "ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "enclose",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.enclose(y, x)\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "erase",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.erase()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getbegyx",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.getbegyx()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getbkgd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.getbkgd()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getch",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.getch([y, x])\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getkey",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.getkey([y, x])\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getmaxyx",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.getmaxyx()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getparyx",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.getparyx()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getstr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.getstr(n)\nwindow.getstr(y, x)\nwindow.getstr(y, x, n)\nwindow.getstr()\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getyx",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.getyx()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_wch",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.get_wch([y, x])\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hline",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.hline(ch, n)\nwindow.hline(y, x, ch, n)\n",
+            "parametros": [
+                {
+                    "nombre": "ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "idcok",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.idcok(flag)\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "idlok",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.idlok(flag)\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "immedok",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.immedok(flag)\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inch",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.inch([y, x])\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insch",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.insch(y, x, ch[, attr])\nwindow.insch(ch[, attr])\n",
+            "parametros": [
+                {
+                    "nombre": "ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insdelln",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.insdelln(nlines)\n",
+            "parametros": [
+                {
+                    "nombre": "nlines",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertln",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.insertln()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "insnstr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.insnstr(str, n[, attr])\nwindow.insnstr(y, x, str, n[, attr])\n",
+            "parametros": [
+                {
+                    "nombre": "attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "n",
+                    "description": ""
+                },
+                {
+                    "nombre": "str",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insstr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.insstr(y, x, str[, attr])\nwindow.insstr(str[, attr])\n",
+            "parametros": [
+                {
+                    "nombre": "attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "str",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "instr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.instr(y, x[, n])\nwindow.instr([n])\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_linetouched",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.is_linetouched(line)\n",
+            "parametros": [
+                {
+                    "nombre": "line",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_wintouched",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.is_wintouched()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "keypad",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.keypad(flag)\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "leaveok",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.leaveok(flag)\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "move",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.move(new_y, new_x)\n",
+            "parametros": [
+                {
+                    "nombre": "new_y",
+                    "description": ""
+                },
+                {
+                    "nombre": "new_x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mvderwin",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.mvderwin(y, x)\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mvwin",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.mvwin(new_y, new_x)\n",
+            "parametros": [
+                {
+                    "nombre": "new_y",
+                    "description": ""
+                },
+                {
+                    "nombre": "new_x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nodelay",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.nodelay(flag)\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "notimeout",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.notimeout(flag)\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "noutrefresh",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.noutrefresh()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "overlay",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.overlay(destwin[, sminrow, smincol, dminrow, dmincol, dmaxrow, dmaxcol])\n",
+            "parametros": [
+                {
+                    "nombre": "dmincol",
+                    "description": ""
+                },
+                {
+                    "nombre": "dmaxcol",
+                    "description": ""
+                },
+                {
+                    "nombre": "smincol",
+                    "description": ""
+                },
+                {
+                    "nombre": "dminrow",
+                    "description": ""
+                },
+                {
+                    "nombre": "dmaxrow",
+                    "description": ""
+                },
+                {
+                    "nombre": "sminrow",
+                    "description": ""
+                },
+                {
+                    "nombre": "destwin",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "overwrite",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.overwrite(destwin[, sminrow, smincol, dminrow, dmincol, dmaxrow, dmaxcol])\n",
+            "parametros": [
+                {
+                    "nombre": "dmincol",
+                    "description": ""
+                },
+                {
+                    "nombre": "dmaxcol",
+                    "description": ""
+                },
+                {
+                    "nombre": "smincol",
+                    "description": ""
+                },
+                {
+                    "nombre": "dminrow",
+                    "description": ""
+                },
+                {
+                    "nombre": "dmaxrow",
+                    "description": ""
+                },
+                {
+                    "nombre": "sminrow",
+                    "description": ""
+                },
+                {
+                    "nombre": "destwin",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putwin",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.putwin(file)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "redrawln",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.redrawln(beg, num)\n",
+            "parametros": [
+                {
+                    "nombre": "num",
+                    "description": ""
+                },
+                {
+                    "nombre": "beg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "redrawwin",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.redrawwin()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "refresh",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.refresh([pminrow, pmincol, sminrow, smincol, smaxrow, smaxcol])\n",
+            "parametros": [
+                {
+                    "nombre": "pminrow",
+                    "description": ""
+                },
+                {
+                    "nombre": "smincol",
+                    "description": ""
+                },
+                {
+                    "nombre": "pmincol",
+                    "description": ""
+                },
+                {
+                    "nombre": "sminrow",
+                    "description": ""
+                },
+                {
+                    "nombre": "smaxcol",
+                    "description": ""
+                },
+                {
+                    "nombre": "smaxrow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.resize(nlines, ncols)\n",
+            "parametros": [
+                {
+                    "nombre": "nlines",
+                    "description": ""
+                },
+                {
+                    "nombre": "ncols",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scroll",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.scroll([lines=1])\n",
+            "parametros": [
+                {
+                    "nombre": "lines",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scrollok",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.scrollok(flag)\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setscrreg",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.setscrreg(top, bottom)\n",
+            "parametros": [
+                {
+                    "nombre": "bottom",
+                    "description": ""
+                },
+                {
+                    "nombre": "top",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "standend",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.standend()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "standout",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.standout()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "subpad",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.subpad(nlines, ncols, begin_y, begin_x)\nwindow.subpad(begin_y, begin_x)\n",
+            "parametros": [
+                {
+                    "nombre": "nlines",
+                    "description": ""
+                },
+                {
+                    "nombre": "ncols",
+                    "description": ""
+                },
+                {
+                    "nombre": "begin_x",
+                    "description": ""
+                },
+                {
+                    "nombre": "begin_y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "subwin",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.subwin(nlines, ncols, begin_y, begin_x)\nwindow.subwin(begin_y, begin_x)\n",
+            "parametros": [
+                {
+                    "nombre": "nlines",
+                    "description": ""
+                },
+                {
+                    "nombre": "ncols",
+                    "description": ""
+                },
+                {
+                    "nombre": "begin_x",
+                    "description": ""
+                },
+                {
+                    "nombre": "begin_y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "syncdown",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.syncdown()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "syncok",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.syncok(flag)\n",
+            "parametros": [
+                {
+                    "nombre": "flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "syncup",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.syncup()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "timeout",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.timeout(delay)\n",
+            "parametros": [
+                {
+                    "nombre": "delay",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "touchline",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.touchline(start, count[, changed])\n",
+            "parametros": [
+                {
+                    "nombre": "count",
+                    "description": ""
+                },
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "changed",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "touchwin",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.touchwin()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "untouchwin",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.untouchwin()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "vline",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "window.vline(ch, n)\nwindow.vline(y, x, ch, n)\n",
+            "parametros": [
+                {
+                    "nombre": "ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "y",
+                    "description": ""
+                },
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": []
+}

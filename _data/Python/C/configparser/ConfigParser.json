@@ -1,0 +1,466 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class ConfigParser\n",
+    "atributos": [
+        {
+            "nombre": "BOOLEAN_STATES",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ConfigParser.BOOLEAN_STATES\n"
+        },
+        {
+            "nombre": "SECTCRE",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ConfigParser.SECTCRE\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add_section",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_section(section)\n",
+            "parametros": [
+                {
+                    "nombre": "section",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "defaults",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "defaults()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get(section, option, *, raw=False, vars=None[, fallback])\n",
+            "parametros": [
+                {
+                    "nombre": "section",
+                    "description": ""
+                },
+                {
+                    "nombre": "fallback",
+                    "description": ""
+                },
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "vars",
+                    "description": ""
+                },
+                {
+                    "nombre": "raw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getboolean",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "getboolean(section, option, *, raw=False, vars=None[, fallback])\n",
+            "parametros": [
+                {
+                    "nombre": "section",
+                    "description": ""
+                },
+                {
+                    "nombre": "fallback",
+                    "description": ""
+                },
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "vars",
+                    "description": ""
+                },
+                {
+                    "nombre": "raw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getfloat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "getfloat(section, option, *, raw=False, vars=None[, fallback])\n",
+            "parametros": [
+                {
+                    "nombre": "section",
+                    "description": ""
+                },
+                {
+                    "nombre": "fallback",
+                    "description": ""
+                },
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "vars",
+                    "description": ""
+                },
+                {
+                    "nombre": "raw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getint",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "getint(section, option, *, raw=False, vars=None[, fallback])\n",
+            "parametros": [
+                {
+                    "nombre": "section",
+                    "description": ""
+                },
+                {
+                    "nombre": "fallback",
+                    "description": ""
+                },
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "vars",
+                    "description": ""
+                },
+                {
+                    "nombre": "raw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "has_option",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "has_option(section, option)\n",
+            "parametros": [
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "section",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "has_section",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "has_section(section)\n",
+            "parametros": [
+                {
+                    "nombre": "section",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "items",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "items(raw=False, vars=None)\n",
+            "parametros": [
+                {
+                    "nombre": "raw",
+                    "description": ""
+                },
+                {
+                    "nombre": "vars",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "options",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "options(section)\n",
+            "parametros": [
+                {
+                    "nombre": "section",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "optionxform",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "optionxform(option)\nConfigParser.optionxform(option)\n",
+            "parametros": [
+                {
+                    "nombre": "option",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read(filenames, encoding=None)\n",
+            "parametros": [
+                {
+                    "nombre": "filenames",
+                    "description": ""
+                },
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readfp",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "readfp(fp, filename=None)\n",
+            "parametros": [
+                {
+                    "nombre": "fp",
+                    "description": ""
+                },
+                {
+                    "nombre": "filename",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read_dict",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read_dict(dictionary, source='<dict>')\n",
+            "parametros": [
+                {
+                    "nombre": "dictionary",
+                    "description": ""
+                },
+                {
+                    "nombre": "source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read_file",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read_file(f, source=None)\n",
+            "parametros": [
+                {
+                    "nombre": "source",
+                    "description": ""
+                },
+                {
+                    "nombre": "f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read_string",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read_string(string, source='<string>')\n",
+            "parametros": [
+                {
+                    "nombre": "string",
+                    "description": ""
+                },
+                {
+                    "nombre": "source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove_option",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "remove_option(section, option)\n",
+            "parametros": [
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "section",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove_section",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "remove_section(section)\n",
+            "parametros": [
+                {
+                    "nombre": "section",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sections",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "sections()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set(section, option, value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "section",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "write(fileobject, space_around_delimiters=True)\n",
+            "parametros": [
+                {
+                    "nombre": "fileobject",
+                    "description": ""
+                },
+                {
+                    "nombre": "space_around_delimiters",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ConfigParser",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class configparser.ConfigParser(defaults=None, dict_type=dict, allow_no_value=False, delimiters='=', ':', comment_prefixes='#', ';', inline_comment_prefixes=None, strict=True, empty_lines_in_values=True, default_section=configparser.DEFAULTSECT, interpolation=BasicInterpolation(), converters={})\n",
+            "parametros": [
+                {
+                    "nombre": "allow_no_value",
+                    "description": ""
+                },
+                {
+                    "nombre": "inline_comment_prefixes",
+                    "description": ""
+                },
+                {
+                    "nombre": "empty_lines_in_values",
+                    "description": ""
+                },
+                {
+                    "nombre": "interpolation",
+                    "description": ""
+                },
+                {
+                    "nombre": "default_section",
+                    "description": ""
+                },
+                {
+                    "nombre": "dict_type",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict",
+                    "description": ""
+                },
+                {
+                    "nombre": "defaults",
+                    "description": ""
+                },
+                {
+                    "nombre": "delimiters",
+                    "description": ""
+                },
+                {
+                    "nombre": "comment_prefixes",
+                    "description": ""
+                },
+                {
+                    "nombre": "converters",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

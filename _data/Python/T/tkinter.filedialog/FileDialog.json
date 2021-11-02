@@ -1,0 +1,203 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class FileDialog\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "cancel_command",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cancel_command(event=None)\n",
+            "parametros": [
+                {
+                    "nombre": "event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dirs_double_event",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "dirs_double_event(event)\n",
+            "parametros": [
+                {
+                    "nombre": "event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dirs_select_event",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "dirs_select_event(event)\n",
+            "parametros": [
+                {
+                    "nombre": "event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "files_double_event",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "files_double_event(event)\n",
+            "parametros": [
+                {
+                    "nombre": "event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "files_select_event",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "files_select_event(event)\n",
+            "parametros": [
+                {
+                    "nombre": "event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filter_command",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "filter_command(event=None)\n",
+            "parametros": [
+                {
+                    "nombre": "event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_filter",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_filter()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_selection",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_selection()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "go",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "go(dir_or_file=os.curdir, pattern='*', default='', key=None)\n",
+            "parametros": [
+                {
+                    "nombre": "key",
+                    "description": ""
+                },
+                {
+                    "nombre": "pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "default",
+                    "description": ""
+                },
+                {
+                    "nombre": "dir_or_file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ok_event",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ok_event(event)\n",
+            "parametros": [
+                {
+                    "nombre": "event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "quit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "quit(how=None)\n",
+            "parametros": [
+                {
+                    "nombre": "how",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_filter",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_filter(dir, pat)\n",
+            "parametros": [
+                {
+                    "nombre": "dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "pat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_selection",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_selection(file)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "FileDialog",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class tkinter.filedialog.FileDialog(master, title=None)\n",
+            "parametros": [
+                {
+                    "nombre": "title",
+                    "description": ""
+                },
+                {
+                    "nombre": "master",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

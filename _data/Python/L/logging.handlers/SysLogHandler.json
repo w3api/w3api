@@ -1,0 +1,83 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class SysLogHandler\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "emit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "emit(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "encodePriority",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "encodePriority(facility, priority)\n",
+            "parametros": [
+                {
+                    "nombre": "facility",
+                    "description": ""
+                },
+                {
+                    "nombre": "priority",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapPriority",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "mapPriority(levelname)\n",
+            "parametros": [
+                {
+                    "nombre": "levelname",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "SysLogHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class logging.handlers.SysLogHandler(address='localhost', SYSLOG_UDP_PORT, facility=LOG_USER, socktype=socket.SOCK_DGRAM)\n",
+            "parametros": [
+                {
+                    "nombre": "facility",
+                    "description": ""
+                },
+                {
+                    "nombre": "address",
+                    "description": ""
+                },
+                {
+                    "nombre": "socktype",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

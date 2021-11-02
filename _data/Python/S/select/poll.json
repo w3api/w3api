@@ -1,0 +1,70 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class poll\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "modify",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "poll.modify(fd, eventmask)\n",
+            "parametros": [
+                {
+                    "nombre": "eventmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "fd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "poll",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "poll.poll([timeout])\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "poll.register(fd[, eventmask])\n",
+            "parametros": [
+                {
+                    "nombre": "eventmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "fd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unregister",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "poll.unregister(fd)\n",
+            "parametros": [
+                {
+                    "nombre": "fd",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": []
+}

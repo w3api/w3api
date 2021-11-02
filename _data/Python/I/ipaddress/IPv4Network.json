@@ -1,0 +1,269 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class IPv4Network\n",
+    "atributos": [
+        {
+            "nombre": "broadcast_address",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "broadcast_address\n"
+        },
+        {
+            "nombre": "compressed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "compressed\n"
+        },
+        {
+            "nombre": "exploded",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "exploded\n"
+        },
+        {
+            "nombre": "hostmask",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "hostmask\n"
+        },
+        {
+            "nombre": "is_link_local",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_link_local\n"
+        },
+        {
+            "nombre": "is_loopback",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_loopback\n"
+        },
+        {
+            "nombre": "is_multicast",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_multicast\n"
+        },
+        {
+            "nombre": "is_private",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_private\n"
+        },
+        {
+            "nombre": "is_reserved",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_reserved\n"
+        },
+        {
+            "nombre": "is_unspecified",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_unspecified\n"
+        },
+        {
+            "nombre": "max_prefixlen",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "max_prefixlen\n"
+        },
+        {
+            "nombre": "netmask",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "netmask\n"
+        },
+        {
+            "nombre": "network_address",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "network_address\n"
+        },
+        {
+            "nombre": "num_addresses",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "num_addresses\n"
+        },
+        {
+            "nombre": "prefixlen",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "prefixlen\n"
+        },
+        {
+            "nombre": "version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "version\n"
+        },
+        {
+            "nombre": "with_hostmask",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "with_hostmask\n"
+        },
+        {
+            "nombre": "with_netmask",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "with_netmask\n"
+        },
+        {
+            "nombre": "with_prefixlen",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "with_prefixlen\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "address_exclude",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "address_exclude(network)\n",
+            "parametros": [
+                {
+                    "nombre": "network",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compare_networks",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "compare_networks(other)\n",
+            "parametros": [
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hosts",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "hosts()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "overlaps",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "overlaps(other)\n",
+            "parametros": [
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "subnets",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "subnets(prefixlen_diff=1, new_prefix=None)\n",
+            "parametros": [
+                {
+                    "nombre": "new_prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "prefixlen_diff",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "subnet_of",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "subnet_of(other)\n",
+            "parametros": [
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supernet",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "supernet(prefixlen_diff=1, new_prefix=None)\n",
+            "parametros": [
+                {
+                    "nombre": "new_prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "prefixlen_diff",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supernet_of",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "supernet_of(other)\n",
+            "parametros": [
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "IPv4Network",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class ipaddress.IPv4Network(address, strict=True)\n",
+            "parametros": [
+                {
+                    "nombre": "address",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

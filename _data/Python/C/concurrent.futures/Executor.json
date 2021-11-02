@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Executor\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "map",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "map(func, *iterables, timeout=None, chunksize=1)\n",
+            "parametros": [
+                {
+                    "nombre": "chunksize",
+                    "description": ""
+                },
+                {
+                    "nombre": "iterables",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shutdown",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shutdown(wait=True, *, cancel_futures=False)\n",
+            "parametros": [
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "wait",
+                    "description": ""
+                },
+                {
+                    "nombre": "cancel_futures",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "submit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "submit(fn, /, *args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "fn",
+                    "description": ""
+                },
+                {
+                    "nombre": "*args",
+                    "description": ""
+                },
+                {
+                    "nombre": "**kwargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "/",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Executor",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class concurrent.futures.Executor\n",
+            "parametros": []
+        }
+    ]
+}

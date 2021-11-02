@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class devpoll\n",
+    "atributos": [
+        {
+            "nombre": "closed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "devpoll.closed\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "devpoll.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fileno",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "devpoll.fileno()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "modify",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "devpoll.modify(fd[, eventmask])\n",
+            "parametros": [
+                {
+                    "nombre": "eventmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "fd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "poll",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "devpoll.poll([timeout])\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "devpoll.register(fd[, eventmask])\n",
+            "parametros": [
+                {
+                    "nombre": "eventmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "fd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unregister",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "devpoll.unregister(fd)\n",
+            "parametros": [
+                {
+                    "nombre": "fd",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": []
+}

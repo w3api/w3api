@@ -1,0 +1,66 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Parser\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "parse",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "parse(fp, headersonly=False)\n",
+            "parametros": [
+                {
+                    "nombre": "fp",
+                    "description": ""
+                },
+                {
+                    "nombre": "headersonly",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parsestr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "parsestr(text, headersonly=False)\n",
+            "parametros": [
+                {
+                    "nombre": "headersonly",
+                    "description": ""
+                },
+                {
+                    "nombre": "text",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Parser",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class email.parser.Parser(_class=None, *, policy=policy.compat32)\n",
+            "parametros": [
+                {
+                    "nombre": "policy",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "_class",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

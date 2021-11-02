@@ -1,0 +1,77 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class LexicalHandler\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "comment",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "LexicalHandler.comment(content)\n",
+            "parametros": [
+                {
+                    "nombre": "content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endCDATA",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "LexicalHandler.endCDATA()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "endDTD",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "LexicalHandler.endDTD()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "startCDATA",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "LexicalHandler.startCDATA()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "startDTD",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "LexicalHandler.startDTD(name, public_id, system_id)\n",
+            "parametros": [
+                {
+                    "nombre": "system_id",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "public_id",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "LexicalHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class xml.sax.handler.LexicalHandler\n",
+            "parametros": []
+        }
+    ]
+}

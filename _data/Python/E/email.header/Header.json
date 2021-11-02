@@ -1,0 +1,120 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Header\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "append",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "append(s, charset=None, errors='strict')\n",
+            "parametros": [
+                {
+                    "nombre": "charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "s",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "encode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "encode(splitchars=';, \\t', maxlinelen=None, linesep='\\n')\n",
+            "parametros": [
+                {
+                    "nombre": "splitchars",
+                    "description": ""
+                },
+                {
+                    "nombre": "linesep",
+                    "description": ""
+                },
+                {
+                    "nombre": "maxlinelen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__eq__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__eq__(other)\n",
+            "parametros": [
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__ne__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__ne__(other)\n",
+            "parametros": [
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__str__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__str__()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class email.header.Header(s=None, charset=None, maxlinelen=None, header_name=None, continuation_ws=' ', errors='strict')\n",
+            "parametros": [
+                {
+                    "nombre": "charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "maxlinelen",
+                    "description": ""
+                },
+                {
+                    "nombre": "header_name",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                },
+                {
+                    "nombre": "continuation_ws",
+                    "description": ""
+                },
+                {
+                    "nombre": "s",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

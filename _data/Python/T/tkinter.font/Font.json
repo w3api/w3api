@@ -1,0 +1,125 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Font\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "actual",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "actual(option=None, displayof=None)\n",
+            "parametros": [
+                {
+                    "nombre": "displayof",
+                    "description": ""
+                },
+                {
+                    "nombre": "option",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cget",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cget(option)\n",
+            "parametros": [
+                {
+                    "nombre": "option",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "config",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "config(**options)\n",
+            "parametros": [
+                {
+                    "nombre": "options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copy",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "copy()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "measure",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "measure(text, displayof=None)\n",
+            "parametros": [
+                {
+                    "nombre": "displayof",
+                    "description": ""
+                },
+                {
+                    "nombre": "text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "metrics",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "metrics(*options, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "kw",
+                    "description": ""
+                },
+                {
+                    "nombre": "options",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Font",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class tkinter.font.Font(root=None, font=None, name=None, exists=False, **options)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "root",
+                    "description": ""
+                },
+                {
+                    "nombre": "options",
+                    "description": ""
+                },
+                {
+                    "nombre": "font",
+                    "description": ""
+                },
+                {
+                    "nombre": "exists",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

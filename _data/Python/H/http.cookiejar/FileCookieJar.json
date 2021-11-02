@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class FileCookieJar\n",
+    "atributos": [
+        {
+            "nombre": "delayload",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FileCookieJar.delayload\n"
+        },
+        {
+            "nombre": "filename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FileCookieJar.filename\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "load",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FileCookieJar.load(filename=None, ignore_discard=False, ignore_expires=False)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "ignore_expires",
+                    "description": ""
+                },
+                {
+                    "nombre": "ignore_discard",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "revert",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FileCookieJar.revert(filename=None, ignore_discard=False, ignore_expires=False)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "ignore_expires",
+                    "description": ""
+                },
+                {
+                    "nombre": "ignore_discard",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "save",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FileCookieJar.save(filename=None, ignore_discard=False, ignore_expires=False)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "ignore_expires",
+                    "description": ""
+                },
+                {
+                    "nombre": "ignore_discard",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "FileCookieJar",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class http.cookiejar.FileCookieJar(filename, delayload=None, policy=None)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "delayload",
+                    "description": ""
+                },
+                {
+                    "nombre": "policy",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

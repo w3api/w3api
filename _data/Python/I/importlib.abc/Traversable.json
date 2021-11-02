@@ -1,0 +1,119 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Traversable\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "is_dir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod is_dir()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_file",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod is_file()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "iterdir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod iterdir()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "joinpath",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod joinpath(child)\n",
+            "parametros": [
+                {
+                    "nombre": "child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod name()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod open(mode='r', *args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read_bytes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read_bytes()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read_text",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read_text(encoding=None)\n",
+            "parametros": [
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__truediv__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod __truediv__(child)\n",
+            "parametros": [
+                {
+                    "nombre": "child",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Traversable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class importlib.abc.Traversable\n",
+            "parametros": []
+        }
+    ]
+}

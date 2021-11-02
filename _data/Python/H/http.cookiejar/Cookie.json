@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Cookie\n",
+    "atributos": [
+        {
+            "nombre": "comment",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.comment\n"
+        },
+        {
+            "nombre": "comment_url",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.comment_url\n"
+        },
+        {
+            "nombre": "discard",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.discard\n"
+        },
+        {
+            "nombre": "domain_initial_dot",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.domain_initial_dot\n"
+        },
+        {
+            "nombre": "domain_specified",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.domain_specified\n"
+        },
+        {
+            "nombre": "expires",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.expires\n"
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.name\n"
+        },
+        {
+            "nombre": "path",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.path\n"
+        },
+        {
+            "nombre": "port",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.port\n"
+        },
+        {
+            "nombre": "port_specified",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.port_specified\n"
+        },
+        {
+            "nombre": "rfc2109",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.rfc2109\n"
+        },
+        {
+            "nombre": "secure",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.secure\n"
+        },
+        {
+            "nombre": "value",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.value\n"
+        },
+        {
+            "nombre": "version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.version\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "get_nonstandard_attr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.get_nonstandard_attr(name, default=None)\n",
+            "parametros": [
+                {
+                    "nombre": "default",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "has_nonstandard_attr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.has_nonstandard_attr(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_expired",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.is_expired(now=None)\n",
+            "parametros": [
+                {
+                    "nombre": "now",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_nonstandard_attr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Cookie.set_nonstandard_attr(name, value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Cookie",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class http.cookiejar.Cookie\n",
+            "parametros": []
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class SSLContext\n",
+    "atributos": [
+        {
+            "nombre": "check_hostname",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.check_hostname\n"
+        },
+        {
+            "nombre": "hostname_checks_common_name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.hostname_checks_common_name\n"
+        },
+        {
+            "nombre": "keylog_filename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.keylog_filename\n"
+        },
+        {
+            "nombre": "maximum_version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.maximum_version\n"
+        },
+        {
+            "nombre": "minimum_version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.minimum_version\n"
+        },
+        {
+            "nombre": "num_tickets",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.num_tickets\n"
+        },
+        {
+            "nombre": "options",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.options\n"
+        },
+        {
+            "nombre": "post_handshake_auth",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.post_handshake_auth\n"
+        },
+        {
+            "nombre": "protocol",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.protocol\n"
+        },
+        {
+            "nombre": "security_level",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.security_level\n"
+        },
+        {
+            "nombre": "set_servername_callback",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.set_servername_callback(server_name_callback)\n"
+        },
+        {
+            "nombre": "sni_callback",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.sni_callback\n"
+        },
+        {
+            "nombre": "sslobject_class",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.sslobject_class\n"
+        },
+        {
+            "nombre": "sslsocket_class",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.sslsocket_class\n"
+        },
+        {
+            "nombre": "verify_flags",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.verify_flags\n"
+        },
+        {
+            "nombre": "verify_mode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.verify_mode\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cert_store_stats",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.cert_store_stats()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_ca_certs",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.get_ca_certs(binary_form=False)\n",
+            "parametros": [
+                {
+                    "nombre": "binary_form",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_ciphers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.get_ciphers()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "load_cert_chain",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.load_cert_chain(certfile, keyfile=None, password=None)\n",
+            "parametros": [
+                {
+                    "nombre": "certfile",
+                    "description": ""
+                },
+                {
+                    "nombre": "keyfile",
+                    "description": ""
+                },
+                {
+                    "nombre": "password",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load_default_certs",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.load_default_certs(purpose=Purpose.SERVER_AUTH)\n",
+            "parametros": [
+                {
+                    "nombre": "purpose",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load_dh_params",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.load_dh_params(dhfile)\n",
+            "parametros": [
+                {
+                    "nombre": "dhfile",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load_verify_locations",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.load_verify_locations(cafile=None, capath=None, cadata=None)\n",
+            "parametros": [
+                {
+                    "nombre": "cadata",
+                    "description": ""
+                },
+                {
+                    "nombre": "capath",
+                    "description": ""
+                },
+                {
+                    "nombre": "cafile",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "session_stats",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.session_stats()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "set_alpn_protocols",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.set_alpn_protocols(protocols)\n",
+            "parametros": [
+                {
+                    "nombre": "protocols",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_ciphers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.set_ciphers(ciphers)\n",
+            "parametros": [
+                {
+                    "nombre": "ciphers",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_default_verify_paths",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.set_default_verify_paths()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "set_ecdh_curve",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.set_ecdh_curve(curve_name)\n",
+            "parametros": [
+                {
+                    "nombre": "curve_name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_npn_protocols",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.set_npn_protocols(protocols)\n",
+            "parametros": [
+                {
+                    "nombre": "protocols",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wrap_bio",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.wrap_bio(incoming, outgoing, server_side=False, server_hostname=None, session=None)\n",
+            "parametros": [
+                {
+                    "nombre": "incoming",
+                    "description": ""
+                },
+                {
+                    "nombre": "server_hostname",
+                    "description": ""
+                },
+                {
+                    "nombre": "outgoing",
+                    "description": ""
+                },
+                {
+                    "nombre": "server_side",
+                    "description": ""
+                },
+                {
+                    "nombre": "session",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wrap_socket",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLContext.wrap_socket(sock, server_side=False, do_handshake_on_connect=True, suppress_ragged_eofs=True, server_hostname=None, session=None)\n",
+            "parametros": [
+                {
+                    "nombre": "server_hostname",
+                    "description": ""
+                },
+                {
+                    "nombre": "do_handshake_on_connect",
+                    "description": ""
+                },
+                {
+                    "nombre": "suppress_ragged_eofs",
+                    "description": ""
+                },
+                {
+                    "nombre": "sock",
+                    "description": ""
+                },
+                {
+                    "nombre": "server_side",
+                    "description": ""
+                },
+                {
+                    "nombre": "session",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "SSLContext",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class ssl.SSLContext(protocol=None)\n",
+            "parametros": [
+                {
+                    "nombre": "protocol",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Maildir\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add(message)\n",
+            "parametros": [
+                {
+                    "nombre": "message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_folder",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_folder(folder)\n",
+            "parametros": [
+                {
+                    "nombre": "folder",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clean",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "clean()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "flush",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "flush()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_file",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_file(key)\n",
+            "parametros": [
+                {
+                    "nombre": "key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_folder",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_folder(folder)\n",
+            "parametros": [
+                {
+                    "nombre": "folder",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "list_folders",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "list_folders()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "lock",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "lock()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "remove_folder",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "remove_folder(folder)\n",
+            "parametros": [
+                {
+                    "nombre": "folder",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Maildir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class mailbox.Maildir(dirname, factory=None, create=True)\n",
+            "parametros": [
+                {
+                    "nombre": "factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "dirname",
+                    "description": ""
+                },
+                {
+                    "nombre": "create",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

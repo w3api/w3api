@@ -1,0 +1,81 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class SMTPServer\n",
+    "atributos": [
+        {
+            "nombre": "channel_class",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "channel_class\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "process_message",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "process_message(peer, mailfrom, rcpttos, data, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "mailfrom",
+                    "description": ""
+                },
+                {
+                    "nombre": "rcpttos",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "peer",
+                    "description": ""
+                },
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "SMTPServer",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class smtpd.SMTPServer(localaddr, remoteaddr, data_size_limit=33554432, map=None, enable_SMTPUTF8=False, decode_data=False)\n",
+            "parametros": [
+                {
+                    "nombre": "map",
+                    "description": ""
+                },
+                {
+                    "nombre": "localaddr",
+                    "description": ""
+                },
+                {
+                    "nombre": "data_size_limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "decode_data",
+                    "description": ""
+                },
+                {
+                    "nombre": "remoteaddr",
+                    "description": ""
+                },
+                {
+                    "nombre": "enable_SMTPUTF8",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

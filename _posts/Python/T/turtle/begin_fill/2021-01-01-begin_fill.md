@@ -1,0 +1,31 @@
+---
+title: turtle.begin_fill
+permalink: /Python/turtle/begin_fill/
+date: 2021-01-01
+key: Python.T.turtle.begin_fill
+category: python
+tags: ['funcion python', 'turtle']
+sidebar: 
+  nav: python
+---
+
+## Descripción
+{{site.data.Python.T.turtle.begin_fill.description }}
+
+## Sintaxis
+~~~python
+{{ site.data.Python.T.turtle.begin_fill.sintaxis }}~~~
+
+## Ejemplo
+~~~python
+{{ site.data.Python.T.turtle.begin_fill.code}}
+~~~
+
+## Artículos
+<ul>
+{%- for _ldc in site.data.Python.T.turtle.begin_fill.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

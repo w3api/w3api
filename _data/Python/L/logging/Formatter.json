@@ -1,0 +1,100 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Formatter\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "format",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "format(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "formatException",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "formatException(exc_info)\n",
+            "parametros": [
+                {
+                    "nombre": "exc_info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "formatStack",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "formatStack(stack_info)\n",
+            "parametros": [
+                {
+                    "nombre": "stack_info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "formatTime",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "formatTime(record, datefmt=None)\n",
+            "parametros": [
+                {
+                    "nombre": "datefmt",
+                    "description": ""
+                },
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Formatter",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class logging.Formatter(fmt=None, datefmt=None, style='%', validate=True, *, defaults=None)\n",
+            "parametros": [
+                {
+                    "nombre": "style",
+                    "description": ""
+                },
+                {
+                    "nombre": "datefmt",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "defaults",
+                    "description": ""
+                },
+                {
+                    "nombre": "validate",
+                    "description": ""
+                },
+                {
+                    "nombre": "fmt",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

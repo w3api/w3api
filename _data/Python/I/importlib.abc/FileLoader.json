@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class FileLoader\n",
+    "atributos": [
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "name\n"
+        },
+        {
+            "nombre": "path",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "path\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "get_data",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod get_data(path)\n",
+            "parametros": [
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_filename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod get_filename(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load_module",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "load_module(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "FileLoader",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class importlib.abc.FileLoader(fullname, path)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

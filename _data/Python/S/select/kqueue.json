@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class kqueue\n",
+    "atributos": [
+        {
+            "nombre": "closed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "kqueue.closed\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "kqueue.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "control",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "kqueue.control(changelist, max_events[, timeout]) \u2192 eventlist\n",
+            "parametros": [
+                {
+                    "nombre": "max_events",
+                    "description": ""
+                },
+                {
+                    "nombre": "changelist",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fileno",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "kqueue.fileno()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fromfd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "kqueue.fromfd(fd)\n",
+            "parametros": [
+                {
+                    "nombre": "fd",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": []
+}

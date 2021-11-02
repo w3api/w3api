@@ -1,0 +1,256 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Pool\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "apply",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "apply(func[, args[, kwds]])\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "apply_async",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "apply_async(func[, args[, kwds[, callback[, error_callback]]]])\n",
+            "parametros": [
+                {
+                    "nombre": "error_callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwds",
+                    "description": ""
+                },
+                {
+                    "nombre": "callback",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "imap",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "imap(func, iterable[, chunksize])\n",
+            "parametros": [
+                {
+                    "nombre": "chunksize",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "iterable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "imap_unordered",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "imap_unordered(func, iterable[, chunksize])\n",
+            "parametros": [
+                {
+                    "nombre": "chunksize",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "iterable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "join",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "join()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "map",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "map(func, iterable[, chunksize])\n",
+            "parametros": [
+                {
+                    "nombre": "chunksize",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "iterable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "map_async",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "map_async(func, iterable[, chunksize[, callback[, error_callback]]])\n",
+            "parametros": [
+                {
+                    "nombre": "error_callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "chunksize",
+                    "description": ""
+                },
+                {
+                    "nombre": "callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "iterable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "starmap",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "starmap(func, iterable[, chunksize])\n",
+            "parametros": [
+                {
+                    "nombre": "chunksize",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "iterable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "starmap_async",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "starmap_async(func, iterable[, chunksize[, callback[, error_callback]]])\n",
+            "parametros": [
+                {
+                    "nombre": "error_callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "chunksize",
+                    "description": ""
+                },
+                {
+                    "nombre": "callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "iterable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "terminate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "terminate()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Pool",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class multiprocessing.pool.Pool([processes[, initializer[, initargs[, maxtasksperchild[, context]]]]])\n",
+            "parametros": [
+                {
+                    "nombre": "initializer",
+                    "description": ""
+                },
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "initargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "maxtasksperchild",
+                    "description": ""
+                },
+                {
+                    "nombre": "processes",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,449 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class FTP\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "abort",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.abort()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.connect(host='', port=0, timeout=None, source_address=None)\n",
+            "parametros": [
+                {
+                    "nombre": "port",
+                    "description": ""
+                },
+                {
+                    "nombre": "source_address",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cwd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.cwd(pathname)\n",
+            "parametros": [
+                {
+                    "nombre": "pathname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "delete",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.delete(filename)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.dir(argument[, ...])\n",
+            "parametros": [
+                {
+                    "nombre": "...",
+                    "description": ""
+                },
+                {
+                    "nombre": "argument",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getwelcome",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.getwelcome()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "login",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.login(user='anonymous', passwd='', acct='')\n",
+            "parametros": [
+                {
+                    "nombre": "user",
+                    "description": ""
+                },
+                {
+                    "nombre": "passwd",
+                    "description": ""
+                },
+                {
+                    "nombre": "acct",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mkd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.mkd(pathname)\n",
+            "parametros": [
+                {
+                    "nombre": "pathname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mlsd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.mlsd(path='', facts=[])\n",
+            "parametros": [
+                {
+                    "nombre": "facts",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nlst",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.nlst(argument[, ...])\n",
+            "parametros": [
+                {
+                    "nombre": "...",
+                    "description": ""
+                },
+                {
+                    "nombre": "argument",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ntransfercmd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.ntransfercmd(cmd, rest=None)\n",
+            "parametros": [
+                {
+                    "nombre": "rest",
+                    "description": ""
+                },
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pwd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.pwd()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "quit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.quit()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "rename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.rename(fromname, toname)\n",
+            "parametros": [
+                {
+                    "nombre": "toname",
+                    "description": ""
+                },
+                {
+                    "nombre": "fromname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "retrbinary",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.retrbinary(cmd, callback, blocksize=8192, rest=None)\n",
+            "parametros": [
+                {
+                    "nombre": "rest",
+                    "description": ""
+                },
+                {
+                    "nombre": "blocksize",
+                    "description": ""
+                },
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                },
+                {
+                    "nombre": "callback",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "retrlines",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.retrlines(cmd, callback=None)\n",
+            "parametros": [
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                },
+                {
+                    "nombre": "callback",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rmd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.rmd(dirname)\n",
+            "parametros": [
+                {
+                    "nombre": "dirname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendcmd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.sendcmd(cmd)\n",
+            "parametros": [
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_debuglevel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.set_debuglevel(level)\n",
+            "parametros": [
+                {
+                    "nombre": "level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_pasv",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.set_pasv(val)\n",
+            "parametros": [
+                {
+                    "nombre": "val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.size(filename)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "storbinary",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.storbinary(cmd, fp, blocksize=8192, callback=None, rest=None)\n",
+            "parametros": [
+                {
+                    "nombre": "rest",
+                    "description": ""
+                },
+                {
+                    "nombre": "fp",
+                    "description": ""
+                },
+                {
+                    "nombre": "callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "blocksize",
+                    "description": ""
+                },
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "storlines",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.storlines(cmd, fp, callback=None)\n",
+            "parametros": [
+                {
+                    "nombre": "fp",
+                    "description": ""
+                },
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                },
+                {
+                    "nombre": "callback",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transfercmd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.transfercmd(cmd, rest=None)\n",
+            "parametros": [
+                {
+                    "nombre": "rest",
+                    "description": ""
+                },
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "voidcmd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "FTP.voidcmd(cmd)\n",
+            "parametros": [
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "FTP",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class ftplib.FTP(host='', user='', passwd='', acct='', timeout=None, source_address=None, *, encoding='utf-8')\n",
+            "parametros": [
+                {
+                    "nombre": "passwd",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                },
+                {
+                    "nombre": "acct",
+                    "description": ""
+                },
+                {
+                    "nombre": "source_address",
+                    "description": ""
+                },
+                {
+                    "nombre": "user",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

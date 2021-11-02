@@ -1,0 +1,43 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class lock\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "acquire",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "lock.acquire(waitflag=1, timeout=- 1)\n",
+            "parametros": [
+                {
+                    "nombre": "waitflag",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "locked",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "lock.locked()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "release",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "lock.release()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": []
+}

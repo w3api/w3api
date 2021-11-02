@@ -1,0 +1,181 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class ZipInfo\n",
+    "atributos": [
+        {
+            "nombre": "comment",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.comment\n"
+        },
+        {
+            "nombre": "compress_size",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.compress_size\n"
+        },
+        {
+            "nombre": "compress_type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.compress_type\n"
+        },
+        {
+            "nombre": "CRC",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.CRC\n"
+        },
+        {
+            "nombre": "create_system",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.create_system\n"
+        },
+        {
+            "nombre": "create_version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.create_version\n"
+        },
+        {
+            "nombre": "date_time",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.date_time\n"
+        },
+        {
+            "nombre": "external_attr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.external_attr\n"
+        },
+        {
+            "nombre": "extra",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.extra\n"
+        },
+        {
+            "nombre": "extract_version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.extract_version\n"
+        },
+        {
+            "nombre": "filename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.filename\n"
+        },
+        {
+            "nombre": "file_size",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.file_size\n"
+        },
+        {
+            "nombre": "flag_bits",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.flag_bits\n"
+        },
+        {
+            "nombre": "header_offset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.header_offset\n"
+        },
+        {
+            "nombre": "internal_attr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.internal_attr\n"
+        },
+        {
+            "nombre": "reserved",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.reserved\n"
+        },
+        {
+            "nombre": "volume",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.volume\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "from_file",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod ZipInfo.from_file(filename, arcname=None, *, strict_timestamps=True)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "arcname",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict_timestamps",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_dir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipInfo.is_dir()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ZipInfo",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class zipfile.ZipInfo(filename='NoName', date_time=1980, 1, 1, 0, 0, 0)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "date_time",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

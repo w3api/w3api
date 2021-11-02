@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class zipimporter\n",
+    "atributos": [
+        {
+            "nombre": "archive",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "archive\n"
+        },
+        {
+            "nombre": "prefix",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "prefix\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "create_module",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "create_module(spec)\n",
+            "parametros": [
+                {
+                    "nombre": "spec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exec_module",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "exec_module(module)\n",
+            "parametros": [
+                {
+                    "nombre": "module",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "find_loader",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "find_loader(fullname, path=None)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "find_module",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "find_module(fullname, path=None)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "find_spec",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "find_spec(fullname, target=None)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                },
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_code",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_code(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_data",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_data(pathname)\n",
+            "parametros": [
+                {
+                    "nombre": "pathname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_filename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_filename(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_source",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_source(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invalidate_caches",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "invalidate_caches()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_package",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_package(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load_module",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "load_module(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "zipimporter",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class zipimport.zipimporter(archivepath)\n",
+            "parametros": [
+                {
+                    "nombre": "archivepath",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

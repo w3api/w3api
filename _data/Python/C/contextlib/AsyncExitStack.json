@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class AsyncExitStack\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "aclose",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "coroutine aclose()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "enter_async_context",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "coroutine enter_async_context(cm)\n",
+            "parametros": [
+                {
+                    "nombre": "cm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "push_async_callback",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "push_async_callback(callback, /, *args, **kwds)\n",
+            "parametros": [
+                {
+                    "nombre": "**kwds",
+                    "description": ""
+                },
+                {
+                    "nombre": "*args",
+                    "description": ""
+                },
+                {
+                    "nombre": "callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "/",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "push_async_exit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "push_async_exit(exit)\n",
+            "parametros": [
+                {
+                    "nombre": "exit",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "AsyncExitStack",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class contextlib.AsyncExitStack\n",
+            "parametros": []
+        }
+    ]
+}

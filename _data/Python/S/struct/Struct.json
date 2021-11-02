@@ -1,0 +1,132 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Struct\n",
+    "atributos": [
+        {
+            "nombre": "format",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "format\n"
+        },
+        {
+            "nombre": "size",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "size\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "iter_unpack",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "iter_unpack(buffer)\n",
+            "parametros": [
+                {
+                    "nombre": "buffer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pack",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "pack(v1, v2, ...)\n",
+            "parametros": [
+                {
+                    "nombre": "v2",
+                    "description": ""
+                },
+                {
+                    "nombre": "v1",
+                    "description": ""
+                },
+                {
+                    "nombre": "...",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pack_into",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "pack_into(buffer, offset, v1, v2, ...)\n",
+            "parametros": [
+                {
+                    "nombre": "v2",
+                    "description": ""
+                },
+                {
+                    "nombre": "...",
+                    "description": ""
+                },
+                {
+                    "nombre": "offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "v1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unpack",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "unpack(buffer)\n",
+            "parametros": [
+                {
+                    "nombre": "buffer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unpack_from",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "unpack_from(buffer, offset=0)\n",
+            "parametros": [
+                {
+                    "nombre": "buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "offset",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Struct",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class struct.Struct(format)\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

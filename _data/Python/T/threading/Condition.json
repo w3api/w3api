@@ -1,0 +1,96 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Condition\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "acquire",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "acquire(*args)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "notify",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "notify(n=1)\n",
+            "parametros": [
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "notify_all",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "notify_all()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "release",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "release()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "wait",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "wait(timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wait_for",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "wait_for(predicate, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "predicate",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Condition",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class threading.Condition(lock=None)\n",
+            "parametros": [
+                {
+                    "nombre": "lock",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class TreeBuilder\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "comment",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "comment(text)\n",
+            "parametros": [
+                {
+                    "nombre": "text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "data",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "data(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doctype",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "doctype(name, pubid, system)\n",
+            "parametros": [
+                {
+                    "nombre": "pubid",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "system",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "end",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "end(tag)\n",
+            "parametros": [
+                {
+                    "nombre": "tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "end_ns",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "end_ns(prefix)\n",
+            "parametros": [
+                {
+                    "nombre": "prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pi",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "pi(target, text)\n",
+            "parametros": [
+                {
+                    "nombre": "text",
+                    "description": ""
+                },
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "start(tag, attrs)\n",
+            "parametros": [
+                {
+                    "nombre": "attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start_ns",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "start_ns(prefix, uri)\n",
+            "parametros": [
+                {
+                    "nombre": "uri",
+                    "description": ""
+                },
+                {
+                    "nombre": "prefix",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "TreeBuilder",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class xml.etree.ElementTree.TreeBuilder(element_factory=None, *, comment_factory=None, pi_factory=None, insert_comments=False, insert_pis=False)\n",
+            "parametros": [
+                {
+                    "nombre": "element_factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "pi_factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "comment_factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "insert_comments",
+                    "description": ""
+                },
+                {
+                    "nombre": "insert_pis",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

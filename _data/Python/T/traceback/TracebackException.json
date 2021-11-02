@@ -1,0 +1,177 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class TracebackException\n",
+    "atributos": [
+        {
+            "nombre": "exc_type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "exc_type\n"
+        },
+        {
+            "nombre": "filename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "filename\n"
+        },
+        {
+            "nombre": "lineno",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "lineno\n"
+        },
+        {
+            "nombre": "msg",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "msg\n"
+        },
+        {
+            "nombre": "offset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "offset\n"
+        },
+        {
+            "nombre": "stack",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "stack\n"
+        },
+        {
+            "nombre": "text",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "text\n"
+        },
+        {
+            "nombre": "__cause__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__cause__\n"
+        },
+        {
+            "nombre": "__context__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__context__\n"
+        },
+        {
+            "nombre": "__suppress_context__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__suppress_context__\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "format",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "format(*, chain=True)\n",
+            "parametros": [
+                {
+                    "nombre": "chain",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format_exception_only",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "format_exception_only()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "from_exception",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod from_exception(exc, *, limit=None, lookup_lines=True, capture_locals=False)\n",
+            "parametros": [
+                {
+                    "nombre": "capture_locals",
+                    "description": ""
+                },
+                {
+                    "nombre": "lookup_lines",
+                    "description": ""
+                },
+                {
+                    "nombre": "limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "exc",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "TracebackException",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class traceback.TracebackException(exc_type, exc_value, exc_traceback, *, limit=None, lookup_lines=True, capture_locals=False, compact=False)\n",
+            "parametros": [
+                {
+                    "nombre": "capture_locals",
+                    "description": ""
+                },
+                {
+                    "nombre": "lookup_lines",
+                    "description": ""
+                },
+                {
+                    "nombre": "limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "exc_type",
+                    "description": ""
+                },
+                {
+                    "nombre": "exc_value",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "compact",
+                    "description": ""
+                },
+                {
+                    "nombre": "exc_traceback",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

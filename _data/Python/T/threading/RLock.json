@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class RLock\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "acquire",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "acquire(blocking=True, timeout=- 1)\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "blocking",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "release",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "release()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "RLock",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class threading.RLock\n",
+            "parametros": []
+        }
+    ]
+}

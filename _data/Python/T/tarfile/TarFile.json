@@ -1,0 +1,289 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class TarFile\n",
+    "atributos": [
+        {
+            "nombre": "pax_headers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.pax_headers\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.add(name, arcname=None, recursive=True, *, filter=None)\n",
+            "parametros": [
+                {
+                    "nombre": "filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "arcname",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "recursive",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addfile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.addfile(tarinfo, fileobj=None)\n",
+            "parametros": [
+                {
+                    "nombre": "fileobj",
+                    "description": ""
+                },
+                {
+                    "nombre": "tarinfo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "extract",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.extract(member, path='', set_attrs=True, *, numeric_owner=False)\n",
+            "parametros": [
+                {
+                    "nombre": "set_attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                },
+                {
+                    "nombre": "numeric_owner",
+                    "description": ""
+                },
+                {
+                    "nombre": "member",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "extractall",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.extractall(path='.', members=None, *, numeric_owner=False)\n",
+            "parametros": [
+                {
+                    "nombre": "members",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "numeric_owner",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "extractfile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.extractfile(member)\n",
+            "parametros": [
+                {
+                    "nombre": "member",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getmember",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.getmember(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getmembers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.getmembers()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getnames",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.getnames()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "gettarinfo",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.gettarinfo(name=None, arcname=None, fileobj=None)\n",
+            "parametros": [
+                {
+                    "nombre": "arcname",
+                    "description": ""
+                },
+                {
+                    "nombre": "fileobj",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "list",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.list(verbose=True, *, members=None)\n",
+            "parametros": [
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "members",
+                    "description": ""
+                },
+                {
+                    "nombre": "verbose",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "next",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarFile.next()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod TarFile.open(...)\n",
+            "parametros": [
+                {
+                    "nombre": "...",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "TarFile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class tarfile.TarFile(name=None, mode='r', fileobj=None, format=DEFAULT_FORMAT, tarinfo=TarInfo, dereference=False, ignore_zeros=False, encoding=ENCODING, errors='surrogateescape', pax_headers=None, debug=0, errorlevel=0)\nclass tarfile.TarFile\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "pax_headers",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                },
+                {
+                    "nombre": "tarinfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "ignore_zeros",
+                    "description": ""
+                },
+                {
+                    "nombre": "mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "debug",
+                    "description": ""
+                },
+                {
+                    "nombre": "dereference",
+                    "description": ""
+                },
+                {
+                    "nombre": "format",
+                    "description": ""
+                },
+                {
+                    "nombre": "fileobj",
+                    "description": ""
+                },
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "errorlevel",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

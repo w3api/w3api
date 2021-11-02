@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class ContextVar\n",
+    "atributos": [
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "name\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "get",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get([default])\n",
+            "parametros": [
+                {
+                    "nombre": "default",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "reset(token)\n",
+            "parametros": [
+                {
+                    "nombre": "token",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set(value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ContextVar",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class contextvars.ContextVar(name[, *, default])\n",
+            "parametros": [
+                {
+                    "nombre": "default",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

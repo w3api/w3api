@@ -1,0 +1,377 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Logger\n",
+    "atributos": [
+        {
+            "nombre": "propagate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "propagate\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addFilter",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "addFilter(filter)\n",
+            "parametros": [
+                {
+                    "nombre": "filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "addHandler(hdlr)\n",
+            "parametros": [
+                {
+                    "nombre": "hdlr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "critical",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "critical(msg, *args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "debug",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "debug(msg, *args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "error",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "error(msg, *args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exception",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "exception(msg, *args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "filter(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findCaller",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "findCaller(stack_info=False, stacklevel=1)\n",
+            "parametros": [
+                {
+                    "nombre": "stacklevel",
+                    "description": ""
+                },
+                {
+                    "nombre": "stack_info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChild",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "getChild(suffix)\n",
+            "parametros": [
+                {
+                    "nombre": "suffix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEffectiveLevel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "getEffectiveLevel()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasHandlers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "hasHandlers()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "info",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "info(msg, *args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEnabledFor",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "isEnabledFor(level)\n",
+            "parametros": [
+                {
+                    "nombre": "level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "log",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "log(level, msg, *args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "level",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "makeRecord",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "makeRecord(name, level, fn, lno, msg, args, exc_info, func=None, extra=None, sinfo=None)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "level",
+                    "description": ""
+                },
+                {
+                    "nombre": "exc_info",
+                    "description": ""
+                },
+                {
+                    "nombre": "fn",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "lno",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra",
+                    "description": ""
+                },
+                {
+                    "nombre": "sinfo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeFilter",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "removeFilter(filter)\n",
+            "parametros": [
+                {
+                    "nombre": "filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "removeHandler(hdlr)\n",
+            "parametros": [
+                {
+                    "nombre": "hdlr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLevel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "setLevel(level)\n",
+            "parametros": [
+                {
+                    "nombre": "level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "warning",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "warning(msg, *args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Logger",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class logging.Logger\n",
+            "parametros": []
+        }
+    ]
+}

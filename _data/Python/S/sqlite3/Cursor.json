@@ -1,0 +1,169 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Cursor\n",
+    "atributos": [
+        {
+            "nombre": "arraysize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "arraysize\n"
+        },
+        {
+            "nombre": "connection",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "connection\n"
+        },
+        {
+            "nombre": "description",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "description\n"
+        },
+        {
+            "nombre": "lastrowid",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "lastrowid\n"
+        },
+        {
+            "nombre": "rowcount",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "rowcount\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "execute",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "execute(sql[, parameters])\n",
+            "parametros": [
+                {
+                    "nombre": "parameters",
+                    "description": ""
+                },
+                {
+                    "nombre": "sql",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "executemany",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "executemany(sql, seq_of_parameters)\n",
+            "parametros": [
+                {
+                    "nombre": "seq_of_parameters",
+                    "description": ""
+                },
+                {
+                    "nombre": "sql",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "executescript",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "executescript(sql_script)\n",
+            "parametros": [
+                {
+                    "nombre": "sql_script",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fetchall",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "fetchall()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fetchmany",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "fetchmany(size=cursor.arraysize)\n",
+            "parametros": [
+                {
+                    "nombre": "size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fetchone",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "fetchone()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "setinputsizes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "setinputsizes(sizes)\n",
+            "parametros": [
+                {
+                    "nombre": "sizes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setoutputsize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "setoutputsize(size[, column])\n",
+            "parametros": [
+                {
+                    "nombre": "size",
+                    "description": ""
+                },
+                {
+                    "nombre": "column",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Cursor",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class sqlite3.Cursor\n",
+            "parametros": []
+        }
+    ]
+}

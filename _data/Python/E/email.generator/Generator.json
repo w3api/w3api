@@ -1,0 +1,87 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Generator\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "clone(fp)\n",
+            "parametros": [
+                {
+                    "nombre": "fp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flatten",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "flatten(msg, unixfrom=False, linesep=None)\n",
+            "parametros": [
+                {
+                    "nombre": "unixfrom",
+                    "description": ""
+                },
+                {
+                    "nombre": "linesep",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "write(s)\n",
+            "parametros": [
+                {
+                    "nombre": "s",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Generator",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class email.generator.Generator(outfp, mangle_from_=None, maxheaderlen=None, *, policy=None)\n",
+            "parametros": [
+                {
+                    "nombre": "outfp",
+                    "description": ""
+                },
+                {
+                    "nombre": "policy",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "mangle_from_",
+                    "description": ""
+                },
+                {
+                    "nombre": "maxheaderlen",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

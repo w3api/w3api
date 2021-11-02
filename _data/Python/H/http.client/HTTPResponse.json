@@ -1,0 +1,176 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class HTTPResponse\n",
+    "atributos": [
+        {
+            "nombre": "closed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.closed\n"
+        },
+        {
+            "nombre": "debuglevel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.debuglevel\n"
+        },
+        {
+            "nombre": "headers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.headers\n"
+        },
+        {
+            "nombre": "msg",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.msg\n"
+        },
+        {
+            "nombre": "reason",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.reason\n"
+        },
+        {
+            "nombre": "status",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.status\n"
+        },
+        {
+            "nombre": "url",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.url\n"
+        },
+        {
+            "nombre": "version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.version\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "fileno",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.fileno()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getheader",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.getheader(name, default=None)\n",
+            "parametros": [
+                {
+                    "nombre": "default",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getheaders",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.getheaders()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getstatus",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.getstatus()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "geturl",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.geturl()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "info",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.info()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.read([amt])\n",
+            "parametros": [
+                {
+                    "nombre": "amt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readinto",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPResponse.readinto(b)\n",
+            "parametros": [
+                {
+                    "nombre": "b",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "HTTPResponse",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class http.client.HTTPResponse(sock, debuglevel=0, method=None, url=None)\n",
+            "parametros": [
+                {
+                    "nombre": "debuglevel",
+                    "description": ""
+                },
+                {
+                    "nombre": "url",
+                    "description": ""
+                },
+                {
+                    "nombre": "sock",
+                    "description": ""
+                },
+                {
+                    "nombre": "method",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

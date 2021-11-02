@@ -1,0 +1,74 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class SMTPHandler\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "emit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "emit(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSubject",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "getSubject(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "SMTPHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class logging.handlers.SMTPHandler(mailhost, fromaddr, toaddrs, subject, credentials=None, secure=None, timeout=1.0)\n",
+            "parametros": [
+                {
+                    "nombre": "credentials",
+                    "description": ""
+                },
+                {
+                    "nombre": "secure",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "mailhost",
+                    "description": ""
+                },
+                {
+                    "nombre": "toaddrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "fromaddr",
+                    "description": ""
+                },
+                {
+                    "nombre": "subject",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class BytecodeTestCase\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "assertInBytecode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BytecodeTestCase.assertInBytecode(x, opname, argval=_UNSPECIFIED)\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "opname",
+                    "description": ""
+                },
+                {
+                    "nombre": "argval",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertNotInBytecode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BytecodeTestCase.assertNotInBytecode(x, opname, argval=_UNSPECIFIED)\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                },
+                {
+                    "nombre": "opname",
+                    "description": ""
+                },
+                {
+                    "nombre": "argval",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_disassembly_as_string",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BytecodeTestCase.get_disassembly_as_string(co)\n",
+            "parametros": [
+                {
+                    "nombre": "co",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "BytecodeTestCase",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class test.support.bytecode_helper.BytecodeTestCase(unittest.TestCase)\n",
+            "parametros": [
+                {
+                    "nombre": "unittest.TestCase",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class HeaderRegistry\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "map_to_type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "map_to_type(self, name, cls)\n",
+            "parametros": [
+                {
+                    "nombre": "cls",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__call__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__call__(name, value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__getitem__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__getitem__(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "HeaderRegistry",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class email.headerregistry.HeaderRegistry(base_class=BaseHeader, default_class=UnstructuredHeader, use_default_map=True)\n",
+            "parametros": [
+                {
+                    "nombre": "default_class",
+                    "description": ""
+                },
+                {
+                    "nombre": "base_class",
+                    "description": ""
+                },
+                {
+                    "nombre": "use_default_map",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

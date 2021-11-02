@@ -1,0 +1,31 @@
+---
+title: ssl.OP_NO_RENEGOTIATION
+permalink: /Python/ssl/OP_NO_RENEGOTIATION/
+date: 2021-01-01
+key: Python.S.ssl.OP_NO_RENEGOTIATION
+category: python
+tags: ['constante python', 'ssl']
+sidebar: 
+  nav: python
+---
+
+## Descripción
+{{site.data.Python.S.ssl.OP_NO_RENEGOTIATION.description }}
+
+## Sintaxis
+~~~python
+{{ site.data.Python.S.ssl.OP_NO_RENEGOTIATION.sintaxis }}~~~
+
+## Ejemplo
+~~~python
+{{ site.data.Python.S.ssl.OP_NO_RENEGOTIATION.code}}
+~~~
+
+## Artículos
+<ul>
+{%- for _ldc in site.data.Python.S.ssl.OP_NO_RENEGOTIATION.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

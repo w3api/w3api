@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class SourceFileLoader\n",
+    "atributos": [
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "name\n"
+        },
+        {
+            "nombre": "path",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "path\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "is_package",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_package(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load_module",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "load_module(name=None)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "path_stats",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "path_stats(path)\n",
+            "parametros": [
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_data",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_data(path, data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "SourceFileLoader",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class importlib.machinery.SourceFileLoader(fullname, path)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class BufferingHandler\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "emit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "emit(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flush",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "flush()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "shouldFlush",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shouldFlush(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "BufferingHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class logging.handlers.BufferingHandler(capacity)\n",
+            "parametros": [
+                {
+                    "nombre": "capacity",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

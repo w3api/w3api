@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class SourcelessFileLoader\n",
+    "atributos": [
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "name\n"
+        },
+        {
+            "nombre": "path",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "path\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "get_code",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_code(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_source",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_source(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_package",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_package(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load_module",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "load_module(name=None)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "SourcelessFileLoader",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class importlib.machinery.SourcelessFileLoader(fullname, path)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

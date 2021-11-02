@@ -1,0 +1,145 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Profile\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "create_stats",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "create_stats()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "disable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "disable()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "dump_stats",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "dump_stats(filename)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "enable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "enable()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "print_stats",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "print_stats(sort=- 1)\n",
+            "parametros": [
+                {
+                    "nombre": "sort",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "run",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "run(cmd)\n",
+            "parametros": [
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runcall",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "runcall(func, /, *args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "*args",
+                    "description": ""
+                },
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "**kwargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "/",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runctx",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "runctx(cmd, globals, locals)\n",
+            "parametros": [
+                {
+                    "nombre": "locals",
+                    "description": ""
+                },
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                },
+                {
+                    "nombre": "globals",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Profile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class profile.Profile(timer=None, timeunit=0.0, subcalls=True, builtins=True)\n",
+            "parametros": [
+                {
+                    "nombre": "timer",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeunit",
+                    "description": ""
+                },
+                {
+                    "nombre": "subcalls",
+                    "description": ""
+                },
+                {
+                    "nombre": "builtins",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

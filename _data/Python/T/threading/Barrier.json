@@ -1,0 +1,83 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Barrier\n",
+    "atributos": [
+        {
+            "nombre": "broken",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "broken\n"
+        },
+        {
+            "nombre": "n_waiting",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "n_waiting\n"
+        },
+        {
+            "nombre": "parties",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "parties\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "abort",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abort()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "reset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "reset()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "wait",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "wait(timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Barrier",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class threading.Barrier(parties, action=None, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "action",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "parties",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

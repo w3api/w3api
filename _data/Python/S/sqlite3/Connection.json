@@ -1,0 +1,324 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Connection\n",
+    "atributos": [
+        {
+            "nombre": "in_transaction",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "in_transaction\n"
+        },
+        {
+            "nombre": "isolation_level",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "isolation_level\n"
+        },
+        {
+            "nombre": "row_factory",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "row_factory\n"
+        },
+        {
+            "nombre": "text_factory",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "text_factory\n"
+        },
+        {
+            "nombre": "total_changes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "total_changes\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "backup",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "backup(target, *, pages=- 1, progress=None, name='main', sleep=0.25)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "progress",
+                    "description": ""
+                },
+                {
+                    "nombre": "pages",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "target",
+                    "description": ""
+                },
+                {
+                    "nombre": "sleep",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "commit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "commit()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "create_aggregate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "create_aggregate(name, num_params, aggregate_class)\n",
+            "parametros": [
+                {
+                    "nombre": "aggregate_class",
+                    "description": ""
+                },
+                {
+                    "nombre": "num_params",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_collation",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "create_collation(name, callable)\n",
+            "parametros": [
+                {
+                    "nombre": "callable",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_function",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "create_function(name, num_params, func, *, deterministic=False)\n",
+            "parametros": [
+                {
+                    "nombre": "func",
+                    "description": ""
+                },
+                {
+                    "nombre": "num_params",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "deterministic",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cursor",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cursor(factory=Cursor)\n",
+            "parametros": [
+                {
+                    "nombre": "factory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "enable_load_extension",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "enable_load_extension(enabled)\n",
+            "parametros": [
+                {
+                    "nombre": "enabled",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "execute",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "execute(sql[, parameters])\n",
+            "parametros": [
+                {
+                    "nombre": "parameters",
+                    "description": ""
+                },
+                {
+                    "nombre": "sql",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "executemany",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "executemany(sql[, parameters])\n",
+            "parametros": [
+                {
+                    "nombre": "parameters",
+                    "description": ""
+                },
+                {
+                    "nombre": "sql",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "executescript",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "executescript(sql_script)\n",
+            "parametros": [
+                {
+                    "nombre": "sql_script",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "interrupt",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "interrupt()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "iterdump",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "iterdump()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "load_extension",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "load_extension(path)\n",
+            "parametros": [
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rollback",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "rollback()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "set_authorizer",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_authorizer(authorizer_callback)\n",
+            "parametros": [
+                {
+                    "nombre": "authorizer_callback",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_progress_handler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_progress_handler(handler, n)\n",
+            "parametros": [
+                {
+                    "nombre": "handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_trace_callback",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_trace_callback(trace_callback)\n",
+            "parametros": [
+                {
+                    "nombre": "trace_callback",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Connection",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class sqlite3.Connection\n",
+            "parametros": []
+        }
+    ]
+}

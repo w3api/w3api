@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Style\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "configure",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "configure(style, query_opt=None, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "kw",
+                    "description": ""
+                },
+                {
+                    "nombre": "query_opt",
+                    "description": ""
+                },
+                {
+                    "nombre": "style",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "element_create",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "element_create(elementname, etype, *args, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "elementname",
+                    "description": ""
+                },
+                {
+                    "nombre": "etype",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "element_names",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "element_names()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "element_options",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "element_options(elementname)\n",
+            "parametros": [
+                {
+                    "nombre": "elementname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layout",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "layout(style, layoutspec=None)\n",
+            "parametros": [
+                {
+                    "nombre": "layoutspec",
+                    "description": ""
+                },
+                {
+                    "nombre": "style",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lookup",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "lookup(style, option, state=None, default=None)\n",
+            "parametros": [
+                {
+                    "nombre": "default",
+                    "description": ""
+                },
+                {
+                    "nombre": "option",
+                    "description": ""
+                },
+                {
+                    "nombre": "style",
+                    "description": ""
+                },
+                {
+                    "nombre": "state",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "map",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "map(style, query_opt=None, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "kw",
+                    "description": ""
+                },
+                {
+                    "nombre": "query_opt",
+                    "description": ""
+                },
+                {
+                    "nombre": "style",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "theme_create",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "theme_create(themename, parent=None, settings=None)\n",
+            "parametros": [
+                {
+                    "nombre": "themename",
+                    "description": ""
+                },
+                {
+                    "nombre": "settings",
+                    "description": ""
+                },
+                {
+                    "nombre": "parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "theme_names",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "theme_names()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "theme_settings",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "theme_settings(themename, settings)\n",
+            "parametros": [
+                {
+                    "nombre": "themename",
+                    "description": ""
+                },
+                {
+                    "nombre": "settings",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "theme_use",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "theme_use(themename=None)\n",
+            "parametros": [
+                {
+                    "nombre": "themename",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Style",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class tkinter.ttk.Style\n",
+            "parametros": []
+        }
+    ]
+}

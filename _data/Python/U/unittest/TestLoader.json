@@ -1,0 +1,153 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class TestLoader\n",
+    "atributos": [
+        {
+            "nombre": "errors",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "errors\n"
+        },
+        {
+            "nombre": "sortTestMethodsUsing",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "sortTestMethodsUsing\n"
+        },
+        {
+            "nombre": "suiteClass",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "suiteClass\n"
+        },
+        {
+            "nombre": "testMethodPrefix",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "testMethodPrefix\n"
+        },
+        {
+            "nombre": "testNamePatterns",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "testNamePatterns\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "discover",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "discover(start_dir, pattern='test*.py', top_level_dir=None)\n",
+            "parametros": [
+                {
+                    "nombre": "pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "start_dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "top_level_dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTestCaseNames",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "getTestCaseNames(testCaseClass)\n",
+            "parametros": [
+                {
+                    "nombre": "testCaseClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadTestsFromModule",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "loadTestsFromModule(module, pattern=None)\n",
+            "parametros": [
+                {
+                    "nombre": "module",
+                    "description": ""
+                },
+                {
+                    "nombre": "pattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadTestsFromName",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "loadTestsFromName(name, module=None)\n",
+            "parametros": [
+                {
+                    "nombre": "module",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadTestsFromNames",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "loadTestsFromNames(names, module=None)\n",
+            "parametros": [
+                {
+                    "nombre": "module",
+                    "description": ""
+                },
+                {
+                    "nombre": "names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadTestsFromTestCase",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "loadTestsFromTestCase(testCaseClass)\n",
+            "parametros": [
+                {
+                    "nombre": "testCaseClass",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "TestLoader",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class unittest.TestLoader\n",
+            "parametros": []
+        }
+    ]
+}

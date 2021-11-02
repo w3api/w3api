@@ -1,0 +1,111 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class epoll\n",
+    "atributos": [
+        {
+            "nombre": "closed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "epoll.closed\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "epoll.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fileno",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "epoll.fileno()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fromfd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "epoll.fromfd(fd)\n",
+            "parametros": [
+                {
+                    "nombre": "fd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modify",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "epoll.modify(fd, eventmask)\n",
+            "parametros": [
+                {
+                    "nombre": "eventmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "fd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "poll",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "epoll.poll(timeout=None, maxevents=- 1)\n",
+            "parametros": [
+                {
+                    "nombre": "maxevents",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "epoll.register(fd[, eventmask])\n",
+            "parametros": [
+                {
+                    "nombre": "eventmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "fd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unregister",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "epoll.unregister(fd)\n",
+            "parametros": [
+                {
+                    "nombre": "fd",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": []
+}

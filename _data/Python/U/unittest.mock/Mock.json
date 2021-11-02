@@ -1,0 +1,297 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Mock\n",
+    "atributos": [
+        {
+            "nombre": "called",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "called\n"
+        },
+        {
+            "nombre": "call_args",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "call_args\n"
+        },
+        {
+            "nombre": "call_args_list",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "call_args_list\n"
+        },
+        {
+            "nombre": "call_count",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "call_count\n"
+        },
+        {
+            "nombre": "method_calls",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "method_calls\n"
+        },
+        {
+            "nombre": "mock_calls",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "mock_calls\n"
+        },
+        {
+            "nombre": "return_value",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "return_value\n"
+        },
+        {
+            "nombre": "side_effect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "side_effect\n"
+        },
+        {
+            "nombre": "__class__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__class__\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "assert_any_call",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_any_call(*args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assert_called",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_called()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "assert_called_once",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_called_once()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "assert_called_once_with",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_called_once_with(*args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assert_called_with",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_called_with(*args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assert_has_calls",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_has_calls(calls, any_order=False)\n",
+            "parametros": [
+                {
+                    "nombre": "calls",
+                    "description": ""
+                },
+                {
+                    "nombre": "any_order",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assert_not_called",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assert_not_called()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "attach_mock",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "attach_mock(mock, attribute)\n",
+            "parametros": [
+                {
+                    "nombre": "mock",
+                    "description": ""
+                },
+                {
+                    "nombre": "attribute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "configure_mock",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "configure_mock(**kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mock_add_spec",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "mock_add_spec(spec, spec_set=False)\n",
+            "parametros": [
+                {
+                    "nombre": "spec_set",
+                    "description": ""
+                },
+                {
+                    "nombre": "spec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset_mock",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "reset_mock(*, return_value=False, side_effect=False)\n",
+            "parametros": [
+                {
+                    "nombre": "side_effect",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "return_value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "_get_child_mock",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "_get_child_mock(**kw)\n",
+            "parametros": [
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__dir__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__dir__()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Mock",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class unittest.mock.Mock(spec=None, side_effect=None, return_value=DEFAULT, wraps=None, name=None, spec_set=None, unsafe=False, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "spec_set",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "side_effect",
+                    "description": ""
+                },
+                {
+                    "nombre": "wraps",
+                    "description": ""
+                },
+                {
+                    "nombre": "unsafe",
+                    "description": ""
+                },
+                {
+                    "nombre": "spec",
+                    "description": ""
+                },
+                {
+                    "nombre": "return_value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Snapshot\n",
+    "atributos": [
+        {
+            "nombre": "traceback_limit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "traceback_limit\n"
+        },
+        {
+            "nombre": "traces",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "traces\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "compare_to",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "compare_to(old_snapshot: Snapshot, key_type: str, cumulative: bool = False)\n",
+            "parametros": [
+                {
+                    "nombre": "cumulative",
+                    "description": ""
+                },
+                {
+                    "nombre": "key_type",
+                    "description": ""
+                },
+                {
+                    "nombre": "old_snapshot",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dump",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "dump(filename)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filter_traces",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "filter_traces(filters)\n",
+            "parametros": [
+                {
+                    "nombre": "filters",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod load(filename)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "statistics",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "statistics(key_type: str, cumulative: bool = False)\n",
+            "parametros": [
+                {
+                    "nombre": "cumulative",
+                    "description": ""
+                },
+                {
+                    "nombre": "key_type",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Snapshot",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class tracemalloc.Snapshot\n",
+            "parametros": []
+        }
+    ]
+}

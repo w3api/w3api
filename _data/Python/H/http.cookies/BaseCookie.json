@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class BaseCookie\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "js_output",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BaseCookie.js_output(attrs=None)\n",
+            "parametros": [
+                {
+                    "nombre": "attrs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BaseCookie.load(rawdata)\n",
+            "parametros": [
+                {
+                    "nombre": "rawdata",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "output",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BaseCookie.output(attrs=None, header='Set-Cookie:', sep='\\r\\n')\n",
+            "parametros": [
+                {
+                    "nombre": "attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "sep",
+                    "description": ""
+                },
+                {
+                    "nombre": "header",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "value_decode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BaseCookie.value_decode(val)\n",
+            "parametros": [
+                {
+                    "nombre": "val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "value_encode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BaseCookie.value_encode(val)\n",
+            "parametros": [
+                {
+                    "nombre": "val",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "BaseCookie",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class http.cookies.BaseCookie([input])\n",
+            "parametros": [
+                {
+                    "nombre": "input",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

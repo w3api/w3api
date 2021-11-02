@@ -1,0 +1,127 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Directory\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "add_file",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_file(file, src=None, version=None, language=None)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "language",
+                    "description": ""
+                },
+                {
+                    "nombre": "version",
+                    "description": ""
+                },
+                {
+                    "nombre": "src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "glob",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "glob(pattern, exclude=None)\n",
+            "parametros": [
+                {
+                    "nombre": "pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "exclude",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove_pyc",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "remove_pyc()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "start_component",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "start_component(component=None, feature=None, flags=None, keyfile=None, uuid=None)\n",
+            "parametros": [
+                {
+                    "nombre": "keyfile",
+                    "description": ""
+                },
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "feature",
+                    "description": ""
+                },
+                {
+                    "nombre": "uuid",
+                    "description": ""
+                },
+                {
+                    "nombre": "component",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Directory",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class msilib.Directory(database, cab, basedir, physical, logical, default[, componentflags])\n",
+            "parametros": [
+                {
+                    "nombre": "cab",
+                    "description": ""
+                },
+                {
+                    "nombre": "logical",
+                    "description": ""
+                },
+                {
+                    "nombre": "basedir",
+                    "description": ""
+                },
+                {
+                    "nombre": "componentflags",
+                    "description": ""
+                },
+                {
+                    "nombre": "default",
+                    "description": ""
+                },
+                {
+                    "nombre": "database",
+                    "description": ""
+                },
+                {
+                    "nombre": "physical",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

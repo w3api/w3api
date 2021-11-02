@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Policy\n",
+    "atributos": [
+        {
+            "nombre": "cte_type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cte_type\n"
+        },
+        {
+            "nombre": "linesep",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "linesep\n"
+        },
+        {
+            "nombre": "mangle_from_",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "mangle_from_\n"
+        },
+        {
+            "nombre": "max_line_length",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "max_line_length\n"
+        },
+        {
+            "nombre": "message_factory",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "message_factory\n"
+        },
+        {
+            "nombre": "raise_on_defect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "raise_on_defect\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "clone(**kw)\n",
+            "parametros": [
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fold",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "fold(name, value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fold_binary",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "fold_binary(name, value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle_defect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_defect(obj, defect)\n",
+            "parametros": [
+                {
+                    "nombre": "obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "defect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "header_fetch_parse",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "header_fetch_parse(name, value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "header_max_count",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "header_max_count(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "header_source_parse",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "header_source_parse(sourcelines)\n",
+            "parametros": [
+                {
+                    "nombre": "sourcelines",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "header_store_parse",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "header_store_parse(name, value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register_defect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "register_defect(obj, defect)\n",
+            "parametros": [
+                {
+                    "nombre": "obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "defect",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Policy",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class email.policy.Policy(**kw)\n",
+            "parametros": [
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

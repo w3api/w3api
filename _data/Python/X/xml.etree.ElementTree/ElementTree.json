@@ -1,0 +1,188 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class ElementTree\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "find",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "find(match, namespaces=None)\n",
+            "parametros": [
+                {
+                    "nombre": "namespaces",
+                    "description": ""
+                },
+                {
+                    "nombre": "match",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findall",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "findall(match, namespaces=None)\n",
+            "parametros": [
+                {
+                    "nombre": "namespaces",
+                    "description": ""
+                },
+                {
+                    "nombre": "match",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findtext",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "findtext(match, default=None, namespaces=None)\n",
+            "parametros": [
+                {
+                    "nombre": "namespaces",
+                    "description": ""
+                },
+                {
+                    "nombre": "default",
+                    "description": ""
+                },
+                {
+                    "nombre": "match",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getroot",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "getroot()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "iter",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "iter(tag=None)\n",
+            "parametros": [
+                {
+                    "nombre": "tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "iterfind",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "iterfind(match, namespaces=None)\n",
+            "parametros": [
+                {
+                    "nombre": "namespaces",
+                    "description": ""
+                },
+                {
+                    "nombre": "match",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "parse(source, parser=None)\n",
+            "parametros": [
+                {
+                    "nombre": "source",
+                    "description": ""
+                },
+                {
+                    "nombre": "parser",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "write(file, encoding='us-ascii', xml_declaration=None, default_namespace=None, method='xml', *, short_empty_elements=True)\n",
+            "parametros": [
+                {
+                    "nombre": "short_empty_elements",
+                    "description": ""
+                },
+                {
+                    "nombre": "default_namespace",
+                    "description": ""
+                },
+                {
+                    "nombre": "xml_declaration",
+                    "description": ""
+                },
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "method",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "_setroot",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "_setroot(element)\n",
+            "parametros": [
+                {
+                    "nombre": "element",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ElementTree",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class xml.etree.ElementTree.ElementTree(element=None, file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "element",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

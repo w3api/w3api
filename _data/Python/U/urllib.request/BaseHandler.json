@@ -1,0 +1,103 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class BaseHandler\n",
+    "atributos": [
+        {
+            "nombre": "parent",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BaseHandler.parent\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add_parent",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BaseHandler.add_parent(director)\n",
+            "parametros": [
+                {
+                    "nombre": "director",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BaseHandler.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "default_open",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BaseHandler.default_open(req)\n",
+            "parametros": [
+                {
+                    "nombre": "req",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "http_error_default",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BaseHandler.http_error_default(req, fp, code, msg, hdrs)\n",
+            "parametros": [
+                {
+                    "nombre": "fp",
+                    "description": ""
+                },
+                {
+                    "nombre": "code",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "req",
+                    "description": ""
+                },
+                {
+                    "nombre": "hdrs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unknown_open",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "BaseHandler.unknown_open(req)\n",
+            "parametros": [
+                {
+                    "nombre": "req",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "BaseHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class urllib.request.BaseHandler\n",
+            "parametros": []
+        }
+    ]
+}

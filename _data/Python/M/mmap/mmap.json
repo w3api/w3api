@@ -1,0 +1,266 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class mmap\n",
+    "atributos": [
+        {
+            "nombre": "closed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "closed\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "find",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "find(sub[, start[, end]])\n",
+            "parametros": [
+                {
+                    "nombre": "sub",
+                    "description": ""
+                },
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flush",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "flush([offset[, size]])\n",
+            "parametros": [
+                {
+                    "nombre": "size",
+                    "description": ""
+                },
+                {
+                    "nombre": "offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "madvise",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "madvise(option[, start[, length]])\n",
+            "parametros": [
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "length",
+                    "description": ""
+                },
+                {
+                    "nombre": "option",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "move",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "move(dest, src, count)\n",
+            "parametros": [
+                {
+                    "nombre": "count",
+                    "description": ""
+                },
+                {
+                    "nombre": "dest",
+                    "description": ""
+                },
+                {
+                    "nombre": "src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read([n])\n",
+            "parametros": [
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readline",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "readline()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read_byte",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read_byte()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "resize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "resize(newsize)\n",
+            "parametros": [
+                {
+                    "nombre": "newsize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rfind",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "rfind(sub[, start[, end]])\n",
+            "parametros": [
+                {
+                    "nombre": "sub",
+                    "description": ""
+                },
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "seek",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "seek(pos[, whence])\n",
+            "parametros": [
+                {
+                    "nombre": "whence",
+                    "description": ""
+                },
+                {
+                    "nombre": "pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "size()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "tell",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "tell()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "write(bytes)\n",
+            "parametros": [
+                {
+                    "nombre": "bytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_byte",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "write_byte(byte)\n",
+            "parametros": [
+                {
+                    "nombre": "byte",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "mmap",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class mmap.mmap(fileno, length, flags=MAP_SHARED, prot=PROT_WRITE|PROT_READ, access=ACCESS_DEFAULT[, offset])\nclass mmap.mmap(fileno, length, tagname=None, access=ACCESS_DEFAULT[, offset])\n",
+            "parametros": [
+                {
+                    "nombre": "length",
+                    "description": ""
+                },
+                {
+                    "nombre": "tagname",
+                    "description": ""
+                },
+                {
+                    "nombre": "access",
+                    "description": ""
+                },
+                {
+                    "nombre": "prot",
+                    "description": ""
+                },
+                {
+                    "nombre": "flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "fileno",
+                    "description": ""
+                },
+                {
+                    "nombre": "offset",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

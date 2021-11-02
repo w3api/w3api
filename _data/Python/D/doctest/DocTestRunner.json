@@ -1,0 +1,166 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class DocTestRunner\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "report_failure",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "report_failure(out, test, example, got)\n",
+            "parametros": [
+                {
+                    "nombre": "out",
+                    "description": ""
+                },
+                {
+                    "nombre": "got",
+                    "description": ""
+                },
+                {
+                    "nombre": "example",
+                    "description": ""
+                },
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "report_start",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "report_start(out, test, example)\n",
+            "parametros": [
+                {
+                    "nombre": "out",
+                    "description": ""
+                },
+                {
+                    "nombre": "example",
+                    "description": ""
+                },
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "report_success",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "report_success(out, test, example, got)\n",
+            "parametros": [
+                {
+                    "nombre": "out",
+                    "description": ""
+                },
+                {
+                    "nombre": "got",
+                    "description": ""
+                },
+                {
+                    "nombre": "example",
+                    "description": ""
+                },
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "report_unexpected_exception",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "report_unexpected_exception(out, test, example, exc_info)\n",
+            "parametros": [
+                {
+                    "nombre": "out",
+                    "description": ""
+                },
+                {
+                    "nombre": "exc_info",
+                    "description": ""
+                },
+                {
+                    "nombre": "example",
+                    "description": ""
+                },
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "run",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "run(test, compileflags=None, out=None, clear_globs=True)\n",
+            "parametros": [
+                {
+                    "nombre": "out",
+                    "description": ""
+                },
+                {
+                    "nombre": "clear_globs",
+                    "description": ""
+                },
+                {
+                    "nombre": "compileflags",
+                    "description": ""
+                },
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "summarize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "summarize(verbose=None)\n",
+            "parametros": [
+                {
+                    "nombre": "verbose",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "DocTestRunner",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class doctest.DocTestRunner(checker=None, verbose=None, optionflags=0)\n",
+            "parametros": [
+                {
+                    "nombre": "checker",
+                    "description": ""
+                },
+                {
+                    "nombre": "optionflags",
+                    "description": ""
+                },
+                {
+                    "nombre": "verbose",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

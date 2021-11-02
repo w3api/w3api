@@ -1,0 +1,216 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class BaseHandler\n",
+    "atributos": [
+        {
+            "nombre": "error_body",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "error_body\n"
+        },
+        {
+            "nombre": "error_headers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "error_headers\n"
+        },
+        {
+            "nombre": "error_status",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "error_status\n"
+        },
+        {
+            "nombre": "http_version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "http_version\n"
+        },
+        {
+            "nombre": "origin_server",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "origin_server\n"
+        },
+        {
+            "nombre": "os_environ",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "os_environ\n"
+        },
+        {
+            "nombre": "server_software",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "server_software\n"
+        },
+        {
+            "nombre": "traceback_limit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "traceback_limit\n"
+        },
+        {
+            "nombre": "wsgi_file_wrapper",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "wsgi_file_wrapper\n"
+        },
+        {
+            "nombre": "wsgi_multiprocess",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "wsgi_multiprocess\n"
+        },
+        {
+            "nombre": "wsgi_multithread",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "wsgi_multithread\n"
+        },
+        {
+            "nombre": "wsgi_run_once",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "wsgi_run_once\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add_cgi_vars",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_cgi_vars()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "error_output",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "error_output(environ, start_response)\n",
+            "parametros": [
+                {
+                    "nombre": "start_response",
+                    "description": ""
+                },
+                {
+                    "nombre": "environ",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_scheme",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_scheme()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_stderr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_stderr()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_stdin",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_stdin()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "log_exception",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "log_exception(exc_info)\n",
+            "parametros": [
+                {
+                    "nombre": "exc_info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "run",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "run(app)\n",
+            "parametros": [
+                {
+                    "nombre": "app",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendfile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "sendfile()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "setup_environ",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "setup_environ()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "_flush",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "_flush()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "_write",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "_write(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "BaseHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class wsgiref.handlers.BaseHandler\n",
+            "parametros": []
+        }
+    ]
+}

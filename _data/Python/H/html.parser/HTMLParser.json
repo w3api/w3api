@@ -1,0 +1,211 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class HTMLParser\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "feed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.feed(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getpos",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.getpos()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_starttag_text",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.get_starttag_text()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle_charref",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.handle_charref(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle_comment",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.handle_comment(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle_data",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.handle_data(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle_decl",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.handle_decl(decl)\n",
+            "parametros": [
+                {
+                    "nombre": "decl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle_endtag",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.handle_endtag(tag)\n",
+            "parametros": [
+                {
+                    "nombre": "tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle_entityref",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.handle_entityref(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle_pi",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.handle_pi(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle_startendtag",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.handle_startendtag(tag, attrs)\n",
+            "parametros": [
+                {
+                    "nombre": "attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle_starttag",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.handle_starttag(tag, attrs)\n",
+            "parametros": [
+                {
+                    "nombre": "attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.reset()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "unknown_decl",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTMLParser.unknown_decl(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "HTMLParser",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class html.parser.HTMLParser(*, convert_charrefs=True)\n",
+            "parametros": [
+                {
+                    "nombre": "convert_charrefs",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

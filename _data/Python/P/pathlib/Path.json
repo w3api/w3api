@@ -1,0 +1,483 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Path\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "chmod",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.chmod(mode, *, follow_symlinks=True)\n",
+            "parametros": [
+                {
+                    "nombre": "follow_symlinks",
+                    "description": ""
+                },
+                {
+                    "nombre": "mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cwd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod Path.cwd()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "exists",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.exists()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "expanduser",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.expanduser()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "glob",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.glob(pattern)\n",
+            "parametros": [
+                {
+                    "nombre": "pattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "group",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.group()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "hardlink_to",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.hardlink_to(target)\n",
+            "parametros": [
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "home",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod Path.home()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_block_device",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.is_block_device()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_char_device",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.is_char_device()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_dir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.is_dir()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_fifo",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.is_fifo()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_file",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.is_file()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_mount",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.is_mount()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_socket",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.is_socket()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_symlink",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.is_symlink()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "iterdir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.iterdir()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "lchmod",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.lchmod(mode)\n",
+            "parametros": [
+                {
+                    "nombre": "mode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "link_to",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.link_to(target)\n",
+            "parametros": [
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lstat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.lstat()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "mkdir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.mkdir(mode=511, parents=False, exist_ok=False)\n",
+            "parametros": [
+                {
+                    "nombre": "mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "parents",
+                    "description": ""
+                },
+                {
+                    "nombre": "exist_ok",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.open(mode='r', buffering=- 1, encoding=None, errors=None, newline=None)\n",
+            "parametros": [
+                {
+                    "nombre": "newline",
+                    "description": ""
+                },
+                {
+                    "nombre": "buffering",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                },
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "mode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "owner",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.owner()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "readlink",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.readlink()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read_bytes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.read_bytes()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read_text",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.read_text(encoding=None, errors=None)\n",
+            "parametros": [
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.rename(target)\n",
+            "parametros": [
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.replace(target)\n",
+            "parametros": [
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolve",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.resolve(strict=False)\n",
+            "parametros": [
+                {
+                    "nombre": "strict",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rglob",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.rglob(pattern)\n",
+            "parametros": [
+                {
+                    "nombre": "pattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rmdir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.rmdir()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "samefile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.samefile(other_path)\n",
+            "parametros": [
+                {
+                    "nombre": "other_path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.stat(*, follow_symlinks=True)\n",
+            "parametros": [
+                {
+                    "nombre": "follow_symlinks",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "symlink_to",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.symlink_to(target, target_is_directory=False)\n",
+            "parametros": [
+                {
+                    "nombre": "target_is_directory",
+                    "description": ""
+                },
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "touch",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.touch(mode=438, exist_ok=True)\n",
+            "parametros": [
+                {
+                    "nombre": "mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "exist_ok",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unlink",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.unlink(missing_ok=False)\n",
+            "parametros": [
+                {
+                    "nombre": "missing_ok",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_bytes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.write_bytes(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_text",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.write_text(data, encoding=None, errors=None, newline=None)\n",
+            "parametros": [
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "data",
+                    "description": ""
+                },
+                {
+                    "nombre": "newline",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Path",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class pathlib.Path(*pathsegments)\n",
+            "parametros": [
+                {
+                    "nombre": "pathsegments",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

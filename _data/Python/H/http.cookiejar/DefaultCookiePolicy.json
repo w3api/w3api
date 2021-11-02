@@ -1,0 +1,225 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class DefaultCookiePolicy\n",
+    "atributos": [
+        {
+            "nombre": "DomainLiberal",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.DomainLiberal\n"
+        },
+        {
+            "nombre": "DomainRFC2965Match",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.DomainRFC2965Match\n"
+        },
+        {
+            "nombre": "DomainStrict",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.DomainStrict\n"
+        },
+        {
+            "nombre": "DomainStrictNoDots",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.DomainStrictNoDots\n"
+        },
+        {
+            "nombre": "DomainStrictNonDomain",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.DomainStrictNonDomain\n"
+        },
+        {
+            "nombre": "rfc2109_as_netscape",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.rfc2109_as_netscape\n"
+        },
+        {
+            "nombre": "strict_domain",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.strict_domain\n"
+        },
+        {
+            "nombre": "strict_ns_domain",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.strict_ns_domain\n"
+        },
+        {
+            "nombre": "strict_ns_set_initial_dollar",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.strict_ns_set_initial_dollar\n"
+        },
+        {
+            "nombre": "strict_ns_set_path",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.strict_ns_set_path\n"
+        },
+        {
+            "nombre": "strict_ns_unverifiable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.strict_ns_unverifiable\n"
+        },
+        {
+            "nombre": "strict_rfc2965_unverifiable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.strict_rfc2965_unverifiable\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "allowed_domains",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.allowed_domains()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "blocked_domains",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.blocked_domains()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_blocked",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.is_blocked(domain)\n",
+            "parametros": [
+                {
+                    "nombre": "domain",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_not_allowed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.is_not_allowed(domain)\n",
+            "parametros": [
+                {
+                    "nombre": "domain",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_allowed_domains",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.set_allowed_domains(allowed_domains)\n",
+            "parametros": [
+                {
+                    "nombre": "allowed_domains",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_blocked_domains",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DefaultCookiePolicy.set_blocked_domains(blocked_domains)\n",
+            "parametros": [
+                {
+                    "nombre": "blocked_domains",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "DefaultCookiePolicy",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class http.cookiejar.DefaultCookiePolicy(blocked_domains=None, allowed_domains=None, netscape=True, rfc2965=False, rfc2109_as_netscape=None, hide_cookie2=False, strict_domain=False, strict_rfc2965_unverifiable=True, strict_ns_unverifiable=False, strict_ns_domain=DefaultCookiePolicy.DomainLiberal, strict_ns_set_initial_dollar=False, strict_ns_set_path=False, secure_protocols='https', 'wss')\n",
+            "parametros": [
+                {
+                    "nombre": "allowed_domains",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict_ns_unverifiable",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict_ns_domain",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict_ns_set_initial_dollar",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict_ns_set_path",
+                    "description": ""
+                },
+                {
+                    "nombre": "rfc2109_as_netscape",
+                    "description": ""
+                },
+                {
+                    "nombre": "rfc2965",
+                    "description": ""
+                },
+                {
+                    "nombre": "secure_protocols",
+                    "description": ""
+                },
+                {
+                    "nombre": "netscape",
+                    "description": ""
+                },
+                {
+                    "nombre": "blocked_domains",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict_rfc2965_unverifiable",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict_domain",
+                    "description": ""
+                },
+                {
+                    "nombre": "hide_cookie2",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

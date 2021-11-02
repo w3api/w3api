@@ -1,0 +1,219 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Request\n",
+    "atributos": [
+        {
+            "nombre": "data",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.data\n"
+        },
+        {
+            "nombre": "full_url",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.full_url\n"
+        },
+        {
+            "nombre": "host",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.host\n"
+        },
+        {
+            "nombre": "method",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.method\n"
+        },
+        {
+            "nombre": "origin_req_host",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.origin_req_host\n"
+        },
+        {
+            "nombre": "selector",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.selector\n"
+        },
+        {
+            "nombre": "type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.type\n"
+        },
+        {
+            "nombre": "unverifiable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.unverifiable\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.add_header(key, val)\n",
+            "parametros": [
+                {
+                    "nombre": "key",
+                    "description": ""
+                },
+                {
+                    "nombre": "val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_unredirected_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.add_unredirected_header(key, header)\n",
+            "parametros": [
+                {
+                    "nombre": "key",
+                    "description": ""
+                },
+                {
+                    "nombre": "header",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_full_url",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.get_full_url()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.get_header(header_name, default=None)\n",
+            "parametros": [
+                {
+                    "nombre": "header_name",
+                    "description": ""
+                },
+                {
+                    "nombre": "default",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_method",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.get_method()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "has_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.has_header(header)\n",
+            "parametros": [
+                {
+                    "nombre": "header",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "header_items",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.header_items()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "remove_header",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.remove_header(header)\n",
+            "parametros": [
+                {
+                    "nombre": "header",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_proxy",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Request.set_proxy(host, type)\n",
+            "parametros": [
+                {
+                    "nombre": "type",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Request",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class urllib.request.Request(url, data=None, headers={}, origin_req_host=None, unverifiable=False, method=None)\n",
+            "parametros": [
+                {
+                    "nombre": "url",
+                    "description": ""
+                },
+                {
+                    "nombre": "origin_req_host",
+                    "description": ""
+                },
+                {
+                    "nombre": "method",
+                    "description": ""
+                },
+                {
+                    "nombre": "headers",
+                    "description": ""
+                },
+                {
+                    "nombre": "unverifiable",
+                    "description": ""
+                },
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

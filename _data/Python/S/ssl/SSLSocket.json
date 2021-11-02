@@ -1,0 +1,196 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class SSLSocket\n",
+    "atributos": [
+        {
+            "nombre": "context",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.context\n"
+        },
+        {
+            "nombre": "server_hostname",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.server_hostname\n"
+        },
+        {
+            "nombre": "server_side",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.server_side\n"
+        },
+        {
+            "nombre": "session",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.session\n"
+        },
+        {
+            "nombre": "session_reused",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.session_reused\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cipher",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.cipher()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "compression",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.compression()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "do_handshake",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.do_handshake()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "getpeercert",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.getpeercert(binary_form=False)\n",
+            "parametros": [
+                {
+                    "nombre": "binary_form",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_channel_binding",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.get_channel_binding(cb_type='tls-unique')\n",
+            "parametros": [
+                {
+                    "nombre": "cb_type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pending",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.pending()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.read(len=1024, buffer=None)\n",
+            "parametros": [
+                {
+                    "nombre": "buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "len",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selected_alpn_protocol",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.selected_alpn_protocol()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "selected_npn_protocol",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.selected_npn_protocol()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "shared_ciphers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.shared_ciphers()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "unwrap",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.unwrap()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "verify_client_post_handshake",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.verify_client_post_handshake()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "version",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.version()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SSLSocket.write(buf)\n",
+            "parametros": [
+                {
+                    "nombre": "buf",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "SSLSocket",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class ssl.SSLSocket(socket.socket)\n",
+            "parametros": [
+                {
+                    "nombre": "socket.socket",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

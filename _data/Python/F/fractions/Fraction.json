@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Fraction\n",
+    "atributos": [
+        {
+            "nombre": "denominator",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "denominator\n"
+        },
+        {
+            "nombre": "numerator",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "numerator\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "as_integer_ratio",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "as_integer_ratio()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "from_decimal",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "from_decimal(dec)\n",
+            "parametros": [
+                {
+                    "nombre": "dec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "from_float",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "from_float(flt)\n",
+            "parametros": [
+                {
+                    "nombre": "flt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "limit_denominator",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "limit_denominator(max_denominator=1000000)\n",
+            "parametros": [
+                {
+                    "nombre": "max_denominator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__ceil__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__ceil__()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "__floor__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__floor__()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "__round__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__round__()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Fraction",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class fractions.Fraction(other_fraction)\nclass fractions.Fraction(float)\nclass fractions.Fraction(decimal)\nclass fractions.Fraction(string)\nclass fractions.Fraction(numerator=0, denominator=1)\n",
+            "parametros": [
+                {
+                    "nombre": "string",
+                    "description": ""
+                },
+                {
+                    "nombre": "decimal",
+                    "description": ""
+                },
+                {
+                    "nombre": "numerator",
+                    "description": ""
+                },
+                {
+                    "nombre": "float",
+                    "description": ""
+                },
+                {
+                    "nombre": "other_fraction",
+                    "description": ""
+                },
+                {
+                    "nombre": "denominator",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

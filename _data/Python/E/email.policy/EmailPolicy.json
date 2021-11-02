@@ -1,0 +1,147 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class EmailPolicy\n",
+    "atributos": [
+        {
+            "nombre": "content_manager",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "content_manager\n"
+        },
+        {
+            "nombre": "header_factory",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "header_factory\n"
+        },
+        {
+            "nombre": "refold_source",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "refold_source\n"
+        },
+        {
+            "nombre": "utf8",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "utf8\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "fold",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "fold(name, value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fold_binary",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "fold_binary(name, value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "header_fetch_parse",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "header_fetch_parse(name, value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "header_max_count",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "header_max_count(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "header_source_parse",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "header_source_parse(sourcelines)\n",
+            "parametros": [
+                {
+                    "nombre": "sourcelines",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "header_store_parse",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "header_store_parse(name, value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "EmailPolicy",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class email.policy.EmailPolicy(**kw)\n",
+            "parametros": [
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class ContentHandler\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "characters",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.characters(content)\n",
+            "parametros": [
+                {
+                    "nombre": "content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endDocument",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.endDocument()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "endElement",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.endElement(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endElementNS",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.endElementNS(name, qname)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "qname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endPrefixMapping",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.endPrefixMapping(prefix)\n",
+            "parametros": [
+                {
+                    "nombre": "prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ignorableWhitespace",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.ignorableWhitespace(whitespace)\n",
+            "parametros": [
+                {
+                    "nombre": "whitespace",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processingInstruction",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.processingInstruction(target, data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                },
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDocumentLocator",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.setDocumentLocator(locator)\n",
+            "parametros": [
+                {
+                    "nombre": "locator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "skippedEntity",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.skippedEntity(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startDocument",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.startDocument()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "startElement",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.startElement(name, attrs)\n",
+            "parametros": [
+                {
+                    "nombre": "attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startElementNS",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.startElementNS(name, qname, attrs)\n",
+            "parametros": [
+                {
+                    "nombre": "attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "qname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startPrefixMapping",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ContentHandler.startPrefixMapping(prefix, uri)\n",
+            "parametros": [
+                {
+                    "nombre": "uri",
+                    "description": ""
+                },
+                {
+                    "nombre": "prefix",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ContentHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class xml.sax.handler.ContentHandler\n",
+            "parametros": []
+        }
+    ]
+}

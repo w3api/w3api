@@ -1,0 +1,514 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class datetime\n",
+    "atributos": [
+        {
+            "nombre": "day",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.day\n"
+        },
+        {
+            "nombre": "fold",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.fold\n"
+        },
+        {
+            "nombre": "hour",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.hour\n"
+        },
+        {
+            "nombre": "max",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.max\n"
+        },
+        {
+            "nombre": "microsecond",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.microsecond\n"
+        },
+        {
+            "nombre": "min",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.min\n"
+        },
+        {
+            "nombre": "minute",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.minute\n"
+        },
+        {
+            "nombre": "month",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.month\n"
+        },
+        {
+            "nombre": "resolution",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.resolution\n"
+        },
+        {
+            "nombre": "second",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.second\n"
+        },
+        {
+            "nombre": "tzinfo",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.tzinfo\n"
+        },
+        {
+            "nombre": "year",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.year\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "astimezone",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.astimezone(tz=None)\n",
+            "parametros": [
+                {
+                    "nombre": "tz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "combine",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod datetime.combine(date, time, tzinfo=self.tzinfo)\n",
+            "parametros": [
+                {
+                    "nombre": "date",
+                    "description": ""
+                },
+                {
+                    "nombre": "time",
+                    "description": ""
+                },
+                {
+                    "nombre": "tzinfo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ctime",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.ctime()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "date",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.date()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "dst",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.dst()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fromisocalendar",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod datetime.fromisocalendar(year, week, day)\n",
+            "parametros": [
+                {
+                    "nombre": "year",
+                    "description": ""
+                },
+                {
+                    "nombre": "day",
+                    "description": ""
+                },
+                {
+                    "nombre": "week",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromisoformat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod datetime.fromisoformat(date_string)\n",
+            "parametros": [
+                {
+                    "nombre": "date_string",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromordinal",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod datetime.fromordinal(ordinal)\n",
+            "parametros": [
+                {
+                    "nombre": "ordinal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromtimestamp",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod datetime.fromtimestamp(timestamp, tz=None)\n",
+            "parametros": [
+                {
+                    "nombre": "timestamp",
+                    "description": ""
+                },
+                {
+                    "nombre": "tz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isocalendar",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.isocalendar()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isoformat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.isoformat(sep='T', timespec='auto')\n",
+            "parametros": [
+                {
+                    "nombre": "timespec",
+                    "description": ""
+                },
+                {
+                    "nombre": "sep",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isoweekday",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.isoweekday()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "now",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod datetime.now(tz=None)\n",
+            "parametros": [
+                {
+                    "nombre": "tz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.replace(year=self.year, month=self.month, day=self.day, hour=self.hour, minute=self.minute, second=self.second, microsecond=self.microsecond, tzinfo=self.tzinfo, *, fold=0)\n",
+            "parametros": [
+                {
+                    "nombre": "microsecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "tzinfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                },
+                {
+                    "nombre": "month",
+                    "description": ""
+                },
+                {
+                    "nombre": "year",
+                    "description": ""
+                },
+                {
+                    "nombre": "day",
+                    "description": ""
+                },
+                {
+                    "nombre": "fold",
+                    "description": ""
+                },
+                {
+                    "nombre": "hour",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "minute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strftime",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.strftime(format)\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strptime",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod datetime.strptime(date_string, format)\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                },
+                {
+                    "nombre": "date_string",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "time",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.time()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "timestamp",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.timestamp()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "timetuple",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.timetuple()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "timetz",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.timetz()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "today",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod datetime.today()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "toordinal",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.toordinal()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "tzname",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.tzname()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "utcfromtimestamp",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod datetime.utcfromtimestamp(timestamp)\n",
+            "parametros": [
+                {
+                    "nombre": "timestamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "utcnow",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod datetime.utcnow()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "utcoffset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.utcoffset()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "utctimetuple",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.utctimetuple()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "weekday",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.weekday()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "__format__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.__format__(format)\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__str__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "datetime.__str__()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "datetime",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class datetime.datetime\nclass datetime.datetime(year, month, day, hour=0, minute=0, second=0, microsecond=0, tzinfo=None, *, fold=0)\n",
+            "parametros": [
+                {
+                    "nombre": "microsecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "tzinfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                },
+                {
+                    "nombre": "month",
+                    "description": ""
+                },
+                {
+                    "nombre": "year",
+                    "description": ""
+                },
+                {
+                    "nombre": "day",
+                    "description": ""
+                },
+                {
+                    "nombre": "fold",
+                    "description": ""
+                },
+                {
+                    "nombre": "hour",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "minute",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

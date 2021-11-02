@@ -1,0 +1,86 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class ExitStack\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "callback",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "callback(callback, /, *args, **kwds)\n",
+            "parametros": [
+                {
+                    "nombre": "**kwds",
+                    "description": ""
+                },
+                {
+                    "nombre": "*args",
+                    "description": ""
+                },
+                {
+                    "nombre": "callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "/",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "enter_context",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "enter_context(cm)\n",
+            "parametros": [
+                {
+                    "nombre": "cm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pop_all",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "pop_all()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "push",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "push(exit)\n",
+            "parametros": [
+                {
+                    "nombre": "exit",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ExitStack",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class contextlib.ExitStack\n",
+            "parametros": []
+        }
+    ]
+}

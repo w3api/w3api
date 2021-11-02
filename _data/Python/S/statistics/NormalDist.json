@@ -1,0 +1,176 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class NormalDist\n",
+    "atributos": [
+        {
+            "nombre": "mean",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "mean\n"
+        },
+        {
+            "nombre": "median",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "median\n"
+        },
+        {
+            "nombre": "mode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "mode\n"
+        },
+        {
+            "nombre": "stdev",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "stdev\n"
+        },
+        {
+            "nombre": "variance",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "variance\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cdf",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cdf(x)\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "from_samples",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod from_samples(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inv_cdf",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "inv_cdf(p)\n",
+            "parametros": [
+                {
+                    "nombre": "p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "overlap",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "overlap(other)\n",
+            "parametros": [
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pdf",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "pdf(x)\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "quantiles",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "quantiles(n=4)\n",
+            "parametros": [
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "samples",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "samples(n, *, seed=None)\n",
+            "parametros": [
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "seed",
+                    "description": ""
+                },
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "zscore",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "zscore(x)\n",
+            "parametros": [
+                {
+                    "nombre": "x",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "NormalDist",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class statistics.NormalDist(mu=0.0, sigma=1.0)\n",
+            "parametros": [
+                {
+                    "nombre": "sigma",
+                    "description": ""
+                },
+                {
+                    "nombre": "mu",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

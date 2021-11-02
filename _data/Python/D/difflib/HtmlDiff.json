@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class HtmlDiff\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "make_file",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "make_file(fromlines, tolines, fromdesc='', todesc='', context=False, numlines=5, *, charset='utf-8')\n",
+            "parametros": [
+                {
+                    "nombre": "charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "todesc",
+                    "description": ""
+                },
+                {
+                    "nombre": "numlines",
+                    "description": ""
+                },
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "fromdesc",
+                    "description": ""
+                },
+                {
+                    "nombre": "fromlines",
+                    "description": ""
+                },
+                {
+                    "nombre": "tolines",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "make_table",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "make_table(fromlines, tolines, fromdesc='', todesc='', context=False, numlines=5)\n",
+            "parametros": [
+                {
+                    "nombre": "todesc",
+                    "description": ""
+                },
+                {
+                    "nombre": "numlines",
+                    "description": ""
+                },
+                {
+                    "nombre": "context",
+                    "description": ""
+                },
+                {
+                    "nombre": "fromdesc",
+                    "description": ""
+                },
+                {
+                    "nombre": "fromlines",
+                    "description": ""
+                },
+                {
+                    "nombre": "tolines",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__init__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__init__(tabsize=8, wrapcolumn=None, linejunk=None, charjunk=IS_CHARACTER_JUNK)\n",
+            "parametros": [
+                {
+                    "nombre": "linejunk",
+                    "description": ""
+                },
+                {
+                    "nombre": "charjunk",
+                    "description": ""
+                },
+                {
+                    "nombre": "wrapcolumn",
+                    "description": ""
+                },
+                {
+                    "nombre": "tabsize",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "HtmlDiff",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class difflib.HtmlDiff\n",
+            "parametros": []
+        }
+    ]
+}

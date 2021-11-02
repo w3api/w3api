@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Thread\n",
+    "atributos": [
+        {
+            "nombre": "daemon",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "daemon\n"
+        },
+        {
+            "nombre": "ident",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ident\n"
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "name\n"
+        },
+        {
+            "nombre": "native_id",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "native_id\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getName",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "getName()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isDaemon",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "isDaemon()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_alive",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_alive()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "join",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "join(timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "run",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "run()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "start",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "start()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Thread",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class threading.Thread(group=None, target=None, name=None, args=(), kwargs={}, *, daemon=None)\n",
+            "parametros": [
+                {
+                    "nombre": "group",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "daemon",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

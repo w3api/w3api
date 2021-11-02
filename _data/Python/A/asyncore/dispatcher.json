@@ -1,0 +1,206 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class dispatcher\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "accept",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "accept()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "bind",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bind(address)\n",
+            "parametros": [
+                {
+                    "nombre": "address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "connect(address)\n",
+            "parametros": [
+                {
+                    "nombre": "address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_socket",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "create_socket(family=socket.AF_INET, type=socket.SOCK_STREAM)\n",
+            "parametros": [
+                {
+                    "nombre": "type",
+                    "description": ""
+                },
+                {
+                    "nombre": "family",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle_accept",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_accept()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle_accepted",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_accepted(sock, addr)\n",
+            "parametros": [
+                {
+                    "nombre": "addr",
+                    "description": ""
+                },
+                {
+                    "nombre": "sock",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle_close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle_connect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_connect()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle_error",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_error()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle_expt",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_expt()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle_read",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_read()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle_write",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle_write()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "listen",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "listen(backlog)\n",
+            "parametros": [
+                {
+                    "nombre": "backlog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "readable()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "recv",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "recv(buffer_size)\n",
+            "parametros": [
+                {
+                    "nombre": "buffer_size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "send(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writable",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "writable()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "dispatcher",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class asyncore.dispatcher\n",
+            "parametros": []
+        }
+    ]
+}

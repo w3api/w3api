@@ -1,0 +1,83 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class ZoneInfo\n",
+    "atributos": [
+        {
+            "nombre": "key",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZoneInfo.key\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clear_cache",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod ZoneInfo.clear_cache(*, only_keys=None)\n",
+            "parametros": [
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "only_keys",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "from_file",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod ZoneInfo.from_file(fobj, /, key=None)\n",
+            "parametros": [
+                {
+                    "nombre": "key",
+                    "description": ""
+                },
+                {
+                    "nombre": "fobj",
+                    "description": ""
+                },
+                {
+                    "nombre": "/",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "no_cache",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod ZoneInfo.no_cache(key)\n",
+            "parametros": [
+                {
+                    "nombre": "key",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ZoneInfo",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class zoneinfo.ZoneInfo(key)\n",
+            "parametros": [
+                {
+                    "nombre": "key",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

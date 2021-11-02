@@ -1,0 +1,284 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class SMTP\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "auth",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.auth(mechanism, authobject, *, initial_response_ok=True)\n",
+            "parametros": [
+                {
+                    "nombre": "authobject",
+                    "description": ""
+                },
+                {
+                    "nombre": "initial_response_ok",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "mechanism",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.connect(host='localhost', port=0)\n",
+            "parametros": [
+                {
+                    "nombre": "port",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "docmd",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.docmd(cmd, args='')\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "cmd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ehlo",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.ehlo(name='')\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ehlo_or_helo_if_needed",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.ehlo_or_helo_if_needed()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "has_extn",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.has_extn(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "helo",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.helo(name='')\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "login",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.login(user, password, *, initial_response_ok=True)\n",
+            "parametros": [
+                {
+                    "nombre": "user",
+                    "description": ""
+                },
+                {
+                    "nombre": "initial_response_ok",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "password",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "quit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.quit()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "sendmail",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.sendmail(from_addr, to_addrs, msg, mail_options=(), rcpt_options=())\n",
+            "parametros": [
+                {
+                    "nombre": "to_addrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "mail_options",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "from_addr",
+                    "description": ""
+                },
+                {
+                    "nombre": "rcpt_options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send_message",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.send_message(msg, from_addr=None, to_addrs=None, mail_options=(), rcpt_options=())\n",
+            "parametros": [
+                {
+                    "nombre": "to_addrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "mail_options",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "from_addr",
+                    "description": ""
+                },
+                {
+                    "nombre": "rcpt_options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_debuglevel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.set_debuglevel(level)\n",
+            "parametros": [
+                {
+                    "nombre": "level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "starttls",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.starttls(keyfile=None, certfile=None, context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "certfile",
+                    "description": ""
+                },
+                {
+                    "nombre": "keyfile",
+                    "description": ""
+                },
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "verify",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SMTP.verify(address)\n",
+            "parametros": [
+                {
+                    "nombre": "address",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "SMTP",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class smtplib.SMTP(host='', port=0, local_hostname=None, [timeout, ]source_address=None)\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                },
+                {
+                    "nombre": "source_address",
+                    "description": ""
+                },
+                {
+                    "nombre": "local_hostname",
+                    "description": ""
+                },
+                {
+                    "nombre": "port",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

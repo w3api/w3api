@@ -1,0 +1,31 @@
+---
+title: tarfile.USTAR_FORMAT
+permalink: /Python/tarfile/USTAR_FORMAT/
+date: 2021-01-01
+key: Python.T.tarfile.USTAR_FORMAT
+category: python
+tags: ['constante python', 'tarfile']
+sidebar: 
+  nav: python
+---
+
+## Descripción
+{{site.data.Python.T.tarfile.USTAR_FORMAT.description }}
+
+## Sintaxis
+~~~python
+{{ site.data.Python.T.tarfile.USTAR_FORMAT.sintaxis }}~~~
+
+## Ejemplo
+~~~python
+{{ site.data.Python.T.tarfile.USTAR_FORMAT.code}}
+~~~
+
+## Artículos
+<ul>
+{%- for _ldc in site.data.Python.T.tarfile.USTAR_FORMAT.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

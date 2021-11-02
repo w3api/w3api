@@ -1,0 +1,239 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Telnet\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "expect",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.expect(list, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "list",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fileno",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.fileno()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_socket",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.get_socket()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "interact",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.interact()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "msg",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.msg(msg, *args)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mt_interact",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.mt_interact()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.open(host, port=0[, timeout])\n",
+            "parametros": [
+                {
+                    "nombre": "port",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read_all",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.read_all()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read_eager",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.read_eager()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read_lazy",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.read_lazy()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read_sb_data",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.read_sb_data()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read_some",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.read_some()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read_until",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.read_until(expected, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "expected",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read_very_eager",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.read_very_eager()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read_very_lazy",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.read_very_lazy()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "set_debuglevel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.set_debuglevel(debuglevel)\n",
+            "parametros": [
+                {
+                    "nombre": "debuglevel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_option_negotiation_callback",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.set_option_negotiation_callback(callback)\n",
+            "parametros": [
+                {
+                    "nombre": "callback",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Telnet.write(buffer)\n",
+            "parametros": [
+                {
+                    "nombre": "buffer",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Telnet",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class telnetlib.Telnet(host=None, port=0[, timeout])\n",
+            "parametros": [
+                {
+                    "nombre": "port",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

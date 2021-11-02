@@ -1,0 +1,88 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class email.contentmanager\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "get_content",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "email.contentmanager.get_content(msg, errors='replace')\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_content",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "email.contentmanager.set_content(msg, <'str'>, subtype=\"plain\", charset='utf-8', cte=None, disposition=None, filename=None, cid=None, params=None, headers=None)\nemail.contentmanager.set_content(msg, <'bytes'>, maintype, subtype, cte=\"base64\", disposition=None, filename=None, cid=None, params=None, headers=None)\nemail.contentmanager.set_content(msg, <'EmailMessage'>, cte=None, disposition=None, filename=None, cid=None, params=None, headers=None)\n",
+            "parametros": [
+                {
+                    "nombre": "charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "cid",
+                    "description": ""
+                },
+                {
+                    "nombre": "<'str'>",
+                    "description": ""
+                },
+                {
+                    "nombre": "<'bytes'>",
+                    "description": ""
+                },
+                {
+                    "nombre": "<'EmailMessage'>",
+                    "description": ""
+                },
+                {
+                    "nombre": "cte",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "params",
+                    "description": ""
+                },
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "subtype",
+                    "description": ""
+                },
+                {
+                    "nombre": "disposition",
+                    "description": ""
+                },
+                {
+                    "nombre": "headers",
+                    "description": ""
+                },
+                {
+                    "nombre": "maintype",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": []
+}

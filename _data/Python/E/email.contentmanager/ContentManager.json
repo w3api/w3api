@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class ContentManager\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "add_get_handler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_get_handler(key, handler)\n",
+            "parametros": [
+                {
+                    "nombre": "key",
+                    "description": ""
+                },
+                {
+                    "nombre": "handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_set_handler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_set_handler(typekey, handler)\n",
+            "parametros": [
+                {
+                    "nombre": "handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "typekey",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_content",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_content(msg, *args, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_content",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_content(msg, obj, *args, **kw)\n",
+            "parametros": [
+                {
+                    "nombre": "obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "kw",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ContentManager",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class email.contentmanager.ContentManager\n",
+            "parametros": []
+        }
+    ]
+}

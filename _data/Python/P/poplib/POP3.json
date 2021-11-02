@@ -1,0 +1,239 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class POP3\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "apop",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.apop(user, secret)\n",
+            "parametros": [
+                {
+                    "nombre": "user",
+                    "description": ""
+                },
+                {
+                    "nombre": "secret",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "capa",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.capa()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "dele",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.dele(which)\n",
+            "parametros": [
+                {
+                    "nombre": "which",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getwelcome",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.getwelcome()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "list",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.list([which])\n",
+            "parametros": [
+                {
+                    "nombre": "which",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "noop",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.noop()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "pass_",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.pass_(password)\n",
+            "parametros": [
+                {
+                    "nombre": "password",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "quit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.quit()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "retr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.retr(which)\n",
+            "parametros": [
+                {
+                    "nombre": "which",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rpop",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.rpop(user)\n",
+            "parametros": [
+                {
+                    "nombre": "user",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.rset()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "set_debuglevel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.set_debuglevel(level)\n",
+            "parametros": [
+                {
+                    "nombre": "level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.stat()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "stls",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.stls(context=None)\n",
+            "parametros": [
+                {
+                    "nombre": "context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "top",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.top(which, howmuch)\n",
+            "parametros": [
+                {
+                    "nombre": "howmuch",
+                    "description": ""
+                },
+                {
+                    "nombre": "which",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uidl",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.uidl(which=None)\n",
+            "parametros": [
+                {
+                    "nombre": "which",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "user",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.user(username)\n",
+            "parametros": [
+                {
+                    "nombre": "username",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "utf8",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "POP3.utf8()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "POP3",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class poplib.POP3(host, port=POP3_PORT[, timeout])\n",
+            "parametros": [
+                {
+                    "nombre": "port",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "host",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

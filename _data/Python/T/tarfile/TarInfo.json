@@ -1,0 +1,229 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class TarInfo\n",
+    "atributos": [
+        {
+            "nombre": "gid",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.gid\n"
+        },
+        {
+            "nombre": "gname",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.gname\n"
+        },
+        {
+            "nombre": "linkname",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.linkname\n"
+        },
+        {
+            "nombre": "mode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.mode\n"
+        },
+        {
+            "nombre": "mtime",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.mtime\n"
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.name\n"
+        },
+        {
+            "nombre": "pax_headers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.pax_headers\n"
+        },
+        {
+            "nombre": "size",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.size\n"
+        },
+        {
+            "nombre": "type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.type\n"
+        },
+        {
+            "nombre": "uid",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.uid\n"
+        },
+        {
+            "nombre": "uname",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.uname\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "frombuf",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod TarInfo.frombuf(buf, encoding, errors)\n",
+            "parametros": [
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "buf",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromtarfile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod TarInfo.fromtarfile(tarfile)\n",
+            "parametros": [
+                {
+                    "nombre": "tarfile",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isblk",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.isblk()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "ischr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.ischr()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isdev",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.isdev()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isdir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.isdir()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isfifo",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.isfifo()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isfile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.isfile()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "islnk",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.islnk()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isreg",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.isreg()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "issym",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.issym()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "tobuf",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "TarInfo.tobuf(format=DEFAULT_FORMAT, encoding=ENCODING, errors='surrogateescape')\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                },
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "TarInfo",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class tarfile.TarInfo(name='')\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

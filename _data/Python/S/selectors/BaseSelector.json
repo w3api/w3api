@@ -1,0 +1,116 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class BaseSelector\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_key",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_key(fileobj)\n",
+            "parametros": [
+                {
+                    "nombre": "fileobj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_map",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod get_map()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "modify",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "modify(fileobj, events, data=None)\n",
+            "parametros": [
+                {
+                    "nombre": "fileobj",
+                    "description": ""
+                },
+                {
+                    "nombre": "data",
+                    "description": ""
+                },
+                {
+                    "nombre": "events",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod register(fileobj, events, data=None)\n",
+            "parametros": [
+                {
+                    "nombre": "fileobj",
+                    "description": ""
+                },
+                {
+                    "nombre": "data",
+                    "description": ""
+                },
+                {
+                    "nombre": "events",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "select",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod select(timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unregister",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod unregister(fileobj)\n",
+            "parametros": [
+                {
+                    "nombre": "fileobj",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "BaseSelector",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class selectors.BaseSelector\n",
+            "parametros": []
+        }
+    ]
+}

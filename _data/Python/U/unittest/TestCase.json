@@ -1,0 +1,753 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class TestCase\n",
+    "atributos": [
+        {
+            "nombre": "failureException",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "failureException\n"
+        },
+        {
+            "nombre": "longMessage",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "longMessage\n"
+        },
+        {
+            "nombre": "maxDiff",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "maxDiff\n"
+        },
+        {
+            "nombre": "output",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "output\n"
+        },
+        {
+            "nombre": "records",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "records\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addClassCleanup",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod addClassCleanup(function, /, *args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "function",
+                    "description": ""
+                },
+                {
+                    "nombre": "*args",
+                    "description": ""
+                },
+                {
+                    "nombre": "**kwargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "/",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addCleanup",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "addCleanup(function, /, *args, **kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "function",
+                    "description": ""
+                },
+                {
+                    "nombre": "*args",
+                    "description": ""
+                },
+                {
+                    "nombre": "**kwargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "/",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addTypeEqualityFunc",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "addTypeEqualityFunc(typeobj, function)\n",
+            "parametros": [
+                {
+                    "nombre": "function",
+                    "description": ""
+                },
+                {
+                    "nombre": "typeobj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertAlmostEqual",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertAlmostEqual(first, second, places=7, msg=None, delta=None)\n",
+            "parametros": [
+                {
+                    "nombre": "first",
+                    "description": ""
+                },
+                {
+                    "nombre": "delta",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                },
+                {
+                    "nombre": "places",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertCountEqual",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertCountEqual(first, second, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "first",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertDictEqual",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertDictEqual(first, second, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "first",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertEqual",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertEqual(first, second, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "first",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertGreater",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertGreater(first, second, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "first",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertIn",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertIn(member, container, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "container",
+                    "description": ""
+                },
+                {
+                    "nombre": "member",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertIs",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertIs(first, second, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "first",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertIsInstance",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertIsInstance(obj, cls, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "cls",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertIsNone",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertIsNone(expr, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "expr",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertListEqual",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertListEqual(first, second, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "first",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertLogs",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertLogs(logger=None, level=None)\n",
+            "parametros": [
+                {
+                    "nombre": "logger",
+                    "description": ""
+                },
+                {
+                    "nombre": "level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertMultiLineEqual",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertMultiLineEqual(first, second, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "first",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertNoLogs",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertNoLogs(logger=None, level=None)\n",
+            "parametros": [
+                {
+                    "nombre": "logger",
+                    "description": ""
+                },
+                {
+                    "nombre": "level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertNotEqual",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertNotEqual(first, second, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "first",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertRaises",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertRaises(exception, callable, *args, **kwds)\n",
+            "parametros": [
+                {
+                    "nombre": "callable",
+                    "description": ""
+                },
+                {
+                    "nombre": "exception",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwds",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertRaisesRegex",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertRaisesRegex(exception, regex, callable, *args, **kwds)\n",
+            "parametros": [
+                {
+                    "nombre": "regex",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwds",
+                    "description": ""
+                },
+                {
+                    "nombre": "exception",
+                    "description": ""
+                },
+                {
+                    "nombre": "callable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertRegex",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertRegex(text, regex, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "regex",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertSequenceEqual",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertSequenceEqual(first, second, msg=None, seq_type=None)\n",
+            "parametros": [
+                {
+                    "nombre": "seq_type",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "first",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertSetEqual",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertSetEqual(first, second, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "first",
+                    "description": ""
+                },
+                {
+                    "nombre": "second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertTrue",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertTrue(expr, msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "expr",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertWarns",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertWarns(warning, callable, *args, **kwds)\n",
+            "parametros": [
+                {
+                    "nombre": "warning",
+                    "description": ""
+                },
+                {
+                    "nombre": "callable",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwds",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "assertWarnsRegex",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "assertWarnsRegex(warning, regex, callable, *args, **kwds)\n",
+            "parametros": [
+                {
+                    "nombre": "regex",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwds",
+                    "description": ""
+                },
+                {
+                    "nombre": "warning",
+                    "description": ""
+                },
+                {
+                    "nombre": "callable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "countTestCases",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "countTestCases()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "debug",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "debug()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "defaultTestResult",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "defaultTestResult()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "doClassCleanups",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod doClassCleanups()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "doCleanups",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "doCleanups()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fail",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "fail(msg=None)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "id",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "id()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "run",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "run(result=None)\n",
+            "parametros": [
+                {
+                    "nombre": "result",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUp",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "setUp()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "setUpClass",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "setUpClass()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "shortDescription",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shortDescription()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "skipTest",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "skipTest(reason)\n",
+            "parametros": [
+                {
+                    "nombre": "reason",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "subTest",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "subTest(msg=None, **params)\n",
+            "parametros": [
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tearDown",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "tearDown()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "tearDownClass",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "tearDownClass()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "TestCase",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class unittest.TestCase(methodName='runTest')\n",
+            "parametros": [
+                {
+                    "nombre": "methodName",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

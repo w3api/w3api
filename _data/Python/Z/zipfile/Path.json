@@ -1,0 +1,131 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Path\n",
+    "atributos": [
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.name\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "exists",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.exists()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_dir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.is_dir()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_file",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.is_file()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "iterdir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.iterdir()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "joinpath",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.joinpath(*other)\n",
+            "parametros": [
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.open(mode='r', *, pwd, **)\n",
+            "parametros": [
+                {
+                    "nombre": "mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "**",
+                    "description": ""
+                },
+                {
+                    "nombre": "pwd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read_bytes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.read_bytes()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read_text",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Path.read_text(*, **)\n",
+            "parametros": [
+                {
+                    "nombre": "**",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Path",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class zipfile.Path\nclass zipfile.Path(root, at='')\n",
+            "parametros": [
+                {
+                    "nombre": "at",
+                    "description": ""
+                },
+                {
+                    "nombre": "root",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

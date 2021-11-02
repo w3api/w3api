@@ -1,0 +1,254 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class date\n",
+    "atributos": [
+        {
+            "nombre": "day",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.day\n"
+        },
+        {
+            "nombre": "max",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.max\n"
+        },
+        {
+            "nombre": "min",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.min\n"
+        },
+        {
+            "nombre": "month",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.month\n"
+        },
+        {
+            "nombre": "resolution",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.resolution\n"
+        },
+        {
+            "nombre": "year",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.year\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "ctime",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.ctime()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fromisocalendar",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod date.fromisocalendar(year, week, day)\n",
+            "parametros": [
+                {
+                    "nombre": "year",
+                    "description": ""
+                },
+                {
+                    "nombre": "day",
+                    "description": ""
+                },
+                {
+                    "nombre": "week",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromisoformat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod date.fromisoformat(date_string)\n",
+            "parametros": [
+                {
+                    "nombre": "date_string",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromordinal",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod date.fromordinal(ordinal)\n",
+            "parametros": [
+                {
+                    "nombre": "ordinal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromtimestamp",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod date.fromtimestamp(timestamp)\n",
+            "parametros": [
+                {
+                    "nombre": "timestamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isocalendar",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.isocalendar()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isoformat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.isoformat()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isoweekday",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.isoweekday()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.replace(year=self.year, month=self.month, day=self.day)\n",
+            "parametros": [
+                {
+                    "nombre": "year",
+                    "description": ""
+                },
+                {
+                    "nombre": "day",
+                    "description": ""
+                },
+                {
+                    "nombre": "month",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strftime",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.strftime(format)\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "timetuple",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.timetuple()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "today",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod date.today()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "toordinal",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.toordinal()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "weekday",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.weekday()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "__format__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.__format__(format)\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__str__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "date.__str__()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "date",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class datetime.date(year, month, day)\nclass datetime.date\n",
+            "parametros": [
+                {
+                    "nombre": "year",
+                    "description": ""
+                },
+                {
+                    "nombre": "day",
+                    "description": ""
+                },
+                {
+                    "nombre": "month",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

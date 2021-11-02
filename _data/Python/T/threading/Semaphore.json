@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Semaphore\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "acquire",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "acquire(blocking=True, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "blocking",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "release",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "release(n=1)\n",
+            "parametros": [
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Semaphore",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class threading.Semaphore(value=1)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

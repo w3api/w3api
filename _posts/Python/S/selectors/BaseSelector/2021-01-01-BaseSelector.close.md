@@ -1,0 +1,36 @@
+---
+title: selectors.BaseSelector.close
+permalink: /Python/selectors/BaseSelector/close/
+date: 2021-01-01
+key: Python.S.selectors.BaseSelector.close
+category: python
+tags: ['metodo python', 'selectors']
+sidebar: 
+  nav: python
+---
+
+{% include w3api/datos.html clase=site.data.Python.S.selectors.BaseSelector.metodos valor="close" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~python
+{{ _dato.sintaxis }}~~~
+
+## Clase Padre
+[BaseSelector](/Python/selectors/BaseSelector/)
+
+## Ejemplo
+~~~python
+{{ _dato.code}}
+~~~
+
+## Artículos
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

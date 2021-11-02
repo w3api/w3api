@@ -8,7 +8,7 @@
     "constructores": [
         {
             "nombre": "Intl.ListFormat",
-            "description": "",
+            "description": "Constructor del objeto [Intl.ListFormat](/Javascript/Intl/ListFormat) a partir de un dato de localización y de un JSON con opciones de formato.",
             "code": "const ciudades = ['Avila','Salamanca','Segovia'];\n\nconst formatter = new Intl.ListFormat('es', { style: 'long', type: 'conjunction' });\nconsole.log(formatter.format(ciudades));\n\nconst formatter2 = new Intl.ListFormat('es', { style: 'long', type: 'disjunction' });\nconsole.log(formatter2.format(ciudades));\n\nconst formatter3 = new Intl.ListFormat('es', { style: 'narrow', type: 'unit' });\nconsole.log(formatter3.format(ciudades));",
             "parametros": [
                 {
@@ -17,7 +17,7 @@
                 },
                 {
                     "nombre": "options",
-                    "description": "Opciones para el formato del número indicadas mediante un JSON. Algunos de los valores que podemos encontrar son:\n\n* **localeMatcher**, el algoritmo a aplicar para el formateo que puede ser *\"lookup\"* o *best fit*.\n* **type**, tipo de formato a aplicar a la lista *conjunction* para las conjuntivas, *disjunction* para las disyuntivas y *unit* para las listas por unidades.\n* **style**, tipo de longitud que le queremos dar a la lista siendo los valores: *long*, *narrow* o *short*."
+                    "description": "Opciones para el formato del número indicadas mediante un JSON. Algunos de los valores que podemos encontrar son:\n\n  - **localeMatcher**, el algoritmo a aplicar para el formateo que puede ser *\"lookup\"* o *\"best fit\"*.\n  - **type**, tipo de formato a aplicar a la lista *conjunction* para las conjuntivas, *disjunction* para las disyuntivas y *unit* para las listas por unidades.\n  - **style**, tipo de longitud que le queremos dar a la lista siendo los valores: *long*, *narrow* o *short*."
                 }
             ],
             "ldc": [{

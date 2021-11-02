@@ -1,0 +1,70 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class SharedMemory\n",
+    "atributos": [
+        {
+            "nombre": "buf",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "buf\n"
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "name\n"
+        },
+        {
+            "nombre": "size",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "size\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "unlink",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "unlink()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "SharedMemory",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class multiprocessing.shared_memory.SharedMemory(name=None, create=False, size=0)\n",
+            "parametros": [
+                {
+                    "nombre": "size",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "create",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

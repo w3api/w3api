@@ -1,0 +1,131 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Queue\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "cancel_join_thread",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cancel_join_thread()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "empty",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "empty()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "full",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "full()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get([block[, timeout]])\n",
+            "parametros": [
+                {
+                    "nombre": "block",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_nowait",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_nowait()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "join_thread",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "join_thread()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "put(obj[, block[, timeout]])\n",
+            "parametros": [
+                {
+                    "nombre": "obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "block",
+                    "description": ""
+                },
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "put_nowait",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "put_nowait(obj)\n",
+            "parametros": [
+                {
+                    "nombre": "obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "qsize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "qsize()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Queue",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class multiprocessing.Queue([maxsize])\n",
+            "parametros": [
+                {
+                    "nombre": "maxsize",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

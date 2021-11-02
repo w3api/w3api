@@ -1,0 +1,87 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Control\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "condition",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "condition(action, condition)\n",
+            "parametros": [
+                {
+                    "nombre": "condition",
+                    "description": ""
+                },
+                {
+                    "nombre": "action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "event",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "event(event, argument, condition=1, ordering=None)\n",
+            "parametros": [
+                {
+                    "nombre": "condition",
+                    "description": ""
+                },
+                {
+                    "nombre": "event",
+                    "description": ""
+                },
+                {
+                    "nombre": "ordering",
+                    "description": ""
+                },
+                {
+                    "nombre": "argument",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapping",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "mapping(event, attribute)\n",
+            "parametros": [
+                {
+                    "nombre": "event",
+                    "description": ""
+                },
+                {
+                    "nombre": "attribute",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Control",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class msilib.Control(dlg, name)\n",
+            "parametros": [
+                {
+                    "nombre": "dlg",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

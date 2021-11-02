@@ -1,0 +1,124 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Future\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "add_done_callback",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add_done_callback(fn)\n",
+            "parametros": [
+                {
+                    "nombre": "fn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cancel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cancel()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "cancelled",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cancelled()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "done",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "done()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "exception",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "exception(timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "result",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "result(timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "running",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "running()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "set_exception",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_exception(exception)\n",
+            "parametros": [
+                {
+                    "nombre": "exception",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_result",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_result(result)\n",
+            "parametros": [
+                {
+                    "nombre": "result",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_running_or_notify_cancel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_running_or_notify_cancel()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Future",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class concurrent.futures.Future\n",
+            "parametros": []
+        }
+    ]
+}

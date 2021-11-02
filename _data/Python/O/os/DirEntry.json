@@ -1,0 +1,101 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class DirEntry\n",
+    "atributos": [
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "name\n"
+        },
+        {
+            "nombre": "path",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "path\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "inode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "inode()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_dir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_dir(*, follow_symlinks=True)\n",
+            "parametros": [
+                {
+                    "nombre": "follow_symlinks",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_file",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_file(*, follow_symlinks=True)\n",
+            "parametros": [
+                {
+                    "nombre": "follow_symlinks",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_symlink",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_symlink()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "stat",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "stat(*, follow_symlinks=True)\n",
+            "parametros": [
+                {
+                    "nombre": "follow_symlinks",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "DirEntry",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class os.DirEntry\n",
+            "parametros": []
+        }
+    ]
+}

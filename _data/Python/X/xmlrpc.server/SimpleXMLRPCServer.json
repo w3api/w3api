@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class SimpleXMLRPCServer\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "register_function",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SimpleXMLRPCServer.register_function(function=None, name=None)\n",
+            "parametros": [
+                {
+                    "nombre": "function",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register_instance",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SimpleXMLRPCServer.register_instance(instance, allow_dotted_names=False)\n",
+            "parametros": [
+                {
+                    "nombre": "instance",
+                    "description": ""
+                },
+                {
+                    "nombre": "allow_dotted_names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register_introspection_functions",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SimpleXMLRPCServer.register_introspection_functions()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "register_multicall_functions",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "SimpleXMLRPCServer.register_multicall_functions()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "SimpleXMLRPCServer",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class xmlrpc.server.SimpleXMLRPCServer(addr, requestHandler=SimpleXMLRPCRequestHandler, logRequests=True, allow_none=False, encoding=None, bind_and_activate=True, use_builtin_types=False)\n",
+            "parametros": [
+                {
+                    "nombre": "bind_and_activate",
+                    "description": ""
+                },
+                {
+                    "nombre": "logRequests",
+                    "description": ""
+                },
+                {
+                    "nombre": "allow_none",
+                    "description": ""
+                },
+                {
+                    "nombre": "addr",
+                    "description": ""
+                },
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "requestHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "use_builtin_types",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

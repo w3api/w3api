@@ -1,0 +1,383 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class ArgumentParser\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "add_argument",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.add_argument(name or flags...[, action][, nargs][, const][, default][, type][, choices][, required][, help][, metavar][, dest])\n",
+            "parametros": [
+                {
+                    "nombre": "help",
+                    "description": ""
+                },
+                {
+                    "nombre": "const",
+                    "description": ""
+                },
+                {
+                    "nombre": "required",
+                    "description": ""
+                },
+                {
+                    "nombre": "type",
+                    "description": ""
+                },
+                {
+                    "nombre": "nargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "action",
+                    "description": ""
+                },
+                {
+                    "nombre": "metavar",
+                    "description": ""
+                },
+                {
+                    "nombre": "name or flags...",
+                    "description": ""
+                },
+                {
+                    "nombre": "default",
+                    "description": ""
+                },
+                {
+                    "nombre": "dest",
+                    "description": ""
+                },
+                {
+                    "nombre": "choices",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_argument_group",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.add_argument_group(title=None, description=None)\n",
+            "parametros": [
+                {
+                    "nombre": "description",
+                    "description": ""
+                },
+                {
+                    "nombre": "title",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_mutually_exclusive_group",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.add_mutually_exclusive_group(required=False)\n",
+            "parametros": [
+                {
+                    "nombre": "required",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_subparsers",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.add_subparsers([title][, description][, prog][, parser_class][, action][, option_string][, dest][, required][, help][, metavar])\n",
+            "parametros": [
+                {
+                    "nombre": "help",
+                    "description": ""
+                },
+                {
+                    "nombre": "required",
+                    "description": ""
+                },
+                {
+                    "nombre": "prog",
+                    "description": ""
+                },
+                {
+                    "nombre": "parser_class",
+                    "description": ""
+                },
+                {
+                    "nombre": "description",
+                    "description": ""
+                },
+                {
+                    "nombre": "action",
+                    "description": ""
+                },
+                {
+                    "nombre": "metavar",
+                    "description": ""
+                },
+                {
+                    "nombre": "title",
+                    "description": ""
+                },
+                {
+                    "nombre": "dest",
+                    "description": ""
+                },
+                {
+                    "nombre": "option_string",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convert_arg_line_to_args",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.convert_arg_line_to_args(arg_line)\n",
+            "parametros": [
+                {
+                    "nombre": "arg_line",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "error",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.error(message)\n",
+            "parametros": [
+                {
+                    "nombre": "message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.exit(status=0, message=None)\n",
+            "parametros": [
+                {
+                    "nombre": "message",
+                    "description": ""
+                },
+                {
+                    "nombre": "status",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format_help",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.format_help()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "format_usage",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.format_usage()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_default",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.get_default(dest)\n",
+            "parametros": [
+                {
+                    "nombre": "dest",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse_args",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.parse_args(args=None, namespace=None)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "namespace",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse_intermixed_args",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.parse_intermixed_args(args=None, namespace=None)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "namespace",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse_known_args",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.parse_known_args(args=None, namespace=None)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "namespace",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse_known_intermixed_args",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.parse_known_intermixed_args(args=None, namespace=None)\n",
+            "parametros": [
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "namespace",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "print_help",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.print_help(file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "print_usage",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.print_usage(file=None)\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_defaults",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ArgumentParser.set_defaults(**kwargs)\n",
+            "parametros": [
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ArgumentParser",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class argparse.ArgumentParser(prog=None, usage=None, description=None, epilog=None, parents=[], formatter_class=argparse.HelpFormatter, prefix_chars='-', fromfile_prefix_chars=None, argument_default=None, conflict_handler='error', add_help=True, allow_abbrev=True, exit_on_error=True)\n",
+            "parametros": [
+                {
+                    "nombre": "formatter_class",
+                    "description": ""
+                },
+                {
+                    "nombre": "argument_default",
+                    "description": ""
+                },
+                {
+                    "nombre": "prog",
+                    "description": ""
+                },
+                {
+                    "nombre": "usage",
+                    "description": ""
+                },
+                {
+                    "nombre": "allow_abbrev",
+                    "description": ""
+                },
+                {
+                    "nombre": "add_help",
+                    "description": ""
+                },
+                {
+                    "nombre": "parents",
+                    "description": ""
+                },
+                {
+                    "nombre": "prefix_chars",
+                    "description": ""
+                },
+                {
+                    "nombre": "conflict_handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "description",
+                    "description": ""
+                },
+                {
+                    "nombre": "epilog",
+                    "description": ""
+                },
+                {
+                    "nombre": "fromfile_prefix_chars",
+                    "description": ""
+                },
+                {
+                    "nombre": "exit_on_error",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

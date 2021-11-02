@@ -1,0 +1,234 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Popen\n",
+    "atributos": [
+        {
+            "nombre": "args",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Popen.args\n"
+        },
+        {
+            "nombre": "pid",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Popen.pid\n"
+        },
+        {
+            "nombre": "returncode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Popen.returncode\n"
+        },
+        {
+            "nombre": "stderr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Popen.stderr\n"
+        },
+        {
+            "nombre": "stdin",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Popen.stdin\n"
+        },
+        {
+            "nombre": "stdout",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Popen.stdout\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "communicate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Popen.communicate(input=None, timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "input",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "kill",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Popen.kill()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "poll",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Popen.poll()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "send_signal",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Popen.send_signal(signal)\n",
+            "parametros": [
+                {
+                    "nombre": "signal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "terminate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Popen.terminate()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "wait",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Popen.wait(timeout=None)\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Popen",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class subprocess.Popen(args, bufsize=- 1, executable=None, stdin=None, stdout=None, stderr=None, preexec_fn=None, close_fds=True, shell=False, cwd=None, env=None, universal_newlines=None, startupinfo=None, creationflags=0, restore_signals=True, start_new_session=False, pass_fds=(), *, group=None, extra_groups=None, user=None, umask=- 1, encoding=None, errors=None, text=None, pipesize=- 1)\n",
+            "parametros": [
+                {
+                    "nombre": "cwd",
+                    "description": ""
+                },
+                {
+                    "nombre": "close_fds",
+                    "description": ""
+                },
+                {
+                    "nombre": "executable",
+                    "description": ""
+                },
+                {
+                    "nombre": "bufsize",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "extra_groups",
+                    "description": ""
+                },
+                {
+                    "nombre": "group",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "pipesize",
+                    "description": ""
+                },
+                {
+                    "nombre": "stdout",
+                    "description": ""
+                },
+                {
+                    "nombre": "creationflags",
+                    "description": ""
+                },
+                {
+                    "nombre": "preexec_fn",
+                    "description": ""
+                },
+                {
+                    "nombre": "pass_fds",
+                    "description": ""
+                },
+                {
+                    "nombre": "universal_newlines",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                },
+                {
+                    "nombre": "user",
+                    "description": ""
+                },
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "stderr",
+                    "description": ""
+                },
+                {
+                    "nombre": "text",
+                    "description": ""
+                },
+                {
+                    "nombre": "start_new_session",
+                    "description": ""
+                },
+                {
+                    "nombre": "stdin",
+                    "description": ""
+                },
+                {
+                    "nombre": "umask",
+                    "description": ""
+                },
+                {
+                    "nombre": "env",
+                    "description": ""
+                },
+                {
+                    "nombre": "startupinfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "restore_signals",
+                    "description": ""
+                },
+                {
+                    "nombre": "shell",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

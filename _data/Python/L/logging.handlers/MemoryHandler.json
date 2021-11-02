@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class MemoryHandler\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "flush",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "flush()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "setTarget",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "setTarget(target)\n",
+            "parametros": [
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shouldFlush",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shouldFlush(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "MemoryHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class logging.handlers.MemoryHandler(capacity, flushLevel=ERROR, target=None, flushOnClose=True)\n",
+            "parametros": [
+                {
+                    "nombre": "flushLevel",
+                    "description": ""
+                },
+                {
+                    "nombre": "capacity",
+                    "description": ""
+                },
+                {
+                    "nombre": "flushOnClose",
+                    "description": ""
+                },
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

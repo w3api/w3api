@@ -1,0 +1,160 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Charset\n",
+    "atributos": [
+        {
+            "nombre": "body_encoding",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "body_encoding\n"
+        },
+        {
+            "nombre": "header_encoding",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "header_encoding\n"
+        },
+        {
+            "nombre": "input_charset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "input_charset\n"
+        },
+        {
+            "nombre": "input_codec",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "input_codec\n"
+        },
+        {
+            "nombre": "output_charset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "output_charset\n"
+        },
+        {
+            "nombre": "output_codec",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "output_codec\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "body_encode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "body_encode(string)\n",
+            "parametros": [
+                {
+                    "nombre": "string",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_body_encoding",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_body_encoding()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "get_output_charset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_output_charset()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "header_encode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "header_encode(string)\n",
+            "parametros": [
+                {
+                    "nombre": "string",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "header_encode_lines",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "header_encode_lines(string, maxlengths)\n",
+            "parametros": [
+                {
+                    "nombre": "string",
+                    "description": ""
+                },
+                {
+                    "nombre": "maxlengths",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__eq__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__eq__(other)\n",
+            "parametros": [
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__ne__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__ne__(other)\n",
+            "parametros": [
+                {
+                    "nombre": "other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "__str__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__str__()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Charset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class email.charset.Charset(input_charset=DEFAULT_CHARSET)\n",
+            "parametros": [
+                {
+                    "nombre": "input_charset",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

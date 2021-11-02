@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class shlex\n",
+    "atributos": [
+        {
+            "nombre": "commenters",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.commenters\n"
+        },
+        {
+            "nombre": "debug",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.debug\n"
+        },
+        {
+            "nombre": "eof",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.eof\n"
+        },
+        {
+            "nombre": "escape",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.escape\n"
+        },
+        {
+            "nombre": "escapedquotes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.escapedquotes\n"
+        },
+        {
+            "nombre": "infile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.infile\n"
+        },
+        {
+            "nombre": "instream",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.instream\n"
+        },
+        {
+            "nombre": "lineno",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.lineno\n"
+        },
+        {
+            "nombre": "punctuation_chars",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.punctuation_chars\n"
+        },
+        {
+            "nombre": "quotes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.quotes\n"
+        },
+        {
+            "nombre": "source",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.source\n"
+        },
+        {
+            "nombre": "token",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.token\n"
+        },
+        {
+            "nombre": "whitespace",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.whitespace\n"
+        },
+        {
+            "nombre": "whitespace_split",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.whitespace_split\n"
+        },
+        {
+            "nombre": "wordchars",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.wordchars\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "error_leader",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.error_leader(infile=None, lineno=None)\n",
+            "parametros": [
+                {
+                    "nombre": "infile",
+                    "description": ""
+                },
+                {
+                    "nombre": "lineno",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_token",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.get_token()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "pop_source",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.pop_source()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "push_source",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.push_source(newstream, newfile=None)\n",
+            "parametros": [
+                {
+                    "nombre": "newfile",
+                    "description": ""
+                },
+                {
+                    "nombre": "newstream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "push_token",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.push_token(str)\n",
+            "parametros": [
+                {
+                    "nombre": "str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read_token",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.read_token()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "sourcehook",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shlex.sourcehook(filename)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "shlex",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class shlex.shlex(instream=None, infile=None, posix=False, punctuation_chars=False)\n",
+            "parametros": [
+                {
+                    "nombre": "infile",
+                    "description": ""
+                },
+                {
+                    "nombre": "instream",
+                    "description": ""
+                },
+                {
+                    "nombre": "punctuation_chars",
+                    "description": ""
+                },
+                {
+                    "nombre": "posix",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

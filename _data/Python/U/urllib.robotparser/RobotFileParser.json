@@ -1,0 +1,125 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class RobotFileParser\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "can_fetch",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "can_fetch(useragent, url)\n",
+            "parametros": [
+                {
+                    "nombre": "useragent",
+                    "description": ""
+                },
+                {
+                    "nombre": "url",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "crawl_delay",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "crawl_delay(useragent)\n",
+            "parametros": [
+                {
+                    "nombre": "useragent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modified",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "modified()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "mtime",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "mtime()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "parse(lines)\n",
+            "parametros": [
+                {
+                    "nombre": "lines",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "request_rate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "request_rate(useragent)\n",
+            "parametros": [
+                {
+                    "nombre": "useragent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_url",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "set_url(url)\n",
+            "parametros": [
+                {
+                    "nombre": "url",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "site_maps",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "site_maps()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "RobotFileParser",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class urllib.robotparser.RobotFileParser(url='')\n",
+            "parametros": [
+                {
+                    "nombre": "url",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class TopologicalSorter\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "add(node, *predecessors)\n",
+            "parametros": [
+                {
+                    "nombre": "node",
+                    "description": ""
+                },
+                {
+                    "nombre": "predecessors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "done",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "done(*nodes)\n",
+            "parametros": [
+                {
+                    "nombre": "nodes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_ready",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_ready()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_active",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_active()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "prepare",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "prepare()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "static_order",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "static_order()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "TopologicalSorter",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class graphlib.TopologicalSorter(graph=None)\n",
+            "parametros": [
+                {
+                    "nombre": "graph",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

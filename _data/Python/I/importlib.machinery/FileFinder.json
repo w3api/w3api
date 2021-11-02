@@ -1,0 +1,87 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class FileFinder\n",
+    "atributos": [
+        {
+            "nombre": "path",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "path\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "find_loader",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "find_loader(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "find_spec",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "find_spec(fullname, target=None)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                },
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invalidate_caches",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "invalidate_caches()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "path_hook",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod path_hook(*loader_details)\n",
+            "parametros": [
+                {
+                    "nombre": "loader_details",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "FileFinder",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class importlib.machinery.FileFinder(path, *loader_details)\n",
+            "parametros": [
+                {
+                    "nombre": "loader_details",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

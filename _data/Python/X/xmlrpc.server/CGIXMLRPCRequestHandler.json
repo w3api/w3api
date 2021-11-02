@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class CGIXMLRPCRequestHandler\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "handle_request",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CGIXMLRPCRequestHandler.handle_request(request_text=None)\n",
+            "parametros": [
+                {
+                    "nombre": "request_text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register_function",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CGIXMLRPCRequestHandler.register_function(function=None, name=None)\n",
+            "parametros": [
+                {
+                    "nombre": "function",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register_instance",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CGIXMLRPCRequestHandler.register_instance(instance)\n",
+            "parametros": [
+                {
+                    "nombre": "instance",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register_introspection_functions",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CGIXMLRPCRequestHandler.register_introspection_functions()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "register_multicall_functions",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CGIXMLRPCRequestHandler.register_multicall_functions()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "CGIXMLRPCRequestHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class xmlrpc.server.CGIXMLRPCRequestHandler(allow_none=False, encoding=None, use_builtin_types=False)\n",
+            "parametros": [
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "use_builtin_types",
+                    "description": ""
+                },
+                {
+                    "nombre": "allow_none",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

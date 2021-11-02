@@ -1,0 +1,189 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Packer\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "get_buffer",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Packer.get_buffer()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "pack_array",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Packer.pack_array(list, pack_item)\n",
+            "parametros": [
+                {
+                    "nombre": "list",
+                    "description": ""
+                },
+                {
+                    "nombre": "pack_item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pack_bytes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Packer.pack_bytes(bytes)\n",
+            "parametros": [
+                {
+                    "nombre": "bytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pack_double",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Packer.pack_double(value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pack_farray",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Packer.pack_farray(n, array, pack_item)\n",
+            "parametros": [
+                {
+                    "nombre": "array",
+                    "description": ""
+                },
+                {
+                    "nombre": "pack_item",
+                    "description": ""
+                },
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pack_float",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Packer.pack_float(value)\n",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pack_fopaque",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Packer.pack_fopaque(n, data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                },
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pack_fstring",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Packer.pack_fstring(n, s)\n",
+            "parametros": [
+                {
+                    "nombre": "s",
+                    "description": ""
+                },
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pack_list",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Packer.pack_list(list, pack_item)\n",
+            "parametros": [
+                {
+                    "nombre": "list",
+                    "description": ""
+                },
+                {
+                    "nombre": "pack_item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pack_opaque",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Packer.pack_opaque(data)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pack_string",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Packer.pack_string(s)\n",
+            "parametros": [
+                {
+                    "nombre": "s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "Packer.reset()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Packer",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class xdrlib.Packer\n",
+            "parametros": []
+        }
+    ]
+}

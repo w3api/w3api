@@ -1,0 +1,168 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class HTTPRedirectHandler\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "http_error_301",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPRedirectHandler.http_error_301(req, fp, code, msg, hdrs)\n",
+            "parametros": [
+                {
+                    "nombre": "fp",
+                    "description": ""
+                },
+                {
+                    "nombre": "code",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "req",
+                    "description": ""
+                },
+                {
+                    "nombre": "hdrs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "http_error_302",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPRedirectHandler.http_error_302(req, fp, code, msg, hdrs)\n",
+            "parametros": [
+                {
+                    "nombre": "fp",
+                    "description": ""
+                },
+                {
+                    "nombre": "code",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "req",
+                    "description": ""
+                },
+                {
+                    "nombre": "hdrs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "http_error_303",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPRedirectHandler.http_error_303(req, fp, code, msg, hdrs)\n",
+            "parametros": [
+                {
+                    "nombre": "fp",
+                    "description": ""
+                },
+                {
+                    "nombre": "code",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "req",
+                    "description": ""
+                },
+                {
+                    "nombre": "hdrs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "http_error_307",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPRedirectHandler.http_error_307(req, fp, code, msg, hdrs)\n",
+            "parametros": [
+                {
+                    "nombre": "fp",
+                    "description": ""
+                },
+                {
+                    "nombre": "code",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "req",
+                    "description": ""
+                },
+                {
+                    "nombre": "hdrs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "redirect_request",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "HTTPRedirectHandler.redirect_request(req, fp, code, msg, hdrs, newurl)\n",
+            "parametros": [
+                {
+                    "nombre": "fp",
+                    "description": ""
+                },
+                {
+                    "nombre": "code",
+                    "description": ""
+                },
+                {
+                    "nombre": "msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "newurl",
+                    "description": ""
+                },
+                {
+                    "nombre": "req",
+                    "description": ""
+                },
+                {
+                    "nombre": "hdrs",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "HTTPRedirectHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class urllib.request.HTTPRedirectHandler\n",
+            "parametros": []
+        }
+    ]
+}

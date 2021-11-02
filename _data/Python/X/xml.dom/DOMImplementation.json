@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class DOMImplementation\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "createDocument",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DOMImplementation.createDocument(namespaceUri, qualifiedName, doctype)\n",
+            "parametros": [
+                {
+                    "nombre": "doctype",
+                    "description": ""
+                },
+                {
+                    "nombre": "namespaceUri",
+                    "description": ""
+                },
+                {
+                    "nombre": "qualifiedName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDocumentType",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DOMImplementation.createDocumentType(qualifiedName, publicId, systemId)\n",
+            "parametros": [
+                {
+                    "nombre": "publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "qualifiedName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasFeature",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "DOMImplementation.hasFeature(feature, version)\n",
+            "parametros": [
+                {
+                    "nombre": "feature",
+                    "description": ""
+                },
+                {
+                    "nombre": "version",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": []
+}

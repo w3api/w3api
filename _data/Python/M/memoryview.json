@@ -1,0 +1,193 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class memoryview\n",
+    "atributos": [
+        {
+            "nombre": "contiguous",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "contiguous\n"
+        },
+        {
+            "nombre": "c_contiguous",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "c_contiguous\n"
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "format\n"
+        },
+        {
+            "nombre": "f_contiguous",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "f_contiguous\n"
+        },
+        {
+            "nombre": "itemsize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "itemsize\n"
+        },
+        {
+            "nombre": "nbytes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "nbytes\n"
+        },
+        {
+            "nombre": "ndim",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ndim\n"
+        },
+        {
+            "nombre": "obj",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "obj\n"
+        },
+        {
+            "nombre": "readonly",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "readonly\n"
+        },
+        {
+            "nombre": "shape",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shape\n"
+        },
+        {
+            "nombre": "strides",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "strides\n"
+        },
+        {
+            "nombre": "suboffsets",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "suboffsets\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cast",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "cast(format[, shape])\n",
+            "parametros": [
+                {
+                    "nombre": "format",
+                    "description": ""
+                },
+                {
+                    "nombre": "shape",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hex",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "hex([sep[, bytes_per_sep]])\n",
+            "parametros": [
+                {
+                    "nombre": "bytes_per_sep",
+                    "description": ""
+                },
+                {
+                    "nombre": "sep",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "release",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "release()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "tobytes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "tobytes(order=None)\n",
+            "parametros": [
+                {
+                    "nombre": "order",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tolist",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "tolist()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "toreadonly",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "toreadonly()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "__eq__",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "__eq__(exporter)\n",
+            "parametros": [
+                {
+                    "nombre": "exporter",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "memoryview",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class memoryview(object)\n",
+            "parametros": [
+                {
+                    "nombre": "object",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+---
+title: urllib.robotparser.RobotFileParser.RobotFileParser
+permalink: /Python/urllib-robotparser/RobotFileParser/RobotFileParser/
+date: 2021-01-01
+key: Python.U.urllib.robotparser.RobotFileParser.RobotFileParser
+category: python
+tags: ['constructor python', 'urllib-robotparser']
+sidebar: 
+  nav: python
+---
+
+{% include w3api/datos.html clase=site.data.Python.U.urllibrobotparser.RobotFileParser.constructores valor="RobotFileParser" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~python
+{{ _dato.sintaxis }}~~~
+
+## Parámetros
+* **url**,  {% include w3api/function_param_description.html propiedad=site.data.Python.U.urllib.robotparser.RobotFileParser.RobotFileParser valor="url" %}
+
+## Clase Padre
+[RobotFileParser](/Python/urllib-robotparser/RobotFileParser/)
+
+## Ejemplo
+~~~python
+{{ _dato.code}}
+~~~
+
+## Artículos
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

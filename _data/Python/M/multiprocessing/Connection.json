@@ -1,0 +1,120 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Connection\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "fileno",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "fileno()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "poll",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "poll([timeout])\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "recv",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "recv()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "recv_bytes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "recv_bytes([maxlength])\n",
+            "parametros": [
+                {
+                    "nombre": "maxlength",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "recv_bytes_into",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "recv_bytes_into(buffer[, offset])\n",
+            "parametros": [
+                {
+                    "nombre": "buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "send(obj)\n",
+            "parametros": [
+                {
+                    "nombre": "obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send_bytes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "send_bytes(buffer[, offset[, size]])\n",
+            "parametros": [
+                {
+                    "nombre": "buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "size",
+                    "description": ""
+                },
+                {
+                    "nombre": "offset",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Connection",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class multiprocessing.connection.Connection\n",
+            "parametros": []
+        }
+    ]
+}

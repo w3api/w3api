@@ -1,0 +1,66 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class ResourceReader\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "contents",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod contents()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_resource",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod is_resource(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "open_resource",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod open_resource(resource)\n",
+            "parametros": [
+                {
+                    "nombre": "resource",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resource_path",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "abstractmethod resource_path(resource)\n",
+            "parametros": [
+                {
+                    "nombre": "resource",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ResourceReader",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class importlib.abc.ResourceReader\n",
+            "parametros": []
+        }
+    ]
+}

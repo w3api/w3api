@@ -1,0 +1,152 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class Process\n",
+    "atributos": [
+        {
+            "nombre": "authkey",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "authkey\n"
+        },
+        {
+            "nombre": "daemon",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "daemon\n"
+        },
+        {
+            "nombre": "exitcode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "exitcode\n"
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "name\n"
+        },
+        {
+            "nombre": "pid",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "pid\n"
+        },
+        {
+            "nombre": "sentinel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "sentinel\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "is_alive",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_alive()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "join",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "join([timeout])\n",
+            "parametros": [
+                {
+                    "nombre": "timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "kill",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "kill()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "run",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "run()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "start",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "start()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "terminate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "terminate()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Process",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class multiprocessing.Process(group=None, target=None, name=None, args=(), kwargs={}, *, daemon=None)\n",
+            "parametros": [
+                {
+                    "nombre": "group",
+                    "description": ""
+                },
+                {
+                    "nombre": "args",
+                    "description": ""
+                },
+                {
+                    "nombre": "kwargs",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "daemon",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "target",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

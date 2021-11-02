@@ -1,0 +1,121 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class ExtensionFileLoader\n",
+    "atributos": [
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "name\n"
+        },
+        {
+            "nombre": "path",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "path\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "create_module",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "create_module(spec)\n",
+            "parametros": [
+                {
+                    "nombre": "spec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exec_module",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "exec_module(module)\n",
+            "parametros": [
+                {
+                    "nombre": "module",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_code",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_code(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_filename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_filename(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_source",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "get_source(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_package",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "is_package(fullname)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ExtensionFileLoader",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class importlib.machinery.ExtensionFileLoader(fullname, path)\n",
+            "parametros": [
+                {
+                    "nombre": "fullname",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class CookiePolicy\n",
+    "atributos": [
+        {
+            "nombre": "hide_cookie2",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookiePolicy.hide_cookie2\n"
+        },
+        {
+            "nombre": "netscape",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookiePolicy.netscape\n"
+        },
+        {
+            "nombre": "rfc2965",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookiePolicy.rfc2965\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "domain_return_ok",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookiePolicy.domain_return_ok(domain, request)\n",
+            "parametros": [
+                {
+                    "nombre": "domain",
+                    "description": ""
+                },
+                {
+                    "nombre": "request",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "path_return_ok",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookiePolicy.path_return_ok(path, request)\n",
+            "parametros": [
+                {
+                    "nombre": "request",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "return_ok",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookiePolicy.return_ok(cookie, request)\n",
+            "parametros": [
+                {
+                    "nombre": "cookie",
+                    "description": ""
+                },
+                {
+                    "nombre": "request",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_ok",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "CookiePolicy.set_ok(cookie, request)\n",
+            "parametros": [
+                {
+                    "nombre": "cookie",
+                    "description": ""
+                },
+                {
+                    "nombre": "request",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "CookiePolicy",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class http.cookiejar.CookiePolicy\n",
+            "parametros": []
+        }
+    ]
+}

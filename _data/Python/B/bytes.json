@@ -1,0 +1,625 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class bytes\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "capitalize",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.capitalize()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "center",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.center(width[, fillbyte])\n",
+            "parametros": [
+                {
+                    "nombre": "width",
+                    "description": ""
+                },
+                {
+                    "nombre": "fillbyte",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "count",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.count(sub[, start[, end]])\n",
+            "parametros": [
+                {
+                    "nombre": "sub",
+                    "description": ""
+                },
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decode",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.decode(encoding='utf-8', errors='strict')\n",
+            "parametros": [
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endswith",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.endswith(suffix[, start[, end]])\n",
+            "parametros": [
+                {
+                    "nombre": "end",
+                    "description": ""
+                },
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "suffix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "expandtabs",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.expandtabs(tabsize=8)\n",
+            "parametros": [
+                {
+                    "nombre": "tabsize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "find",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.find(sub[, start[, end]])\n",
+            "parametros": [
+                {
+                    "nombre": "sub",
+                    "description": ""
+                },
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromhex",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "classmethod fromhex(string)\n",
+            "parametros": [
+                {
+                    "nombre": "string",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hex",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "hex([sep[, bytes_per_sep]])\n",
+            "parametros": [
+                {
+                    "nombre": "bytes_per_sep",
+                    "description": ""
+                },
+                {
+                    "nombre": "sep",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "index",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.index(sub[, start[, end]])\n",
+            "parametros": [
+                {
+                    "nombre": "sub",
+                    "description": ""
+                },
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isalnum",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.isalnum()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isalpha",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.isalpha()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isascii",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.isascii()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isdigit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.isdigit()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "islower",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.islower()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isspace",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.isspace()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "istitle",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.istitle()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "isupper",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.isupper()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "join",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.join(iterable)\n",
+            "parametros": [
+                {
+                    "nombre": "iterable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ljust",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.ljust(width[, fillbyte])\n",
+            "parametros": [
+                {
+                    "nombre": "width",
+                    "description": ""
+                },
+                {
+                    "nombre": "fillbyte",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lower",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.lower()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "lstrip",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.lstrip([chars])\n",
+            "parametros": [
+                {
+                    "nombre": "chars",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "maketrans",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "static bytes.maketrans(from, to)\n",
+            "parametros": [
+                {
+                    "nombre": "to",
+                    "description": ""
+                },
+                {
+                    "nombre": "from",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "partition",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.partition(sep)\n",
+            "parametros": [
+                {
+                    "nombre": "sep",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeprefix",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.removeprefix(prefix, /)\n",
+            "parametros": [
+                {
+                    "nombre": "prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "/",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removesuffix",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.removesuffix(suffix, /)\n",
+            "parametros": [
+                {
+                    "nombre": "/",
+                    "description": ""
+                },
+                {
+                    "nombre": "suffix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.replace(old, new[, count])\n",
+            "parametros": [
+                {
+                    "nombre": "count",
+                    "description": ""
+                },
+                {
+                    "nombre": "old",
+                    "description": ""
+                },
+                {
+                    "nombre": "new",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rfind",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.rfind(sub[, start[, end]])\n",
+            "parametros": [
+                {
+                    "nombre": "sub",
+                    "description": ""
+                },
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rindex",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.rindex(sub[, start[, end]])\n",
+            "parametros": [
+                {
+                    "nombre": "sub",
+                    "description": ""
+                },
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rjust",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.rjust(width[, fillbyte])\n",
+            "parametros": [
+                {
+                    "nombre": "width",
+                    "description": ""
+                },
+                {
+                    "nombre": "fillbyte",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rpartition",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.rpartition(sep)\n",
+            "parametros": [
+                {
+                    "nombre": "sep",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rsplit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.rsplit(sep=None, maxsplit=- 1)\n",
+            "parametros": [
+                {
+                    "nombre": "sep",
+                    "description": ""
+                },
+                {
+                    "nombre": "maxsplit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rstrip",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.rstrip([chars])\n",
+            "parametros": [
+                {
+                    "nombre": "chars",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "split",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.split(sep=None, maxsplit=- 1)\n",
+            "parametros": [
+                {
+                    "nombre": "sep",
+                    "description": ""
+                },
+                {
+                    "nombre": "maxsplit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "splitlines",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.splitlines(keepends=False)\n",
+            "parametros": [
+                {
+                    "nombre": "keepends",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startswith",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.startswith(prefix[, start[, end]])\n",
+            "parametros": [
+                {
+                    "nombre": "end",
+                    "description": ""
+                },
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strip",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.strip([chars])\n",
+            "parametros": [
+                {
+                    "nombre": "chars",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "swapcase",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.swapcase()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "title",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.title()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "translate",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.translate(table, /, delete=b'')\n",
+            "parametros": [
+                {
+                    "nombre": "table",
+                    "description": ""
+                },
+                {
+                    "nombre": "delete",
+                    "description": ""
+                },
+                {
+                    "nombre": "/",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "upper",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.upper()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "zfill",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "bytes.zfill(width)\n",
+            "parametros": [
+                {
+                    "nombre": "width",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "bytes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class bytes([source[, encoding[, errors]]])\n",
+            "parametros": [
+                {
+                    "nombre": "source",
+                    "description": ""
+                },
+                {
+                    "nombre": "encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

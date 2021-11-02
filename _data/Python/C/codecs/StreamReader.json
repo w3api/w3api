@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class StreamReader\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "read",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read([size[, chars[, firstline]]])\n",
+            "parametros": [
+                {
+                    "nombre": "firstline",
+                    "description": ""
+                },
+                {
+                    "nombre": "size",
+                    "description": ""
+                },
+                {
+                    "nombre": "chars",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readline",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "readline([size[, keepends]])\n",
+            "parametros": [
+                {
+                    "nombre": "keepends",
+                    "description": ""
+                },
+                {
+                    "nombre": "size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readlines",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "readlines([sizehint[, keepends]])\n",
+            "parametros": [
+                {
+                    "nombre": "keepends",
+                    "description": ""
+                },
+                {
+                    "nombre": "sizehint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "reset()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "StreamReader",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class codecs.StreamReader(stream, errors='strict')\n",
+            "parametros": [
+                {
+                    "nombre": "stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "errors",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

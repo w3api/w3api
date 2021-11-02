@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class MemoryBIO\n",
+    "atributos": [
+        {
+            "nombre": "eof",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "eof\n"
+        },
+        {
+            "nombre": "pending",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "pending\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "read",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read(n=- 1)\n",
+            "parametros": [
+                {
+                    "nombre": "n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "write(buf)\n",
+            "parametros": [
+                {
+                    "nombre": "buf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_eof",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "write_eof()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "MemoryBIO",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class ssl.MemoryBIO\n",
+            "parametros": []
+        }
+    ]
+}

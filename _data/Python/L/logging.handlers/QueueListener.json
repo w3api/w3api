@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class QueueListener\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "dequeue",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "dequeue(block)\n",
+            "parametros": [
+                {
+                    "nombre": "block",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "enqueue_sentinel",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "enqueue_sentinel()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "handle",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "handle(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepare",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "prepare(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "start()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "stop",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "stop()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "QueueListener",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class logging.handlers.QueueListener(queue, *handlers, respect_handler_level=False)\n",
+            "parametros": [
+                {
+                    "nombre": "handlers",
+                    "description": ""
+                },
+                {
+                    "nombre": "queue",
+                    "description": ""
+                },
+                {
+                    "nombre": "respect_handler_level",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

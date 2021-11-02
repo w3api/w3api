@@ -1,0 +1,274 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class ZipFile\n",
+    "atributos": [
+        {
+            "nombre": "comment",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.comment\n"
+        },
+        {
+            "nombre": "debug",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.debug\n"
+        },
+        {
+            "nombre": "filename",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.filename\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "extract",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.extract(member, path=None, pwd=None)\n",
+            "parametros": [
+                {
+                    "nombre": "pwd",
+                    "description": ""
+                },
+                {
+                    "nombre": "member",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "extractall",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.extractall(path=None, members=None, pwd=None)\n",
+            "parametros": [
+                {
+                    "nombre": "pwd",
+                    "description": ""
+                },
+                {
+                    "nombre": "members",
+                    "description": ""
+                },
+                {
+                    "nombre": "path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getinfo",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.getinfo(name)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "infolist",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.infolist()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "namelist",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.namelist()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.open(name, mode='r', pwd=None, *, force_zip64=False)\n",
+            "parametros": [
+                {
+                    "nombre": "force_zip64",
+                    "description": ""
+                },
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "pwd",
+                    "description": ""
+                },
+                {
+                    "nombre": "mode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "printdir",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.printdir()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.read(name, pwd=None)\n",
+            "parametros": [
+                {
+                    "nombre": "name",
+                    "description": ""
+                },
+                {
+                    "nombre": "pwd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setpassword",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.setpassword(pwd)\n",
+            "parametros": [
+                {
+                    "nombre": "pwd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "testzip",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.testzip()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.write(filename, arcname=None, compress_type=None, compresslevel=None)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "arcname",
+                    "description": ""
+                },
+                {
+                    "nombre": "compress_type",
+                    "description": ""
+                },
+                {
+                    "nombre": "compresslevel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writestr",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "ZipFile.writestr(zinfo_or_arcname, data, compress_type=None, compresslevel=None)\n",
+            "parametros": [
+                {
+                    "nombre": "data",
+                    "description": ""
+                },
+                {
+                    "nombre": "compress_type",
+                    "description": ""
+                },
+                {
+                    "nombre": "zinfo_or_arcname",
+                    "description": ""
+                },
+                {
+                    "nombre": "compresslevel",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ZipFile",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class zipfile.ZipFile(file, mode='r', compression=ZIP_STORED, allowZip64=True, compresslevel=None, *, strict_timestamps=True)\nclass zipfile.ZipFile\n",
+            "parametros": [
+                {
+                    "nombre": "file",
+                    "description": ""
+                },
+                {
+                    "nombre": "allowZip64",
+                    "description": ""
+                },
+                {
+                    "nombre": "compression",
+                    "description": ""
+                },
+                {
+                    "nombre": "*",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict_timestamps",
+                    "description": ""
+                },
+                {
+                    "nombre": "mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "compresslevel",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

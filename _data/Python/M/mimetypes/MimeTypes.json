@@ -1,0 +1,155 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class MimeTypes\n",
+    "atributos": [
+        {
+            "nombre": "encodings_map",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "encodings_map\n"
+        },
+        {
+            "nombre": "suffix_map",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "suffix_map\n"
+        },
+        {
+            "nombre": "types_map",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "types_map\n"
+        },
+        {
+            "nombre": "types_map_inv",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "types_map_inv\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "guess_all_extensions",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "guess_all_extensions(type, strict=True)\n",
+            "parametros": [
+                {
+                    "nombre": "type",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "guess_extension",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "guess_extension(type, strict=True)\n",
+            "parametros": [
+                {
+                    "nombre": "type",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "guess_type",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "guess_type(url, strict=True)\n",
+            "parametros": [
+                {
+                    "nombre": "url",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read(filename, strict=True)\n",
+            "parametros": [
+                {
+                    "nombre": "filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readfp",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "readfp(fp, strict=True)\n",
+            "parametros": [
+                {
+                    "nombre": "fp",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read_windows_registry",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "read_windows_registry(strict=True)\n",
+            "parametros": [
+                {
+                    "nombre": "strict",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "MimeTypes",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class mimetypes.MimeTypes(filenames=(), strict=True)\n",
+            "parametros": [
+                {
+                    "nombre": "filenames",
+                    "description": ""
+                },
+                {
+                    "nombre": "strict",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

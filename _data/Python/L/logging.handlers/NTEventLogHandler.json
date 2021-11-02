@@ -1,0 +1,92 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class NTEventLogHandler\n",
+    "atributos": [],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "close()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "emit",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "emit(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEventCategory",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "getEventCategory(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEventType",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "getEventType(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMessageID",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "getMessageID(record)\n",
+            "parametros": [
+                {
+                    "nombre": "record",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "NTEventLogHandler",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class logging.handlers.NTEventLogHandler(appname, dllname=None, logtype='Application')\n",
+            "parametros": [
+                {
+                    "nombre": "appname",
+                    "description": ""
+                },
+                {
+                    "nombre": "logtype",
+                    "description": ""
+                },
+                {
+                    "nombre": "dllname",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

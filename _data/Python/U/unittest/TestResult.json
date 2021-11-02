@@ -1,0 +1,263 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "sintaxis": "class TestResult\n",
+    "atributos": [
+        {
+            "nombre": "buffer",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "buffer\n"
+        },
+        {
+            "nombre": "errors",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "errors\n"
+        },
+        {
+            "nombre": "expectedFailures",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "expectedFailures\n"
+        },
+        {
+            "nombre": "failfast",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "failfast\n"
+        },
+        {
+            "nombre": "failures",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "failures\n"
+        },
+        {
+            "nombre": "shouldStop",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "shouldStop\n"
+        },
+        {
+            "nombre": "skipped",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "skipped\n"
+        },
+        {
+            "nombre": "tb_locals",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "tb_locals\n"
+        },
+        {
+            "nombre": "testsRun",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "testsRun\n"
+        },
+        {
+            "nombre": "unexpectedSuccesses",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "unexpectedSuccesses\n"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addError",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "addError(test, err)\n",
+            "parametros": [
+                {
+                    "nombre": "err",
+                    "description": ""
+                },
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addExpectedFailure",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "addExpectedFailure(test, err)\n",
+            "parametros": [
+                {
+                    "nombre": "err",
+                    "description": ""
+                },
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addFailure",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "addFailure(test, err)\n",
+            "parametros": [
+                {
+                    "nombre": "err",
+                    "description": ""
+                },
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addSkip",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "addSkip(test, reason)\n",
+            "parametros": [
+                {
+                    "nombre": "reason",
+                    "description": ""
+                },
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addSubTest",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "addSubTest(test, subtest, outcome)\n",
+            "parametros": [
+                {
+                    "nombre": "subtest",
+                    "description": ""
+                },
+                {
+                    "nombre": "outcome",
+                    "description": ""
+                },
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addSuccess",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "addSuccess(test)\n",
+            "parametros": [
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addUnexpectedSuccess",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "addUnexpectedSuccess(test)\n",
+            "parametros": [
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startTest",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "startTest(test)\n",
+            "parametros": [
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startTestRun",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "startTestRun()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "stop",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "stop()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "stopTest",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "stopTest(test)\n",
+            "parametros": [
+                {
+                    "nombre": "test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stopTestRun",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "stopTestRun()\n",
+            "parametros": []
+        },
+        {
+            "nombre": "wasSuccessful",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "wasSuccessful()\n",
+            "parametros": []
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "TestResult",
+            "description": "",
+            "code": "",
+            "ldc": [],
+            "sintaxis": "class unittest.TestResult\n",
+            "parametros": []
+        }
+    ]
+}
