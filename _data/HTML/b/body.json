@@ -46,62 +46,62 @@
         },
         {
             "nombre": "onmessageerror",
-            "description": "",
-            "code": "",
+            "description": "El evento **onmessageerror** se genera cuando llega un mensaje del tipo ***messageerror*** a la ventana del navegador. Esto sucede cuando el mensaje recibido no puede ser deserializado.",
+            "code": "<body onmessageerror=\"mensajeErrorRecibido(event);\">    \n    <script>\n        function mensajeErrorRecibido(e) {\n            console.log(\"Mensaje Error Recibido\");\n            console.error(e);\n        }\n    </script>\n</body>",
             "ldc": []
         },
         {
             "nombre": "onoffline",
-            "description": "",
-            "code": "",
+            "description": "El evento **offline** es generado por la ventana cuando se pierde la conexión a internet. La propiedad `window.navigator.onLine` cambia su valor a `false`.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Dectectar Offline/OnLine</title>\n\n    \n</head>\n<body>\n\n    <h1>Dectectar Offline/OnLine</h1>\n\n    El navegador está en modo <strong><span id=\"mode\"></span></strong>\n\n\n    <script>\n        window.addEventListener(\"offline\",function(e){\n            console.log(\"Conexión perdida\")\n            texto = document.getElementById(\"mode\");\n            texto.innerHTML = \"OffLine\";\n        });\n\n        window.addEventListener(\"online\",function(e){\n            console.log(\"Conexión establecida\")\n            texto = document.getElementById(\"mode\");\n            texto.innerHTML = \"OnLine\";\n        });\n\n        texto = document.getElementById(\"mode\");\n        modo = (window.navigator.onLine)?\"OnLine\":\"OffLine\";\n        texto.innerHTML = modo;\n        console.log(\"Conexión Inicial \" + modo);\n\n    </script>\n    \n</body>\n</html>",
             "ldc": []
         },
         {
             "nombre": "ononline",
-            "description": "",
-            "code": "",
+            "description": "El evento **online** se genera cuando la ventana del navegador comprueba que ha recuperado la conexión a internet. La propiedad `window.navigator.onLine` cambia su valor a `true`.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Dectectar Offline/OnLine</title>\n\n    \n</head>\n<body>\n\n    <h1>Dectectar Offline/OnLine</h1>\n\n    El navegador está en modo <strong><span id=\"mode\"></span></strong>\n\n\n    <script>\n        window.addEventListener(\"offline\",function(e){\n            console.log(\"Conexión perdida\")\n            texto = document.getElementById(\"mode\");\n            texto.innerHTML = \"OffLine\";\n        });\n\n        window.addEventListener(\"online\",function(e){\n            console.log(\"Conexión establecida\")\n            texto = document.getElementById(\"mode\");\n            texto.innerHTML = \"OnLine\";\n        });\n\n        texto = document.getElementById(\"mode\");\n        modo = (window.navigator.onLine)?\"OnLine\":\"OffLine\";\n        texto.innerHTML = modo;\n        console.log(\"Conexión Inicial \" + modo);\n\n    </script>\n    \n</body>\n</html>",
             "ldc": []
         },
         {
             "nombre": "onpagehide",
-            "description": "",
-            "code": "",
+            "description": "El evento **onpagehide** se lanza cuando el usuario abandona la página en la que estamos. Ya sea porque navegamos mediante un enlace, damos a actualizar la página, cerramos la ventana del navegador, navegamos en el historial del navegador,...\n\nExiste también el evento **[onunload](/HTML/body/onunload/)** para poder realizar la misma gestión. Pero en el caso del **[onunload](/HTML/body/onunload/)** la página no es cacheada.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Abandonar Página</title>\n</head>\n<body>\n\n    <h1>Abandonar Página</h1>\n\n    <script>\n\n        window.addEventListener(\"pagehide\",function(e){\n            console.log(\"Se abandona la página\");            \n        },false);\n\n    </script>\n    \n</body>\n</html>",
             "ldc": []
         },
         {
             "nombre": "onpageshow",
-            "description": "",
-            "code": "",
+            "description": "El evento **onpageshow** se registra cuando el navegador muestra uno de los documentos del historial. Bien si es debido a la carga inicial del documento, o porque navegamos al documento desde otra página o porque se recupera la página de la caché o porque estamos navegando por el historial de navegación.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Mostrar Página</title>\n</head>\n<body>\n\n    <h1>Mostrar Página</h1>\n\n    <script>\n\n        window.addEventListener(\"pageshow\",function(e){\n            console.log(\"La página se ha mostrado\");            \n        },false);\n\n    </script>\n    \n</body>\n</html>",
             "ldc": []
         },
         {
             "nombre": "onpopstate",
-            "description": "",
-            "code": "",
+            "description": "El evento **popstate** se produce cada vez que hay un cambio en la navegación sobre el historial del navegador.\n\nPara podernos mover por el historial se tiene que haber cargado con información mediante el método `history.pushState()` o el método `history.replaceState()`.\n\nEn el atributo `state` del evento nos vendrá información sobre el estado del historial al que nos hayamos movido.",
+            "code": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Evento Estados History API</title>\n\n</head>\n<body>\n\n<h1>Evento Estados History API</h1>\n<p> Prueba a moverte por el historial con los botones de back y forward.</p>\n\n<article>\n  <h2>Salida</h2>\n  <div id=\"salida\"></div>\n</article>\n\n<script>\n\n  var consola = document.getElementById(\"salida\");\n  function escribir(texto) {\n    actual = consola.innerHTML\n    consola.innerHTML = actual + \"<br>\" + texto;\n  }\n\n  window.onpopstate = function(event) {\n      escribir(\"Te has desplazado a \" + JSON.stringify(event.state));\n    };\n\n  history.pushState({ pagina: \"1\" }, \"Titulo 1\", \"history-states-event.html#p1\");\n  escribir(\"Hemos añadido el estado \" + JSON.stringify(history.state));\n\n  history.pushState({ pagina: \"2\" }, \"Titulo 2\", \"history-states-event.html#p2\");\n  escribir(\"Hemos añadido el estado \" +  JSON.stringify(history.state));\n\n  escribir(\"El número de estados es de \" + history.length);\n\n</script>\n\n</body>\n</html>",
             "ldc": []
         },
         {
             "nombre": "onrejectionhandled",
-            "description": "",
-            "code": "",
+            "description": "El evento **onrejectionhandled** se registra cuando se ha producido un rechado de una promesa y esta ha sido manejada. Es decir, se ha ejecutado su método `.catch`.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Gestionar Promesas Rechazadas</title>\n</head>\n<body>\n\n    <h1>Gestionar Promesas Rechazadas</h1>\n\n    <script>\n\n\n        window.addEventListener(\"rejectionhandled\", function(event) {            \n            console.log(\"Promesa Manejada rechazada. Razón: \" + event.reason);\n        }, false);\n\n        window.addEventListener(\"unhandledrejection\", function(event) {            \n            console.log(\"Promesa Sin Manejar rechazada. Razón: \" + event.reason);\n        }, false);\n  \n        // Creo una promesa y directamente la rechazo\n        var rejectedPromise = Promise.reject('Error a las ' + new Date().toLocaleTimeString());\n\n        // Hay que ejecutar el catch para que sea una promesa manejada        \n        setTimeout(() => {\n           rejectedPromise.catch(() => {});\n        }, 1);\n        \n\n    </script>\n\n</body>\n</html>",
             "ldc": []
         },
         {
             "nombre": "onstorage",
-            "description": "",
-            "code": "",
+            "description": "El evento **onstorage** nos sirve para gestionar eventos de almacenamiento. Estos eventos se registran cuando se modifica el área de almacenamiento **desde otra página diferente a la página que estamos ejecutando**.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Insertar elemento en la Web Storage</title>\n</head>\n<body>\n\n    <h1>Cambios en el storage</h1>\n    <div id=\"cambios\"></div>\n\n    <script>\n\n    window.addEventListener(\"storage\",function(e){\n        let cambios = document.getElementById(\"cambios\");\n        cambios.innerHTML = cambios.innerHTML + \"La clave \" + e.key + \" cambia su antiguo valor de '\" + e.oldValue + \"' por el nuevo valor '\" + e.newValue + \"'.<br>\";\n    });\n\n    </script>\n\n</body>\n</html>",
             "ldc": []
         },
         {
             "nombre": "onunhandledrejection",
-            "description": "",
-            "code": "",
+            "description": "El evento **onunhandledrejection** se registra cuando se ha producido un rechado de una promesa y esta no ha sido manejada. Es decir, no tiene un método `.catch` para gestionar el rechazo.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Gestionar Promesas Rechazadas</title>\n</head>\n<body>\n\n    <h1>Gestionar Promesas Rechazadas</h1>\n\n    <script>\n\n\n        window.addEventListener(\"rejectionhandled\", function(event) {            \n            console.log(\"Promesa Manejada rechazada. Razón: \" + event.reason);\n        }, false);\n\n        window.addEventListener(\"unhandledrejection\", function(event) {            \n            console.log(\"Promesa Sin Manejar rechazada. Razón: \" + event.reason);\n        }, false);\n  \n        // Creo una promesa y directamente la rechazo\n        var rejectedPromise = Promise.reject('Error a las ' + new Date().toLocaleTimeString());\n\n        // Hay que ejecutar el catch para que sea una promesa manejada        \n        setTimeout(() => {\n           rejectedPromise.catch(() => {});\n        }, 1);\n        \n\n    </script>\n\n</body>\n</html>",
             "ldc": []
         },
         {
             "nombre": "onunload",
-            "description": "",
-            "code": "",
+            "description": "El evento **unload** se registra cuando se van a abandonar la página y por lo tanto liberar sus recursos. La liberación de recursos se produce después de la gestión de este evento.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Descarga de la Página</title>\n\n    <script type=\"text/javascript\">\n        \n        window.addEventListener(\"unload\",function(e){            \n            console.log(\"La página se va a abandonar\");            \n        },true);\n        \n\n    </script>\n\n</head>\n<body>\n    \n<h1>Descarga de la Página</h1>\n\n<p> Sal de la página para comprobar cómo se controla el evento unload</p>\n\n</body>\n</html>",
             "ldc": []
         }
     ]

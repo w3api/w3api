@@ -16,6 +16,6 @@ pagination:
 ---
 
 <h3>Elementos</h3>
-Todos los Elementos <strong>CSS</strong>:
+Todos los Elementos <strong>MongoDB</strong>:
 
 <strong>En construcción</strong>
