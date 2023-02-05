@@ -9,8 +9,13 @@ source "https://rubygems.org"
 #gemspec
 
 
-gem "jekyll","4.2.0" 
-gem "liquid-c"
+#branch: 'master'
+gem "jekyll", github: "jekyll/jekyll"
+gem 'liquid', '4.0.3'
+
+#gem 'liquid-c',
+#gem 'liquid', '4.0.3', github: 'Shopify/liquid'
+#gem 'liquid-c', github: 'Shopify/liquid-c'
 gem "jemoji"
 
 group :jekyll_plugins do
