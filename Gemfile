@@ -17,6 +17,7 @@ gem 'liquid', '4.0.3'
 #gem 'liquid', '4.0.3', github: 'Shopify/liquid'
 #gem 'liquid-c', github: 'Shopify/liquid-c'
 gem "jemoji"
+gem "webrick"
 
 group :jekyll_plugins do
   gem "jekyll-include-cache"
