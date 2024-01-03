@@ -7,8 +7,6 @@ key: HTML
 show_date: false
 sidebar:
   nav: html
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: HTML
@@ -17,3 +15,4 @@ pagination:
 
 <h3>Elementos</h3>
 Todos los Elementos <strong>HTML</strong>:
+
