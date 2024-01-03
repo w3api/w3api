@@ -7,8 +7,6 @@ key: DOM
 show_date: false
 sidebar:
   nav: dom
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: DOM

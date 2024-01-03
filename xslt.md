@@ -7,8 +7,6 @@ key: XSLT
 show_date: false
 sidebar:
   nav: xslt
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: xslt

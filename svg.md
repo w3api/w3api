@@ -7,8 +7,6 @@ key: SVG
 show_date: false
 sidebar:
   nav: svg
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: svg

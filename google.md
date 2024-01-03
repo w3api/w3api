@@ -7,8 +7,6 @@ key: Google
 show_date: false
 sidebar:
   nav: google
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: google

@@ -7,8 +7,6 @@ key: MongoDB
 show_date: false
 sidebar:
   nav: mongodb
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: mongodb

@@ -7,8 +7,6 @@ key: jQuery
 show_date: false
 sidebar:
   nav: jquery
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: jquery

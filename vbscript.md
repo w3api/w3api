@@ -7,8 +7,6 @@ key: VBScript
 show_date: false
 sidebar:
   nav: vbscript
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: vbscript

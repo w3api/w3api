@@ -7,8 +7,6 @@ key: Groovy
 show_date: false
 sidebar:
   nav: groovy
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: groovy

@@ -7,8 +7,6 @@ key: WebAPI
 show_date: false
 sidebar:
   nav: webapi
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: WebAPI

@@ -7,8 +7,6 @@ key: XForms
 show_date: false
 sidebar:
   nav: xforms
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: xforms
