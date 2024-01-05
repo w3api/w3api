@@ -12,6 +12,10 @@ key: page-about
 ## Changelog
 Las diferentes versiones que se han ido creando de **W3Api** son:
 
+### v1.3.0 (2023-01-03)
+* Incluidos enlaces a los test, manuales y vídeos
+* Añadido Bootstrap
+
 ### v1.2.0 (2021-11-01)
 * Documentación Python
 * Motor de búsqueda basado en Google
