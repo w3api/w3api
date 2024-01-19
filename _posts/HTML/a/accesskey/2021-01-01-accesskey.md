@@ -1,10 +1,13 @@
 ---
 title: accesskey
 permalink: /HTML/accesskey/
+excerpt: "El atributo accesskey se utiliza para asignar atajos de teclado a elementos de la página. Estos atajos pueden variar según el navegador y el sistema operativo. Permite establecer combinaciones de teclas para activar elementos."
 date: 2023-02-10
+last_modified_at: 2024-01-10
 key: HTML.a.accesskey
 category: HTML
 tags: [atributo global html,atributo html,html 4.01,html 5]
+image: "/assets/images/HTML.png"
 sidebar:
   nav: html
 ---
