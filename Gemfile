@@ -9,13 +9,8 @@ source "https://rubygems.org"
 #gemspec
 
 
-#branch: 'master'
-gem "jekyll", github: "jekyll/jekyll"
-gem 'liquid', '4.0.3'
-
-#gem 'liquid-c',
-#gem 'liquid', '4.0.3', github: 'Shopify/liquid'
-#gem 'liquid-c', github: 'Shopify/liquid-c'
+gem "jekyll","4.2.0" 
+gem 'liquid', '4.0.4'
 gem "jemoji"
 gem "webrick"
 
@@ -24,5 +19,6 @@ group :jekyll_plugins do
   gem "jekyll-commonmark"
   gem "jekyll-paginate-v2"
   gem "jekyll-feed"
+  gem 'jekyll-seo-tag'
 end
 gemspec
