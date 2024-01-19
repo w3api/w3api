@@ -2,7 +2,7 @@
 
 ## v1.3.0 (2023-01-03)
 * Incluidos enlaces a los test, manuales y vídeos
-* Añadido Bootstrap
+* Mejorado el listado de elementos
 
 ## v1.2.0 (2021-11-01)
 * Documentación Python
