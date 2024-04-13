@@ -1,0 +1,61 @@
+# 1. Borrar el Gemfile.lock
+
+# 2. Actualizar Gem
+sudo gem update
+sudo bundle install
+
+
+##
+#start=`date +%s`
+#commands...
+#end=`date +%s`
+#echo Execution time was `expr $end - $start` seconds.
+
+
+# 0. Eliminar los feed. Hay que comentar las líneas
+# Gemfile
+# gem "jekyll-feed"
+# _config.yml
+#  - jekyll-feed
+
+
+
+# 1. Construir
+sudo JEKYLL_ENV=production bundle exec jekyll build --incremental --verbose
+
+# 2. Servir sin Compilar (Chequeae que está bien)
+bundle exec jekyll serve --skip-initial-build 
+
+# 3. Hacer
+
+
+# 4. Generar el SiteMap
+source myenv/bin/acivate
+python sitemap.py
+
+
+
+
+
+#### --- OTROS ----
+
+# Con Docker
+# ¿Primero?
+docker run -v $(pwd):/site bretfisher/jekyll bundle install
+
+docker run -v $(pwd):/site bretfisher/jekyll JEKYLL_ENV=production bundle build --incremental --verbose
+docker run -v $(pwd):/site bretfisher/jekyll serve --skip-initial-build 
+
+# Entrar en la consola
+# USAR Este
+docker run -v $(pwd):/site -it --entrypoint bash bretfisher/jekyll
+
+
+# regenerar sitemap?
+
+docker run --rm \
+  --volume="$PWD:/srv/jekyll" \
+  -it jekyll/jekyll:$JEKYLL_VERSION \
+  jekyll build
+
+  docker run -v $(pwd):/site jekyll/jekyll jekyll build
