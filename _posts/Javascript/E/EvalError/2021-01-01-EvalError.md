@@ -21,12 +21,12 @@ EvalError
 * [EvalError()](/Javascript/EvalError/EvalError/)
 
 ## Propiedades
-* [message](/Javascript/EvalError/message)
-* [name](/Javascript/EvalError/name)
-* [fileName](/Javascript/EvalError/fileName)
-* [lineNumber](/Javascript/EvalError/lineNumber)
-* [columnNumber](/Javascript/EvalError/columnNumber)
-* [stack](/Javascript/EvalError/stack)
+* [message](/Javascript/EvalError/message/)
+* [name](/Javascript/EvalError/name/)
+* [fileName](/Javascript/EvalError/fileName/)
+* [lineNumber](/Javascript/EvalError/lineNumber/)
+* [columnNumber](/Javascript/EvalError/columnNumber/)
+* [stack](/Javascript/EvalError/stack/)
 
 ## Ejemplo
 ~~~java

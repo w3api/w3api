@@ -21,8 +21,8 @@ public class ECPrivateKeySpec extends Object implements KeySpec
 * [ECPrivateKeySpec()](/Java/ECPrivateKeySpec/ECPrivateKeySpec/)
 
 ## Métodos
-* [getParams()](/Java/ECPrivateKeySpec/getParams)
-* [getS()](/Java/ECPrivateKeySpec/getS)
+* [getParams()](/Java/ECPrivateKeySpec/getParams/)
+* [getS()](/Java/ECPrivateKeySpec/getS/)
 
 ## Ejemplo
 ~~~java

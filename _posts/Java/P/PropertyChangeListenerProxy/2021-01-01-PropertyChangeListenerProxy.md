@@ -21,8 +21,8 @@ public class PropertyChangeListenerProxy extends EventListenerProxy<PropertyChan
 * [PropertyChangeListenerProxy()](/Java/PropertyChangeListenerProxy/PropertyChangeListenerProxy/)
 
 ## Métodos
-* [getPropertyName()](/Java/PropertyChangeListenerProxy/getPropertyName)
-* [propertyChange()](/Java/PropertyChangeListenerProxy/propertyChange)
+* [getPropertyName()](/Java/PropertyChangeListenerProxy/getPropertyName/)
+* [propertyChange()](/Java/PropertyChangeListenerProxy/propertyChange/)
 
 ## Ejemplo
 ~~~java

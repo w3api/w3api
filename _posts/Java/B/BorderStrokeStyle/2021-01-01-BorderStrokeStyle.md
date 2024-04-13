@@ -21,18 +21,18 @@ public final class BorderStrokeStyle extends Object
 * [BorderStrokeStyle()](/Java/BorderStrokeStyle/BorderStrokeStyle/)
 
 ## Campos
-* [DASHED](/Java/BorderStrokeStyle/DASHED)
-* [DOTTED](/Java/BorderStrokeStyle/DOTTED)
-* [NONE](/Java/BorderStrokeStyle/NONE)
-* [SOLID](/Java/BorderStrokeStyle/SOLID)
+* [DASHED](/Java/BorderStrokeStyle/DASHED/)
+* [DOTTED](/Java/BorderStrokeStyle/DOTTED/)
+* [NONE](/Java/BorderStrokeStyle/NONE/)
+* [SOLID](/Java/BorderStrokeStyle/SOLID/)
 
 ## Métodos
-* [getDashArray()](/Java/BorderStrokeStyle/getDashArray)
-* [getDashOffset()](/Java/BorderStrokeStyle/getDashOffset)
-* [getLineCap()](/Java/BorderStrokeStyle/getLineCap)
-* [getLineJoin()](/Java/BorderStrokeStyle/getLineJoin)
-* [getMiterLimit()](/Java/BorderStrokeStyle/getMiterLimit)
-* [getType()](/Java/BorderStrokeStyle/getType)
+* [getDashArray()](/Java/BorderStrokeStyle/getDashArray/)
+* [getDashOffset()](/Java/BorderStrokeStyle/getDashOffset/)
+* [getLineCap()](/Java/BorderStrokeStyle/getLineCap/)
+* [getLineJoin()](/Java/BorderStrokeStyle/getLineJoin/)
+* [getMiterLimit()](/Java/BorderStrokeStyle/getMiterLimit/)
+* [getType()](/Java/BorderStrokeStyle/getType/)
 
 ## Ejemplo
 ~~~java

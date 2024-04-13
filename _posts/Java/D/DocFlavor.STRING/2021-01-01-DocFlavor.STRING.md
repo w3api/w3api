@@ -21,8 +21,8 @@ public static class DocFlavor.STRING extends DocFlavor
 * [DocFlavor.STRING()](/Java/DocFlavor/STRING/DocFlavor/STRING/)
 
 ## Campos
-* [TEXT_HTML](/Java/DocFlavor/STRING/TEXT_HTML)
-* [TEXT_PLAIN](/Java/DocFlavor/STRING/TEXT_PLAIN)
+* [TEXT_HTML](/Java/DocFlavor/STRING/TEXT_HTML/)
+* [TEXT_PLAIN](/Java/DocFlavor/STRING/TEXT_PLAIN/)
 
 ## Ejemplo
 ~~~java

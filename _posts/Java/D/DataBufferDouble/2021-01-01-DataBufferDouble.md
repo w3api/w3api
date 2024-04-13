@@ -21,14 +21,14 @@ public final class DataBufferDouble extends DataBuffer
 * [DataBufferDouble()](/Java/DataBufferDouble/DataBufferDouble/)
 
 ## Métodos
-* [getBankData()](/Java/DataBufferDouble/getBankData)
-* [getData()](/Java/DataBufferDouble/getData)
-* [getElem()](/Java/DataBufferDouble/getElem)
-* [getElemDouble()](/Java/DataBufferDouble/getElemDouble)
-* [getElemFloat()](/Java/DataBufferDouble/getElemFloat)
-* [setElem()](/Java/DataBufferDouble/setElem)
-* [setElemDouble()](/Java/DataBufferDouble/setElemDouble)
-* [setElemFloat()](/Java/DataBufferDouble/setElemFloat)
+* [getBankData()](/Java/DataBufferDouble/getBankData/)
+* [getData()](/Java/DataBufferDouble/getData/)
+* [getElem()](/Java/DataBufferDouble/getElem/)
+* [getElemDouble()](/Java/DataBufferDouble/getElemDouble/)
+* [getElemFloat()](/Java/DataBufferDouble/getElemFloat/)
+* [setElem()](/Java/DataBufferDouble/setElem/)
+* [setElemDouble()](/Java/DataBufferDouble/setElemDouble/)
+* [setElemFloat()](/Java/DataBufferDouble/setElemFloat/)
 
 ## Ejemplo
 ~~~java

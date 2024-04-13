@@ -18,8 +18,8 @@ public interface PreferencesFactory
 ~~~
 
 ## Métodos
-* [systemRoot()](/Java/PreferencesFactory/systemRoot)
-* [userRoot()](/Java/PreferencesFactory/userRoot)
+* [systemRoot()](/Java/PreferencesFactory/systemRoot/)
+* [userRoot()](/Java/PreferencesFactory/userRoot/)
 
 ## Ejemplo
 ~~~java

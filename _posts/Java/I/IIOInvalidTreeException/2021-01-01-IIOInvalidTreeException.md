@@ -21,10 +21,10 @@ public class IIOInvalidTreeException extends IIOException
 * [IIOInvalidTreeException()](/Java/IIOInvalidTreeException/IIOInvalidTreeException/)
 
 ## Campos
-* [offendingNode](/Java/IIOInvalidTreeException/offendingNode)
+* [offendingNode](/Java/IIOInvalidTreeException/offendingNode/)
 
 ## Métodos
-* [getOffendingNode()](/Java/IIOInvalidTreeException/getOffendingNode)
+* [getOffendingNode()](/Java/IIOInvalidTreeException/getOffendingNode/)
 
 ## Ejemplo
 ~~~java

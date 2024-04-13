@@ -21,13 +21,13 @@ public class CheckBoxListCell<T> extends ListCell<T>
 * [CheckBoxListCell()](/Java/CheckBoxListCell/CheckBoxListCell/)
 
 ## Métodos
-* [converterProperty()](/Java/CheckBoxListCell/converterProperty)
-* [forListView()](/Java/CheckBoxListCell/forListView)
-* [getConverter()](/Java/CheckBoxListCell/getConverter)
-* [getSelectedStateCallback()](/Java/CheckBoxListCell/getSelectedStateCallback)
-* [selectedStateCallbackProperty()](/Java/CheckBoxListCell/selectedStateCallbackProperty)
-* [setConverter()](/Java/CheckBoxListCell/setConverter)
-* [setSelectedStateCallback()](/Java/CheckBoxListCell/setSelectedStateCallback)
+* [converterProperty()](/Java/CheckBoxListCell/converterProperty/)
+* [forListView()](/Java/CheckBoxListCell/forListView/)
+* [getConverter()](/Java/CheckBoxListCell/getConverter/)
+* [getSelectedStateCallback()](/Java/CheckBoxListCell/getSelectedStateCallback/)
+* [selectedStateCallbackProperty()](/Java/CheckBoxListCell/selectedStateCallbackProperty/)
+* [setConverter()](/Java/CheckBoxListCell/setConverter/)
+* [setSelectedStateCallback()](/Java/CheckBoxListCell/setSelectedStateCallback/)
 
 ## Ejemplo
 ~~~java

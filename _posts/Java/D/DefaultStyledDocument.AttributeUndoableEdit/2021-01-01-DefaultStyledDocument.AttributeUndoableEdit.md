@@ -21,14 +21,14 @@ public static class DefaultStyledDocument.AttributeUndoableEdit extends Abstract
 * [DefaultStyledDocument.AttributeUndoableEdit()](/Java/DefaultStyledDocument/AttributeUndoableEdit/DefaultStyledDocument/AttributeUndoableEdit/)
 
 ## Campos
-* [copy](/Java/DefaultStyledDocument/AttributeUndoableEdit/copy)
-* [element](/Java/DefaultStyledDocument/AttributeUndoableEdit/element)
-* [isReplacing](/Java/DefaultStyledDocument/AttributeUndoableEdit/isReplacing)
-* [newAttributes](/Java/DefaultStyledDocument/AttributeUndoableEdit/newAttributes)
+* [copy](/Java/DefaultStyledDocument/AttributeUndoableEdit/copy/)
+* [element](/Java/DefaultStyledDocument/AttributeUndoableEdit/element/)
+* [isReplacing](/Java/DefaultStyledDocument/AttributeUndoableEdit/isReplacing/)
+* [newAttributes](/Java/DefaultStyledDocument/AttributeUndoableEdit/newAttributes/)
 
 ## Métodos
-* [redo()](/Java/DefaultStyledDocument/AttributeUndoableEdit/redo)
-* [undo()](/Java/DefaultStyledDocument/AttributeUndoableEdit/undo)
+* [redo()](/Java/DefaultStyledDocument/AttributeUndoableEdit/redo/)
+* [undo()](/Java/DefaultStyledDocument/AttributeUndoableEdit/undo/)
 
 ## Ejemplo
 ~~~java

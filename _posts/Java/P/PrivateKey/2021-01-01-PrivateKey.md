@@ -18,7 +18,7 @@ public interface PrivateKey extends Key, Destroyable
 ~~~
 
 ## Campos
-* [serialVersionUID](/Java/PrivateKey/serialVersionUID)
+* [serialVersionUID](/Java/PrivateKey/serialVersionUID/)
 
 ## Ejemplo
 ~~~java

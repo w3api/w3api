@@ -21,13 +21,13 @@ public abstract class LightBase extends Node
 * [LightBase()](/Java/LightBase/LightBase/)
 
 ## Métodos
-* [colorProperty()](/Java/LightBase/colorProperty)
-* [getColor()](/Java/LightBase/getColor)
-* [getScope()](/Java/LightBase/getScope)
-* [isLightOn()](/Java/LightBase/isLightOn)
-* [lightOnProperty()](/Java/LightBase/lightOnProperty)
-* [setColor()](/Java/LightBase/setColor)
-* [setLightOn()](/Java/LightBase/setLightOn)
+* [colorProperty()](/Java/LightBase/colorProperty/)
+* [getColor()](/Java/LightBase/getColor/)
+* [getScope()](/Java/LightBase/getScope/)
+* [isLightOn()](/Java/LightBase/isLightOn/)
+* [lightOnProperty()](/Java/LightBase/lightOnProperty/)
+* [setColor()](/Java/LightBase/setColor/)
+* [setLightOn()](/Java/LightBase/setLightOn/)
 
 ## Ejemplo
 ~~~java

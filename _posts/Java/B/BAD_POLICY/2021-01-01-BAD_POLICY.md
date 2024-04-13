@@ -18,7 +18,7 @@ public interface BAD_POLICY
 ~~~
 
 ## Campos
-* [value](/Java/BAD_POLICY/value)
+* [value](/Java/BAD_POLICY/value/)
 
 ## Ejemplo
 ~~~java

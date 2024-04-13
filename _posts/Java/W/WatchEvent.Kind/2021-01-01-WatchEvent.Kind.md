@@ -18,8 +18,8 @@ public static interface WatchEvent.Kind<T>
 ~~~
 
 ## Métodos
-* [name()](/Java/WatchEvent/Kind/name)
-* [type()](/Java/WatchEvent/Kind/type)
+* [name()](/Java/WatchEvent/Kind/name/)
+* [type()](/Java/WatchEvent/Kind/type/)
 
 ## Ejemplo
 ~~~java

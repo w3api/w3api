@@ -21,12 +21,12 @@ public class BeanContextServiceAvailableEvent extends BeanContextEvent
 * [BeanContextServiceAvailableEvent()](/Java/BeanContextServiceAvailableEvent/BeanContextServiceAvailableEvent/)
 
 ## Campos
-* [serviceClass](/Java/BeanContextServiceAvailableEvent/serviceClass)
+* [serviceClass](/Java/BeanContextServiceAvailableEvent/serviceClass/)
 
 ## Métodos
-* [getCurrentServiceSelectors()](/Java/BeanContextServiceAvailableEvent/getCurrentServiceSelectors)
-* [getServiceClass()](/Java/BeanContextServiceAvailableEvent/getServiceClass)
-* [getSourceAsBeanContextServices()](/Java/BeanContextServiceAvailableEvent/getSourceAsBeanContextServices)
+* [getCurrentServiceSelectors()](/Java/BeanContextServiceAvailableEvent/getCurrentServiceSelectors/)
+* [getServiceClass()](/Java/BeanContextServiceAvailableEvent/getServiceClass/)
+* [getSourceAsBeanContextServices()](/Java/BeanContextServiceAvailableEvent/getSourceAsBeanContextServices/)
 
 ## Ejemplo
 ~~~java

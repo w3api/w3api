@@ -21,8 +21,8 @@ public abstract class CertPathBuilderSpi extends Object
 * [CertPathBuilderSpi()](/Java/CertPathBuilderSpi/CertPathBuilderSpi/)
 
 ## Métodos
-* [engineBuild()](/Java/CertPathBuilderSpi/engineBuild)
-* [engineGetRevocationChecker()](/Java/CertPathBuilderSpi/engineGetRevocationChecker)
+* [engineBuild()](/Java/CertPathBuilderSpi/engineBuild/)
+* [engineGetRevocationChecker()](/Java/CertPathBuilderSpi/engineGetRevocationChecker/)
 
 ## Ejemplo
 ~~~java

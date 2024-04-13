@@ -21,16 +21,16 @@ public class DOMCryptoContext extends Object implements XMLCryptoContext
 * [DOMCryptoContext()](/Java/DOMCryptoContext/DOMCryptoContext/)
 
 ## Métodos
-* [get()](/Java/DOMCryptoContext/get)
-* [getElementById()](/Java/DOMCryptoContext/getElementById)
-* [getNamespacePrefix()](/Java/DOMCryptoContext/getNamespacePrefix)
-* [getProperty()](/Java/DOMCryptoContext/getProperty)
-* [iterator()](/Java/DOMCryptoContext/iterator)
-* [put()](/Java/DOMCryptoContext/put)
-* [putNamespacePrefix()](/Java/DOMCryptoContext/putNamespacePrefix)
-* [setBaseURI()](/Java/DOMCryptoContext/setBaseURI)
-* [setIdAttributeNS()](/Java/DOMCryptoContext/setIdAttributeNS)
-* [setProperty()](/Java/DOMCryptoContext/setProperty)
+* [get()](/Java/DOMCryptoContext/get/)
+* [getElementById()](/Java/DOMCryptoContext/getElementById/)
+* [getNamespacePrefix()](/Java/DOMCryptoContext/getNamespacePrefix/)
+* [getProperty()](/Java/DOMCryptoContext/getProperty/)
+* [iterator()](/Java/DOMCryptoContext/iterator/)
+* [put()](/Java/DOMCryptoContext/put/)
+* [putNamespacePrefix()](/Java/DOMCryptoContext/putNamespacePrefix/)
+* [setBaseURI()](/Java/DOMCryptoContext/setBaseURI/)
+* [setIdAttributeNS()](/Java/DOMCryptoContext/setIdAttributeNS/)
+* [setProperty()](/Java/DOMCryptoContext/setProperty/)
 
 ## Ejemplo
 ~~~java

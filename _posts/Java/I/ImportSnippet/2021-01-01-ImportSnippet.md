@@ -18,9 +18,9 @@ public class ImportSnippet extends PersistentSnippet
 ~~~
 
 ## Métodos
-* [fullname()](/Java/ImportSnippet/fullname)
-* [isStatic()](/Java/ImportSnippet/isStatic)
-* [name()](/Java/ImportSnippet/name)
+* [fullname()](/Java/ImportSnippet/fullname/)
+* [isStatic()](/Java/ImportSnippet/isStatic/)
+* [name()](/Java/ImportSnippet/name/)
 
 ## Ejemplo
 ~~~java

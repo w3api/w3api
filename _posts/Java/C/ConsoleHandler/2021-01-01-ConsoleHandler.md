@@ -21,8 +21,8 @@ public class ConsoleHandler extends StreamHandler
 * [ConsoleHandler()](/Java/ConsoleHandler/ConsoleHandler/)
 
 ## Métodos
-* [close()](/Java/ConsoleHandler/close)
-* [publish()](/Java/ConsoleHandler/publish)
+* [close()](/Java/ConsoleHandler/close/)
+* [publish()](/Java/ConsoleHandler/publish/)
 
 ## Ejemplo
 ~~~java

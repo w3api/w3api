@@ -21,16 +21,16 @@ public class WindowEvent extends Event
 * [WindowEvent()](/Java/WindowEvent-javafx-stage/WindowEvent/)
 
 ## Campos
-* [ANY](/Java/WindowEvent-javafx-stage/ANY)
-* [WINDOW_CLOSE_REQUEST](/Java/WindowEvent-javafx-stage/WINDOW_CLOSE_REQUEST)
-* [WINDOW_HIDDEN](/Java/WindowEvent-javafx-stage/WINDOW_HIDDEN)
-* [WINDOW_HIDING](/Java/WindowEvent-javafx-stage/WINDOW_HIDING)
-* [WINDOW_SHOWING](/Java/WindowEvent-javafx-stage/WINDOW_SHOWING)
-* [WINDOW_SHOWN](/Java/WindowEvent-javafx-stage/WINDOW_SHOWN)
+* [ANY](/Java/WindowEvent-javafx-stage/ANY/)
+* [WINDOW_CLOSE_REQUEST](/Java/WindowEvent-javafx-stage/WINDOW_CLOSE_REQUEST/)
+* [WINDOW_HIDDEN](/Java/WindowEvent-javafx-stage/WINDOW_HIDDEN/)
+* [WINDOW_HIDING](/Java/WindowEvent-javafx-stage/WINDOW_HIDING/)
+* [WINDOW_SHOWING](/Java/WindowEvent-javafx-stage/WINDOW_SHOWING/)
+* [WINDOW_SHOWN](/Java/WindowEvent-javafx-stage/WINDOW_SHOWN/)
 
 ## Métodos
-* [copyFor()](/Java/WindowEvent-javafx-stage/copyFor)
-* [toString()](/Java/WindowEvent-javafx-stage/toString)
+* [copyFor()](/Java/WindowEvent-javafx-stage/copyFor/)
+* [toString()](/Java/WindowEvent-javafx-stage/toString/)
 
 ## Ejemplo
 ~~~java

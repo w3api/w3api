@@ -18,16 +18,16 @@ public interface CSSStyleDeclaration
 ~~~
 
 ## Métodos
-* [getCssText()](/Java/CSSStyleDeclaration/getCssText)
-* [getLength()](/Java/CSSStyleDeclaration/getLength)
-* [getParentRule()](/Java/CSSStyleDeclaration/getParentRule)
-* [getPropertyCSSValue()](/Java/CSSStyleDeclaration/getPropertyCSSValue)
-* [getPropertyPriority()](/Java/CSSStyleDeclaration/getPropertyPriority)
-* [getPropertyValue()](/Java/CSSStyleDeclaration/getPropertyValue)
-* [item()](/Java/CSSStyleDeclaration/item)
-* [removeProperty()](/Java/CSSStyleDeclaration/removeProperty)
-* [setCssText()](/Java/CSSStyleDeclaration/setCssText)
-* [setProperty()](/Java/CSSStyleDeclaration/setProperty)
+* [getCssText()](/Java/CSSStyleDeclaration/getCssText/)
+* [getLength()](/Java/CSSStyleDeclaration/getLength/)
+* [getParentRule()](/Java/CSSStyleDeclaration/getParentRule/)
+* [getPropertyCSSValue()](/Java/CSSStyleDeclaration/getPropertyCSSValue/)
+* [getPropertyPriority()](/Java/CSSStyleDeclaration/getPropertyPriority/)
+* [getPropertyValue()](/Java/CSSStyleDeclaration/getPropertyValue/)
+* [item()](/Java/CSSStyleDeclaration/item/)
+* [removeProperty()](/Java/CSSStyleDeclaration/removeProperty/)
+* [setCssText()](/Java/CSSStyleDeclaration/setCssText/)
+* [setProperty()](/Java/CSSStyleDeclaration/setProperty/)
 
 ## Ejemplo
 ~~~java

@@ -21,9 +21,9 @@ public abstract class LongProperty extends ReadOnlyLongProperty implements Prope
 * [LongProperty()](/Java/LongProperty/LongProperty/)
 
 ## Métodos
-* [asObject()](/Java/LongProperty/asObject)
-* [longProperty()](/Java/LongProperty/longProperty)
-* [toString()](/Java/LongProperty/toString)
+* [asObject()](/Java/LongProperty/asObject/)
+* [longProperty()](/Java/LongProperty/longProperty/)
+* [toString()](/Java/LongProperty/toString/)
 
 ## Ejemplo
 ~~~java

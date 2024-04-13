@@ -21,22 +21,22 @@ public abstract class IIOMetadataFormatImpl extends Object implements IIOMetadat
 * [IIOMetadataFormatImpl()](/Java/IIOMetadataFormatImpl/IIOMetadataFormatImpl/)
 
 ## Campos
-* [standardMetadataFormatName](/Java/IIOMetadataFormatImpl/standardMetadataFormatName)
+* [standardMetadataFormatName](/Java/IIOMetadataFormatImpl/standardMetadataFormatName/)
 
 ## Métodos
-* [addAttribute()](/Java/IIOMetadataFormatImpl/addAttribute)
-* [addBooleanAttribute()](/Java/IIOMetadataFormatImpl/addBooleanAttribute)
-* [addChildElement()](/Java/IIOMetadataFormatImpl/addChildElement)
-* [addElement()](/Java/IIOMetadataFormatImpl/addElement)
-* [addObjectValue()](/Java/IIOMetadataFormatImpl/addObjectValue)
-* [getAttributeDescription()](/Java/IIOMetadataFormatImpl/getAttributeDescription)
-* [getElementDescription()](/Java/IIOMetadataFormatImpl/getElementDescription)
-* [getResourceBaseName()](/Java/IIOMetadataFormatImpl/getResourceBaseName)
-* [getStandardFormatInstance()](/Java/IIOMetadataFormatImpl/getStandardFormatInstance)
-* [removeAttribute()](/Java/IIOMetadataFormatImpl/removeAttribute)
-* [removeElement()](/Java/IIOMetadataFormatImpl/removeElement)
-* [removeObjectValue()](/Java/IIOMetadataFormatImpl/removeObjectValue)
-* [setResourceBaseName()](/Java/IIOMetadataFormatImpl/setResourceBaseName)
+* [addAttribute()](/Java/IIOMetadataFormatImpl/addAttribute/)
+* [addBooleanAttribute()](/Java/IIOMetadataFormatImpl/addBooleanAttribute/)
+* [addChildElement()](/Java/IIOMetadataFormatImpl/addChildElement/)
+* [addElement()](/Java/IIOMetadataFormatImpl/addElement/)
+* [addObjectValue()](/Java/IIOMetadataFormatImpl/addObjectValue/)
+* [getAttributeDescription()](/Java/IIOMetadataFormatImpl/getAttributeDescription/)
+* [getElementDescription()](/Java/IIOMetadataFormatImpl/getElementDescription/)
+* [getResourceBaseName()](/Java/IIOMetadataFormatImpl/getResourceBaseName/)
+* [getStandardFormatInstance()](/Java/IIOMetadataFormatImpl/getStandardFormatInstance/)
+* [removeAttribute()](/Java/IIOMetadataFormatImpl/removeAttribute/)
+* [removeElement()](/Java/IIOMetadataFormatImpl/removeElement/)
+* [removeObjectValue()](/Java/IIOMetadataFormatImpl/removeObjectValue/)
+* [setResourceBaseName()](/Java/IIOMetadataFormatImpl/setResourceBaseName/)
 
 ## Ejemplo
 ~~~java

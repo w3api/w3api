@@ -21,13 +21,13 @@ public class IndexedPropertyDescriptor extends PropertyDescriptor
 * [IndexedPropertyDescriptor()](/Java/IndexedPropertyDescriptor/IndexedPropertyDescriptor/)
 
 ## Métodos
-* [equals()](/Java/IndexedPropertyDescriptor/equals)
-* [getIndexedPropertyType()](/Java/IndexedPropertyDescriptor/getIndexedPropertyType)
-* [getIndexedReadMethod()](/Java/IndexedPropertyDescriptor/getIndexedReadMethod)
-* [getIndexedWriteMethod()](/Java/IndexedPropertyDescriptor/getIndexedWriteMethod)
-* [hashCode()](/Java/IndexedPropertyDescriptor/hashCode)
-* [setIndexedReadMethod()](/Java/IndexedPropertyDescriptor/setIndexedReadMethod)
-* [setIndexedWriteMethod()](/Java/IndexedPropertyDescriptor/setIndexedWriteMethod)
+* [equals()](/Java/IndexedPropertyDescriptor/equals/)
+* [getIndexedPropertyType()](/Java/IndexedPropertyDescriptor/getIndexedPropertyType/)
+* [getIndexedReadMethod()](/Java/IndexedPropertyDescriptor/getIndexedReadMethod/)
+* [getIndexedWriteMethod()](/Java/IndexedPropertyDescriptor/getIndexedWriteMethod/)
+* [hashCode()](/Java/IndexedPropertyDescriptor/hashCode/)
+* [setIndexedReadMethod()](/Java/IndexedPropertyDescriptor/setIndexedReadMethod/)
+* [setIndexedWriteMethod()](/Java/IndexedPropertyDescriptor/setIndexedWriteMethod/)
 
 ## Ejemplo
 ~~~java

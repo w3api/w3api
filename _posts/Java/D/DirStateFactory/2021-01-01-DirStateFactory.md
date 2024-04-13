@@ -18,7 +18,7 @@ public interface DirStateFactory extends StateFactory
 ~~~
 
 ## Métodos
-* [getStateToBind()](/Java/DirStateFactory/getStateToBind)
+* [getStateToBind()](/Java/DirStateFactory/getStateToBind/)
 
 ## Ejemplo
 ~~~java

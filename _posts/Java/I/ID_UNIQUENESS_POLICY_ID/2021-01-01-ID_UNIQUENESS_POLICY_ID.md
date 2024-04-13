@@ -18,7 +18,7 @@ public interface ID_UNIQUENESS_POLICY_ID
 ~~~
 
 ## Campos
-* [value](/Java/ID_UNIQUENESS_POLICY_ID/value)
+* [value](/Java/ID_UNIQUENESS_POLICY_ID/value/)
 
 ## Ejemplo
 ~~~java

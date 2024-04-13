@@ -21,19 +21,19 @@ public class BlockView extends BoxView
 * [BlockView()](/Java/BlockView/BlockView/)
 
 ## Métodos
-* [calculateMajorAxisRequirements()](/Java/BlockView/calculateMajorAxisRequirements)
-* [calculateMinorAxisRequirements()](/Java/BlockView/calculateMinorAxisRequirements)
-* [getAlignment()](/Java/BlockView/getAlignment)
-* [getAttributes()](/Java/BlockView/getAttributes)
-* [getMaximumSpan()](/Java/BlockView/getMaximumSpan)
-* [getMinimumSpan()](/Java/BlockView/getMinimumSpan)
-* [getPreferredSpan()](/Java/BlockView/getPreferredSpan)
-* [getResizeWeight()](/Java/BlockView/getResizeWeight)
-* [getStyleSheet()](/Java/BlockView/getStyleSheet)
-* [layoutMinorAxis()](/Java/BlockView/layoutMinorAxis)
-* [paint()](/Java/BlockView/paint)
-* [setParent()](/Java/BlockView/setParent)
-* [setPropertiesFromAttributes()](/Java/BlockView/setPropertiesFromAttributes)
+* [calculateMajorAxisRequirements()](/Java/BlockView/calculateMajorAxisRequirements/)
+* [calculateMinorAxisRequirements()](/Java/BlockView/calculateMinorAxisRequirements/)
+* [getAlignment()](/Java/BlockView/getAlignment/)
+* [getAttributes()](/Java/BlockView/getAttributes/)
+* [getMaximumSpan()](/Java/BlockView/getMaximumSpan/)
+* [getMinimumSpan()](/Java/BlockView/getMinimumSpan/)
+* [getPreferredSpan()](/Java/BlockView/getPreferredSpan/)
+* [getResizeWeight()](/Java/BlockView/getResizeWeight/)
+* [getStyleSheet()](/Java/BlockView/getStyleSheet/)
+* [layoutMinorAxis()](/Java/BlockView/layoutMinorAxis/)
+* [paint()](/Java/BlockView/paint/)
+* [setParent()](/Java/BlockView/setParent/)
+* [setPropertiesFromAttributes()](/Java/BlockView/setPropertiesFromAttributes/)
 
 ## Ejemplo
 ~~~java

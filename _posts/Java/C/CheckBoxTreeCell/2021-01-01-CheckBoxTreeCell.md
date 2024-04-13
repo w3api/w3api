@@ -21,14 +21,14 @@ public class CheckBoxTreeCell<T> extends TreeCell<T>
 * [CheckBoxTreeCell()](/Java/CheckBoxTreeCell/CheckBoxTreeCell/)
 
 ## Métodos
-* [converterProperty()](/Java/CheckBoxTreeCell/converterProperty)
-* [forTreeView()](/Java/CheckBoxTreeCell/forTreeView)
-* [getConverter()](/Java/CheckBoxTreeCell/getConverter)
-* [getSelectedStateCallback()](/Java/CheckBoxTreeCell/getSelectedStateCallback)
-* [selectedStateCallbackProperty()](/Java/CheckBoxTreeCell/selectedStateCallbackProperty)
-* [setConverter()](/Java/CheckBoxTreeCell/setConverter)
-* [setSelectedStateCallback()](/Java/CheckBoxTreeCell/setSelectedStateCallback)
-* [updateItem()](/Java/CheckBoxTreeCell/updateItem)
+* [converterProperty()](/Java/CheckBoxTreeCell/converterProperty/)
+* [forTreeView()](/Java/CheckBoxTreeCell/forTreeView/)
+* [getConverter()](/Java/CheckBoxTreeCell/getConverter/)
+* [getSelectedStateCallback()](/Java/CheckBoxTreeCell/getSelectedStateCallback/)
+* [selectedStateCallbackProperty()](/Java/CheckBoxTreeCell/selectedStateCallbackProperty/)
+* [setConverter()](/Java/CheckBoxTreeCell/setConverter/)
+* [setSelectedStateCallback()](/Java/CheckBoxTreeCell/setSelectedStateCallback/)
+* [updateItem()](/Java/CheckBoxTreeCell/updateItem/)
 
 ## Ejemplo
 ~~~java

@@ -18,15 +18,15 @@ public interface ListIterator<E> extends Iterator<E>
 ~~~
 
 ## Métodos
-* [add()](/Java/ListIterator/add)
-* [hasNext()](/Java/ListIterator/hasNext)
-* [hasPrevious()](/Java/ListIterator/hasPrevious)
-* [next()](/Java/ListIterator/next)
-* [nextIndex()](/Java/ListIterator/nextIndex)
-* [previous()](/Java/ListIterator/previous)
-* [previousIndex()](/Java/ListIterator/previousIndex)
-* [remove()](/Java/ListIterator/remove)
-* [set()](/Java/ListIterator/set)
+* [add()](/Java/ListIterator/add/)
+* [hasNext()](/Java/ListIterator/hasNext/)
+* [hasPrevious()](/Java/ListIterator/hasPrevious/)
+* [next()](/Java/ListIterator/next/)
+* [nextIndex()](/Java/ListIterator/nextIndex/)
+* [previous()](/Java/ListIterator/previous/)
+* [previousIndex()](/Java/ListIterator/previousIndex/)
+* [remove()](/Java/ListIterator/remove/)
+* [set()](/Java/ListIterator/set/)
 
 ## Ejemplo
 ~~~java

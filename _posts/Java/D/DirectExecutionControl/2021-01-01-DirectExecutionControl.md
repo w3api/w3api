@@ -21,15 +21,15 @@ public class DirectExecutionControl extends Object implements ExecutionControl
 * [DirectExecutionControl()](/Java/DirectExecutionControl/DirectExecutionControl/)
 
 ## Métodos
-* [classesRedefined()](/Java/DirectExecutionControl/classesRedefined)
-* [clientCodeEnter()](/Java/DirectExecutionControl/clientCodeEnter)
-* [clientCodeLeave()](/Java/DirectExecutionControl/clientCodeLeave)
-* [findClass()](/Java/DirectExecutionControl/findClass)
-* [invoke()](/Java/DirectExecutionControl/invoke)
-* [stop()](/Java/DirectExecutionControl/stop)
-* [throwConvertedInvocationException()](/Java/DirectExecutionControl/throwConvertedInvocationException)
-* [throwConvertedOtherException()](/Java/DirectExecutionControl/throwConvertedOtherException)
-* [valueString()](/Java/DirectExecutionControl/valueString)
+* [classesRedefined()](/Java/DirectExecutionControl/classesRedefined/)
+* [clientCodeEnter()](/Java/DirectExecutionControl/clientCodeEnter/)
+* [clientCodeLeave()](/Java/DirectExecutionControl/clientCodeLeave/)
+* [findClass()](/Java/DirectExecutionControl/findClass/)
+* [invoke()](/Java/DirectExecutionControl/invoke/)
+* [stop()](/Java/DirectExecutionControl/stop/)
+* [throwConvertedInvocationException()](/Java/DirectExecutionControl/throwConvertedInvocationException/)
+* [throwConvertedOtherException()](/Java/DirectExecutionControl/throwConvertedOtherException/)
+* [valueString()](/Java/DirectExecutionControl/valueString/)
 
 ## Ejemplo
 ~~~java

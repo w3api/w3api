@@ -18,8 +18,8 @@ public interface WildcardType extends Type
 ~~~
 
 ## Métodos
-* [getLowerBounds()](/Java/WildcardType-java-lang-reflect/getLowerBounds)
-* [getUpperBounds()](/Java/WildcardType-java-lang-reflect/getUpperBounds)
+* [getLowerBounds()](/Java/WildcardType-java-lang-reflect/getLowerBounds/)
+* [getUpperBounds()](/Java/WildcardType-java-lang-reflect/getUpperBounds/)
 
 ## Ejemplo
 ~~~java

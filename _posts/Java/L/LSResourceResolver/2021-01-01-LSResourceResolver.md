@@ -18,7 +18,7 @@ public interface LSResourceResolver
 ~~~
 
 ## Métodos
-* [resolveResource()](/Java/LSResourceResolver/resolveResource)
+* [resolveResource()](/Java/LSResourceResolver/resolveResource/)
 
 ## Ejemplo
 ~~~java

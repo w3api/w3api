@@ -18,9 +18,9 @@ public interface CSSPageRule extends CSSRule
 ~~~
 
 ## Métodos
-* [getSelectorText()](/Java/CSSPageRule/getSelectorText)
-* [getStyle()](/Java/CSSPageRule/getStyle)
-* [setSelectorText()](/Java/CSSPageRule/setSelectorText)
+* [getSelectorText()](/Java/CSSPageRule/getSelectorText/)
+* [getStyle()](/Java/CSSPageRule/getStyle/)
+* [setSelectorText()](/Java/CSSPageRule/setSelectorText/)
 
 ## Ejemplo
 ~~~java

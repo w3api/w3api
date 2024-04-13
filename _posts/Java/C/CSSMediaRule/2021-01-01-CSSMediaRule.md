@@ -18,10 +18,10 @@ public interface CSSMediaRule extends CSSRule
 ~~~
 
 ## Métodos
-* [deleteRule()](/Java/CSSMediaRule/deleteRule)
-* [getCssRules()](/Java/CSSMediaRule/getCssRules)
-* [getMedia()](/Java/CSSMediaRule/getMedia)
-* [insertRule()](/Java/CSSMediaRule/insertRule)
+* [deleteRule()](/Java/CSSMediaRule/deleteRule/)
+* [getCssRules()](/Java/CSSMediaRule/getCssRules/)
+* [getMedia()](/Java/CSSMediaRule/getMedia/)
+* [insertRule()](/Java/CSSMediaRule/insertRule/)
 
 ## Ejemplo
 ~~~java

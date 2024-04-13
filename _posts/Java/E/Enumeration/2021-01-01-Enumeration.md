@@ -18,9 +18,9 @@ public interface Enumeration<E>
 ~~~
 
 ## Métodos
-* [asIterator()](/Java/Enumeration/asIterator)
-* [hasMoreElements()](/Java/Enumeration/hasMoreElements)
-* [nextElement()](/Java/Enumeration/nextElement)
+* [asIterator()](/Java/Enumeration/asIterator/)
+* [hasMoreElements()](/Java/Enumeration/hasMoreElements/)
+* [nextElement()](/Java/Enumeration/nextElement/)
 
 ## Ejemplo
 ~~~java

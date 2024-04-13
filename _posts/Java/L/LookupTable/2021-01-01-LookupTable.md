@@ -21,9 +21,9 @@ public abstract class LookupTable extends Object
 * [LookupTable()](/Java/LookupTable/LookupTable/)
 
 ## Métodos
-* [getNumComponents()](/Java/LookupTable/getNumComponents)
-* [getOffset()](/Java/LookupTable/getOffset)
-* [lookupPixel()](/Java/LookupTable/lookupPixel)
+* [getNumComponents()](/Java/LookupTable/getNumComponents/)
+* [getOffset()](/Java/LookupTable/getOffset/)
+* [lookupPixel()](/Java/LookupTable/lookupPixel/)
 
 ## Ejemplo
 ~~~java

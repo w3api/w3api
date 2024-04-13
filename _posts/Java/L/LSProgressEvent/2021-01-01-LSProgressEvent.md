@@ -18,9 +18,9 @@ public interface LSProgressEvent extends Event
 ~~~
 
 ## Métodos
-* [getInput()](/Java/LSProgressEvent/getInput)
-* [getPosition()](/Java/LSProgressEvent/getPosition)
-* [getTotalSize()](/Java/LSProgressEvent/getTotalSize)
+* [getInput()](/Java/LSProgressEvent/getInput/)
+* [getPosition()](/Java/LSProgressEvent/getPosition/)
+* [getTotalSize()](/Java/LSProgressEvent/getTotalSize/)
 
 ## Ejemplo
 ~~~java

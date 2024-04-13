@@ -21,12 +21,12 @@ public final class DoubleHolder extends Object implements Streamable
 * [DoubleHolder()](/Java/DoubleHolder/DoubleHolder/)
 
 ## Campos
-* [value](/Java/DoubleHolder/value)
+* [value](/Java/DoubleHolder/value/)
 
 ## Métodos
-* [_read()](/Java/DoubleHolder/_read)
-* [_type()](/Java/DoubleHolder/_type)
-* [_write()](/Java/DoubleHolder/_write)
+* [_read()](/Java/DoubleHolder/_read/)
+* [_type()](/Java/DoubleHolder/_type/)
+* [_write()](/Java/DoubleHolder/_write/)
 
 ## Ejemplo
 ~~~java

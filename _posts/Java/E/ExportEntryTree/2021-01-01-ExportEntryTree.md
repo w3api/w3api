@@ -18,10 +18,10 @@ public interface ExportEntryTree extends Tree
 ~~~
 
 ## Métodos
-* [getExportName()](/Java/ExportEntryTree/getExportName)
-* [getImportName()](/Java/ExportEntryTree/getImportName)
-* [getLocalName()](/Java/ExportEntryTree/getLocalName)
-* [getModuleRequest()](/Java/ExportEntryTree/getModuleRequest)
+* [getExportName()](/Java/ExportEntryTree/getExportName/)
+* [getImportName()](/Java/ExportEntryTree/getImportName/)
+* [getLocalName()](/Java/ExportEntryTree/getLocalName/)
+* [getModuleRequest()](/Java/ExportEntryTree/getModuleRequest/)
 
 ## Ejemplo
 ~~~java

@@ -21,12 +21,12 @@ public abstract class InconsistentTypeCodeHelper extends Object
 * [InconsistentTypeCodeHelper()](/Java/InconsistentTypeCodeHelper/InconsistentTypeCodeHelper/)
 
 ## Métodos
-* [extract()](/Java/InconsistentTypeCodeHelper/extract)
-* [id()](/Java/InconsistentTypeCodeHelper/id)
-* [insert()](/Java/InconsistentTypeCodeHelper/insert)
-* [read()](/Java/InconsistentTypeCodeHelper/read)
-* [type()](/Java/InconsistentTypeCodeHelper/type)
-* [write()](/Java/InconsistentTypeCodeHelper/write)
+* [extract()](/Java/InconsistentTypeCodeHelper/extract/)
+* [id()](/Java/InconsistentTypeCodeHelper/id/)
+* [insert()](/Java/InconsistentTypeCodeHelper/insert/)
+* [read()](/Java/InconsistentTypeCodeHelper/read/)
+* [type()](/Java/InconsistentTypeCodeHelper/type/)
+* [write()](/Java/InconsistentTypeCodeHelper/write/)
 
 ## Ejemplo
 ~~~java

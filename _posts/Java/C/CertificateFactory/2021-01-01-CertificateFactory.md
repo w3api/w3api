@@ -21,15 +21,15 @@ public class CertificateFactory extends Object
 * [CertificateFactory()](/Java/CertificateFactory/CertificateFactory/)
 
 ## Métodos
-* [generateCertificate()](/Java/CertificateFactory/generateCertificate)
-* [generateCertificates()](/Java/CertificateFactory/generateCertificates)
-* [generateCertPath()](/Java/CertificateFactory/generateCertPath)
-* [generateCRL()](/Java/CertificateFactory/generateCRL)
-* [generateCRLs()](/Java/CertificateFactory/generateCRLs)
-* [getCertPathEncodings()](/Java/CertificateFactory/getCertPathEncodings)
-* [getInstance()](/Java/CertificateFactory/getInstance)
-* [getProvider()](/Java/CertificateFactory/getProvider)
-* [getType()](/Java/CertificateFactory/getType)
+* [generateCertificate()](/Java/CertificateFactory/generateCertificate/)
+* [generateCertificates()](/Java/CertificateFactory/generateCertificates/)
+* [generateCertPath()](/Java/CertificateFactory/generateCertPath/)
+* [generateCRL()](/Java/CertificateFactory/generateCRL/)
+* [generateCRLs()](/Java/CertificateFactory/generateCRLs/)
+* [getCertPathEncodings()](/Java/CertificateFactory/getCertPathEncodings/)
+* [getInstance()](/Java/CertificateFactory/getInstance/)
+* [getProvider()](/Java/CertificateFactory/getProvider/)
+* [getType()](/Java/CertificateFactory/getType/)
 
 ## Ejemplo
 ~~~java

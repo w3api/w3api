@@ -18,10 +18,10 @@ public static interface Connector.BooleanArgument extends Connector.Argument
 ~~~
 
 ## Métodos
-* [booleanValue()](/Java/Connector/BooleanArgument/booleanValue)
-* [isValid()](/Java/Connector/BooleanArgument/isValid)
-* [setValue()](/Java/Connector/BooleanArgument/setValue)
-* [stringValueOf()](/Java/Connector/BooleanArgument/stringValueOf)
+* [booleanValue()](/Java/Connector/BooleanArgument/booleanValue/)
+* [isValid()](/Java/Connector/BooleanArgument/isValid/)
+* [setValue()](/Java/Connector/BooleanArgument/setValue/)
+* [stringValueOf()](/Java/Connector/BooleanArgument/stringValueOf/)
 
 ## Ejemplo
 ~~~java

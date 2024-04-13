@@ -21,8 +21,8 @@ public class W3CDomHandler extends Object implements DomHandler<Element,DOMResul
 * [W3CDomHandler()](/Java/W3CDomHandler/W3CDomHandler/)
 
 ## Métodos
-* [getBuilder()](/Java/W3CDomHandler/getBuilder)
-* [setBuilder()](/Java/W3CDomHandler/setBuilder)
+* [getBuilder()](/Java/W3CDomHandler/getBuilder/)
+* [setBuilder()](/Java/W3CDomHandler/setBuilder/)
 
 ## Ejemplo
 ~~~java

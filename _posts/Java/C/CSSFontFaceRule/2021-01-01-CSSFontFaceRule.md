@@ -18,7 +18,7 @@ public interface CSSFontFaceRule extends CSSRule
 ~~~
 
 ## Métodos
-* [getStyle()](/Java/CSSFontFaceRule/getStyle)
+* [getStyle()](/Java/CSSFontFaceRule/getStyle/)
 
 ## Ejemplo
 ~~~java

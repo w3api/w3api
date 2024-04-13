@@ -21,7 +21,7 @@ public class ProgressBarTableCell<S> extends TableCell<S,Double>
 * [ProgressBarTableCell()](/Java/ProgressBarTableCell/ProgressBarTableCell/)
 
 ## Métodos
-* [forTableColumn()](/Java/ProgressBarTableCell/forTableColumn)
+* [forTableColumn()](/Java/ProgressBarTableCell/forTableColumn/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface BeanContextServicesListener extends BeanContextServiceRevokedLi
 ~~~
 
 ## Métodos
-* [serviceAvailable()](/Java/BeanContextServicesListener/serviceAvailable)
+* [serviceAvailable()](/Java/BeanContextServicesListener/serviceAvailable/)
 
 ## Ejemplo
 ~~~java

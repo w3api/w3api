@@ -18,10 +18,10 @@ public interface DataContentHandler
 ~~~
 
 ## Métodos
-* [getContent()](/Java/DataContentHandler/getContent)
-* [getTransferData()](/Java/DataContentHandler/getTransferData)
-* [getTransferDataFlavors()](/Java/DataContentHandler/getTransferDataFlavors)
-* [writeTo()](/Java/DataContentHandler/writeTo)
+* [getContent()](/Java/DataContentHandler/getContent/)
+* [getTransferData()](/Java/DataContentHandler/getTransferData/)
+* [getTransferDataFlavors()](/Java/DataContentHandler/getTransferDataFlavors/)
+* [writeTo()](/Java/DataContentHandler/writeTo/)
 
 ## Ejemplo
 ~~~java

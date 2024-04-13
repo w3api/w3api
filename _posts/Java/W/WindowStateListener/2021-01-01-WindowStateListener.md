@@ -18,7 +18,7 @@ public interface WindowStateListener extends EventListener
 ~~~
 
 ## Métodos
-* [windowStateChanged()](/Java/WindowStateListener/windowStateChanged)
+* [windowStateChanged()](/Java/WindowStateListener/windowStateChanged/)
 
 ## Ejemplo
 ~~~java

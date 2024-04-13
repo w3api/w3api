@@ -18,18 +18,18 @@ public final class EventType extends Object
 ~~~
 
 ## Métodos
-* [getAnnotation()](/Java/EventType-jdk-jfr/getAnnotation)
-* [getAnnotationElements()](/Java/EventType-jdk-jfr/getAnnotationElements)
-* [getCategoryNames()](/Java/EventType-jdk-jfr/getCategoryNames)
-* [getDescription()](/Java/EventType-jdk-jfr/getDescription)
-* [getEventType()](/Java/EventType-jdk-jfr/getEventType)
-* [getField()](/Java/EventType-jdk-jfr/getField)
-* [getFields()](/Java/EventType-jdk-jfr/getFields)
-* [getId()](/Java/EventType-jdk-jfr/getId)
-* [getLabel()](/Java/EventType-jdk-jfr/getLabel)
-* [getName()](/Java/EventType-jdk-jfr/getName)
-* [getSettingDescriptors()](/Java/EventType-jdk-jfr/getSettingDescriptors)
-* [isEnabled()](/Java/EventType-jdk-jfr/isEnabled)
+* [getAnnotation()](/Java/EventType-jdk-jfr/getAnnotation/)
+* [getAnnotationElements()](/Java/EventType-jdk-jfr/getAnnotationElements/)
+* [getCategoryNames()](/Java/EventType-jdk-jfr/getCategoryNames/)
+* [getDescription()](/Java/EventType-jdk-jfr/getDescription/)
+* [getEventType()](/Java/EventType-jdk-jfr/getEventType/)
+* [getField()](/Java/EventType-jdk-jfr/getField/)
+* [getFields()](/Java/EventType-jdk-jfr/getFields/)
+* [getId()](/Java/EventType-jdk-jfr/getId/)
+* [getLabel()](/Java/EventType-jdk-jfr/getLabel/)
+* [getName()](/Java/EventType-jdk-jfr/getName/)
+* [getSettingDescriptors()](/Java/EventType-jdk-jfr/getSettingDescriptors/)
+* [isEnabled()](/Java/EventType-jdk-jfr/isEnabled/)
 
 ## Ejemplo
 ~~~java

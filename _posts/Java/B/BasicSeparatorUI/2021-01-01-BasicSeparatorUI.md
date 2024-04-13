@@ -21,15 +21,15 @@ public class BasicSeparatorUI extends SeparatorUI
 * [BasicSeparatorUI()](/Java/BasicSeparatorUI/BasicSeparatorUI/)
 
 ## Campos
-* [highlight](/Java/BasicSeparatorUI/highlight)
-* [shadow](/Java/BasicSeparatorUI/shadow)
+* [highlight](/Java/BasicSeparatorUI/highlight/)
+* [shadow](/Java/BasicSeparatorUI/shadow/)
 
 ## Métodos
-* [createUI()](/Java/BasicSeparatorUI/createUI)
-* [installDefaults()](/Java/BasicSeparatorUI/installDefaults)
-* [installListeners()](/Java/BasicSeparatorUI/installListeners)
-* [uninstallDefaults()](/Java/BasicSeparatorUI/uninstallDefaults)
-* [uninstallListeners()](/Java/BasicSeparatorUI/uninstallListeners)
+* [createUI()](/Java/BasicSeparatorUI/createUI/)
+* [installDefaults()](/Java/BasicSeparatorUI/installDefaults/)
+* [installListeners()](/Java/BasicSeparatorUI/installListeners/)
+* [uninstallDefaults()](/Java/BasicSeparatorUI/uninstallDefaults/)
+* [uninstallListeners()](/Java/BasicSeparatorUI/uninstallListeners/)
 
 ## Ejemplo
 ~~~java

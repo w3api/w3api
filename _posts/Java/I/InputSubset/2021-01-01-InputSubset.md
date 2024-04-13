@@ -18,15 +18,15 @@ public final class InputSubset extends Character.Subset
 ~~~
 
 ## Campos
-* [FULLWIDTH_DIGITS](/Java/InputSubset/FULLWIDTH_DIGITS)
-* [FULLWIDTH_LATIN](/Java/InputSubset/FULLWIDTH_LATIN)
-* [HALFWIDTH_KATAKANA](/Java/InputSubset/HALFWIDTH_KATAKANA)
-* [HANJA](/Java/InputSubset/HANJA)
-* [KANJI](/Java/InputSubset/KANJI)
-* [LATIN](/Java/InputSubset/LATIN)
-* [LATIN_DIGITS](/Java/InputSubset/LATIN_DIGITS)
-* [SIMPLIFIED_HANZI](/Java/InputSubset/SIMPLIFIED_HANZI)
-* [TRADITIONAL_HANZI](/Java/InputSubset/TRADITIONAL_HANZI)
+* [FULLWIDTH_DIGITS](/Java/InputSubset/FULLWIDTH_DIGITS/)
+* [FULLWIDTH_LATIN](/Java/InputSubset/FULLWIDTH_LATIN/)
+* [HALFWIDTH_KATAKANA](/Java/InputSubset/HALFWIDTH_KATAKANA/)
+* [HANJA](/Java/InputSubset/HANJA/)
+* [KANJI](/Java/InputSubset/KANJI/)
+* [LATIN](/Java/InputSubset/LATIN/)
+* [LATIN_DIGITS](/Java/InputSubset/LATIN_DIGITS/)
+* [SIMPLIFIED_HANZI](/Java/InputSubset/SIMPLIFIED_HANZI/)
+* [TRADITIONAL_HANZI](/Java/InputSubset/TRADITIONAL_HANZI/)
 
 ## Ejemplo
 ~~~java

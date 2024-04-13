@@ -18,9 +18,9 @@ public interface CharValue extends PrimitiveValue, Comparable<CharValue>
 ~~~
 
 ## Métodos
-* [equals()](/Java/CharValue/equals)
-* [hashCode()](/Java/CharValue/hashCode)
-* [value()](/Java/CharValue/value)
+* [equals()](/Java/CharValue/equals/)
+* [hashCode()](/Java/CharValue/hashCode/)
+* [value()](/Java/CharValue/value/)
 
 ## Ejemplo
 ~~~java

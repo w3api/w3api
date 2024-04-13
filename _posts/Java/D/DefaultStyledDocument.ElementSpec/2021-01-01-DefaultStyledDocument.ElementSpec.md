@@ -21,24 +21,24 @@ public static class DefaultStyledDocument.ElementSpec extends Object
 * [DefaultStyledDocument.ElementSpec()](/Java/DefaultStyledDocument/ElementSpec/DefaultStyledDocument/ElementSpec/)
 
 ## Campos
-* [ContentType](/Java/DefaultStyledDocument/ElementSpec/ContentType)
-* [EndTagType](/Java/DefaultStyledDocument/ElementSpec/EndTagType)
-* [JoinFractureDirection](/Java/DefaultStyledDocument/ElementSpec/JoinFractureDirection)
-* [JoinNextDirection](/Java/DefaultStyledDocument/ElementSpec/JoinNextDirection)
-* [JoinPreviousDirection](/Java/DefaultStyledDocument/ElementSpec/JoinPreviousDirection)
-* [OriginateDirection](/Java/DefaultStyledDocument/ElementSpec/OriginateDirection)
-* [StartTagType](/Java/DefaultStyledDocument/ElementSpec/StartTagType)
+* [ContentType](/Java/DefaultStyledDocument/ElementSpec/ContentType/)
+* [EndTagType](/Java/DefaultStyledDocument/ElementSpec/EndTagType/)
+* [JoinFractureDirection](/Java/DefaultStyledDocument/ElementSpec/JoinFractureDirection/)
+* [JoinNextDirection](/Java/DefaultStyledDocument/ElementSpec/JoinNextDirection/)
+* [JoinPreviousDirection](/Java/DefaultStyledDocument/ElementSpec/JoinPreviousDirection/)
+* [OriginateDirection](/Java/DefaultStyledDocument/ElementSpec/OriginateDirection/)
+* [StartTagType](/Java/DefaultStyledDocument/ElementSpec/StartTagType/)
 
 ## Métodos
-* [getArray()](/Java/DefaultStyledDocument/ElementSpec/getArray)
-* [getAttributes()](/Java/DefaultStyledDocument/ElementSpec/getAttributes)
-* [getDirection()](/Java/DefaultStyledDocument/ElementSpec/getDirection)
-* [getLength()](/Java/DefaultStyledDocument/ElementSpec/getLength)
-* [getOffset()](/Java/DefaultStyledDocument/ElementSpec/getOffset)
-* [getType()](/Java/DefaultStyledDocument/ElementSpec/getType)
-* [setDirection()](/Java/DefaultStyledDocument/ElementSpec/setDirection)
-* [setType()](/Java/DefaultStyledDocument/ElementSpec/setType)
-* [toString()](/Java/DefaultStyledDocument/ElementSpec/toString)
+* [getArray()](/Java/DefaultStyledDocument/ElementSpec/getArray/)
+* [getAttributes()](/Java/DefaultStyledDocument/ElementSpec/getAttributes/)
+* [getDirection()](/Java/DefaultStyledDocument/ElementSpec/getDirection/)
+* [getLength()](/Java/DefaultStyledDocument/ElementSpec/getLength/)
+* [getOffset()](/Java/DefaultStyledDocument/ElementSpec/getOffset/)
+* [getType()](/Java/DefaultStyledDocument/ElementSpec/getType/)
+* [setDirection()](/Java/DefaultStyledDocument/ElementSpec/setDirection/)
+* [setType()](/Java/DefaultStyledDocument/ElementSpec/setType/)
+* [toString()](/Java/DefaultStyledDocument/ElementSpec/toString/)
 
 ## Ejemplo
 ~~~java

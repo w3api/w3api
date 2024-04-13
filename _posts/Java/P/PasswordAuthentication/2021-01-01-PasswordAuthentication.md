@@ -21,8 +21,8 @@ public final class PasswordAuthentication extends Object
 * [PasswordAuthentication()](/Java/PasswordAuthentication/PasswordAuthentication/)
 
 ## Métodos
-* [getPassword()](/Java/PasswordAuthentication/getPassword)
-* [getUserName()](/Java/PasswordAuthentication/getUserName)
+* [getPassword()](/Java/PasswordAuthentication/getPassword/)
+* [getUserName()](/Java/PasswordAuthentication/getUserName/)
 
 ## Ejemplo
 ~~~java

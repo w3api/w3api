@@ -18,10 +18,10 @@ public interface PlatformLoggingMXBean extends PlatformManagedObject
 ~~~
 
 ## Métodos
-* [getLoggerLevel()](/Java/PlatformLoggingMXBean/getLoggerLevel)
-* [getLoggerNames()](/Java/PlatformLoggingMXBean/getLoggerNames)
-* [getParentLoggerName()](/Java/PlatformLoggingMXBean/getParentLoggerName)
-* [setLoggerLevel()](/Java/PlatformLoggingMXBean/setLoggerLevel)
+* [getLoggerLevel()](/Java/PlatformLoggingMXBean/getLoggerLevel/)
+* [getLoggerNames()](/Java/PlatformLoggingMXBean/getLoggerNames/)
+* [getParentLoggerName()](/Java/PlatformLoggingMXBean/getParentLoggerName/)
+* [setLoggerLevel()](/Java/PlatformLoggingMXBean/setLoggerLevel/)
 
 ## Ejemplo
 ~~~java

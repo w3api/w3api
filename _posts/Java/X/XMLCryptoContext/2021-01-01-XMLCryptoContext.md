@@ -18,20 +18,20 @@ public interface XMLCryptoContext
 ~~~
 
 ## Métodos
-* [get()](/Java/XMLCryptoContext/get)
-* [getBaseURI()](/Java/XMLCryptoContext/getBaseURI)
-* [getDefaultNamespacePrefix()](/Java/XMLCryptoContext/getDefaultNamespacePrefix)
-* [getKeySelector()](/Java/XMLCryptoContext/getKeySelector)
-* [getNamespacePrefix()](/Java/XMLCryptoContext/getNamespacePrefix)
-* [getProperty()](/Java/XMLCryptoContext/getProperty)
-* [getURIDereferencer()](/Java/XMLCryptoContext/getURIDereferencer)
-* [put()](/Java/XMLCryptoContext/put)
-* [putNamespacePrefix()](/Java/XMLCryptoContext/putNamespacePrefix)
-* [setBaseURI()](/Java/XMLCryptoContext/setBaseURI)
-* [setDefaultNamespacePrefix()](/Java/XMLCryptoContext/setDefaultNamespacePrefix)
-* [setKeySelector()](/Java/XMLCryptoContext/setKeySelector)
-* [setProperty()](/Java/XMLCryptoContext/setProperty)
-* [setURIDereferencer()](/Java/XMLCryptoContext/setURIDereferencer)
+* [get()](/Java/XMLCryptoContext/get/)
+* [getBaseURI()](/Java/XMLCryptoContext/getBaseURI/)
+* [getDefaultNamespacePrefix()](/Java/XMLCryptoContext/getDefaultNamespacePrefix/)
+* [getKeySelector()](/Java/XMLCryptoContext/getKeySelector/)
+* [getNamespacePrefix()](/Java/XMLCryptoContext/getNamespacePrefix/)
+* [getProperty()](/Java/XMLCryptoContext/getProperty/)
+* [getURIDereferencer()](/Java/XMLCryptoContext/getURIDereferencer/)
+* [put()](/Java/XMLCryptoContext/put/)
+* [putNamespacePrefix()](/Java/XMLCryptoContext/putNamespacePrefix/)
+* [setBaseURI()](/Java/XMLCryptoContext/setBaseURI/)
+* [setDefaultNamespacePrefix()](/Java/XMLCryptoContext/setDefaultNamespacePrefix/)
+* [setKeySelector()](/Java/XMLCryptoContext/setKeySelector/)
+* [setProperty()](/Java/XMLCryptoContext/setProperty/)
+* [setURIDereferencer()](/Java/XMLCryptoContext/setURIDereferencer/)
 
 ## Ejemplo
 ~~~java

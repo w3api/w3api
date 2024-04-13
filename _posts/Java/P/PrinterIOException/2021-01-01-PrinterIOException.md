@@ -21,8 +21,8 @@ public class PrinterIOException extends PrinterException
 * [PrinterIOException()](/Java/PrinterIOException/PrinterIOException/)
 
 ## Métodos
-* [getCause()](/Java/PrinterIOException/getCause)
-* [getIOException()](/Java/PrinterIOException/getIOException)
+* [getCause()](/Java/PrinterIOException/getCause/)
+* [getIOException()](/Java/PrinterIOException/getIOException/)
 
 ## Ejemplo
 ~~~java

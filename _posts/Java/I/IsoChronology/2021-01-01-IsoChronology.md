@@ -18,21 +18,21 @@ public final class IsoChronology extends AbstractChronology implements Serializa
 ~~~
 
 ## Campos
-* [INSTANCE](/Java/IsoChronology/INSTANCE)
+* [INSTANCE](/Java/IsoChronology/INSTANCE/)
 
 ## Métodos
-* [date()](/Java/IsoChronology/date)
-* [dateEpochDay()](/Java/IsoChronology/dateEpochDay)
-* [dateNow()](/Java/IsoChronology/dateNow)
-* [dateYearDay()](/Java/IsoChronology/dateYearDay)
-* [epochSecond()](/Java/IsoChronology/epochSecond)
-* [getCalendarType()](/Java/IsoChronology/getCalendarType)
-* [getId()](/Java/IsoChronology/getId)
-* [isLeapYear()](/Java/IsoChronology/isLeapYear)
-* [localDateTime()](/Java/IsoChronology/localDateTime)
-* [period()](/Java/IsoChronology/period)
-* [resolveDate()](/Java/IsoChronology/resolveDate)
-* [zonedDateTime()](/Java/IsoChronology/zonedDateTime)
+* [date()](/Java/IsoChronology/date/)
+* [dateEpochDay()](/Java/IsoChronology/dateEpochDay/)
+* [dateNow()](/Java/IsoChronology/dateNow/)
+* [dateYearDay()](/Java/IsoChronology/dateYearDay/)
+* [epochSecond()](/Java/IsoChronology/epochSecond/)
+* [getCalendarType()](/Java/IsoChronology/getCalendarType/)
+* [getId()](/Java/IsoChronology/getId/)
+* [isLeapYear()](/Java/IsoChronology/isLeapYear/)
+* [localDateTime()](/Java/IsoChronology/localDateTime/)
+* [period()](/Java/IsoChronology/period/)
+* [resolveDate()](/Java/IsoChronology/resolveDate/)
+* [zonedDateTime()](/Java/IsoChronology/zonedDateTime/)
 
 ## Ejemplo
 ~~~java

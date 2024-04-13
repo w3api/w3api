@@ -18,12 +18,12 @@ public enum PrintColor extends Enum<PrintColor>
 ~~~
 
 ## Enumerados
-* [COLOR](/Java/PrintColor/COLOR)
-* [MONOCHROME](/Java/PrintColor/MONOCHROME)
+* [COLOR](/Java/PrintColor/COLOR/)
+* [MONOCHROME](/Java/PrintColor/MONOCHROME/)
 
 ## Métodos
-* [valueOf()](/Java/PrintColor/valueOf)
-* [values()](/Java/PrintColor/values)
+* [valueOf()](/Java/PrintColor/valueOf/)
+* [values()](/Java/PrintColor/values/)
 
 ## Ejemplo
 ~~~java

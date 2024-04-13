@@ -18,7 +18,7 @@ public interface XPathFunction
 ~~~
 
 ## Métodos
-* [evaluate()](/Java/XPathFunction/evaluate)
+* [evaluate()](/Java/XPathFunction/evaluate/)
 
 ## Ejemplo
 ~~~java

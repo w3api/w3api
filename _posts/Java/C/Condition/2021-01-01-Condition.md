@@ -18,12 +18,12 @@ public interface Condition
 ~~~
 
 ## Métodos
-* [await()](/Java/Condition/await)
-* [awaitNanos()](/Java/Condition/awaitNanos)
-* [awaitUninterruptibly()](/Java/Condition/awaitUninterruptibly)
-* [awaitUntil()](/Java/Condition/awaitUntil)
-* [signal()](/Java/Condition/signal)
-* [signalAll()](/Java/Condition/signalAll)
+* [await()](/Java/Condition/await/)
+* [awaitNanos()](/Java/Condition/awaitNanos/)
+* [awaitUninterruptibly()](/Java/Condition/awaitUninterruptibly/)
+* [awaitUntil()](/Java/Condition/awaitUntil/)
+* [signal()](/Java/Condition/signal/)
+* [signalAll()](/Java/Condition/signalAll/)
 
 ## Ejemplo
 ~~~java

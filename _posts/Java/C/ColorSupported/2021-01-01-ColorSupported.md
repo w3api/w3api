@@ -21,14 +21,14 @@ public final class ColorSupported extends EnumSyntax implements PrintServiceAttr
 * [ColorSupported()](/Java/ColorSupported/ColorSupported/)
 
 ## Campos
-* [NOT_SUPPORTED](/Java/ColorSupported/NOT_SUPPORTED)
-* [SUPPORTED](/Java/ColorSupported/SUPPORTED)
+* [NOT_SUPPORTED](/Java/ColorSupported/NOT_SUPPORTED/)
+* [SUPPORTED](/Java/ColorSupported/SUPPORTED/)
 
 ## Métodos
-* [getCategory()](/Java/ColorSupported/getCategory)
-* [getEnumValueTable()](/Java/ColorSupported/getEnumValueTable)
-* [getName()](/Java/ColorSupported/getName)
-* [getStringTable()](/Java/ColorSupported/getStringTable)
+* [getCategory()](/Java/ColorSupported/getCategory/)
+* [getEnumValueTable()](/Java/ColorSupported/getEnumValueTable/)
+* [getName()](/Java/ColorSupported/getName/)
+* [getStringTable()](/Java/ColorSupported/getStringTable/)
 
 ## Ejemplo
 ~~~java

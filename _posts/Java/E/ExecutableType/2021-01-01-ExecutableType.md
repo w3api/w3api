@@ -18,11 +18,11 @@ public interface ExecutableType extends TypeMirror
 ~~~
 
 ## Métodos
-* [getParameterTypes()](/Java/ExecutableType/getParameterTypes)
-* [getReceiverType()](/Java/ExecutableType/getReceiverType)
-* [getReturnType()](/Java/ExecutableType/getReturnType)
-* [getThrownTypes()](/Java/ExecutableType/getThrownTypes)
-* [getTypeVariables()](/Java/ExecutableType/getTypeVariables)
+* [getParameterTypes()](/Java/ExecutableType/getParameterTypes/)
+* [getReceiverType()](/Java/ExecutableType/getReceiverType/)
+* [getReturnType()](/Java/ExecutableType/getReturnType/)
+* [getThrownTypes()](/Java/ExecutableType/getThrownTypes/)
+* [getTypeVariables()](/Java/ExecutableType/getTypeVariables/)
 
 ## Ejemplo
 ~~~java

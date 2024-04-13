@@ -18,7 +18,7 @@ public interface PrintServiceAttributeListener
 ~~~
 
 ## Métodos
-* [attributeUpdate()](/Java/PrintServiceAttributeListener/attributeUpdate)
+* [attributeUpdate()](/Java/PrintServiceAttributeListener/attributeUpdate/)
 
 ## Ejemplo
 ~~~java

@@ -18,13 +18,13 @@ public interface CompilationUnitTree extends Tree
 ~~~
 
 ## Métodos
-* [getImports()](/Java/CompilationUnitTree-com-sun-source-tree/getImports)
-* [getLineMap()](/Java/CompilationUnitTree-com-sun-source-tree/getLineMap)
-* [getPackage()](/Java/CompilationUnitTree-com-sun-source-tree/getPackage)
-* [getPackageAnnotations()](/Java/CompilationUnitTree-com-sun-source-tree/getPackageAnnotations)
-* [getPackageName()](/Java/CompilationUnitTree-com-sun-source-tree/getPackageName)
-* [getSourceFile()](/Java/CompilationUnitTree-com-sun-source-tree/getSourceFile)
-* [getTypeDecls()](/Java/CompilationUnitTree-com-sun-source-tree/getTypeDecls)
+* [getImports()](/Java/CompilationUnitTree-com-sun-source-tree/getImports/)
+* [getLineMap()](/Java/CompilationUnitTree-com-sun-source-tree/getLineMap/)
+* [getPackage()](/Java/CompilationUnitTree-com-sun-source-tree/getPackage/)
+* [getPackageAnnotations()](/Java/CompilationUnitTree-com-sun-source-tree/getPackageAnnotations/)
+* [getPackageName()](/Java/CompilationUnitTree-com-sun-source-tree/getPackageName/)
+* [getSourceFile()](/Java/CompilationUnitTree-com-sun-source-tree/getSourceFile/)
+* [getTypeDecls()](/Java/CompilationUnitTree-com-sun-source-tree/getTypeDecls/)
 
 ## Ejemplo
 ~~~java

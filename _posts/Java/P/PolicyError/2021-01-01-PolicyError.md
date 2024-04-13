@@ -21,7 +21,7 @@ public final class PolicyError extends UserException
 * [PolicyError()](/Java/PolicyError/PolicyError/)
 
 ## Campos
-* [reason](/Java/PolicyError/reason)
+* [reason](/Java/PolicyError/reason/)
 
 ## Ejemplo
 ~~~java

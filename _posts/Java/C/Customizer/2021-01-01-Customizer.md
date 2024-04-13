@@ -18,9 +18,9 @@ public interface Customizer
 ~~~
 
 ## Métodos
-* [addPropertyChangeListener()](/Java/Customizer/addPropertyChangeListener)
-* [removePropertyChangeListener()](/Java/Customizer/removePropertyChangeListener)
-* [setObject()](/Java/Customizer/setObject)
+* [addPropertyChangeListener()](/Java/Customizer/addPropertyChangeListener/)
+* [removePropertyChangeListener()](/Java/Customizer/removePropertyChangeListener/)
+* [setObject()](/Java/Customizer/setObject/)
 
 ## Ejemplo
 ~~~java

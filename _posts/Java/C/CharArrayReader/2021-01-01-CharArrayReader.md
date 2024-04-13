@@ -21,19 +21,19 @@ public class CharArrayReader extends Reader
 * [CharArrayReader()](/Java/CharArrayReader/CharArrayReader/)
 
 ## Campos
-* [buf](/Java/CharArrayReader/buf)
-* [count](/Java/CharArrayReader/count)
-* [markedPos](/Java/CharArrayReader/markedPos)
-* [pos](/Java/CharArrayReader/pos)
+* [buf](/Java/CharArrayReader/buf/)
+* [count](/Java/CharArrayReader/count/)
+* [markedPos](/Java/CharArrayReader/markedPos/)
+* [pos](/Java/CharArrayReader/pos/)
 
 ## Métodos
-* [close()](/Java/CharArrayReader/close)
-* [mark()](/Java/CharArrayReader/mark)
-* [markSupported()](/Java/CharArrayReader/markSupported)
-* [read()](/Java/CharArrayReader/read)
-* [ready()](/Java/CharArrayReader/ready)
-* [reset()](/Java/CharArrayReader/reset)
-* [skip()](/Java/CharArrayReader/skip)
+* [close()](/Java/CharArrayReader/close/)
+* [mark()](/Java/CharArrayReader/mark/)
+* [markSupported()](/Java/CharArrayReader/markSupported/)
+* [read()](/Java/CharArrayReader/read/)
+* [ready()](/Java/CharArrayReader/ready/)
+* [reset()](/Java/CharArrayReader/reset/)
+* [skip()](/Java/CharArrayReader/skip/)
 
 ## Ejemplo
 ~~~java

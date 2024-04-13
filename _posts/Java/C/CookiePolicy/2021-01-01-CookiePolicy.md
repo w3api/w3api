@@ -18,12 +18,12 @@ public interface CookiePolicy
 ~~~
 
 ## Campos
-* [ACCEPT_ALL](/Java/CookiePolicy/ACCEPT_ALL)
-* [ACCEPT_NONE](/Java/CookiePolicy/ACCEPT_NONE)
-* [ACCEPT_ORIGINAL_SERVER](/Java/CookiePolicy/ACCEPT_ORIGINAL_SERVER)
+* [ACCEPT_ALL](/Java/CookiePolicy/ACCEPT_ALL/)
+* [ACCEPT_NONE](/Java/CookiePolicy/ACCEPT_NONE/)
+* [ACCEPT_ORIGINAL_SERVER](/Java/CookiePolicy/ACCEPT_ORIGINAL_SERVER/)
 
 ## Métodos
-* [shouldAccept()](/Java/CookiePolicy/shouldAccept)
+* [shouldAccept()](/Java/CookiePolicy/shouldAccept/)
 
 ## Ejemplo
 ~~~java

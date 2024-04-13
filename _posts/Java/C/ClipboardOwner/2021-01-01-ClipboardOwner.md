@@ -18,7 +18,7 @@ public interface ClipboardOwner
 ~~~
 
 ## Métodos
-* [lostOwnership()](/Java/ClipboardOwner/lostOwnership)
+* [lostOwnership()](/Java/ClipboardOwner/lostOwnership/)
 
 ## Ejemplo
 ~~~java

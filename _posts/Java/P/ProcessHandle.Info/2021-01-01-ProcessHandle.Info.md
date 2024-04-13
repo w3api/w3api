@@ -18,12 +18,12 @@ public static interface ProcessHandle.Info
 ~~~
 
 ## Métodos
-* [arguments()](/Java/ProcessHandle/Info/arguments)
-* [command()](/Java/ProcessHandle/Info/command)
-* [commandLine()](/Java/ProcessHandle/Info/commandLine)
-* [startInstant()](/Java/ProcessHandle/Info/startInstant)
-* [totalCpuDuration()](/Java/ProcessHandle/Info/totalCpuDuration)
-* [user()](/Java/ProcessHandle/Info/user)
+* [arguments()](/Java/ProcessHandle/Info/arguments/)
+* [command()](/Java/ProcessHandle/Info/command/)
+* [commandLine()](/Java/ProcessHandle/Info/commandLine/)
+* [startInstant()](/Java/ProcessHandle/Info/startInstant/)
+* [totalCpuDuration()](/Java/ProcessHandle/Info/totalCpuDuration/)
+* [user()](/Java/ProcessHandle/Info/user/)
 
 ## Ejemplo
 ~~~java

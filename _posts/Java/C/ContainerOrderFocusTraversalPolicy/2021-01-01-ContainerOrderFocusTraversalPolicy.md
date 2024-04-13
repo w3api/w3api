@@ -21,14 +21,14 @@ public class ContainerOrderFocusTraversalPolicy extends FocusTraversalPolicy imp
 * [ContainerOrderFocusTraversalPolicy()](/Java/ContainerOrderFocusTraversalPolicy/ContainerOrderFocusTraversalPolicy/)
 
 ## Métodos
-* [accept()](/Java/ContainerOrderFocusTraversalPolicy/accept)
-* [getComponentAfter()](/Java/ContainerOrderFocusTraversalPolicy/getComponentAfter)
-* [getComponentBefore()](/Java/ContainerOrderFocusTraversalPolicy/getComponentBefore)
-* [getDefaultComponent()](/Java/ContainerOrderFocusTraversalPolicy/getDefaultComponent)
-* [getFirstComponent()](/Java/ContainerOrderFocusTraversalPolicy/getFirstComponent)
-* [getImplicitDownCycleTraversal()](/Java/ContainerOrderFocusTraversalPolicy/getImplicitDownCycleTraversal)
-* [getLastComponent()](/Java/ContainerOrderFocusTraversalPolicy/getLastComponent)
-* [setImplicitDownCycleTraversal()](/Java/ContainerOrderFocusTraversalPolicy/setImplicitDownCycleTraversal)
+* [accept()](/Java/ContainerOrderFocusTraversalPolicy/accept/)
+* [getComponentAfter()](/Java/ContainerOrderFocusTraversalPolicy/getComponentAfter/)
+* [getComponentBefore()](/Java/ContainerOrderFocusTraversalPolicy/getComponentBefore/)
+* [getDefaultComponent()](/Java/ContainerOrderFocusTraversalPolicy/getDefaultComponent/)
+* [getFirstComponent()](/Java/ContainerOrderFocusTraversalPolicy/getFirstComponent/)
+* [getImplicitDownCycleTraversal()](/Java/ContainerOrderFocusTraversalPolicy/getImplicitDownCycleTraversal/)
+* [getLastComponent()](/Java/ContainerOrderFocusTraversalPolicy/getLastComponent/)
+* [setImplicitDownCycleTraversal()](/Java/ContainerOrderFocusTraversalPolicy/setImplicitDownCycleTraversal/)
 
 ## Ejemplo
 ~~~java

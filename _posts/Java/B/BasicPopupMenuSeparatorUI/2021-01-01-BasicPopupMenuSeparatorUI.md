@@ -21,7 +21,7 @@ public class BasicPopupMenuSeparatorUI extends BasicSeparatorUI
 * [BasicPopupMenuSeparatorUI()](/Java/BasicPopupMenuSeparatorUI/BasicPopupMenuSeparatorUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicPopupMenuSeparatorUI/createUI)
+* [createUI()](/Java/BasicPopupMenuSeparatorUI/createUI/)
 
 ## Ejemplo
 ~~~java

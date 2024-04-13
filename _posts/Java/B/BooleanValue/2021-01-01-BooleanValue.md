@@ -18,9 +18,9 @@ public interface BooleanValue extends PrimitiveValue
 ~~~
 
 ## Métodos
-* [equals()](/Java/BooleanValue/equals)
-* [hashCode()](/Java/BooleanValue/hashCode)
-* [value()](/Java/BooleanValue/value)
+* [equals()](/Java/BooleanValue/equals/)
+* [hashCode()](/Java/BooleanValue/hashCode/)
+* [value()](/Java/BooleanValue/value/)
 
 ## Ejemplo
 ~~~java

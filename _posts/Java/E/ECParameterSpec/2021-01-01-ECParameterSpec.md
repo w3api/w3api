@@ -21,10 +21,10 @@ public class ECParameterSpec extends Object implements AlgorithmParameterSpec
 * [ECParameterSpec()](/Java/ECParameterSpec/ECParameterSpec/)
 
 ## Métodos
-* [getCofactor()](/Java/ECParameterSpec/getCofactor)
-* [getCurve()](/Java/ECParameterSpec/getCurve)
-* [getGenerator()](/Java/ECParameterSpec/getGenerator)
-* [getOrder()](/Java/ECParameterSpec/getOrder)
+* [getCofactor()](/Java/ECParameterSpec/getCofactor/)
+* [getCurve()](/Java/ECParameterSpec/getCurve/)
+* [getGenerator()](/Java/ECParameterSpec/getGenerator/)
+* [getOrder()](/Java/ECParameterSpec/getOrder/)
 
 ## Ejemplo
 ~~~java

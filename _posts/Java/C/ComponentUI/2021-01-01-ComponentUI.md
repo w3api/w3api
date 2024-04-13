@@ -21,19 +21,19 @@ public abstract class ComponentUI extends Object
 * [ComponentUI()](/Java/ComponentUI/ComponentUI/)
 
 ## Métodos
-* [contains()](/Java/ComponentUI/contains)
-* [createUI()](/Java/ComponentUI/createUI)
-* [getAccessibleChild()](/Java/ComponentUI/getAccessibleChild)
-* [getAccessibleChildrenCount()](/Java/ComponentUI/getAccessibleChildrenCount)
-* [getBaseline()](/Java/ComponentUI/getBaseline)
-* [getBaselineResizeBehavior()](/Java/ComponentUI/getBaselineResizeBehavior)
-* [getMaximumSize()](/Java/ComponentUI/getMaximumSize)
-* [getMinimumSize()](/Java/ComponentUI/getMinimumSize)
-* [getPreferredSize()](/Java/ComponentUI/getPreferredSize)
-* [installUI()](/Java/ComponentUI/installUI)
-* [paint()](/Java/ComponentUI/paint)
-* [uninstallUI()](/Java/ComponentUI/uninstallUI)
-* [update()](/Java/ComponentUI/update)
+* [contains()](/Java/ComponentUI/contains/)
+* [createUI()](/Java/ComponentUI/createUI/)
+* [getAccessibleChild()](/Java/ComponentUI/getAccessibleChild/)
+* [getAccessibleChildrenCount()](/Java/ComponentUI/getAccessibleChildrenCount/)
+* [getBaseline()](/Java/ComponentUI/getBaseline/)
+* [getBaselineResizeBehavior()](/Java/ComponentUI/getBaselineResizeBehavior/)
+* [getMaximumSize()](/Java/ComponentUI/getMaximumSize/)
+* [getMinimumSize()](/Java/ComponentUI/getMinimumSize/)
+* [getPreferredSize()](/Java/ComponentUI/getPreferredSize/)
+* [installUI()](/Java/ComponentUI/installUI/)
+* [paint()](/Java/ComponentUI/paint/)
+* [uninstallUI()](/Java/ComponentUI/uninstallUI/)
+* [update()](/Java/ComponentUI/update/)
 
 ## Ejemplo
 ~~~java

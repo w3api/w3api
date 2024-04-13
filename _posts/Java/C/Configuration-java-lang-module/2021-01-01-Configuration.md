@@ -18,13 +18,13 @@ public final class Configuration extends Object
 ~~~
 
 ## Métodos
-* [empty()](/Java/Configuration-java-lang-module/empty)
-* [findModule()](/Java/Configuration-java-lang-module/findModule)
-* [modules()](/Java/Configuration-java-lang-module/modules)
-* [parents()](/Java/Configuration-java-lang-module/parents)
-* [resolve()](/Java/Configuration-java-lang-module/resolve)
-* [resolveAndBind()](/Java/Configuration-java-lang-module/resolveAndBind)
-* [toString()](/Java/Configuration-java-lang-module/toString)
+* [empty()](/Java/Configuration-java-lang-module/empty/)
+* [findModule()](/Java/Configuration-java-lang-module/findModule/)
+* [modules()](/Java/Configuration-java-lang-module/modules/)
+* [parents()](/Java/Configuration-java-lang-module/parents/)
+* [resolve()](/Java/Configuration-java-lang-module/resolve/)
+* [resolveAndBind()](/Java/Configuration-java-lang-module/resolveAndBind/)
+* [toString()](/Java/Configuration-java-lang-module/toString/)
 
 ## Ejemplo
 ~~~java

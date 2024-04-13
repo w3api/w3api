@@ -21,12 +21,12 @@ public final class LongHolder extends Object implements Streamable
 * [LongHolder()](/Java/LongHolder/LongHolder/)
 
 ## Campos
-* [value](/Java/LongHolder/value)
+* [value](/Java/LongHolder/value/)
 
 ## Métodos
-* [_read()](/Java/LongHolder/_read)
-* [_type()](/Java/LongHolder/_type)
-* [_write()](/Java/LongHolder/_write)
+* [_read()](/Java/LongHolder/_read/)
+* [_type()](/Java/LongHolder/_type/)
+* [_write()](/Java/LongHolder/_write/)
 
 ## Ejemplo
 ~~~java

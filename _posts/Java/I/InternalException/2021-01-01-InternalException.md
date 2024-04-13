@@ -21,7 +21,7 @@ public class InternalException extends RuntimeException
 * [InternalException()](/Java/InternalException/InternalException/)
 
 ## Métodos
-* [errorCode()](/Java/InternalException/errorCode)
+* [errorCode()](/Java/InternalException/errorCode/)
 
 ## Ejemplo
 ~~~java

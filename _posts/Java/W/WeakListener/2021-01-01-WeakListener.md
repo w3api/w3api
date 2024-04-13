@@ -18,7 +18,7 @@ public interface WeakListener
 ~~~
 
 ## Métodos
-* [wasGarbageCollected()](/Java/WeakListener/wasGarbageCollected)
+* [wasGarbageCollected()](/Java/WeakListener/wasGarbageCollected/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public abstract class CacheResponse extends Object
 * [CacheResponse()](/Java/CacheResponse/CacheResponse/)
 
 ## Métodos
-* [getBody()](/Java/CacheResponse/getBody)
-* [getHeaders()](/Java/CacheResponse/getHeaders)
+* [getBody()](/Java/CacheResponse/getBody/)
+* [getHeaders()](/Java/CacheResponse/getHeaders/)
 
 ## Ejemplo
 ~~~java

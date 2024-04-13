@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [changed()](/Java/ChangeListener-javafx-beans-value/changed)
+* [changed()](/Java/ChangeListener-javafx-beans-value/changed/)
 
 ## Ejemplo
 ~~~java

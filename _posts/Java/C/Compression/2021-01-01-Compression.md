@@ -21,16 +21,16 @@ public class Compression extends EnumSyntax implements DocAttribute
 * [Compression()](/Java/Compression/Compression/)
 
 ## Campos
-* [COMPRESS](/Java/Compression/COMPRESS)
-* [DEFLATE](/Java/Compression/DEFLATE)
-* [GZIP](/Java/Compression/GZIP)
-* [NONE](/Java/Compression/NONE)
+* [COMPRESS](/Java/Compression/COMPRESS/)
+* [DEFLATE](/Java/Compression/DEFLATE/)
+* [GZIP](/Java/Compression/GZIP/)
+* [NONE](/Java/Compression/NONE/)
 
 ## Métodos
-* [getCategory()](/Java/Compression/getCategory)
-* [getEnumValueTable()](/Java/Compression/getEnumValueTable)
-* [getName()](/Java/Compression/getName)
-* [getStringTable()](/Java/Compression/getStringTable)
+* [getCategory()](/Java/Compression/getCategory/)
+* [getEnumValueTable()](/Java/Compression/getEnumValueTable/)
+* [getName()](/Java/Compression/getName/)
+* [getStringTable()](/Java/Compression/getStringTable/)
 
 ## Ejemplo
 ~~~java

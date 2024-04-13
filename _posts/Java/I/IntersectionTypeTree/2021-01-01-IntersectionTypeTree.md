@@ -18,7 +18,7 @@ public interface IntersectionTypeTree extends Tree
 ~~~
 
 ## Métodos
-* [getBounds()](/Java/IntersectionTypeTree/getBounds)
+* [getBounds()](/Java/IntersectionTypeTree/getBounds/)
 
 ## Ejemplo
 ~~~java

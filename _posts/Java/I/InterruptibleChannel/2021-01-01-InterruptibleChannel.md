@@ -18,7 +18,7 @@ public interface InterruptibleChannel extends Channel
 ~~~
 
 ## Métodos
-* [close()](/Java/InterruptibleChannel/close)
+* [close()](/Java/InterruptibleChannel/close/)
 
 ## Ejemplo
 ~~~java

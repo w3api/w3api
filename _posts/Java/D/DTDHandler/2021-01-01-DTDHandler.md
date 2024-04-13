@@ -18,8 +18,8 @@ public interface DTDHandler
 ~~~
 
 ## Métodos
-* [notationDecl()](/Java/DTDHandler/notationDecl)
-* [unparsedEntityDecl()](/Java/DTDHandler/unparsedEntityDecl)
+* [notationDecl()](/Java/DTDHandler/notationDecl/)
+* [unparsedEntityDecl()](/Java/DTDHandler/unparsedEntityDecl/)
 
 ## Ejemplo
 ~~~java

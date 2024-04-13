@@ -21,22 +21,22 @@ public abstract class ImageInputStreamImpl extends Object implements ImageInputS
 * [ImageInputStreamImpl()](/Java/ImageInputStreamImpl/ImageInputStreamImpl/)
 
 ## Campos
-* [bitOffset](/Java/ImageInputStreamImpl/bitOffset)
-* [byteOrder](/Java/ImageInputStreamImpl/byteOrder)
-* [flushedPos](/Java/ImageInputStreamImpl/flushedPos)
-* [streamPos](/Java/ImageInputStreamImpl/streamPos)
+* [bitOffset](/Java/ImageInputStreamImpl/bitOffset/)
+* [byteOrder](/Java/ImageInputStreamImpl/byteOrder/)
+* [flushedPos](/Java/ImageInputStreamImpl/flushedPos/)
+* [streamPos](/Java/ImageInputStreamImpl/streamPos/)
 
 ## Métodos
-* [checkClosed()](/Java/ImageInputStreamImpl/checkClosed)
-* [finalize()](/Java/ImageInputStreamImpl/finalize)
-* [isCached()](/Java/ImageInputStreamImpl/isCached)
-* [isCachedFile()](/Java/ImageInputStreamImpl/isCachedFile)
-* [isCachedMemory()](/Java/ImageInputStreamImpl/isCachedMemory)
-* [length()](/Java/ImageInputStreamImpl/length)
-* [mark()](/Java/ImageInputStreamImpl/mark)
-* [read()](/Java/ImageInputStreamImpl/read)
-* [reset()](/Java/ImageInputStreamImpl/reset)
-* [skipBytes()](/Java/ImageInputStreamImpl/skipBytes)
+* [checkClosed()](/Java/ImageInputStreamImpl/checkClosed/)
+* [finalize()](/Java/ImageInputStreamImpl/finalize/)
+* [isCached()](/Java/ImageInputStreamImpl/isCached/)
+* [isCachedFile()](/Java/ImageInputStreamImpl/isCachedFile/)
+* [isCachedMemory()](/Java/ImageInputStreamImpl/isCachedMemory/)
+* [length()](/Java/ImageInputStreamImpl/length/)
+* [mark()](/Java/ImageInputStreamImpl/mark/)
+* [read()](/Java/ImageInputStreamImpl/read/)
+* [reset()](/Java/ImageInputStreamImpl/reset/)
+* [skipBytes()](/Java/ImageInputStreamImpl/skipBytes/)
 
 ## Ejemplo
 ~~~java

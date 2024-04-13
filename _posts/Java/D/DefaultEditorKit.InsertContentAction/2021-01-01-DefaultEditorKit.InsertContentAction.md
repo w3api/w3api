@@ -21,7 +21,7 @@ public static class DefaultEditorKit.InsertContentAction extends TextAction
 * [DefaultEditorKit.InsertContentAction()](/Java/DefaultEditorKit/InsertContentAction/DefaultEditorKit/InsertContentAction/)
 
 ## Métodos
-* [actionPerformed()](/Java/DefaultEditorKit/InsertContentAction/actionPerformed)
+* [actionPerformed()](/Java/DefaultEditorKit/InsertContentAction/actionPerformed/)
 
 ## Ejemplo
 ~~~java

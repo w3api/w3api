@@ -21,12 +21,12 @@ public final class ByteHolder extends Object implements Streamable
 * [ByteHolder()](/Java/ByteHolder/ByteHolder/)
 
 ## Campos
-* [value](/Java/ByteHolder/value)
+* [value](/Java/ByteHolder/value/)
 
 ## Métodos
-* [_read()](/Java/ByteHolder/_read)
-* [_type()](/Java/ByteHolder/_type)
-* [_write()](/Java/ByteHolder/_write)
+* [_read()](/Java/ByteHolder/_read/)
+* [_type()](/Java/ByteHolder/_type/)
+* [_write()](/Java/ByteHolder/_write/)
 
 ## Ejemplo
 ~~~java

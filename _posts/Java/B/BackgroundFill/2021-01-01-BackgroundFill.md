@@ -21,9 +21,9 @@ public final class BackgroundFill extends Object
 * [BackgroundFill()](/Java/BackgroundFill/BackgroundFill/)
 
 ## Métodos
-* [getFill()](/Java/BackgroundFill/getFill)
-* [getInsets()](/Java/BackgroundFill/getInsets)
-* [getRadii()](/Java/BackgroundFill/getRadii)
+* [getFill()](/Java/BackgroundFill/getFill/)
+* [getInsets()](/Java/BackgroundFill/getInsets/)
+* [getRadii()](/Java/BackgroundFill/getRadii/)
 
 ## Ejemplo
 ~~~java

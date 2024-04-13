@@ -21,7 +21,7 @@ public class IndexedPropertyChangeEvent extends PropertyChangeEvent
 * [IndexedPropertyChangeEvent()](/Java/IndexedPropertyChangeEvent/IndexedPropertyChangeEvent/)
 
 ## Métodos
-* [getIndex()](/Java/IndexedPropertyChangeEvent/getIndex)
+* [getIndex()](/Java/IndexedPropertyChangeEvent/getIndex/)
 
 ## Ejemplo
 ~~~java

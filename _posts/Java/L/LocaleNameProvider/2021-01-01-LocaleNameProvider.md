@@ -21,12 +21,12 @@ public abstract class LocaleNameProvider extends LocaleServiceProvider
 * [LocaleNameProvider()](/Java/LocaleNameProvider/LocaleNameProvider/)
 
 ## Métodos
-* [getDisplayCountry()](/Java/LocaleNameProvider/getDisplayCountry)
-* [getDisplayLanguage()](/Java/LocaleNameProvider/getDisplayLanguage)
-* [getDisplayScript()](/Java/LocaleNameProvider/getDisplayScript)
-* [getDisplayUnicodeExtensionKey()](/Java/LocaleNameProvider/getDisplayUnicodeExtensionKey)
-* [getDisplayUnicodeExtensionType()](/Java/LocaleNameProvider/getDisplayUnicodeExtensionType)
-* [getDisplayVariant()](/Java/LocaleNameProvider/getDisplayVariant)
+* [getDisplayCountry()](/Java/LocaleNameProvider/getDisplayCountry/)
+* [getDisplayLanguage()](/Java/LocaleNameProvider/getDisplayLanguage/)
+* [getDisplayScript()](/Java/LocaleNameProvider/getDisplayScript/)
+* [getDisplayUnicodeExtensionKey()](/Java/LocaleNameProvider/getDisplayUnicodeExtensionKey/)
+* [getDisplayUnicodeExtensionType()](/Java/LocaleNameProvider/getDisplayUnicodeExtensionType/)
+* [getDisplayVariant()](/Java/LocaleNameProvider/getDisplayVariant/)
 
 ## Ejemplo
 ~~~java

@@ -21,11 +21,11 @@ public final class BackgroundImage extends Object
 * [BackgroundImage()](/Java/BackgroundImage/BackgroundImage/)
 
 ## Métodos
-* [getImage()](/Java/BackgroundImage/getImage)
-* [getPosition()](/Java/BackgroundImage/getPosition)
-* [getRepeatX()](/Java/BackgroundImage/getRepeatX)
-* [getRepeatY()](/Java/BackgroundImage/getRepeatY)
-* [getSize()](/Java/BackgroundImage/getSize)
+* [getImage()](/Java/BackgroundImage/getImage/)
+* [getPosition()](/Java/BackgroundImage/getPosition/)
+* [getRepeatX()](/Java/BackgroundImage/getRepeatX/)
+* [getRepeatY()](/Java/BackgroundImage/getRepeatY/)
+* [getSize()](/Java/BackgroundImage/getSize/)
 
 ## Ejemplo
 ~~~java

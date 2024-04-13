@@ -21,12 +21,12 @@ public abstract class ParameterModeHelper extends Object
 * [ParameterModeHelper()](/Java/ParameterModeHelper/ParameterModeHelper/)
 
 ## Métodos
-* [extract()](/Java/ParameterModeHelper/extract)
-* [id()](/Java/ParameterModeHelper/id)
-* [insert()](/Java/ParameterModeHelper/insert)
-* [read()](/Java/ParameterModeHelper/read)
-* [type()](/Java/ParameterModeHelper/type)
-* [write()](/Java/ParameterModeHelper/write)
+* [extract()](/Java/ParameterModeHelper/extract/)
+* [id()](/Java/ParameterModeHelper/id/)
+* [insert()](/Java/ParameterModeHelper/insert/)
+* [read()](/Java/ParameterModeHelper/read/)
+* [type()](/Java/ParameterModeHelper/type/)
+* [write()](/Java/ParameterModeHelper/write/)
 
 ## Ejemplo
 ~~~java

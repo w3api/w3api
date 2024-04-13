@@ -18,9 +18,9 @@ public interface DomHandler<ElementT,ResultT extends Result>
 ~~~
 
 ## Métodos
-* [createUnmarshaller()](/Java/DomHandler/createUnmarshaller)
-* [getElement()](/Java/DomHandler/getElement)
-* [marshal()](/Java/DomHandler/marshal)
+* [createUnmarshaller()](/Java/DomHandler/createUnmarshaller/)
+* [getElement()](/Java/DomHandler/getElement/)
+* [marshal()](/Java/DomHandler/marshal/)
 
 ## Ejemplo
 ~~~java

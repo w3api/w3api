@@ -21,9 +21,9 @@ public abstract class EncodedKeySpec extends Object implements KeySpec
 * [EncodedKeySpec()](/Java/EncodedKeySpec/EncodedKeySpec/)
 
 ## Métodos
-* [getAlgorithm()](/Java/EncodedKeySpec/getAlgorithm)
-* [getEncoded()](/Java/EncodedKeySpec/getEncoded)
-* [getFormat()](/Java/EncodedKeySpec/getFormat)
+* [getAlgorithm()](/Java/EncodedKeySpec/getAlgorithm/)
+* [getEncoded()](/Java/EncodedKeySpec/getEncoded/)
+* [getFormat()](/Java/EncodedKeySpec/getFormat/)
 
 ## Ejemplo
 ~~~java

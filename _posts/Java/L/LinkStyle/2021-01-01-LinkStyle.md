@@ -18,7 +18,7 @@ public interface LinkStyle
 ~~~
 
 ## Métodos
-* [getSheet()](/Java/LinkStyle/getSheet)
+* [getSheet()](/Java/LinkStyle/getSheet/)
 
 ## Ejemplo
 ~~~java

@@ -21,14 +21,14 @@ public abstract class ListBinding<E> extends ListExpression<E> implements Bindin
 * [ListBinding()](/Java/ListBinding/ListBinding/)
 
 ## Métodos
-* [bind()](/Java/ListBinding/bind)
-* [computeValue()](/Java/ListBinding/computeValue)
-* [dispose()](/Java/ListBinding/dispose)
-* [get()](/Java/ListBinding/get)
-* [getDependencies()](/Java/ListBinding/getDependencies)
-* [onInvalidating()](/Java/ListBinding/onInvalidating)
-* [toString()](/Java/ListBinding/toString)
-* [unbind()](/Java/ListBinding/unbind)
+* [bind()](/Java/ListBinding/bind/)
+* [computeValue()](/Java/ListBinding/computeValue/)
+* [dispose()](/Java/ListBinding/dispose/)
+* [get()](/Java/ListBinding/get/)
+* [getDependencies()](/Java/ListBinding/getDependencies/)
+* [onInvalidating()](/Java/ListBinding/onInvalidating/)
+* [toString()](/Java/ListBinding/toString/)
+* [unbind()](/Java/ListBinding/unbind/)
 
 ## Ejemplo
 ~~~java

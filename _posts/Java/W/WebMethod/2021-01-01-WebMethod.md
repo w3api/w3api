@@ -18,9 +18,9 @@ sidebar:
 ~~~
 
 ## Elementos
-* [action](/Java/WebMethod/action)
-* [exclude](/Java/WebMethod/exclude)
-* [operationName](/Java/WebMethod/operationName)
+* [action](/Java/WebMethod/action/)
+* [exclude](/Java/WebMethod/exclude/)
+* [operationName](/Java/WebMethod/operationName/)
 
 ## Ejemplo
 ~~~java

@@ -21,9 +21,9 @@ public final class LinearGradientPaint extends MultipleGradientPaint
 * [LinearGradientPaint()](/Java/LinearGradientPaint/LinearGradientPaint/)
 
 ## Métodos
-* [createContext()](/Java/LinearGradientPaint/createContext)
-* [getEndPoint()](/Java/LinearGradientPaint/getEndPoint)
-* [getStartPoint()](/Java/LinearGradientPaint/getStartPoint)
+* [createContext()](/Java/LinearGradientPaint/createContext/)
+* [getEndPoint()](/Java/LinearGradientPaint/getEndPoint/)
+* [getStartPoint()](/Java/LinearGradientPaint/getStartPoint/)
 
 ## Ejemplo
 ~~~java

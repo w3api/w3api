@@ -18,15 +18,15 @@ sidebar:
 ~~~
 
 ## Métodos
-* [allClasses()](/Java/PackageDoc/allClasses)
-* [annotations()](/Java/PackageDoc/annotations)
-* [annotationTypes()](/Java/PackageDoc/annotationTypes)
-* [enums()](/Java/PackageDoc/enums)
-* [errors()](/Java/PackageDoc/errors)
-* [exceptions()](/Java/PackageDoc/exceptions)
-* [findClass()](/Java/PackageDoc/findClass)
-* [interfaces()](/Java/PackageDoc/interfaces)
-* [ordinaryClasses()](/Java/PackageDoc/ordinaryClasses)
+* [allClasses()](/Java/PackageDoc/allClasses/)
+* [annotations()](/Java/PackageDoc/annotations/)
+* [annotationTypes()](/Java/PackageDoc/annotationTypes/)
+* [enums()](/Java/PackageDoc/enums/)
+* [errors()](/Java/PackageDoc/errors/)
+* [exceptions()](/Java/PackageDoc/exceptions/)
+* [findClass()](/Java/PackageDoc/findClass/)
+* [interfaces()](/Java/PackageDoc/interfaces/)
+* [ordinaryClasses()](/Java/PackageDoc/ordinaryClasses/)
 
 ## Ejemplo
 ~~~java

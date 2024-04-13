@@ -18,8 +18,8 @@ public interface CurrentOperations extends CurrentOperations
 ~~~
 
 ## Métodos
-* [get_object_id()](/Java/CurrentOperations-org-omg-PortableServer/get_object_id)
-* [get_POA()](/Java/CurrentOperations-org-omg-PortableServer/get_POA)
+* [get_object_id()](/Java/CurrentOperations-org-omg-PortableServer/get_object_id/)
+* [get_POA()](/Java/CurrentOperations-org-omg-PortableServer/get_POA/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface IntersectionType extends TypeMirror
 ~~~
 
 ## Métodos
-* [getBounds()](/Java/IntersectionType/getBounds)
+* [getBounds()](/Java/IntersectionType/getBounds/)
 
 ## Ejemplo
 ~~~java

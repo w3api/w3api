@@ -18,7 +18,7 @@ public interface Compilable
 ~~~
 
 ## Métodos
-* [compile()](/Java/Compilable/compile)
+* [compile()](/Java/Compilable/compile/)
 
 ## Ejemplo
 ~~~java

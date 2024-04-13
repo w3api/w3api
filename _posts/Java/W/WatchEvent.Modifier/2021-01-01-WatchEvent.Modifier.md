@@ -18,7 +18,7 @@ public static interface WatchEvent.Modifier
 ~~~
 
 ## Métodos
-* [name()](/Java/WatchEvent/Modifier/name)
+* [name()](/Java/WatchEvent/Modifier/name/)
 
 ## Ejemplo
 ~~~java

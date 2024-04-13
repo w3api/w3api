@@ -21,13 +21,13 @@ public class XMLDecoder extends Object implements AutoCloseable
 * [XMLDecoder()](/Java/XMLDecoder/XMLDecoder/)
 
 ## Métodos
-* [close()](/Java/XMLDecoder/close)
-* [createHandler()](/Java/XMLDecoder/createHandler)
-* [getExceptionListener()](/Java/XMLDecoder/getExceptionListener)
-* [getOwner()](/Java/XMLDecoder/getOwner)
-* [readObject()](/Java/XMLDecoder/readObject)
-* [setExceptionListener()](/Java/XMLDecoder/setExceptionListener)
-* [setOwner()](/Java/XMLDecoder/setOwner)
+* [close()](/Java/XMLDecoder/close/)
+* [createHandler()](/Java/XMLDecoder/createHandler/)
+* [getExceptionListener()](/Java/XMLDecoder/getExceptionListener/)
+* [getOwner()](/Java/XMLDecoder/getOwner/)
+* [readObject()](/Java/XMLDecoder/readObject/)
+* [setExceptionListener()](/Java/XMLDecoder/setExceptionListener/)
+* [setOwner()](/Java/XMLDecoder/setOwner/)
 
 ## Ejemplo
 ~~~java

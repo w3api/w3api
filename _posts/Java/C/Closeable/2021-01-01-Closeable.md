@@ -18,7 +18,7 @@ public interface Closeable extends AutoCloseable
 ~~~
 
 ## Métodos
-* [close()](/Java/Closeable/close)
+* [close()](/Java/Closeable/close/)
 
 ## Ejemplo
 ~~~java

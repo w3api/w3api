@@ -21,7 +21,7 @@ public class InheritableThreadLocal<T> extends ThreadLocal<T>
 * [InheritableThreadLocal()](/Java/InheritableThreadLocal/InheritableThreadLocal/)
 
 ## Métodos
-* [childValue()](/Java/InheritableThreadLocal/childValue)
+* [childValue()](/Java/InheritableThreadLocal/childValue/)
 
 ## Ejemplo
 ~~~java

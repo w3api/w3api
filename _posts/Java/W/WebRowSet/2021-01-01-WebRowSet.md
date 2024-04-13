@@ -18,12 +18,12 @@ public interface WebRowSet extends CachedRowSet
 ~~~
 
 ## Campos
-* [PUBLIC_XML_SCHEMA](/Java/WebRowSet/PUBLIC_XML_SCHEMA)
-* [SCHEMA_SYSTEM_ID](/Java/WebRowSet/SCHEMA_SYSTEM_ID)
+* [PUBLIC_XML_SCHEMA](/Java/WebRowSet/PUBLIC_XML_SCHEMA/)
+* [SCHEMA_SYSTEM_ID](/Java/WebRowSet/SCHEMA_SYSTEM_ID/)
 
 ## Métodos
-* [readXml()](/Java/WebRowSet/readXml)
-* [writeXml()](/Java/WebRowSet/writeXml)
+* [readXml()](/Java/WebRowSet/readXml/)
+* [writeXml()](/Java/WebRowSet/writeXml/)
 
 ## Ejemplo
 ~~~java

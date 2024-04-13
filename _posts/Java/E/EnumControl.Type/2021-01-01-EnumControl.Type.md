@@ -21,7 +21,7 @@ public static class EnumControl.Type extends Control.Type
 * [EnumControl.Type()](/Java/EnumControl/Type/EnumControl/Type/)
 
 ## Campos
-* [REVERB](/Java/EnumControl/Type/REVERB)
+* [REVERB](/Java/EnumControl/Type/REVERB/)
 
 ## Ejemplo
 ~~~java

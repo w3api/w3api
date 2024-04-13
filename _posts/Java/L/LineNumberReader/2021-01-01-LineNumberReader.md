@@ -21,13 +21,13 @@ public class LineNumberReader extends BufferedReader
 * [LineNumberReader()](/Java/LineNumberReader/LineNumberReader/)
 
 ## Métodos
-* [getLineNumber()](/Java/LineNumberReader/getLineNumber)
-* [mark()](/Java/LineNumberReader/mark)
-* [read()](/Java/LineNumberReader/read)
-* [readLine()](/Java/LineNumberReader/readLine)
-* [reset()](/Java/LineNumberReader/reset)
-* [setLineNumber()](/Java/LineNumberReader/setLineNumber)
-* [skip()](/Java/LineNumberReader/skip)
+* [getLineNumber()](/Java/LineNumberReader/getLineNumber/)
+* [mark()](/Java/LineNumberReader/mark/)
+* [read()](/Java/LineNumberReader/read/)
+* [readLine()](/Java/LineNumberReader/readLine/)
+* [reset()](/Java/LineNumberReader/reset/)
+* [setLineNumber()](/Java/LineNumberReader/setLineNumber/)
+* [skip()](/Java/LineNumberReader/skip/)
 
 ## Ejemplo
 ~~~java

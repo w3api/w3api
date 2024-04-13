@@ -21,15 +21,15 @@ public class EmptyBorder extends AbstractBorder implements Serializable
 * [EmptyBorder()](/Java/EmptyBorder/EmptyBorder/)
 
 ## Campos
-* [bottom](/Java/EmptyBorder/bottom)
-* [left](/Java/EmptyBorder/left)
-* [right](/Java/EmptyBorder/right)
-* [top](/Java/EmptyBorder/top)
+* [bottom](/Java/EmptyBorder/bottom/)
+* [left](/Java/EmptyBorder/left/)
+* [right](/Java/EmptyBorder/right/)
+* [top](/Java/EmptyBorder/top/)
 
 ## Métodos
-* [getBorderInsets()](/Java/EmptyBorder/getBorderInsets)
-* [isBorderOpaque()](/Java/EmptyBorder/isBorderOpaque)
-* [paintBorder()](/Java/EmptyBorder/paintBorder)
+* [getBorderInsets()](/Java/EmptyBorder/getBorderInsets/)
+* [isBorderOpaque()](/Java/EmptyBorder/isBorderOpaque/)
+* [paintBorder()](/Java/EmptyBorder/paintBorder/)
 
 ## Ejemplo
 ~~~java

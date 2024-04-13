@@ -18,9 +18,9 @@ public class DrbgParameters extends Object
 ~~~
 
 ## Métodos
-* [instantiation()](/Java/DrbgParameters/instantiation)
-* [nextBytes()](/Java/DrbgParameters/nextBytes)
-* [reseed()](/Java/DrbgParameters/reseed)
+* [instantiation()](/Java/DrbgParameters/instantiation/)
+* [nextBytes()](/Java/DrbgParameters/nextBytes/)
+* [reseed()](/Java/DrbgParameters/reseed/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public final class PromptData extends Object
 * [PromptData()](/Java/PromptData/PromptData/)
 
 ## Métodos
-* [getDefaultValue()](/Java/PromptData/getDefaultValue)
-* [getMessage()](/Java/PromptData/getMessage)
+* [getDefaultValue()](/Java/PromptData/getDefaultValue/)
+* [getMessage()](/Java/PromptData/getMessage/)
 
 ## Ejemplo
 ~~~java

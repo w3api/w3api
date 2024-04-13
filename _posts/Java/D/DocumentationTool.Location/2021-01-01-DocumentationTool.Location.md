@@ -18,13 +18,13 @@ public static enum DocumentationTool.Location extends Enum<DocumentationTool.Loc
 ~~~
 
 ## Enumerados
-* [DOCLET_PATH](/Java/DocumentationTool/Location/DOCLET_PATH)
-* [DOCUMENTATION_OUTPUT](/Java/DocumentationTool/Location/DOCUMENTATION_OUTPUT)
-* [TAGLET_PATH](/Java/DocumentationTool/Location/TAGLET_PATH)
+* [DOCLET_PATH](/Java/DocumentationTool/Location/DOCLET_PATH/)
+* [DOCUMENTATION_OUTPUT](/Java/DocumentationTool/Location/DOCUMENTATION_OUTPUT/)
+* [TAGLET_PATH](/Java/DocumentationTool/Location/TAGLET_PATH/)
 
 ## Métodos
-* [valueOf()](/Java/DocumentationTool/Location/valueOf)
-* [values()](/Java/DocumentationTool/Location/values)
+* [valueOf()](/Java/DocumentationTool/Location/valueOf/)
+* [values()](/Java/DocumentationTool/Location/values/)
 
 ## Ejemplo
 ~~~java

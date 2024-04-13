@@ -21,17 +21,17 @@ public class PrintStream extends FilterOutputStream implements Appendable, Close
 * [PrintStream()](/Java/PrintStream/PrintStream/)
 
 ## Métodos
-* [append()](/Java/PrintStream/append)
-* [checkError()](/Java/PrintStream/checkError)
-* [clearError()](/Java/PrintStream/clearError)
-* [close()](/Java/PrintStream/close)
-* [flush()](/Java/PrintStream/flush)
-* [format()](/Java/PrintStream/format)
-* [print()](/Java/PrintStream/print)
-* [printf()](/Java/PrintStream/printf)
-* [println()](/Java/PrintStream/println)
-* [setError()](/Java/PrintStream/setError)
-* [write()](/Java/PrintStream/write)
+* [append()](/Java/PrintStream/append/)
+* [checkError()](/Java/PrintStream/checkError/)
+* [clearError()](/Java/PrintStream/clearError/)
+* [close()](/Java/PrintStream/close/)
+* [flush()](/Java/PrintStream/flush/)
+* [format()](/Java/PrintStream/format/)
+* [print()](/Java/PrintStream/print/)
+* [printf()](/Java/PrintStream/printf/)
+* [println()](/Java/PrintStream/println/)
+* [setError()](/Java/PrintStream/setError/)
+* [write()](/Java/PrintStream/write/)
 
 ## Ejemplo
 ~~~java

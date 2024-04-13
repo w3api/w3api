@@ -21,9 +21,9 @@ public final class PrinterMakeAndModel extends TextSyntax implements PrintServic
 * [PrinterMakeAndModel()](/Java/PrinterMakeAndModel/PrinterMakeAndModel/)
 
 ## Métodos
-* [equals()](/Java/PrinterMakeAndModel/equals)
-* [getCategory()](/Java/PrinterMakeAndModel/getCategory)
-* [getName()](/Java/PrinterMakeAndModel/getName)
+* [equals()](/Java/PrinterMakeAndModel/equals/)
+* [getCategory()](/Java/PrinterMakeAndModel/getCategory/)
+* [getName()](/Java/PrinterMakeAndModel/getName/)
 
 ## Ejemplo
 ~~~java

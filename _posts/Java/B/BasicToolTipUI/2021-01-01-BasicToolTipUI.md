@@ -21,11 +21,11 @@ public class BasicToolTipUI extends ToolTipUI
 * [BasicToolTipUI()](/Java/BasicToolTipUI/BasicToolTipUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicToolTipUI/createUI)
-* [installDefaults()](/Java/BasicToolTipUI/installDefaults)
-* [installListeners()](/Java/BasicToolTipUI/installListeners)
-* [uninstallDefaults()](/Java/BasicToolTipUI/uninstallDefaults)
-* [uninstallListeners()](/Java/BasicToolTipUI/uninstallListeners)
+* [createUI()](/Java/BasicToolTipUI/createUI/)
+* [installDefaults()](/Java/BasicToolTipUI/installDefaults/)
+* [installListeners()](/Java/BasicToolTipUI/installListeners/)
+* [uninstallDefaults()](/Java/BasicToolTipUI/uninstallDefaults/)
+* [uninstallListeners()](/Java/BasicToolTipUI/uninstallListeners/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public class ParserDelegator extends HTMLEditorKit.Parser implements Serializabl
 * [ParserDelegator()](/Java/ParserDelegator/ParserDelegator/)
 
 ## Métodos
-* [createDTD()](/Java/ParserDelegator/createDTD)
-* [setDefaultDTD()](/Java/ParserDelegator/setDefaultDTD)
+* [createDTD()](/Java/ParserDelegator/createDTD/)
+* [setDefaultDTD()](/Java/ParserDelegator/setDefaultDTD/)
 
 ## Ejemplo
 ~~~java

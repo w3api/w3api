@@ -21,7 +21,7 @@ public class BadStringOperationException extends Exception
 * [BadStringOperationException()](/Java/BadStringOperationException/BadStringOperationException/)
 
 ## Métodos
-* [toString()](/Java/BadStringOperationException/toString)
+* [toString()](/Java/BadStringOperationException/toString/)
 
 ## Ejemplo
 ~~~java

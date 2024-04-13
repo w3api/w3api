@@ -18,24 +18,24 @@ public interface ParameterMetaData extends Wrapper
 ~~~
 
 ## Campos
-* [parameterModeIn](/Java/ParameterMetaData/parameterModeIn)
-* [parameterModeInOut](/Java/ParameterMetaData/parameterModeInOut)
-* [parameterModeOut](/Java/ParameterMetaData/parameterModeOut)
-* [parameterModeUnknown](/Java/ParameterMetaData/parameterModeUnknown)
-* [parameterNoNulls](/Java/ParameterMetaData/parameterNoNulls)
-* [parameterNullable](/Java/ParameterMetaData/parameterNullable)
-* [parameterNullableUnknown](/Java/ParameterMetaData/parameterNullableUnknown)
+* [parameterModeIn](/Java/ParameterMetaData/parameterModeIn/)
+* [parameterModeInOut](/Java/ParameterMetaData/parameterModeInOut/)
+* [parameterModeOut](/Java/ParameterMetaData/parameterModeOut/)
+* [parameterModeUnknown](/Java/ParameterMetaData/parameterModeUnknown/)
+* [parameterNoNulls](/Java/ParameterMetaData/parameterNoNulls/)
+* [parameterNullable](/Java/ParameterMetaData/parameterNullable/)
+* [parameterNullableUnknown](/Java/ParameterMetaData/parameterNullableUnknown/)
 
 ## Métodos
-* [getParameterClassName()](/Java/ParameterMetaData/getParameterClassName)
-* [getParameterCount()](/Java/ParameterMetaData/getParameterCount)
-* [getParameterMode()](/Java/ParameterMetaData/getParameterMode)
-* [getParameterType()](/Java/ParameterMetaData/getParameterType)
-* [getParameterTypeName()](/Java/ParameterMetaData/getParameterTypeName)
-* [getPrecision()](/Java/ParameterMetaData/getPrecision)
-* [getScale()](/Java/ParameterMetaData/getScale)
-* [isNullable()](/Java/ParameterMetaData/isNullable)
-* [isSigned()](/Java/ParameterMetaData/isSigned)
+* [getParameterClassName()](/Java/ParameterMetaData/getParameterClassName/)
+* [getParameterCount()](/Java/ParameterMetaData/getParameterCount/)
+* [getParameterMode()](/Java/ParameterMetaData/getParameterMode/)
+* [getParameterType()](/Java/ParameterMetaData/getParameterType/)
+* [getParameterTypeName()](/Java/ParameterMetaData/getParameterTypeName/)
+* [getPrecision()](/Java/ParameterMetaData/getPrecision/)
+* [getScale()](/Java/ParameterMetaData/getScale/)
+* [isNullable()](/Java/ParameterMetaData/isNullable/)
+* [isSigned()](/Java/ParameterMetaData/isSigned/)
 
 ## Ejemplo
 ~~~java

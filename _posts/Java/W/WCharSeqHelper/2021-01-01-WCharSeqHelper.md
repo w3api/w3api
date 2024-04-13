@@ -21,12 +21,12 @@ public abstract class WCharSeqHelper extends Object
 * [WCharSeqHelper()](/Java/WCharSeqHelper/WCharSeqHelper/)
 
 ## Métodos
-* [extract()](/Java/WCharSeqHelper/extract)
-* [id()](/Java/WCharSeqHelper/id)
-* [insert()](/Java/WCharSeqHelper/insert)
-* [read()](/Java/WCharSeqHelper/read)
-* [type()](/Java/WCharSeqHelper/type)
-* [write()](/Java/WCharSeqHelper/write)
+* [extract()](/Java/WCharSeqHelper/extract/)
+* [id()](/Java/WCharSeqHelper/id/)
+* [insert()](/Java/WCharSeqHelper/insert/)
+* [read()](/Java/WCharSeqHelper/read/)
+* [type()](/Java/WCharSeqHelper/type/)
+* [write()](/Java/WCharSeqHelper/write/)
 
 ## Ejemplo
 ~~~java

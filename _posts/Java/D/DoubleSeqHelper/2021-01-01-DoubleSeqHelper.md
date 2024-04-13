@@ -21,12 +21,12 @@ public abstract class DoubleSeqHelper extends Object
 * [DoubleSeqHelper()](/Java/DoubleSeqHelper/DoubleSeqHelper/)
 
 ## Métodos
-* [extract()](/Java/DoubleSeqHelper/extract)
-* [id()](/Java/DoubleSeqHelper/id)
-* [insert()](/Java/DoubleSeqHelper/insert)
-* [read()](/Java/DoubleSeqHelper/read)
-* [type()](/Java/DoubleSeqHelper/type)
-* [write()](/Java/DoubleSeqHelper/write)
+* [extract()](/Java/DoubleSeqHelper/extract/)
+* [id()](/Java/DoubleSeqHelper/id/)
+* [insert()](/Java/DoubleSeqHelper/insert/)
+* [read()](/Java/DoubleSeqHelper/read/)
+* [type()](/Java/DoubleSeqHelper/type/)
+* [write()](/Java/DoubleSeqHelper/write/)
 
 ## Ejemplo
 ~~~java

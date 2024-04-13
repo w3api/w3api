@@ -21,9 +21,9 @@ public abstract class IntegerProperty extends ReadOnlyIntegerProperty implements
 * [IntegerProperty()](/Java/IntegerProperty/IntegerProperty/)
 
 ## Métodos
-* [asObject()](/Java/IntegerProperty/asObject)
-* [integerProperty()](/Java/IntegerProperty/integerProperty)
-* [toString()](/Java/IntegerProperty/toString)
+* [asObject()](/Java/IntegerProperty/asObject/)
+* [integerProperty()](/Java/IntegerProperty/integerProperty/)
+* [toString()](/Java/IntegerProperty/toString/)
 
 ## Ejemplo
 ~~~java

@@ -21,16 +21,16 @@ public class ColorType extends Object
 * [ColorType()](/Java/ColorType/ColorType/)
 
 ## Campos
-* [BACKGROUND](/Java/ColorType/BACKGROUND)
-* [FOCUS](/Java/ColorType/FOCUS)
-* [FOREGROUND](/Java/ColorType/FOREGROUND)
-* [MAX_COUNT](/Java/ColorType/MAX_COUNT)
-* [TEXT_BACKGROUND](/Java/ColorType/TEXT_BACKGROUND)
-* [TEXT_FOREGROUND](/Java/ColorType/TEXT_FOREGROUND)
+* [BACKGROUND](/Java/ColorType/BACKGROUND/)
+* [FOCUS](/Java/ColorType/FOCUS/)
+* [FOREGROUND](/Java/ColorType/FOREGROUND/)
+* [MAX_COUNT](/Java/ColorType/MAX_COUNT/)
+* [TEXT_BACKGROUND](/Java/ColorType/TEXT_BACKGROUND/)
+* [TEXT_FOREGROUND](/Java/ColorType/TEXT_FOREGROUND/)
 
 ## Métodos
-* [getID()](/Java/ColorType/getID)
-* [toString()](/Java/ColorType/toString)
+* [getID()](/Java/ColorType/getID/)
+* [toString()](/Java/ColorType/toString/)
 
 ## Ejemplo
 ~~~java

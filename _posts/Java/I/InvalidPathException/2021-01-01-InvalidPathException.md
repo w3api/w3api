@@ -21,10 +21,10 @@ public class InvalidPathException extends IllegalArgumentException
 * [InvalidPathException()](/Java/InvalidPathException/InvalidPathException/)
 
 ## Métodos
-* [getIndex()](/Java/InvalidPathException/getIndex)
-* [getInput()](/Java/InvalidPathException/getInput)
-* [getMessage()](/Java/InvalidPathException/getMessage)
-* [getReason()](/Java/InvalidPathException/getReason)
+* [getIndex()](/Java/InvalidPathException/getIndex/)
+* [getInput()](/Java/InvalidPathException/getInput/)
+* [getMessage()](/Java/InvalidPathException/getMessage/)
+* [getReason()](/Java/InvalidPathException/getReason/)
 
 ## Ejemplo
 ~~~java

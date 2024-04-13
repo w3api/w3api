@@ -18,7 +18,7 @@ public interface EntityResolver
 ~~~
 
 ## Métodos
-* [resolveEntity()](/Java/EntityResolver/resolveEntity)
+* [resolveEntity()](/Java/EntityResolver/resolveEntity/)
 
 ## Ejemplo
 ~~~java

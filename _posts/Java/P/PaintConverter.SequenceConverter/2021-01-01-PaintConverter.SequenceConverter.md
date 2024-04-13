@@ -18,7 +18,7 @@ public static final class PaintConverter.SequenceConverter extends StyleConverte
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/PaintConverter/SequenceConverter/getInstance)
+* [getInstance()](/Java/PaintConverter/SequenceConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface IDLTypeOperations extends IRObjectOperations
 ~~~
 
 ## Métodos
-* [type()](/Java/IDLTypeOperations/type)
+* [type()](/Java/IDLTypeOperations/type/)
 
 ## Ejemplo
 ~~~java

@@ -21,12 +21,12 @@ public final class PKCS12Attribute extends Object implements KeyStore.Entry.Attr
 * [PKCS12Attribute()](/Java/PKCS12Attribute/PKCS12Attribute/)
 
 ## Métodos
-* [equals()](/Java/PKCS12Attribute/equals)
-* [getEncoded()](/Java/PKCS12Attribute/getEncoded)
-* [getName()](/Java/PKCS12Attribute/getName)
-* [getValue()](/Java/PKCS12Attribute/getValue)
-* [hashCode()](/Java/PKCS12Attribute/hashCode)
-* [toString()](/Java/PKCS12Attribute/toString)
+* [equals()](/Java/PKCS12Attribute/equals/)
+* [getEncoded()](/Java/PKCS12Attribute/getEncoded/)
+* [getName()](/Java/PKCS12Attribute/getName/)
+* [getValue()](/Java/PKCS12Attribute/getValue/)
+* [hashCode()](/Java/PKCS12Attribute/hashCode/)
+* [toString()](/Java/PKCS12Attribute/toString/)
 
 ## Ejemplo
 ~~~java

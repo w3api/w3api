@@ -21,9 +21,9 @@ public final class DocumentName extends TextSyntax implements DocAttribute
 * [DocumentName()](/Java/DocumentName/DocumentName/)
 
 ## Métodos
-* [equals()](/Java/DocumentName/equals)
-* [getCategory()](/Java/DocumentName/getCategory)
-* [getName()](/Java/DocumentName/getName)
+* [equals()](/Java/DocumentName/equals/)
+* [getCategory()](/Java/DocumentName/getCategory/)
+* [getName()](/Java/DocumentName/getName/)
 
 ## Ejemplo
 ~~~java

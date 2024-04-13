@@ -18,16 +18,16 @@ public static enum PixelFormat.Type extends Enum<PixelFormat.Type>
 ~~~
 
 ## Enumerados
-* [BYTE_BGRA](/Java/PixelFormat/Type/BYTE_BGRA)
-* [BYTE_BGRA_PRE](/Java/PixelFormat/Type/BYTE_BGRA_PRE)
-* [BYTE_INDEXED](/Java/PixelFormat/Type/BYTE_INDEXED)
-* [BYTE_RGB](/Java/PixelFormat/Type/BYTE_RGB)
-* [INT_ARGB](/Java/PixelFormat/Type/INT_ARGB)
-* [INT_ARGB_PRE](/Java/PixelFormat/Type/INT_ARGB_PRE)
+* [BYTE_BGRA](/Java/PixelFormat/Type/BYTE_BGRA/)
+* [BYTE_BGRA_PRE](/Java/PixelFormat/Type/BYTE_BGRA_PRE/)
+* [BYTE_INDEXED](/Java/PixelFormat/Type/BYTE_INDEXED/)
+* [BYTE_RGB](/Java/PixelFormat/Type/BYTE_RGB/)
+* [INT_ARGB](/Java/PixelFormat/Type/INT_ARGB/)
+* [INT_ARGB_PRE](/Java/PixelFormat/Type/INT_ARGB_PRE/)
 
 ## Métodos
-* [valueOf()](/Java/PixelFormat/Type/valueOf)
-* [values()](/Java/PixelFormat/Type/values)
+* [valueOf()](/Java/PixelFormat/Type/valueOf/)
+* [values()](/Java/PixelFormat/Type/values/)
 
 ## Ejemplo
 ~~~java

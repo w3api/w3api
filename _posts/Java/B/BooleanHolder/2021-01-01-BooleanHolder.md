@@ -21,12 +21,12 @@ public final class BooleanHolder extends Object implements Streamable
 * [BooleanHolder()](/Java/BooleanHolder/BooleanHolder/)
 
 ## Campos
-* [value](/Java/BooleanHolder/value)
+* [value](/Java/BooleanHolder/value/)
 
 ## Métodos
-* [_read()](/Java/BooleanHolder/_read)
-* [_type()](/Java/BooleanHolder/_type)
-* [_write()](/Java/BooleanHolder/_write)
+* [_read()](/Java/BooleanHolder/_read/)
+* [_type()](/Java/BooleanHolder/_type/)
+* [_write()](/Java/BooleanHolder/_write/)
 
 ## Ejemplo
 ~~~java

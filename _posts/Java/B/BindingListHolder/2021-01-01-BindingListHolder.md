@@ -21,7 +21,7 @@ public final class BindingListHolder extends Object implements Streamable
 * [BindingListHolder()](/Java/BindingListHolder/BindingListHolder/)
 
 ## Campos
-* [value](/Java/BindingListHolder/value)
+* [value](/Java/BindingListHolder/value/)
 
 ## Ejemplo
 ~~~java

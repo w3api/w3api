@@ -18,8 +18,8 @@ public interface DocumentationTool extends Tool, OptionChecker
 ~~~
 
 ## Métodos
-* [getStandardFileManager()](/Java/DocumentationTool/getStandardFileManager)
-* [getTask()](/Java/DocumentationTool/getTask)
+* [getStandardFileManager()](/Java/DocumentationTool/getStandardFileManager/)
+* [getTask()](/Java/DocumentationTool/getTask/)
 
 ## Ejemplo
 ~~~java

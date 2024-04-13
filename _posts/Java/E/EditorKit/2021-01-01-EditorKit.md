@@ -21,16 +21,16 @@ public abstract class EditorKit extends Object implements Cloneable, Serializabl
 * [EditorKit()](/Java/EditorKit/EditorKit/)
 
 ## Métodos
-* [clone()](/Java/EditorKit/clone)
-* [createCaret()](/Java/EditorKit/createCaret)
-* [createDefaultDocument()](/Java/EditorKit/createDefaultDocument)
-* [deinstall()](/Java/EditorKit/deinstall)
-* [getActions()](/Java/EditorKit/getActions)
-* [getContentType()](/Java/EditorKit/getContentType)
-* [getViewFactory()](/Java/EditorKit/getViewFactory)
-* [install()](/Java/EditorKit/install)
-* [read()](/Java/EditorKit/read)
-* [write()](/Java/EditorKit/write)
+* [clone()](/Java/EditorKit/clone/)
+* [createCaret()](/Java/EditorKit/createCaret/)
+* [createDefaultDocument()](/Java/EditorKit/createDefaultDocument/)
+* [deinstall()](/Java/EditorKit/deinstall/)
+* [getActions()](/Java/EditorKit/getActions/)
+* [getContentType()](/Java/EditorKit/getContentType/)
+* [getViewFactory()](/Java/EditorKit/getViewFactory/)
+* [install()](/Java/EditorKit/install/)
+* [read()](/Java/EditorKit/read/)
+* [write()](/Java/EditorKit/write/)
 
 ## Ejemplo
 ~~~java

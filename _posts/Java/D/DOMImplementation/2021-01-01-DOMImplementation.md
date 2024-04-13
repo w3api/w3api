@@ -18,10 +18,10 @@ public interface DOMImplementation
 ~~~
 
 ## Métodos
-* [createDocument()](/Java/DOMImplementation/createDocument)
-* [createDocumentType()](/Java/DOMImplementation/createDocumentType)
-* [getFeature()](/Java/DOMImplementation/getFeature)
-* [hasFeature()](/Java/DOMImplementation/hasFeature)
+* [createDocument()](/Java/DOMImplementation/createDocument/)
+* [createDocumentType()](/Java/DOMImplementation/createDocumentType/)
+* [getFeature()](/Java/DOMImplementation/getFeature/)
+* [hasFeature()](/Java/DOMImplementation/hasFeature/)
 
 ## Ejemplo
 ~~~java

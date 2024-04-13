@@ -18,11 +18,11 @@ public interface PortableRemoteObjectDelegate
 ~~~
 
 ## Métodos
-* [connect()](/Java/PortableRemoteObjectDelegate/connect)
-* [exportObject()](/Java/PortableRemoteObjectDelegate/exportObject)
-* [narrow()](/Java/PortableRemoteObjectDelegate/narrow)
-* [toStub()](/Java/PortableRemoteObjectDelegate/toStub)
-* [unexportObject()](/Java/PortableRemoteObjectDelegate/unexportObject)
+* [connect()](/Java/PortableRemoteObjectDelegate/connect/)
+* [exportObject()](/Java/PortableRemoteObjectDelegate/exportObject/)
+* [narrow()](/Java/PortableRemoteObjectDelegate/narrow/)
+* [toStub()](/Java/PortableRemoteObjectDelegate/toStub/)
+* [unexportObject()](/Java/PortableRemoteObjectDelegate/unexportObject/)
 
 ## Ejemplo
 ~~~java

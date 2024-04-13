@@ -18,13 +18,13 @@ public static enum ConversionComparator.Comparison extends Enum<ConversionCompar
 ~~~
 
 ## Enumerados
-* [INDETERMINATE](/Java/ConversionComparator/Comparison/INDETERMINATE)
-* [TYPE_1_BETTER](/Java/ConversionComparator/Comparison/TYPE_1_BETTER)
-* [TYPE_2_BETTER](/Java/ConversionComparator/Comparison/TYPE_2_BETTER)
+* [INDETERMINATE](/Java/ConversionComparator/Comparison/INDETERMINATE/)
+* [TYPE_1_BETTER](/Java/ConversionComparator/Comparison/TYPE_1_BETTER/)
+* [TYPE_2_BETTER](/Java/ConversionComparator/Comparison/TYPE_2_BETTER/)
 
 ## Métodos
-* [valueOf()](/Java/ConversionComparator/Comparison/valueOf)
-* [values()](/Java/ConversionComparator/Comparison/values)
+* [valueOf()](/Java/ConversionComparator/Comparison/valueOf/)
+* [values()](/Java/ConversionComparator/Comparison/values/)
 
 ## Ejemplo
 ~~~java

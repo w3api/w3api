@@ -21,15 +21,15 @@ public class CellRendererPane extends Container implements Accessible
 * [CellRendererPane()](/Java/CellRendererPane/CellRendererPane/)
 
 ## Campos
-* [accessibleContext](/Java/CellRendererPane/accessibleContext)
+* [accessibleContext](/Java/CellRendererPane/accessibleContext/)
 
 ## Métodos
-* [addImpl()](/Java/CellRendererPane/addImpl)
-* [getAccessibleContext()](/Java/CellRendererPane/getAccessibleContext)
-* [invalidate()](/Java/CellRendererPane/invalidate)
-* [paint()](/Java/CellRendererPane/paint)
-* [paintComponent()](/Java/CellRendererPane/paintComponent)
-* [update()](/Java/CellRendererPane/update)
+* [addImpl()](/Java/CellRendererPane/addImpl/)
+* [getAccessibleContext()](/Java/CellRendererPane/getAccessibleContext/)
+* [invalidate()](/Java/CellRendererPane/invalidate/)
+* [paint()](/Java/CellRendererPane/paint/)
+* [paintComponent()](/Java/CellRendererPane/paintComponent/)
+* [update()](/Java/CellRendererPane/update/)
 
 ## Ejemplo
 ~~~java

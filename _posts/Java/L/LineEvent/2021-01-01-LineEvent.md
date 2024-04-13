@@ -21,10 +21,10 @@ public class LineEvent extends EventObject
 * [LineEvent()](/Java/LineEvent/LineEvent/)
 
 ## Métodos
-* [getFramePosition()](/Java/LineEvent/getFramePosition)
-* [getLine()](/Java/LineEvent/getLine)
-* [getType()](/Java/LineEvent/getType)
-* [toString()](/Java/LineEvent/toString)
+* [getFramePosition()](/Java/LineEvent/getFramePosition/)
+* [getLine()](/Java/LineEvent/getLine/)
+* [getType()](/Java/LineEvent/getType/)
+* [toString()](/Java/LineEvent/toString/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [accept()](/Java/DirectoryStream/Filter/accept)
+* [accept()](/Java/DirectoryStream/Filter/accept/)
 
 ## Ejemplo
 ~~~java

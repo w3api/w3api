@@ -18,7 +18,7 @@ public interface KeySelectorResult
 ~~~
 
 ## Métodos
-* [getKey()](/Java/KeySelectorResult/getKey)
+* [getKey()](/Java/KeySelectorResult/getKey/)
 
 ## Ejemplo
 ~~~java

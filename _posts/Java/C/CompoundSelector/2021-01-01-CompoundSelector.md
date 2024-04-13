@@ -18,7 +18,7 @@ public final class CompoundSelector extends Selector
 ~~~
 
 ## Métodos
-* [getSelectors()](/Java/CompoundSelector/getSelectors)
+* [getSelectors()](/Java/CompoundSelector/getSelectors/)
 
 ## Ejemplo
 ~~~java

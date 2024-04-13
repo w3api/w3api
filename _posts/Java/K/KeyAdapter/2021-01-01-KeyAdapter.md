@@ -21,9 +21,9 @@ public abstract class KeyAdapter extends Object implements KeyListener
 * [KeyAdapter()](/Java/KeyAdapter/KeyAdapter/)
 
 ## Métodos
-* [keyPressed()](/Java/KeyAdapter/keyPressed)
-* [keyReleased()](/Java/KeyAdapter/keyReleased)
-* [keyTyped()](/Java/KeyAdapter/keyTyped)
+* [keyPressed()](/Java/KeyAdapter/keyPressed/)
+* [keyReleased()](/Java/KeyAdapter/keyReleased/)
+* [keyTyped()](/Java/KeyAdapter/keyTyped/)
 
 ## Ejemplo
 ~~~java

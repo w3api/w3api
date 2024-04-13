@@ -21,8 +21,8 @@ public abstract class ConfigurationSpi extends Object
 * [ConfigurationSpi()](/Java/ConfigurationSpi/ConfigurationSpi/)
 
 ## Métodos
-* [engineGetAppConfigurationEntry()](/Java/ConfigurationSpi/engineGetAppConfigurationEntry)
-* [engineRefresh()](/Java/ConfigurationSpi/engineRefresh)
+* [engineGetAppConfigurationEntry()](/Java/ConfigurationSpi/engineGetAppConfigurationEntry/)
+* [engineRefresh()](/Java/ConfigurationSpi/engineRefresh/)
 
 ## Ejemplo
 ~~~java

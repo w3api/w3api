@@ -21,9 +21,9 @@ public abstract class CardTerminals extends Object
 * [CardTerminals()](/Java/CardTerminals/CardTerminals/)
 
 ## Métodos
-* [getTerminal()](/Java/CardTerminals/getTerminal)
-* [list()](/Java/CardTerminals/list)
-* [waitForChange()](/Java/CardTerminals/waitForChange)
+* [getTerminal()](/Java/CardTerminals/getTerminal/)
+* [list()](/Java/CardTerminals/list/)
+* [waitForChange()](/Java/CardTerminals/waitForChange/)
 
 ## Ejemplo
 ~~~java

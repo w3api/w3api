@@ -21,7 +21,7 @@ public class BadAttributeValueExpException extends Exception
 * [BadAttributeValueExpException()](/Java/BadAttributeValueExpException/BadAttributeValueExpException/)
 
 ## Métodos
-* [toString()](/Java/BadAttributeValueExpException/toString)
+* [toString()](/Java/BadAttributeValueExpException/toString/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public static class DocFlavor.READER extends DocFlavor
 * [DocFlavor.READER()](/Java/DocFlavor/READER/DocFlavor/READER/)
 
 ## Campos
-* [TEXT_HTML](/Java/DocFlavor/READER/TEXT_HTML)
-* [TEXT_PLAIN](/Java/DocFlavor/READER/TEXT_PLAIN)
+* [TEXT_HTML](/Java/DocFlavor/READER/TEXT_HTML/)
+* [TEXT_PLAIN](/Java/DocFlavor/READER/TEXT_PLAIN/)
 
 ## Ejemplo
 ~~~java

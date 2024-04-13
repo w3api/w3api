@@ -18,14 +18,14 @@ public enum BackgroundRepeat extends Enum<BackgroundRepeat>
 ~~~
 
 ## Enumerados
-* [NO_REPEAT](/Java/BackgroundRepeat/NO_REPEAT)
-* [REPEAT](/Java/BackgroundRepeat/REPEAT)
-* [ROUND](/Java/BackgroundRepeat/ROUND)
-* [SPACE](/Java/BackgroundRepeat/SPACE)
+* [NO_REPEAT](/Java/BackgroundRepeat/NO_REPEAT/)
+* [REPEAT](/Java/BackgroundRepeat/REPEAT/)
+* [ROUND](/Java/BackgroundRepeat/ROUND/)
+* [SPACE](/Java/BackgroundRepeat/SPACE/)
 
 ## Métodos
-* [valueOf()](/Java/BackgroundRepeat/valueOf)
-* [values()](/Java/BackgroundRepeat/values)
+* [valueOf()](/Java/BackgroundRepeat/valueOf/)
+* [values()](/Java/BackgroundRepeat/values/)
 
 ## Ejemplo
 ~~~java

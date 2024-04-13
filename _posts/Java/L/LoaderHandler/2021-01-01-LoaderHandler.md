@@ -18,11 +18,11 @@ sidebar:
 ~~~
 
 ## Campos
-* [packagePrefix](/Java/LoaderHandler/packagePrefix)
+* [packagePrefix](/Java/LoaderHandler/packagePrefix/)
 
 ## Métodos
-* [getSecurityContext()](/Java/LoaderHandler/getSecurityContext)
-* [loadClass()](/Java/LoaderHandler/loadClass)
+* [getSecurityContext()](/Java/LoaderHandler/getSecurityContext/)
+* [loadClass()](/Java/LoaderHandler/loadClass/)
 
 ## Ejemplo
 ~~~java

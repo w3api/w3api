@@ -18,12 +18,12 @@ public final class ByteOrder extends Object
 ~~~
 
 ## Campos
-* [BIG_ENDIAN](/Java/ByteOrder/BIG_ENDIAN)
-* [LITTLE_ENDIAN](/Java/ByteOrder/LITTLE_ENDIAN)
+* [BIG_ENDIAN](/Java/ByteOrder/BIG_ENDIAN/)
+* [LITTLE_ENDIAN](/Java/ByteOrder/LITTLE_ENDIAN/)
 
 ## Métodos
-* [nativeOrder()](/Java/ByteOrder/nativeOrder)
-* [toString()](/Java/ByteOrder/toString)
+* [nativeOrder()](/Java/ByteOrder/nativeOrder/)
+* [toString()](/Java/ByteOrder/toString/)
 
 ## Ejemplo
 ~~~java

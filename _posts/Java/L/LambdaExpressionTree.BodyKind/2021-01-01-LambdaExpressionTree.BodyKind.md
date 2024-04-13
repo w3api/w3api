@@ -18,12 +18,12 @@ public static enum LambdaExpressionTree.BodyKind extends Enum<LambdaExpressionTr
 ~~~
 
 ## Enumerados
-* [EXPRESSION](/Java/LambdaExpressionTree/BodyKind/EXPRESSION)
-* [STATEMENT](/Java/LambdaExpressionTree/BodyKind/STATEMENT)
+* [EXPRESSION](/Java/LambdaExpressionTree/BodyKind/EXPRESSION/)
+* [STATEMENT](/Java/LambdaExpressionTree/BodyKind/STATEMENT/)
 
 ## Métodos
-* [valueOf()](/Java/LambdaExpressionTree/BodyKind/valueOf)
-* [values()](/Java/LambdaExpressionTree/BodyKind/values)
+* [valueOf()](/Java/LambdaExpressionTree/BodyKind/valueOf/)
+* [values()](/Java/LambdaExpressionTree/BodyKind/values/)
 
 ## Ejemplo
 ~~~java

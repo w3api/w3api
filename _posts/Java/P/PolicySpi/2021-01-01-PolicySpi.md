@@ -21,9 +21,9 @@ public abstract class PolicySpi extends Object
 * [PolicySpi()](/Java/PolicySpi/PolicySpi/)
 
 ## Métodos
-* [engineGetPermissions()](/Java/PolicySpi/engineGetPermissions)
-* [engineImplies()](/Java/PolicySpi/engineImplies)
-* [engineRefresh()](/Java/PolicySpi/engineRefresh)
+* [engineGetPermissions()](/Java/PolicySpi/engineGetPermissions/)
+* [engineImplies()](/Java/PolicySpi/engineImplies/)
+* [engineRefresh()](/Java/PolicySpi/engineRefresh/)
 
 ## Ejemplo
 ~~~java

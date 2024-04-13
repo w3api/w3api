@@ -18,9 +18,9 @@ Generator
 ~~~
 
 ## Métodos
-* [next()](/Javascript/Generator/next)
-* [return()](/Javascript/Generator/return)
-* [throw()](/Javascript/Generator/throw)
+* [next()](/Javascript/Generator/next/)
+* [return()](/Javascript/Generator/return/)
+* [throw()](/Javascript/Generator/throw/)
 
 ## Ejemplo
 ~~~java

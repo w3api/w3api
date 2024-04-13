@@ -18,13 +18,13 @@ public interface IORInfoOperations
 ~~~
 
 ## Métodos
-* [adapter_template()](/Java/IORInfoOperations/adapter_template)
-* [add_ior_component()](/Java/IORInfoOperations/add_ior_component)
-* [add_ior_component_to_profile()](/Java/IORInfoOperations/add_ior_component_to_profile)
-* [current_factory()](/Java/IORInfoOperations/current_factory)
-* [get_effective_policy()](/Java/IORInfoOperations/get_effective_policy)
-* [manager_id()](/Java/IORInfoOperations/manager_id)
-* [state()](/Java/IORInfoOperations/state)
+* [adapter_template()](/Java/IORInfoOperations/adapter_template/)
+* [add_ior_component()](/Java/IORInfoOperations/add_ior_component/)
+* [add_ior_component_to_profile()](/Java/IORInfoOperations/add_ior_component_to_profile/)
+* [current_factory()](/Java/IORInfoOperations/current_factory/)
+* [get_effective_policy()](/Java/IORInfoOperations/get_effective_policy/)
+* [manager_id()](/Java/IORInfoOperations/manager_id/)
+* [state()](/Java/IORInfoOperations/state/)
 
 ## Ejemplo
 ~~~java

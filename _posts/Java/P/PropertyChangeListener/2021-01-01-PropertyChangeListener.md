@@ -18,7 +18,7 @@ public interface PropertyChangeListener extends EventListener
 ~~~
 
 ## Métodos
-* [propertyChange()](/Java/PropertyChangeListener/propertyChange)
+* [propertyChange()](/Java/PropertyChangeListener/propertyChange/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public class DefaultHandler2 extends DefaultHandler implements LexicalHandler, D
 * [DefaultHandler2()](/Java/DefaultHandler2/DefaultHandler2/)
 
 ## Métodos
-* [getExternalSubset()](/Java/DefaultHandler2/getExternalSubset)
-* [resolveEntity()](/Java/DefaultHandler2/resolveEntity)
+* [getExternalSubset()](/Java/DefaultHandler2/getExternalSubset/)
+* [resolveEntity()](/Java/DefaultHandler2/resolveEntity/)
 
 ## Ejemplo
 ~~~java

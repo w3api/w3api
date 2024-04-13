@@ -21,7 +21,7 @@ public class BasicComboBoxRenderer extends JLabel implements ListCellRenderer<Ob
 * [BasicComboBoxRenderer()](/Java/BasicComboBoxRenderer/BasicComboBoxRenderer/)
 
 ## Campos
-* [noFocusBorder](/Java/BasicComboBoxRenderer/noFocusBorder)
+* [noFocusBorder](/Java/BasicComboBoxRenderer/noFocusBorder/)
 
 ## Ejemplo
 ~~~java

@@ -18,11 +18,11 @@ public interface POAManagerOperations
 ~~~
 
 ## Métodos
-* [activate()](/Java/POAManagerOperations/activate)
-* [deactivate()](/Java/POAManagerOperations/deactivate)
-* [discard_requests()](/Java/POAManagerOperations/discard_requests)
-* [get_state()](/Java/POAManagerOperations/get_state)
-* [hold_requests()](/Java/POAManagerOperations/hold_requests)
+* [activate()](/Java/POAManagerOperations/activate/)
+* [deactivate()](/Java/POAManagerOperations/deactivate/)
+* [discard_requests()](/Java/POAManagerOperations/discard_requests/)
+* [get_state()](/Java/POAManagerOperations/get_state/)
+* [hold_requests()](/Java/POAManagerOperations/hold_requests/)
 
 ## Ejemplo
 ~~~java

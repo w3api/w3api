@@ -18,20 +18,20 @@ public final class PresentationDirection extends EnumSyntax implements PrintJobA
 ~~~
 
 ## Campos
-* [TOBOTTOM_TOLEFT](/Java/PresentationDirection/TOBOTTOM_TOLEFT)
-* [TOBOTTOM_TORIGHT](/Java/PresentationDirection/TOBOTTOM_TORIGHT)
-* [TOLEFT_TOBOTTOM](/Java/PresentationDirection/TOLEFT_TOBOTTOM)
-* [TOLEFT_TOTOP](/Java/PresentationDirection/TOLEFT_TOTOP)
-* [TORIGHT_TOBOTTOM](/Java/PresentationDirection/TORIGHT_TOBOTTOM)
-* [TORIGHT_TOTOP](/Java/PresentationDirection/TORIGHT_TOTOP)
-* [TOTOP_TOLEFT](/Java/PresentationDirection/TOTOP_TOLEFT)
-* [TOTOP_TORIGHT](/Java/PresentationDirection/TOTOP_TORIGHT)
+* [TOBOTTOM_TOLEFT](/Java/PresentationDirection/TOBOTTOM_TOLEFT/)
+* [TOBOTTOM_TORIGHT](/Java/PresentationDirection/TOBOTTOM_TORIGHT/)
+* [TOLEFT_TOBOTTOM](/Java/PresentationDirection/TOLEFT_TOBOTTOM/)
+* [TOLEFT_TOTOP](/Java/PresentationDirection/TOLEFT_TOTOP/)
+* [TORIGHT_TOBOTTOM](/Java/PresentationDirection/TORIGHT_TOBOTTOM/)
+* [TORIGHT_TOTOP](/Java/PresentationDirection/TORIGHT_TOTOP/)
+* [TOTOP_TOLEFT](/Java/PresentationDirection/TOTOP_TOLEFT/)
+* [TOTOP_TORIGHT](/Java/PresentationDirection/TOTOP_TORIGHT/)
 
 ## Métodos
-* [getCategory()](/Java/PresentationDirection/getCategory)
-* [getEnumValueTable()](/Java/PresentationDirection/getEnumValueTable)
-* [getName()](/Java/PresentationDirection/getName)
-* [getStringTable()](/Java/PresentationDirection/getStringTable)
+* [getCategory()](/Java/PresentationDirection/getCategory/)
+* [getEnumValueTable()](/Java/PresentationDirection/getEnumValueTable/)
+* [getName()](/Java/PresentationDirection/getName/)
+* [getStringTable()](/Java/PresentationDirection/getStringTable/)
 
 ## Ejemplo
 ~~~java

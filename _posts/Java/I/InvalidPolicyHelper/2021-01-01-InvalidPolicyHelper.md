@@ -21,12 +21,12 @@ public abstract class InvalidPolicyHelper extends Object
 * [InvalidPolicyHelper()](/Java/InvalidPolicyHelper/InvalidPolicyHelper/)
 
 ## Métodos
-* [extract()](/Java/InvalidPolicyHelper/extract)
-* [id()](/Java/InvalidPolicyHelper/id)
-* [insert()](/Java/InvalidPolicyHelper/insert)
-* [read()](/Java/InvalidPolicyHelper/read)
-* [type()](/Java/InvalidPolicyHelper/type)
-* [write()](/Java/InvalidPolicyHelper/write)
+* [extract()](/Java/InvalidPolicyHelper/extract/)
+* [id()](/Java/InvalidPolicyHelper/id/)
+* [insert()](/Java/InvalidPolicyHelper/insert/)
+* [read()](/Java/InvalidPolicyHelper/read/)
+* [type()](/Java/InvalidPolicyHelper/type/)
+* [write()](/Java/InvalidPolicyHelper/write/)
 
 ## Ejemplo
 ~~~java

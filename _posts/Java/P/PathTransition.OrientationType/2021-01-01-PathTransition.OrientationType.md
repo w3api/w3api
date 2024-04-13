@@ -18,12 +18,12 @@ public static enum PathTransition.OrientationType extends Enum<PathTransition.Or
 ~~~
 
 ## Enumerados
-* [NONE](/Java/PathTransition/OrientationType/NONE)
-* [ORTHOGONAL_TO_TANGENT](/Java/PathTransition/OrientationType/ORTHOGONAL_TO_TANGENT)
+* [NONE](/Java/PathTransition/OrientationType/NONE/)
+* [ORTHOGONAL_TO_TANGENT](/Java/PathTransition/OrientationType/ORTHOGONAL_TO_TANGENT/)
 
 ## Métodos
-* [valueOf()](/Java/PathTransition/OrientationType/valueOf)
-* [values()](/Java/PathTransition/OrientationType/values)
+* [valueOf()](/Java/PathTransition/OrientationType/valueOf/)
+* [values()](/Java/PathTransition/OrientationType/values/)
 
 ## Ejemplo
 ~~~java

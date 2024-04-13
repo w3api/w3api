@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [handle()](/Java/EventHandler-javafx-event/handle)
+* [handle()](/Java/EventHandler-javafx-event/handle/)
 
 ## Ejemplo
 ~~~java

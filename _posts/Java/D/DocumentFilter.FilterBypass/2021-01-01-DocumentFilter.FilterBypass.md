@@ -21,10 +21,10 @@ public abstract static class DocumentFilter.FilterBypass extends Object
 * [DocumentFilter.FilterBypass()](/Java/DocumentFilter/FilterBypass/DocumentFilter/FilterBypass/)
 
 ## Métodos
-* [getDocument()](/Java/DocumentFilter/FilterBypass/getDocument)
-* [insertString()](/Java/DocumentFilter/FilterBypass/insertString)
-* [remove()](/Java/DocumentFilter/FilterBypass/remove)
-* [replace()](/Java/DocumentFilter/FilterBypass/replace)
+* [getDocument()](/Java/DocumentFilter/FilterBypass/getDocument/)
+* [insertString()](/Java/DocumentFilter/FilterBypass/insertString/)
+* [remove()](/Java/DocumentFilter/FilterBypass/remove/)
+* [replace()](/Java/DocumentFilter/FilterBypass/replace/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface DynAnyFactoryOperations
 ~~~
 
 ## Métodos
-* [create_dyn_any()](/Java/DynAnyFactoryOperations/create_dyn_any)
-* [create_dyn_any_from_type_code()](/Java/DynAnyFactoryOperations/create_dyn_any_from_type_code)
+* [create_dyn_any()](/Java/DynAnyFactoryOperations/create_dyn_any/)
+* [create_dyn_any_from_type_code()](/Java/DynAnyFactoryOperations/create_dyn_any_from_type_code/)
 
 ## Ejemplo
 ~~~java

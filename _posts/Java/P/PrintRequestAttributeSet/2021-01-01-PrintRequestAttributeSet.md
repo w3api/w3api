@@ -18,8 +18,8 @@ public interface PrintRequestAttributeSet extends AttributeSet
 ~~~
 
 ## Métodos
-* [add()](/Java/PrintRequestAttributeSet/add)
-* [addAll()](/Java/PrintRequestAttributeSet/addAll)
+* [add()](/Java/PrintRequestAttributeSet/add/)
+* [addAll()](/Java/PrintRequestAttributeSet/addAll/)
 
 ## Ejemplo
 ~~~java

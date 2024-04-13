@@ -21,7 +21,7 @@ public class IllegalFormatCodePointException extends IllegalFormatException
 * [IllegalFormatCodePointException()](/Java/IllegalFormatCodePointException/IllegalFormatCodePointException/)
 
 ## Métodos
-* [getCodePoint()](/Java/IllegalFormatCodePointException/getCodePoint)
+* [getCodePoint()](/Java/IllegalFormatCodePointException/getCodePoint/)
 
 ## Ejemplo
 ~~~java

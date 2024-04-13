@@ -21,14 +21,14 @@ public abstract class DynAnyHelper extends Object
 * [DynAnyHelper()](/Java/DynAnyHelper/DynAnyHelper/)
 
 ## Métodos
-* [extract()](/Java/DynAnyHelper/extract)
-* [id()](/Java/DynAnyHelper/id)
-* [insert()](/Java/DynAnyHelper/insert)
-* [narrow()](/Java/DynAnyHelper/narrow)
-* [read()](/Java/DynAnyHelper/read)
-* [type()](/Java/DynAnyHelper/type)
-* [unchecked_narrow()](/Java/DynAnyHelper/unchecked_narrow)
-* [write()](/Java/DynAnyHelper/write)
+* [extract()](/Java/DynAnyHelper/extract/)
+* [id()](/Java/DynAnyHelper/id/)
+* [insert()](/Java/DynAnyHelper/insert/)
+* [narrow()](/Java/DynAnyHelper/narrow/)
+* [read()](/Java/DynAnyHelper/read/)
+* [type()](/Java/DynAnyHelper/type/)
+* [unchecked_narrow()](/Java/DynAnyHelper/unchecked_narrow/)
+* [write()](/Java/DynAnyHelper/write/)
 
 ## Ejemplo
 ~~~java

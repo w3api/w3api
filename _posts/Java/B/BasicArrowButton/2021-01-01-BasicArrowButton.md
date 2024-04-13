@@ -21,16 +21,16 @@ public class BasicArrowButton extends JButton implements SwingConstants
 * [BasicArrowButton()](/Java/BasicArrowButton/BasicArrowButton/)
 
 ## Campos
-* [direction](/Java/BasicArrowButton/direction)
+* [direction](/Java/BasicArrowButton/direction/)
 
 ## Métodos
-* [getDirection()](/Java/BasicArrowButton/getDirection)
-* [getMaximumSize()](/Java/BasicArrowButton/getMaximumSize)
-* [getMinimumSize()](/Java/BasicArrowButton/getMinimumSize)
-* [getPreferredSize()](/Java/BasicArrowButton/getPreferredSize)
-* [isFocusTraversable()](/Java/BasicArrowButton/isFocusTraversable)
-* [paintTriangle()](/Java/BasicArrowButton/paintTriangle)
-* [setDirection()](/Java/BasicArrowButton/setDirection)
+* [getDirection()](/Java/BasicArrowButton/getDirection/)
+* [getMaximumSize()](/Java/BasicArrowButton/getMaximumSize/)
+* [getMinimumSize()](/Java/BasicArrowButton/getMinimumSize/)
+* [getPreferredSize()](/Java/BasicArrowButton/getPreferredSize/)
+* [isFocusTraversable()](/Java/BasicArrowButton/isFocusTraversable/)
+* [paintTriangle()](/Java/BasicArrowButton/paintTriangle/)
+* [setDirection()](/Java/BasicArrowButton/setDirection/)
 
 ## Ejemplo
 ~~~java

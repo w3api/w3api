@@ -18,15 +18,15 @@ public interface BlockingQueue<E> extends Queue<E>
 ~~~
 
 ## Métodos
-* [add()](/Java/BlockingQueue/add)
-* [contains()](/Java/BlockingQueue/contains)
-* [drainTo()](/Java/BlockingQueue/drainTo)
-* [offer()](/Java/BlockingQueue/offer)
-* [poll()](/Java/BlockingQueue/poll)
-* [put()](/Java/BlockingQueue/put)
-* [remainingCapacity()](/Java/BlockingQueue/remainingCapacity)
-* [remove()](/Java/BlockingQueue/remove)
-* [take()](/Java/BlockingQueue/take)
+* [add()](/Java/BlockingQueue/add/)
+* [contains()](/Java/BlockingQueue/contains/)
+* [drainTo()](/Java/BlockingQueue/drainTo/)
+* [offer()](/Java/BlockingQueue/offer/)
+* [poll()](/Java/BlockingQueue/poll/)
+* [put()](/Java/BlockingQueue/put/)
+* [remainingCapacity()](/Java/BlockingQueue/remainingCapacity/)
+* [remove()](/Java/BlockingQueue/remove/)
+* [take()](/Java/BlockingQueue/take/)
 
 ## Ejemplo
 ~~~java

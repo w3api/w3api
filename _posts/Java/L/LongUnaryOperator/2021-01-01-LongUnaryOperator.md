@@ -18,10 +18,10 @@ sidebar:
 ~~~
 
 ## Métodos
-* [andThen()](/Java/LongUnaryOperator/andThen)
-* [applyAsLong()](/Java/LongUnaryOperator/applyAsLong)
-* [compose()](/Java/LongUnaryOperator/compose)
-* [identity()](/Java/LongUnaryOperator/identity)
+* [andThen()](/Java/LongUnaryOperator/andThen/)
+* [applyAsLong()](/Java/LongUnaryOperator/applyAsLong/)
+* [compose()](/Java/LongUnaryOperator/compose/)
+* [identity()](/Java/LongUnaryOperator/identity/)
 
 ## Ejemplo
 ~~~java

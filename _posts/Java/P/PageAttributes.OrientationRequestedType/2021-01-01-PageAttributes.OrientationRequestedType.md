@@ -18,12 +18,12 @@ public static final class PageAttributes.OrientationRequestedType extends Object
 ~~~
 
 ## Campos
-* [LANDSCAPE](/Java/PageAttributes/OrientationRequestedType/LANDSCAPE)
-* [PORTRAIT](/Java/PageAttributes/OrientationRequestedType/PORTRAIT)
+* [LANDSCAPE](/Java/PageAttributes/OrientationRequestedType/LANDSCAPE/)
+* [PORTRAIT](/Java/PageAttributes/OrientationRequestedType/PORTRAIT/)
 
 ## Métodos
-* [hashCode()](/Java/PageAttributes/OrientationRequestedType/hashCode)
-* [toString()](/Java/PageAttributes/OrientationRequestedType/toString)
+* [hashCode()](/Java/PageAttributes/OrientationRequestedType/hashCode/)
+* [toString()](/Java/PageAttributes/OrientationRequestedType/toString/)
 
 ## Ejemplo
 ~~~java

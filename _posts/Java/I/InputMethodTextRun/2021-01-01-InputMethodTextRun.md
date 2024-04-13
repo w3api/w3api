@@ -21,9 +21,9 @@ public class InputMethodTextRun extends Object implements Serializable
 * [InputMethodTextRun()](/Java/InputMethodTextRun/InputMethodTextRun/)
 
 ## Métodos
-* [getHighlight()](/Java/InputMethodTextRun/getHighlight)
-* [getText()](/Java/InputMethodTextRun/getText)
-* [toString()](/Java/InputMethodTextRun/toString)
+* [getHighlight()](/Java/InputMethodTextRun/getHighlight/)
+* [getText()](/Java/InputMethodTextRun/getText/)
+* [toString()](/Java/InputMethodTextRun/toString/)
 
 ## Ejemplo
 ~~~java

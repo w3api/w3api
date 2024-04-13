@@ -18,7 +18,7 @@ public interface LineListener extends EventListener
 ~~~
 
 ## Métodos
-* [update()](/Java/LineListener/update)
+* [update()](/Java/LineListener/update/)
 
 ## Ejemplo
 ~~~java

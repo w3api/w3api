@@ -18,10 +18,10 @@ public interface CSSStyleSheet extends StyleSheet
 ~~~
 
 ## Métodos
-* [deleteRule()](/Java/CSSStyleSheet/deleteRule)
-* [getCssRules()](/Java/CSSStyleSheet/getCssRules)
-* [getOwnerRule()](/Java/CSSStyleSheet/getOwnerRule)
-* [insertRule()](/Java/CSSStyleSheet/insertRule)
+* [deleteRule()](/Java/CSSStyleSheet/deleteRule/)
+* [getCssRules()](/Java/CSSStyleSheet/getCssRules/)
+* [getOwnerRule()](/Java/CSSStyleSheet/getOwnerRule/)
+* [insertRule()](/Java/CSSStyleSheet/insertRule/)
 
 ## Ejemplo
 ~~~java

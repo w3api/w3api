@@ -21,17 +21,17 @@ public class ItemEvent extends AWTEvent
 * [ItemEvent()](/Java/ItemEvent/ItemEvent/)
 
 ## Campos
-* [DESELECTED](/Java/ItemEvent/DESELECTED)
-* [ITEM_FIRST](/Java/ItemEvent/ITEM_FIRST)
-* [ITEM_LAST](/Java/ItemEvent/ITEM_LAST)
-* [ITEM_STATE_CHANGED](/Java/ItemEvent/ITEM_STATE_CHANGED)
-* [SELECTED](/Java/ItemEvent/SELECTED)
+* [DESELECTED](/Java/ItemEvent/DESELECTED/)
+* [ITEM_FIRST](/Java/ItemEvent/ITEM_FIRST/)
+* [ITEM_LAST](/Java/ItemEvent/ITEM_LAST/)
+* [ITEM_STATE_CHANGED](/Java/ItemEvent/ITEM_STATE_CHANGED/)
+* [SELECTED](/Java/ItemEvent/SELECTED/)
 
 ## Métodos
-* [getItem()](/Java/ItemEvent/getItem)
-* [getItemSelectable()](/Java/ItemEvent/getItemSelectable)
-* [getStateChange()](/Java/ItemEvent/getStateChange)
-* [paramString()](/Java/ItemEvent/paramString)
+* [getItem()](/Java/ItemEvent/getItem/)
+* [getItemSelectable()](/Java/ItemEvent/getItemSelectable/)
+* [getStateChange()](/Java/ItemEvent/getStateChange/)
+* [paramString()](/Java/ItemEvent/paramString/)
 
 ## Ejemplo
 ~~~java

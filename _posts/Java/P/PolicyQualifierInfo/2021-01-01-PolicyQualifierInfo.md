@@ -21,10 +21,10 @@ public class PolicyQualifierInfo extends Object
 * [PolicyQualifierInfo()](/Java/PolicyQualifierInfo/PolicyQualifierInfo/)
 
 ## Métodos
-* [getEncoded()](/Java/PolicyQualifierInfo/getEncoded)
-* [getPolicyQualifier()](/Java/PolicyQualifierInfo/getPolicyQualifier)
-* [getPolicyQualifierId()](/Java/PolicyQualifierInfo/getPolicyQualifierId)
-* [toString()](/Java/PolicyQualifierInfo/toString)
+* [getEncoded()](/Java/PolicyQualifierInfo/getEncoded/)
+* [getPolicyQualifier()](/Java/PolicyQualifierInfo/getPolicyQualifier/)
+* [getPolicyQualifierId()](/Java/PolicyQualifierInfo/getPolicyQualifierId/)
+* [toString()](/Java/PolicyQualifierInfo/toString/)
 
 ## Ejemplo
 ~~~java

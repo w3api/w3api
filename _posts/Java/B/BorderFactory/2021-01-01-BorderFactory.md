@@ -18,20 +18,20 @@ public class BorderFactory extends Object
 ~~~
 
 ## Métodos
-* [createBevelBorder()](/Java/BorderFactory/createBevelBorder)
-* [createCompoundBorder()](/Java/BorderFactory/createCompoundBorder)
-* [createDashedBorder()](/Java/BorderFactory/createDashedBorder)
-* [createEmptyBorder()](/Java/BorderFactory/createEmptyBorder)
-* [createEtchedBorder()](/Java/BorderFactory/createEtchedBorder)
-* [createLineBorder()](/Java/BorderFactory/createLineBorder)
-* [createLoweredBevelBorder()](/Java/BorderFactory/createLoweredBevelBorder)
-* [createLoweredSoftBevelBorder()](/Java/BorderFactory/createLoweredSoftBevelBorder)
-* [createMatteBorder()](/Java/BorderFactory/createMatteBorder)
-* [createRaisedBevelBorder()](/Java/BorderFactory/createRaisedBevelBorder)
-* [createRaisedSoftBevelBorder()](/Java/BorderFactory/createRaisedSoftBevelBorder)
-* [createSoftBevelBorder()](/Java/BorderFactory/createSoftBevelBorder)
-* [createStrokeBorder()](/Java/BorderFactory/createStrokeBorder)
-* [createTitledBorder()](/Java/BorderFactory/createTitledBorder)
+* [createBevelBorder()](/Java/BorderFactory/createBevelBorder/)
+* [createCompoundBorder()](/Java/BorderFactory/createCompoundBorder/)
+* [createDashedBorder()](/Java/BorderFactory/createDashedBorder/)
+* [createEmptyBorder()](/Java/BorderFactory/createEmptyBorder/)
+* [createEtchedBorder()](/Java/BorderFactory/createEtchedBorder/)
+* [createLineBorder()](/Java/BorderFactory/createLineBorder/)
+* [createLoweredBevelBorder()](/Java/BorderFactory/createLoweredBevelBorder/)
+* [createLoweredSoftBevelBorder()](/Java/BorderFactory/createLoweredSoftBevelBorder/)
+* [createMatteBorder()](/Java/BorderFactory/createMatteBorder/)
+* [createRaisedBevelBorder()](/Java/BorderFactory/createRaisedBevelBorder/)
+* [createRaisedSoftBevelBorder()](/Java/BorderFactory/createRaisedSoftBevelBorder/)
+* [createSoftBevelBorder()](/Java/BorderFactory/createSoftBevelBorder/)
+* [createStrokeBorder()](/Java/BorderFactory/createStrokeBorder/)
+* [createTitledBorder()](/Java/BorderFactory/createTitledBorder/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface ClassPrepareEvent extends Event
 ~~~
 
 ## Métodos
-* [referenceType()](/Java/ClassPrepareEvent/referenceType)
-* [thread()](/Java/ClassPrepareEvent/thread)
+* [referenceType()](/Java/ClassPrepareEvent/referenceType/)
+* [thread()](/Java/ClassPrepareEvent/thread/)
 
 ## Ejemplo
 ~~~java

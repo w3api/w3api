@@ -21,7 +21,7 @@ public class IllegalCharsetNameException extends IllegalArgumentException
 * [IllegalCharsetNameException()](/Java/IllegalCharsetNameException/IllegalCharsetNameException/)
 
 ## Métodos
-* [getCharsetName()](/Java/IllegalCharsetNameException/getCharsetName)
+* [getCharsetName()](/Java/IllegalCharsetNameException/getCharsetName/)
 
 ## Ejemplo
 ~~~java

@@ -21,14 +21,14 @@ public class PSSParameterSpec extends Object implements AlgorithmParameterSpec
 * [PSSParameterSpec()](/Java/PSSParameterSpec/PSSParameterSpec/)
 
 ## Campos
-* [DEFAULT](/Java/PSSParameterSpec/DEFAULT)
+* [DEFAULT](/Java/PSSParameterSpec/DEFAULT/)
 
 ## Métodos
-* [getDigestAlgorithm()](/Java/PSSParameterSpec/getDigestAlgorithm)
-* [getMGFAlgorithm()](/Java/PSSParameterSpec/getMGFAlgorithm)
-* [getMGFParameters()](/Java/PSSParameterSpec/getMGFParameters)
-* [getSaltLength()](/Java/PSSParameterSpec/getSaltLength)
-* [getTrailerField()](/Java/PSSParameterSpec/getTrailerField)
+* [getDigestAlgorithm()](/Java/PSSParameterSpec/getDigestAlgorithm/)
+* [getMGFAlgorithm()](/Java/PSSParameterSpec/getMGFAlgorithm/)
+* [getMGFParameters()](/Java/PSSParameterSpec/getMGFParameters/)
+* [getSaltLength()](/Java/PSSParameterSpec/getSaltLength/)
+* [getTrailerField()](/Java/PSSParameterSpec/getTrailerField/)
 
 ## Ejemplo
 ~~~java

@@ -21,15 +21,15 @@ public static class LineEvent.Type extends Object
 * [LineEvent.Type()](/Java/LineEvent/Type/LineEvent/Type/)
 
 ## Campos
-* [CLOSE](/Java/LineEvent/Type/CLOSE)
-* [OPEN](/Java/LineEvent/Type/OPEN)
-* [START](/Java/LineEvent/Type/START)
-* [STOP](/Java/LineEvent/Type/STOP)
+* [CLOSE](/Java/LineEvent/Type/CLOSE/)
+* [OPEN](/Java/LineEvent/Type/OPEN/)
+* [START](/Java/LineEvent/Type/START/)
+* [STOP](/Java/LineEvent/Type/STOP/)
 
 ## Métodos
-* [equals()](/Java/LineEvent/Type/equals)
-* [hashCode()](/Java/LineEvent/Type/hashCode)
-* [toString()](/Java/LineEvent/Type/toString)
+* [equals()](/Java/LineEvent/Type/equals/)
+* [hashCode()](/Java/LineEvent/Type/hashCode/)
+* [toString()](/Java/LineEvent/Type/toString/)
 
 ## Ejemplo
 ~~~java

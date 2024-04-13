@@ -18,7 +18,7 @@ public final class BooleanConverter extends StyleConverter<String,Boolean>
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/BooleanConverter/getInstance)
+* [getInstance()](/Java/BooleanConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

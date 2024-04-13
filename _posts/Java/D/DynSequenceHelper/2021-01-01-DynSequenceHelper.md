@@ -21,14 +21,14 @@ public abstract class DynSequenceHelper extends Object
 * [DynSequenceHelper()](/Java/DynSequenceHelper/DynSequenceHelper/)
 
 ## Métodos
-* [extract()](/Java/DynSequenceHelper/extract)
-* [id()](/Java/DynSequenceHelper/id)
-* [insert()](/Java/DynSequenceHelper/insert)
-* [narrow()](/Java/DynSequenceHelper/narrow)
-* [read()](/Java/DynSequenceHelper/read)
-* [type()](/Java/DynSequenceHelper/type)
-* [unchecked_narrow()](/Java/DynSequenceHelper/unchecked_narrow)
-* [write()](/Java/DynSequenceHelper/write)
+* [extract()](/Java/DynSequenceHelper/extract/)
+* [id()](/Java/DynSequenceHelper/id/)
+* [insert()](/Java/DynSequenceHelper/insert/)
+* [narrow()](/Java/DynSequenceHelper/narrow/)
+* [read()](/Java/DynSequenceHelper/read/)
+* [type()](/Java/DynSequenceHelper/type/)
+* [unchecked_narrow()](/Java/DynSequenceHelper/unchecked_narrow/)
+* [write()](/Java/DynSequenceHelper/write/)
 
 ## Ejemplo
 ~~~java

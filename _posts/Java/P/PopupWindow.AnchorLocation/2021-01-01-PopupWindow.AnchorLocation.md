@@ -18,18 +18,18 @@ public static enum PopupWindow.AnchorLocation extends Enum<PopupWindow.AnchorLoc
 ~~~
 
 ## Enumerados
-* [CONTENT_BOTTOM_LEFT](/Java/PopupWindow/AnchorLocation/CONTENT_BOTTOM_LEFT)
-* [CONTENT_BOTTOM_RIGHT](/Java/PopupWindow/AnchorLocation/CONTENT_BOTTOM_RIGHT)
-* [CONTENT_TOP_LEFT](/Java/PopupWindow/AnchorLocation/CONTENT_TOP_LEFT)
-* [CONTENT_TOP_RIGHT](/Java/PopupWindow/AnchorLocation/CONTENT_TOP_RIGHT)
-* [WINDOW_BOTTOM_LEFT](/Java/PopupWindow/AnchorLocation/WINDOW_BOTTOM_LEFT)
-* [WINDOW_BOTTOM_RIGHT](/Java/PopupWindow/AnchorLocation/WINDOW_BOTTOM_RIGHT)
-* [WINDOW_TOP_LEFT](/Java/PopupWindow/AnchorLocation/WINDOW_TOP_LEFT)
-* [WINDOW_TOP_RIGHT](/Java/PopupWindow/AnchorLocation/WINDOW_TOP_RIGHT)
+* [CONTENT_BOTTOM_LEFT](/Java/PopupWindow/AnchorLocation/CONTENT_BOTTOM_LEFT/)
+* [CONTENT_BOTTOM_RIGHT](/Java/PopupWindow/AnchorLocation/CONTENT_BOTTOM_RIGHT/)
+* [CONTENT_TOP_LEFT](/Java/PopupWindow/AnchorLocation/CONTENT_TOP_LEFT/)
+* [CONTENT_TOP_RIGHT](/Java/PopupWindow/AnchorLocation/CONTENT_TOP_RIGHT/)
+* [WINDOW_BOTTOM_LEFT](/Java/PopupWindow/AnchorLocation/WINDOW_BOTTOM_LEFT/)
+* [WINDOW_BOTTOM_RIGHT](/Java/PopupWindow/AnchorLocation/WINDOW_BOTTOM_RIGHT/)
+* [WINDOW_TOP_LEFT](/Java/PopupWindow/AnchorLocation/WINDOW_TOP_LEFT/)
+* [WINDOW_TOP_RIGHT](/Java/PopupWindow/AnchorLocation/WINDOW_TOP_RIGHT/)
 
 ## Métodos
-* [valueOf()](/Java/PopupWindow/AnchorLocation/valueOf)
-* [values()](/Java/PopupWindow/AnchorLocation/values)
+* [valueOf()](/Java/PopupWindow/AnchorLocation/valueOf/)
+* [values()](/Java/PopupWindow/AnchorLocation/values/)
 
 ## Ejemplo
 ~~~java

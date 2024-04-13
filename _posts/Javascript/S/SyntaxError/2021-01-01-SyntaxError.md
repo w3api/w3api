@@ -21,12 +21,12 @@ SyntaxError
 * [SyntaxError()](/Javascript/SyntaxError/SyntaxError/)
 
 ## Propiedades
-* [message](/Javascript/SyntaxError/message)
-* [name](/Javascript/SyntaxError/name)
-* [fileName](/Javascript/SyntaxError/fileName)
-* [lineNumber](/Javascript/SyntaxError/lineNumber)
-* [columnNumber](/Javascript/SyntaxError/columnNumber)
-* [stack](/Javascript/SyntaxError/stack)
+* [message](/Javascript/SyntaxError/message/)
+* [name](/Javascript/SyntaxError/name/)
+* [fileName](/Javascript/SyntaxError/fileName/)
+* [lineNumber](/Javascript/SyntaxError/lineNumber/)
+* [columnNumber](/Javascript/SyntaxError/columnNumber/)
+* [stack](/Javascript/SyntaxError/stack/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface PersistentMBean
 ~~~
 
 ## Métodos
-* [load()](/Java/PersistentMBean/load)
-* [store()](/Java/PersistentMBean/store)
+* [load()](/Java/PersistentMBean/load/)
+* [store()](/Java/PersistentMBean/store/)
 
 ## Ejemplo
 ~~~java

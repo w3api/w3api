@@ -18,15 +18,15 @@ public static enum PrinterJob.JobStatus extends Enum<PrinterJob.JobStatus>
 ~~~
 
 ## Enumerados
-* [CANCELED](/Java/PrinterJob/JobStatus/CANCELED)
-* [DONE](/Java/PrinterJob/JobStatus/DONE)
-* [ERROR](/Java/PrinterJob/JobStatus/ERROR)
-* [NOT_STARTED](/Java/PrinterJob/JobStatus/NOT_STARTED)
-* [PRINTING](/Java/PrinterJob/JobStatus/PRINTING)
+* [CANCELED](/Java/PrinterJob/JobStatus/CANCELED/)
+* [DONE](/Java/PrinterJob/JobStatus/DONE/)
+* [ERROR](/Java/PrinterJob/JobStatus/ERROR/)
+* [NOT_STARTED](/Java/PrinterJob/JobStatus/NOT_STARTED/)
+* [PRINTING](/Java/PrinterJob/JobStatus/PRINTING/)
 
 ## Métodos
-* [valueOf()](/Java/PrinterJob/JobStatus/valueOf)
-* [values()](/Java/PrinterJob/JobStatus/values)
+* [valueOf()](/Java/PrinterJob/JobStatus/valueOf/)
+* [values()](/Java/PrinterJob/JobStatus/values/)
 
 ## Ejemplo
 ~~~java

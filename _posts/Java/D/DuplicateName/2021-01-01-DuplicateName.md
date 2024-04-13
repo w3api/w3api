@@ -21,7 +21,7 @@ public final class DuplicateName extends UserException
 * [DuplicateName()](/Java/DuplicateName/DuplicateName/)
 
 ## Campos
-* [name](/Java/DuplicateName/name)
+* [name](/Java/DuplicateName/name/)
 
 ## Ejemplo
 ~~~java

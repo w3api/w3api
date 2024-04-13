@@ -21,12 +21,12 @@ public class KeyManagerFactory extends Object
 * [KeyManagerFactory()](/Java/KeyManagerFactory/KeyManagerFactory/)
 
 ## Métodos
-* [getAlgorithm()](/Java/KeyManagerFactory/getAlgorithm)
-* [getDefaultAlgorithm()](/Java/KeyManagerFactory/getDefaultAlgorithm)
-* [getInstance()](/Java/KeyManagerFactory/getInstance)
-* [getKeyManagers()](/Java/KeyManagerFactory/getKeyManagers)
-* [getProvider()](/Java/KeyManagerFactory/getProvider)
-* [init()](/Java/KeyManagerFactory/init)
+* [getAlgorithm()](/Java/KeyManagerFactory/getAlgorithm/)
+* [getDefaultAlgorithm()](/Java/KeyManagerFactory/getDefaultAlgorithm/)
+* [getInstance()](/Java/KeyManagerFactory/getInstance/)
+* [getKeyManagers()](/Java/KeyManagerFactory/getKeyManagers/)
+* [getProvider()](/Java/KeyManagerFactory/getProvider/)
+* [init()](/Java/KeyManagerFactory/init/)
 
 ## Ejemplo
 ~~~java

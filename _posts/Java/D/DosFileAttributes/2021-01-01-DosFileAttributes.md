@@ -18,10 +18,10 @@ public interface DosFileAttributes extends BasicFileAttributes
 ~~~
 
 ## Métodos
-* [isArchive()](/Java/DosFileAttributes/isArchive)
-* [isHidden()](/Java/DosFileAttributes/isHidden)
-* [isReadOnly()](/Java/DosFileAttributes/isReadOnly)
-* [isSystem()](/Java/DosFileAttributes/isSystem)
+* [isArchive()](/Java/DosFileAttributes/isArchive/)
+* [isHidden()](/Java/DosFileAttributes/isHidden/)
+* [isReadOnly()](/Java/DosFileAttributes/isReadOnly/)
+* [isSystem()](/Java/DosFileAttributes/isSystem/)
 
 ## Ejemplo
 ~~~java

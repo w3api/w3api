@@ -21,7 +21,7 @@ public final class LongSeqHolder extends Object implements Streamable
 * [LongSeqHolder()](/Java/LongSeqHolder/LongSeqHolder/)
 
 ## Campos
-* [value](/Java/LongSeqHolder/value)
+* [value](/Java/LongSeqHolder/value/)
 
 ## Ejemplo
 ~~~java

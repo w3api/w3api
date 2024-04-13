@@ -21,9 +21,9 @@ public final class PagesPerMinuteColor extends IntegerSyntax implements PrintSer
 * [PagesPerMinuteColor()](/Java/PagesPerMinuteColor/PagesPerMinuteColor/)
 
 ## Métodos
-* [equals()](/Java/PagesPerMinuteColor/equals)
-* [getCategory()](/Java/PagesPerMinuteColor/getCategory)
-* [getName()](/Java/PagesPerMinuteColor/getName)
+* [equals()](/Java/PagesPerMinuteColor/equals/)
+* [getCategory()](/Java/PagesPerMinuteColor/getCategory/)
+* [getName()](/Java/PagesPerMinuteColor/getName/)
 
 ## Ejemplo
 ~~~java

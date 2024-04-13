@@ -18,8 +18,8 @@ public final class ExtendedSocketOptions extends Object
 ~~~
 
 ## Campos
-* [SO_FLOW_SLA](/Java/ExtendedSocketOptions/SO_FLOW_SLA)
-* [TCP_QUICKACK](/Java/ExtendedSocketOptions/TCP_QUICKACK)
+* [SO_FLOW_SLA](/Java/ExtendedSocketOptions/SO_FLOW_SLA/)
+* [TCP_QUICKACK](/Java/ExtendedSocketOptions/TCP_QUICKACK/)
 
 ## Ejemplo
 ~~~java

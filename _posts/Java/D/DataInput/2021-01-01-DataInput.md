@@ -18,20 +18,20 @@ public interface DataInput
 ~~~
 
 ## Métodos
-* [readBoolean()](/Java/DataInput/readBoolean)
-* [readByte()](/Java/DataInput/readByte)
-* [readChar()](/Java/DataInput/readChar)
-* [readDouble()](/Java/DataInput/readDouble)
-* [readFloat()](/Java/DataInput/readFloat)
-* [readFully()](/Java/DataInput/readFully)
-* [readInt()](/Java/DataInput/readInt)
-* [readLine()](/Java/DataInput/readLine)
-* [readLong()](/Java/DataInput/readLong)
-* [readShort()](/Java/DataInput/readShort)
-* [readUnsignedByte()](/Java/DataInput/readUnsignedByte)
-* [readUnsignedShort()](/Java/DataInput/readUnsignedShort)
-* [readUTF()](/Java/DataInput/readUTF)
-* [skipBytes()](/Java/DataInput/skipBytes)
+* [readBoolean()](/Java/DataInput/readBoolean/)
+* [readByte()](/Java/DataInput/readByte/)
+* [readChar()](/Java/DataInput/readChar/)
+* [readDouble()](/Java/DataInput/readDouble/)
+* [readFloat()](/Java/DataInput/readFloat/)
+* [readFully()](/Java/DataInput/readFully/)
+* [readInt()](/Java/DataInput/readInt/)
+* [readLine()](/Java/DataInput/readLine/)
+* [readLong()](/Java/DataInput/readLong/)
+* [readShort()](/Java/DataInput/readShort/)
+* [readUnsignedByte()](/Java/DataInput/readUnsignedByte/)
+* [readUnsignedShort()](/Java/DataInput/readUnsignedShort/)
+* [readUTF()](/Java/DataInput/readUTF/)
+* [skipBytes()](/Java/DataInput/skipBytes/)
 
 ## Ejemplo
 ~~~java

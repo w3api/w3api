@@ -18,10 +18,10 @@ public interface Extension
 ~~~
 
 ## Métodos
-* [encode()](/Java/Extension/encode)
-* [getId()](/Java/Extension/getId)
-* [getValue()](/Java/Extension/getValue)
-* [isCritical()](/Java/Extension/isCritical)
+* [encode()](/Java/Extension/encode/)
+* [getId()](/Java/Extension/getId/)
+* [getValue()](/Java/Extension/getValue/)
+* [isCritical()](/Java/Extension/isCritical/)
 
 ## Ejemplo
 ~~~java

@@ -18,12 +18,12 @@ public static enum DocletEnvironment.ModuleMode extends Enum<DocletEnvironment.M
 ~~~
 
 ## Enumerados
-* [ALL](/Java/DocletEnvironment/ModuleMode/ALL)
-* [API](/Java/DocletEnvironment/ModuleMode/API)
+* [ALL](/Java/DocletEnvironment/ModuleMode/ALL/)
+* [API](/Java/DocletEnvironment/ModuleMode/API/)
 
 ## Métodos
-* [valueOf()](/Java/DocletEnvironment/ModuleMode/valueOf)
-* [values()](/Java/DocletEnvironment/ModuleMode/values)
+* [valueOf()](/Java/DocletEnvironment/ModuleMode/valueOf/)
+* [values()](/Java/DocletEnvironment/ModuleMode/values/)
 
 ## Ejemplo
 ~~~java

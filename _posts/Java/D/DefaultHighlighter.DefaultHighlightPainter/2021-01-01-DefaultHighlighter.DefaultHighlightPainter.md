@@ -21,9 +21,9 @@ public static class DefaultHighlighter.DefaultHighlightPainter extends LayeredHi
 * [DefaultHighlighter.DefaultHighlightPainter()](/Java/DefaultHighlighter/DefaultHighlightPainter/DefaultHighlighter/DefaultHighlightPainter/)
 
 ## Métodos
-* [getColor()](/Java/DefaultHighlighter/DefaultHighlightPainter/getColor)
-* [paint()](/Java/DefaultHighlighter/DefaultHighlightPainter/paint)
-* [paintLayer()](/Java/DefaultHighlighter/DefaultHighlightPainter/paintLayer)
+* [getColor()](/Java/DefaultHighlighter/DefaultHighlightPainter/getColor/)
+* [paint()](/Java/DefaultHighlighter/DefaultHighlightPainter/paint/)
+* [paintLayer()](/Java/DefaultHighlighter/DefaultHighlightPainter/paintLayer/)
 
 ## Ejemplo
 ~~~java

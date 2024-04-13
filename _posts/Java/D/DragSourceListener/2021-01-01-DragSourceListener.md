@@ -18,11 +18,11 @@ public interface DragSourceListener extends EventListener
 ~~~
 
 ## Métodos
-* [dragDropEnd()](/Java/DragSourceListener/dragDropEnd)
-* [dragEnter()](/Java/DragSourceListener/dragEnter)
-* [dragExit()](/Java/DragSourceListener/dragExit)
-* [dragOver()](/Java/DragSourceListener/dragOver)
-* [dropActionChanged()](/Java/DragSourceListener/dropActionChanged)
+* [dragDropEnd()](/Java/DragSourceListener/dragDropEnd/)
+* [dragEnter()](/Java/DragSourceListener/dragEnter/)
+* [dragExit()](/Java/DragSourceListener/dragExit/)
+* [dragOver()](/Java/DragSourceListener/dragOver/)
+* [dropActionChanged()](/Java/DragSourceListener/dropActionChanged/)
 
 ## Ejemplo
 ~~~java

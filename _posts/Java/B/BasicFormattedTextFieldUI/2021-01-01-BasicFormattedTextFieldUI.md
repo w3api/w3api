@@ -21,8 +21,8 @@ public class BasicFormattedTextFieldUI extends BasicTextFieldUI
 * [BasicFormattedTextFieldUI()](/Java/BasicFormattedTextFieldUI/BasicFormattedTextFieldUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicFormattedTextFieldUI/createUI)
-* [getPropertyPrefix()](/Java/BasicFormattedTextFieldUI/getPropertyPrefix)
+* [createUI()](/Java/BasicFormattedTextFieldUI/createUI/)
+* [getPropertyPrefix()](/Java/BasicFormattedTextFieldUI/getPropertyPrefix/)
 
 ## Ejemplo
 ~~~java

@@ -21,16 +21,16 @@ WebAssembly.RuntimeError
 * [WebAssembly.RuntimeError()](/Javascript/WebAssembly/RuntimeError/WebAssembly/RuntimeError/)
 
 ## Propiedades
-* [message](/Javascript/WebAssembly/RuntimeError/message)
-* [name](/Javascript/WebAssembly/RuntimeError/name)
-* [fileName](/Javascript/WebAssembly/RuntimeError/fileName)
-* [lineNumber](/Javascript/WebAssembly/RuntimeError/lineNumber)
-* [columnNumber](/Javascript/WebAssembly/RuntimeError/columnNumber)
-* [stack](/Javascript/WebAssembly/RuntimeError/stack)
+* [message](/Javascript/WebAssembly/RuntimeError/message/)
+* [name](/Javascript/WebAssembly/RuntimeError/name/)
+* [fileName](/Javascript/WebAssembly/RuntimeError/fileName/)
+* [lineNumber](/Javascript/WebAssembly/RuntimeError/lineNumber/)
+* [columnNumber](/Javascript/WebAssembly/RuntimeError/columnNumber/)
+* [stack](/Javascript/WebAssembly/RuntimeError/stack/)
 
 ## Métodos
-* [toSource()](/Javascript/WebAssembly/RuntimeError/toSource)
-* [toString()](/Javascript/WebAssembly/RuntimeError/toString)
+* [toSource()](/Javascript/WebAssembly/RuntimeError/toSource/)
+* [toString()](/Javascript/WebAssembly/RuntimeError/toString/)
 
 ## Ejemplo
 ~~~java

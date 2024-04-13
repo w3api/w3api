@@ -21,9 +21,9 @@ public abstract class IntegerPropertyBase extends IntegerProperty
 * [IntegerPropertyBase()](/Java/IntegerPropertyBase/IntegerPropertyBase/)
 
 ## Métodos
-* [fireValueChangedEvent()](/Java/IntegerPropertyBase/fireValueChangedEvent)
-* [invalidated()](/Java/IntegerPropertyBase/invalidated)
-* [toString()](/Java/IntegerPropertyBase/toString)
+* [fireValueChangedEvent()](/Java/IntegerPropertyBase/fireValueChangedEvent/)
+* [invalidated()](/Java/IntegerPropertyBase/invalidated/)
+* [toString()](/Java/IntegerPropertyBase/toString/)
 
 ## Ejemplo
 ~~~java

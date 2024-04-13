@@ -21,7 +21,7 @@ public class CertPathTrustManagerParameters extends Object implements ManagerFac
 * [CertPathTrustManagerParameters()](/Java/CertPathTrustManagerParameters/CertPathTrustManagerParameters/)
 
 ## Métodos
-* [getParameters()](/Java/CertPathTrustManagerParameters/getParameters)
+* [getParameters()](/Java/CertPathTrustManagerParameters/getParameters/)
 
 ## Ejemplo
 ~~~java

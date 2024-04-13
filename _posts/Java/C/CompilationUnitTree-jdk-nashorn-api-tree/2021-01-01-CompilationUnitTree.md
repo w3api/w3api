@@ -18,11 +18,11 @@ public interface CompilationUnitTree extends Tree
 ~~~
 
 ## Métodos
-* [getLineMap()](/Java/CompilationUnitTree-jdk-nashorn-api-tree/getLineMap)
-* [getModule()](/Java/CompilationUnitTree-jdk-nashorn-api-tree/getModule)
-* [getSourceElements()](/Java/CompilationUnitTree-jdk-nashorn-api-tree/getSourceElements)
-* [getSourceName()](/Java/CompilationUnitTree-jdk-nashorn-api-tree/getSourceName)
-* [isStrict()](/Java/CompilationUnitTree-jdk-nashorn-api-tree/isStrict)
+* [getLineMap()](/Java/CompilationUnitTree-jdk-nashorn-api-tree/getLineMap/)
+* [getModule()](/Java/CompilationUnitTree-jdk-nashorn-api-tree/getModule/)
+* [getSourceElements()](/Java/CompilationUnitTree-jdk-nashorn-api-tree/getSourceElements/)
+* [getSourceName()](/Java/CompilationUnitTree-jdk-nashorn-api-tree/getSourceName/)
+* [isStrict()](/Java/CompilationUnitTree-jdk-nashorn-api-tree/isStrict/)
 
 ## Ejemplo
 ~~~java

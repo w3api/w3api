@@ -18,9 +18,9 @@ public static interface PrimitiveIterator.OfInt extends PrimitiveIterator<Intege
 ~~~
 
 ## Métodos
-* [forEachRemaining()](/Java/PrimitiveIterator/OfInt/forEachRemaining)
-* [next()](/Java/PrimitiveIterator/OfInt/next)
-* [nextInt()](/Java/PrimitiveIterator/OfInt/nextInt)
+* [forEachRemaining()](/Java/PrimitiveIterator/OfInt/forEachRemaining/)
+* [next()](/Java/PrimitiveIterator/OfInt/next/)
+* [nextInt()](/Java/PrimitiveIterator/OfInt/nextInt/)
 
 ## Ejemplo
 ~~~java

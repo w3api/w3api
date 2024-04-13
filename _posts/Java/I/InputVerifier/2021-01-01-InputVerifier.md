@@ -21,9 +21,9 @@ public abstract class InputVerifier extends Object
 * [InputVerifier()](/Java/InputVerifier/InputVerifier/)
 
 ## Métodos
-* [shouldYieldFocus()](/Java/InputVerifier/shouldYieldFocus)
-* [verify()](/Java/InputVerifier/verify)
-* [verifyTarget()](/Java/InputVerifier/verifyTarget)
+* [shouldYieldFocus()](/Java/InputVerifier/shouldYieldFocus/)
+* [verify()](/Java/InputVerifier/verify/)
+* [verifyTarget()](/Java/InputVerifier/verifyTarget/)
 
 ## Ejemplo
 ~~~java

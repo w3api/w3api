@@ -21,10 +21,10 @@ public class DropTargetEvent extends EventObject
 * [DropTargetEvent()](/Java/DropTargetEvent/DropTargetEvent/)
 
 ## Campos
-* [context](/Java/DropTargetEvent/context)
+* [context](/Java/DropTargetEvent/context/)
 
 ## Métodos
-* [getDropTargetContext()](/Java/DropTargetEvent/getDropTargetContext)
+* [getDropTargetContext()](/Java/DropTargetEvent/getDropTargetContext/)
 
 ## Ejemplo
 ~~~java

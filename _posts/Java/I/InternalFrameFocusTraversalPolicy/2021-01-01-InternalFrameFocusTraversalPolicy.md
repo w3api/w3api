@@ -21,7 +21,7 @@ public abstract class InternalFrameFocusTraversalPolicy extends FocusTraversalPo
 * [InternalFrameFocusTraversalPolicy()](/Java/InternalFrameFocusTraversalPolicy/InternalFrameFocusTraversalPolicy/)
 
 ## Métodos
-* [getInitialComponent()](/Java/InternalFrameFocusTraversalPolicy/getInitialComponent)
+* [getInitialComponent()](/Java/InternalFrameFocusTraversalPolicy/getInitialComponent/)
 
 ## Ejemplo
 ~~~java

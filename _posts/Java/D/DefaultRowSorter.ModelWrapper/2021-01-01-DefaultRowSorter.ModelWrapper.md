@@ -21,12 +21,12 @@ protected abstract static class DefaultRowSorter.ModelWrapper<M,I> extends Objec
 * [DefaultRowSorter.ModelWrapper()](/Java/DefaultRowSorter/ModelWrapper/DefaultRowSorter/ModelWrapper/)
 
 ## Métodos
-* [getColumnCount()](/Java/DefaultRowSorter/ModelWrapper/getColumnCount)
-* [getIdentifier()](/Java/DefaultRowSorter/ModelWrapper/getIdentifier)
-* [getModel()](/Java/DefaultRowSorter/ModelWrapper/getModel)
-* [getRowCount()](/Java/DefaultRowSorter/ModelWrapper/getRowCount)
-* [getStringValueAt()](/Java/DefaultRowSorter/ModelWrapper/getStringValueAt)
-* [getValueAt()](/Java/DefaultRowSorter/ModelWrapper/getValueAt)
+* [getColumnCount()](/Java/DefaultRowSorter/ModelWrapper/getColumnCount/)
+* [getIdentifier()](/Java/DefaultRowSorter/ModelWrapper/getIdentifier/)
+* [getModel()](/Java/DefaultRowSorter/ModelWrapper/getModel/)
+* [getRowCount()](/Java/DefaultRowSorter/ModelWrapper/getRowCount/)
+* [getStringValueAt()](/Java/DefaultRowSorter/ModelWrapper/getStringValueAt/)
+* [getValueAt()](/Java/DefaultRowSorter/ModelWrapper/getValueAt/)
 
 ## Ejemplo
 ~~~java

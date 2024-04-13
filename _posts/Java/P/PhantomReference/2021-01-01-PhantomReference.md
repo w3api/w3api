@@ -21,7 +21,7 @@ public class PhantomReference<T> extends Reference<T>
 * [PhantomReference()](/Java/PhantomReference/PhantomReference/)
 
 ## Métodos
-* [get()](/Java/PhantomReference/get)
+* [get()](/Java/PhantomReference/get/)
 
 ## Ejemplo
 ~~~java

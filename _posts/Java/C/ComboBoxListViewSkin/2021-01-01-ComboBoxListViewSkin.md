@@ -21,9 +21,9 @@ public class ComboBoxListViewSkin<T> extends ComboBoxPopupControl<T>
 * [ComboBoxListViewSkin()](/Java/ComboBoxListViewSkin/ComboBoxListViewSkin/)
 
 ## Métodos
-* [hideOnClickProperty()](/Java/ComboBoxListViewSkin/hideOnClickProperty)
-* [isHideOnClick()](/Java/ComboBoxListViewSkin/isHideOnClick)
-* [setHideOnClick()](/Java/ComboBoxListViewSkin/setHideOnClick)
+* [hideOnClickProperty()](/Java/ComboBoxListViewSkin/hideOnClickProperty/)
+* [isHideOnClick()](/Java/ComboBoxListViewSkin/isHideOnClick/)
+* [setHideOnClick()](/Java/ComboBoxListViewSkin/setHideOnClick/)
 
 ## Ejemplo
 ~~~java

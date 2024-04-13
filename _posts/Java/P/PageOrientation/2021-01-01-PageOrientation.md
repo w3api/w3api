@@ -18,14 +18,14 @@ public enum PageOrientation extends Enum<PageOrientation>
 ~~~
 
 ## Enumerados
-* [LANDSCAPE](/Java/PageOrientation/LANDSCAPE)
-* [PORTRAIT](/Java/PageOrientation/PORTRAIT)
-* [REVERSE_LANDSCAPE](/Java/PageOrientation/REVERSE_LANDSCAPE)
-* [REVERSE_PORTRAIT](/Java/PageOrientation/REVERSE_PORTRAIT)
+* [LANDSCAPE](/Java/PageOrientation/LANDSCAPE/)
+* [PORTRAIT](/Java/PageOrientation/PORTRAIT/)
+* [REVERSE_LANDSCAPE](/Java/PageOrientation/REVERSE_LANDSCAPE/)
+* [REVERSE_PORTRAIT](/Java/PageOrientation/REVERSE_PORTRAIT/)
 
 ## Métodos
-* [valueOf()](/Java/PageOrientation/valueOf)
-* [values()](/Java/PageOrientation/values)
+* [valueOf()](/Java/PageOrientation/valueOf/)
+* [values()](/Java/PageOrientation/values/)
 
 ## Ejemplo
 ~~~java

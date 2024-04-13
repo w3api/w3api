@@ -18,7 +18,7 @@ public interface XAConnection extends PooledConnection
 ~~~
 
 ## Métodos
-* [getXAResource()](/Java/XAConnection/getXAResource)
+* [getXAResource()](/Java/XAConnection/getXAResource/)
 
 ## Ejemplo
 ~~~java

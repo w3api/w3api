@@ -21,10 +21,10 @@ public final class DataBufferInt extends DataBuffer
 * [DataBufferInt()](/Java/DataBufferInt/DataBufferInt/)
 
 ## Métodos
-* [getBankData()](/Java/DataBufferInt/getBankData)
-* [getData()](/Java/DataBufferInt/getData)
-* [getElem()](/Java/DataBufferInt/getElem)
-* [setElem()](/Java/DataBufferInt/setElem)
+* [getBankData()](/Java/DataBufferInt/getBankData/)
+* [getData()](/Java/DataBufferInt/getData/)
+* [getElem()](/Java/DataBufferInt/getElem/)
+* [setElem()](/Java/DataBufferInt/setElem/)
 
 ## Ejemplo
 ~~~java

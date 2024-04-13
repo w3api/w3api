@@ -21,11 +21,11 @@ public final class KeyCodeCombination extends KeyCombination
 * [KeyCodeCombination()](/Java/KeyCodeCombination/KeyCodeCombination/)
 
 ## Métodos
-* [equals()](/Java/KeyCodeCombination/equals)
-* [getCode()](/Java/KeyCodeCombination/getCode)
-* [getName()](/Java/KeyCodeCombination/getName)
-* [hashCode()](/Java/KeyCodeCombination/hashCode)
-* [match()](/Java/KeyCodeCombination/match)
+* [equals()](/Java/KeyCodeCombination/equals/)
+* [getCode()](/Java/KeyCodeCombination/getCode/)
+* [getName()](/Java/KeyCodeCombination/getName/)
+* [hashCode()](/Java/KeyCodeCombination/hashCode/)
+* [match()](/Java/KeyCodeCombination/match/)
 
 ## Ejemplo
 ~~~java

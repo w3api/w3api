@@ -21,7 +21,7 @@ public abstract static class LayeredHighlighter.LayerPainter extends Object impl
 * [LayeredHighlighter.LayerPainter()](/Java/LayeredHighlighter/LayerPainter/LayeredHighlighter/LayerPainter/)
 
 ## Métodos
-* [paintLayer()](/Java/LayeredHighlighter/LayerPainter/paintLayer)
+* [paintLayer()](/Java/LayeredHighlighter/LayerPainter/paintLayer/)
 
 ## Ejemplo
 ~~~java

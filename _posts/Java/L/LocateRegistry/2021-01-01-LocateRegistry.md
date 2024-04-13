@@ -18,8 +18,8 @@ public final class LocateRegistry extends Object
 ~~~
 
 ## Métodos
-* [createRegistry()](/Java/LocateRegistry/createRegistry)
-* [getRegistry()](/Java/LocateRegistry/getRegistry)
+* [createRegistry()](/Java/LocateRegistry/createRegistry/)
+* [getRegistry()](/Java/LocateRegistry/getRegistry/)
 
 ## Ejemplo
 ~~~java

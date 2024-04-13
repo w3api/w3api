@@ -18,11 +18,11 @@ public final class EventFactory extends Object
 ~~~
 
 ## Métodos
-* [create()](/Java/EventFactory/create)
-* [getEventType()](/Java/EventFactory/getEventType)
-* [newEvent()](/Java/EventFactory/newEvent)
-* [register()](/Java/EventFactory/register)
-* [unregister()](/Java/EventFactory/unregister)
+* [create()](/Java/EventFactory/create/)
+* [getEventType()](/Java/EventFactory/getEventType/)
+* [newEvent()](/Java/EventFactory/newEvent/)
+* [register()](/Java/EventFactory/register/)
+* [unregister()](/Java/EventFactory/unregister/)
 
 ## Ejemplo
 ~~~java

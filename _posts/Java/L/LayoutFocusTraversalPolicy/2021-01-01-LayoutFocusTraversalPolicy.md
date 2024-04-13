@@ -21,11 +21,11 @@ public class LayoutFocusTraversalPolicy extends SortingFocusTraversalPolicy impl
 * [LayoutFocusTraversalPolicy()](/Java/LayoutFocusTraversalPolicy/LayoutFocusTraversalPolicy/)
 
 ## Métodos
-* [accept()](/Java/LayoutFocusTraversalPolicy/accept)
-* [getComponentAfter()](/Java/LayoutFocusTraversalPolicy/getComponentAfter)
-* [getComponentBefore()](/Java/LayoutFocusTraversalPolicy/getComponentBefore)
-* [getFirstComponent()](/Java/LayoutFocusTraversalPolicy/getFirstComponent)
-* [getLastComponent()](/Java/LayoutFocusTraversalPolicy/getLastComponent)
+* [accept()](/Java/LayoutFocusTraversalPolicy/accept/)
+* [getComponentAfter()](/Java/LayoutFocusTraversalPolicy/getComponentAfter/)
+* [getComponentBefore()](/Java/LayoutFocusTraversalPolicy/getComponentBefore/)
+* [getFirstComponent()](/Java/LayoutFocusTraversalPolicy/getFirstComponent/)
+* [getLastComponent()](/Java/LayoutFocusTraversalPolicy/getLastComponent/)
 
 ## Ejemplo
 ~~~java

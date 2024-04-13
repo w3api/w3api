@@ -18,9 +18,9 @@ public interface EventTarget
 ~~~
 
 ## Métodos
-* [addEventListener()](/Java/EventTarget-org-w3c-dom-events/addEventListener)
-* [dispatchEvent()](/Java/EventTarget-org-w3c-dom-events/dispatchEvent)
-* [removeEventListener()](/Java/EventTarget-org-w3c-dom-events/removeEventListener)
+* [addEventListener()](/Java/EventTarget-org-w3c-dom-events/addEventListener/)
+* [dispatchEvent()](/Java/EventTarget-org-w3c-dom-events/dispatchEvent/)
+* [removeEventListener()](/Java/EventTarget-org-w3c-dom-events/removeEventListener/)
 
 ## Ejemplo
 ~~~java

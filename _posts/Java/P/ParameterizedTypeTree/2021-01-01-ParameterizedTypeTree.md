@@ -18,8 +18,8 @@ public interface ParameterizedTypeTree extends Tree
 ~~~
 
 ## Métodos
-* [getType()](/Java/ParameterizedTypeTree/getType)
-* [getTypeArguments()](/Java/ParameterizedTypeTree/getTypeArguments)
+* [getType()](/Java/ParameterizedTypeTree/getType/)
+* [getTypeArguments()](/Java/ParameterizedTypeTree/getTypeArguments/)
 
 ## Ejemplo
 ~~~java

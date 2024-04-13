@@ -18,12 +18,12 @@ public interface IIOReadUpdateListener extends EventListener
 ~~~
 
 ## Métodos
-* [imageUpdate()](/Java/IIOReadUpdateListener/imageUpdate)
-* [passComplete()](/Java/IIOReadUpdateListener/passComplete)
-* [passStarted()](/Java/IIOReadUpdateListener/passStarted)
-* [thumbnailPassComplete()](/Java/IIOReadUpdateListener/thumbnailPassComplete)
-* [thumbnailPassStarted()](/Java/IIOReadUpdateListener/thumbnailPassStarted)
-* [thumbnailUpdate()](/Java/IIOReadUpdateListener/thumbnailUpdate)
+* [imageUpdate()](/Java/IIOReadUpdateListener/imageUpdate/)
+* [passComplete()](/Java/IIOReadUpdateListener/passComplete/)
+* [passStarted()](/Java/IIOReadUpdateListener/passStarted/)
+* [thumbnailPassComplete()](/Java/IIOReadUpdateListener/thumbnailPassComplete/)
+* [thumbnailPassStarted()](/Java/IIOReadUpdateListener/thumbnailPassStarted/)
+* [thumbnailUpdate()](/Java/IIOReadUpdateListener/thumbnailUpdate/)
 
 ## Ejemplo
 ~~~java

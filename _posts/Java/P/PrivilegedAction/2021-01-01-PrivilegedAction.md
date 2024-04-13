@@ -18,7 +18,7 @@ public interface PrivilegedAction<T>
 ~~~
 
 ## Métodos
-* [run()](/Java/PrivilegedAction/run)
+* [run()](/Java/PrivilegedAction/run/)
 
 ## Ejemplo
 ~~~java

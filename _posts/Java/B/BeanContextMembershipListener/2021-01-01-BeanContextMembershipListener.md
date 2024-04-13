@@ -18,8 +18,8 @@ public interface BeanContextMembershipListener extends EventListener
 ~~~
 
 ## Métodos
-* [childrenAdded()](/Java/BeanContextMembershipListener/childrenAdded)
-* [childrenRemoved()](/Java/BeanContextMembershipListener/childrenRemoved)
+* [childrenAdded()](/Java/BeanContextMembershipListener/childrenAdded/)
+* [childrenRemoved()](/Java/BeanContextMembershipListener/childrenRemoved/)
 
 ## Ejemplo
 ~~~java

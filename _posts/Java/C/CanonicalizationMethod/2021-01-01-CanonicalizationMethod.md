@@ -18,13 +18,13 @@ public interface CanonicalizationMethod extends Transform
 ~~~
 
 ## Campos
-* [EXCLUSIVE](/Java/CanonicalizationMethod/EXCLUSIVE)
-* [EXCLUSIVE_WITH_COMMENTS](/Java/CanonicalizationMethod/EXCLUSIVE_WITH_COMMENTS)
-* [INCLUSIVE](/Java/CanonicalizationMethod/INCLUSIVE)
-* [INCLUSIVE_WITH_COMMENTS](/Java/CanonicalizationMethod/INCLUSIVE_WITH_COMMENTS)
+* [EXCLUSIVE](/Java/CanonicalizationMethod/EXCLUSIVE/)
+* [EXCLUSIVE_WITH_COMMENTS](/Java/CanonicalizationMethod/EXCLUSIVE_WITH_COMMENTS/)
+* [INCLUSIVE](/Java/CanonicalizationMethod/INCLUSIVE/)
+* [INCLUSIVE_WITH_COMMENTS](/Java/CanonicalizationMethod/INCLUSIVE_WITH_COMMENTS/)
 
 ## Métodos
-* [getParameterSpec()](/Java/CanonicalizationMethod/getParameterSpec)
+* [getParameterSpec()](/Java/CanonicalizationMethod/getParameterSpec/)
 
 ## Ejemplo
 ~~~java

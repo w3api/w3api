@@ -21,11 +21,11 @@ public abstract class BasicPermission extends Permission implements Serializable
 * [BasicPermission()](/Java/BasicPermission/BasicPermission/)
 
 ## Métodos
-* [equals()](/Java/BasicPermission/equals)
-* [getActions()](/Java/BasicPermission/getActions)
-* [hashCode()](/Java/BasicPermission/hashCode)
-* [implies()](/Java/BasicPermission/implies)
-* [newPermissionCollection()](/Java/BasicPermission/newPermissionCollection)
+* [equals()](/Java/BasicPermission/equals/)
+* [getActions()](/Java/BasicPermission/getActions/)
+* [hashCode()](/Java/BasicPermission/hashCode/)
+* [implies()](/Java/BasicPermission/implies/)
+* [newPermissionCollection()](/Java/BasicPermission/newPermissionCollection/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public abstract class CompoundControl extends Control
 * [CompoundControl()](/Java/CompoundControl/CompoundControl/)
 
 ## Métodos
-* [getMemberControls()](/Java/CompoundControl/getMemberControls)
-* [toString()](/Java/CompoundControl/toString)
+* [getMemberControls()](/Java/CompoundControl/getMemberControls/)
+* [toString()](/Java/CompoundControl/toString/)
 
 ## Ejemplo
 ~~~java

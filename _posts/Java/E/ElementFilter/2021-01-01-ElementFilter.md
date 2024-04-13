@@ -18,17 +18,17 @@ public class ElementFilter extends Object
 ~~~
 
 ## Métodos
-* [constructorsIn()](/Java/ElementFilter/constructorsIn)
-* [exportsIn()](/Java/ElementFilter/exportsIn)
-* [fieldsIn()](/Java/ElementFilter/fieldsIn)
-* [methodsIn()](/Java/ElementFilter/methodsIn)
-* [modulesIn()](/Java/ElementFilter/modulesIn)
-* [opensIn()](/Java/ElementFilter/opensIn)
-* [packagesIn()](/Java/ElementFilter/packagesIn)
-* [providesIn()](/Java/ElementFilter/providesIn)
-* [requiresIn()](/Java/ElementFilter/requiresIn)
-* [typesIn()](/Java/ElementFilter/typesIn)
-* [usesIn()](/Java/ElementFilter/usesIn)
+* [constructorsIn()](/Java/ElementFilter/constructorsIn/)
+* [exportsIn()](/Java/ElementFilter/exportsIn/)
+* [fieldsIn()](/Java/ElementFilter/fieldsIn/)
+* [methodsIn()](/Java/ElementFilter/methodsIn/)
+* [modulesIn()](/Java/ElementFilter/modulesIn/)
+* [opensIn()](/Java/ElementFilter/opensIn/)
+* [packagesIn()](/Java/ElementFilter/packagesIn/)
+* [providesIn()](/Java/ElementFilter/providesIn/)
+* [requiresIn()](/Java/ElementFilter/requiresIn/)
+* [typesIn()](/Java/ElementFilter/typesIn/)
+* [usesIn()](/Java/ElementFilter/usesIn/)
 
 ## Ejemplo
 ~~~java

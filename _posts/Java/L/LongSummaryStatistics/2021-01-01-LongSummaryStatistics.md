@@ -21,14 +21,14 @@ public class LongSummaryStatistics extends Object implements LongConsumer, IntCo
 * [LongSummaryStatistics()](/Java/LongSummaryStatistics/LongSummaryStatistics/)
 
 ## Métodos
-* [accept()](/Java/LongSummaryStatistics/accept)
-* [combine()](/Java/LongSummaryStatistics/combine)
-* [getAverage()](/Java/LongSummaryStatistics/getAverage)
-* [getCount()](/Java/LongSummaryStatistics/getCount)
-* [getMax()](/Java/LongSummaryStatistics/getMax)
-* [getMin()](/Java/LongSummaryStatistics/getMin)
-* [getSum()](/Java/LongSummaryStatistics/getSum)
-* [toString()](/Java/LongSummaryStatistics/toString)
+* [accept()](/Java/LongSummaryStatistics/accept/)
+* [combine()](/Java/LongSummaryStatistics/combine/)
+* [getAverage()](/Java/LongSummaryStatistics/getAverage/)
+* [getCount()](/Java/LongSummaryStatistics/getCount/)
+* [getMax()](/Java/LongSummaryStatistics/getMax/)
+* [getMin()](/Java/LongSummaryStatistics/getMin/)
+* [getSum()](/Java/LongSummaryStatistics/getSum/)
+* [toString()](/Java/LongSummaryStatistics/toString/)
 
 ## Ejemplo
 ~~~java

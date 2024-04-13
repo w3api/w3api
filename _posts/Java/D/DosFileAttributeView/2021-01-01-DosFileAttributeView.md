@@ -18,12 +18,12 @@ public interface DosFileAttributeView extends BasicFileAttributeView
 ~~~
 
 ## Métodos
-* [name()](/Java/DosFileAttributeView/name)
-* [readAttributes()](/Java/DosFileAttributeView/readAttributes)
-* [setArchive()](/Java/DosFileAttributeView/setArchive)
-* [setHidden()](/Java/DosFileAttributeView/setHidden)
-* [setReadOnly()](/Java/DosFileAttributeView/setReadOnly)
-* [setSystem()](/Java/DosFileAttributeView/setSystem)
+* [name()](/Java/DosFileAttributeView/name/)
+* [readAttributes()](/Java/DosFileAttributeView/readAttributes/)
+* [setArchive()](/Java/DosFileAttributeView/setArchive/)
+* [setHidden()](/Java/DosFileAttributeView/setHidden/)
+* [setReadOnly()](/Java/DosFileAttributeView/setReadOnly/)
+* [setSystem()](/Java/DosFileAttributeView/setSystem/)
 
 ## Ejemplo
 ~~~java

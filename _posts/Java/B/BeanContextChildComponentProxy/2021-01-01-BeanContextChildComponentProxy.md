@@ -18,7 +18,7 @@ public interface BeanContextChildComponentProxy
 ~~~
 
 ## Métodos
-* [getComponent()](/Java/BeanContextChildComponentProxy/getComponent)
+* [getComponent()](/Java/BeanContextChildComponentProxy/getComponent/)
 
 ## Ejemplo
 ~~~java

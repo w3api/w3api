@@ -21,8 +21,8 @@ public class PropertyResourceBundle extends ResourceBundle
 * [PropertyResourceBundle()](/Java/PropertyResourceBundle/PropertyResourceBundle/)
 
 ## Métodos
-* [getKeys()](/Java/PropertyResourceBundle/getKeys)
-* [handleKeySet()](/Java/PropertyResourceBundle/handleKeySet)
+* [getKeys()](/Java/PropertyResourceBundle/getKeys/)
+* [handleKeySet()](/Java/PropertyResourceBundle/handleKeySet/)
 
 ## Ejemplo
 ~~~java

@@ -21,14 +21,14 @@ public abstract class DynArrayHelper extends Object
 * [DynArrayHelper()](/Java/DynArrayHelper/DynArrayHelper/)
 
 ## Métodos
-* [extract()](/Java/DynArrayHelper/extract)
-* [id()](/Java/DynArrayHelper/id)
-* [insert()](/Java/DynArrayHelper/insert)
-* [narrow()](/Java/DynArrayHelper/narrow)
-* [read()](/Java/DynArrayHelper/read)
-* [type()](/Java/DynArrayHelper/type)
-* [unchecked_narrow()](/Java/DynArrayHelper/unchecked_narrow)
-* [write()](/Java/DynArrayHelper/write)
+* [extract()](/Java/DynArrayHelper/extract/)
+* [id()](/Java/DynArrayHelper/id/)
+* [insert()](/Java/DynArrayHelper/insert/)
+* [narrow()](/Java/DynArrayHelper/narrow/)
+* [read()](/Java/DynArrayHelper/read/)
+* [type()](/Java/DynArrayHelper/type/)
+* [unchecked_narrow()](/Java/DynArrayHelper/unchecked_narrow/)
+* [write()](/Java/DynArrayHelper/write/)
 
 ## Ejemplo
 ~~~java

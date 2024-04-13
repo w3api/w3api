@@ -21,15 +21,15 @@ public class CompositeDataSupport extends Object implements CompositeData, Seria
 * [CompositeDataSupport()](/Java/CompositeDataSupport/CompositeDataSupport/)
 
 ## Métodos
-* [containsKey()](/Java/CompositeDataSupport/containsKey)
-* [containsValue()](/Java/CompositeDataSupport/containsValue)
-* [equals()](/Java/CompositeDataSupport/equals)
-* [get()](/Java/CompositeDataSupport/get)
-* [getAll()](/Java/CompositeDataSupport/getAll)
-* [getCompositeType()](/Java/CompositeDataSupport/getCompositeType)
-* [hashCode()](/Java/CompositeDataSupport/hashCode)
-* [toString()](/Java/CompositeDataSupport/toString)
-* [values()](/Java/CompositeDataSupport/values)
+* [containsKey()](/Java/CompositeDataSupport/containsKey/)
+* [containsValue()](/Java/CompositeDataSupport/containsValue/)
+* [equals()](/Java/CompositeDataSupport/equals/)
+* [get()](/Java/CompositeDataSupport/get/)
+* [getAll()](/Java/CompositeDataSupport/getAll/)
+* [getCompositeType()](/Java/CompositeDataSupport/getCompositeType/)
+* [hashCode()](/Java/CompositeDataSupport/hashCode/)
+* [toString()](/Java/CompositeDataSupport/toString/)
+* [values()](/Java/CompositeDataSupport/values/)
 
 ## Ejemplo
 ~~~java

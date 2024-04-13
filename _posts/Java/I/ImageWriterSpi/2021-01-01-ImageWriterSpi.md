@@ -21,17 +21,17 @@ public abstract class ImageWriterSpi extends ImageReaderWriterSpi
 * [ImageWriterSpi()](/Java/ImageWriterSpi/ImageWriterSpi/)
 
 ## Campos
-* [outputTypes](/Java/ImageWriterSpi/outputTypes)
-* [readerSpiNames](/Java/ImageWriterSpi/readerSpiNames)
-* [STANDARD_OUTPUT_TYPE](/Java/ImageWriterSpi/STANDARD_OUTPUT_TYPE)
+* [outputTypes](/Java/ImageWriterSpi/outputTypes/)
+* [readerSpiNames](/Java/ImageWriterSpi/readerSpiNames/)
+* [STANDARD_OUTPUT_TYPE](/Java/ImageWriterSpi/STANDARD_OUTPUT_TYPE/)
 
 ## Métodos
-* [canEncodeImage()](/Java/ImageWriterSpi/canEncodeImage)
-* [createWriterInstance()](/Java/ImageWriterSpi/createWriterInstance)
-* [getImageReaderSpiNames()](/Java/ImageWriterSpi/getImageReaderSpiNames)
-* [getOutputTypes()](/Java/ImageWriterSpi/getOutputTypes)
-* [isFormatLossless()](/Java/ImageWriterSpi/isFormatLossless)
-* [isOwnWriter()](/Java/ImageWriterSpi/isOwnWriter)
+* [canEncodeImage()](/Java/ImageWriterSpi/canEncodeImage/)
+* [createWriterInstance()](/Java/ImageWriterSpi/createWriterInstance/)
+* [getImageReaderSpiNames()](/Java/ImageWriterSpi/getImageReaderSpiNames/)
+* [getOutputTypes()](/Java/ImageWriterSpi/getOutputTypes/)
+* [isFormatLossless()](/Java/ImageWriterSpi/isFormatLossless/)
+* [isOwnWriter()](/Java/ImageWriterSpi/isOwnWriter/)
 
 ## Ejemplo
 ~~~java

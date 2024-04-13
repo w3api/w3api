@@ -21,17 +21,17 @@ public class PipedInputStream extends InputStream
 * [PipedInputStream()](/Java/PipedInputStream/PipedInputStream/)
 
 ## Campos
-* [buffer](/Java/PipedInputStream/buffer)
-* [in](/Java/PipedInputStream/in)
-* [out](/Java/PipedInputStream/out)
-* [PIPE_SIZE](/Java/PipedInputStream/PIPE_SIZE)
+* [buffer](/Java/PipedInputStream/buffer/)
+* [in](/Java/PipedInputStream/in/)
+* [out](/Java/PipedInputStream/out/)
+* [PIPE_SIZE](/Java/PipedInputStream/PIPE_SIZE/)
 
 ## Métodos
-* [available()](/Java/PipedInputStream/available)
-* [close()](/Java/PipedInputStream/close)
-* [connect()](/Java/PipedInputStream/connect)
-* [read()](/Java/PipedInputStream/read)
-* [receive()](/Java/PipedInputStream/receive)
+* [available()](/Java/PipedInputStream/available/)
+* [close()](/Java/PipedInputStream/close/)
+* [connect()](/Java/PipedInputStream/connect/)
+* [read()](/Java/PipedInputStream/read/)
+* [receive()](/Java/PipedInputStream/receive/)
 
 ## Ejemplo
 ~~~java

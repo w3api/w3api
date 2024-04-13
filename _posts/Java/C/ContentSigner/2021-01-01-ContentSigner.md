@@ -21,7 +21,7 @@ sidebar:
 * [ContentSigner()](/Java/ContentSigner/ContentSigner/)
 
 ## Métodos
-* [generateSignedData()](/Java/ContentSigner/generateSignedData)
+* [generateSignedData()](/Java/ContentSigner/generateSignedData/)
 
 ## Ejemplo
 ~~~java

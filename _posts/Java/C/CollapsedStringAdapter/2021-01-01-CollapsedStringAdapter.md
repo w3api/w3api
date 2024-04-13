@@ -21,9 +21,9 @@ public class CollapsedStringAdapter extends XmlAdapter<String,String>
 * [CollapsedStringAdapter()](/Java/CollapsedStringAdapter/CollapsedStringAdapter/)
 
 ## Métodos
-* [isWhiteSpace()](/Java/CollapsedStringAdapter/isWhiteSpace)
-* [marshal()](/Java/CollapsedStringAdapter/marshal)
-* [unmarshal()](/Java/CollapsedStringAdapter/unmarshal)
+* [isWhiteSpace()](/Java/CollapsedStringAdapter/isWhiteSpace/)
+* [marshal()](/Java/CollapsedStringAdapter/marshal/)
+* [unmarshal()](/Java/CollapsedStringAdapter/unmarshal/)
 
 ## Ejemplo
 ~~~java

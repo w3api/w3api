@@ -18,7 +18,7 @@ public interface ID_ASSIGNMENT_POLICY_ID
 ~~~
 
 ## Campos
-* [value](/Java/ID_ASSIGNMENT_POLICY_ID/value)
+* [value](/Java/ID_ASSIGNMENT_POLICY_ID/value/)
 
 ## Ejemplo
 ~~~java

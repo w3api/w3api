@@ -21,9 +21,9 @@ public abstract class ComboBoxBaseSkin<T> extends SkinBase<ComboBoxBase<T>>
 * [ComboBoxBaseSkin()](/Java/ComboBoxBaseSkin/ComboBoxBaseSkin/)
 
 ## Métodos
-* [getDisplayNode()](/Java/ComboBoxBaseSkin/getDisplayNode)
-* [hide()](/Java/ComboBoxBaseSkin/hide)
-* [show()](/Java/ComboBoxBaseSkin/show)
+* [getDisplayNode()](/Java/ComboBoxBaseSkin/getDisplayNode/)
+* [hide()](/Java/ComboBoxBaseSkin/hide/)
+* [show()](/Java/ComboBoxBaseSkin/show/)
 
 ## Ejemplo
 ~~~java

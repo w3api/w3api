@@ -18,14 +18,14 @@ public static enum WebSocket.MessagePart extends Enum<WebSocket.MessagePart>
 ~~~
 
 ## Enumerados
-* [FIRST](/Java/WebSocket/MessagePart/FIRST)
-* [LAST](/Java/WebSocket/MessagePart/LAST)
-* [PART](/Java/WebSocket/MessagePart/PART)
-* [WHOLE](/Java/WebSocket/MessagePart/WHOLE)
+* [FIRST](/Java/WebSocket/MessagePart/FIRST/)
+* [LAST](/Java/WebSocket/MessagePart/LAST/)
+* [PART](/Java/WebSocket/MessagePart/PART/)
+* [WHOLE](/Java/WebSocket/MessagePart/WHOLE/)
 
 ## Métodos
-* [valueOf()](/Java/WebSocket/MessagePart/valueOf)
-* [values()](/Java/WebSocket/MessagePart/values)
+* [valueOf()](/Java/WebSocket/MessagePart/valueOf/)
+* [values()](/Java/WebSocket/MessagePart/values/)
 
 ## Ejemplo
 ~~~java

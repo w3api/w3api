@@ -18,9 +18,9 @@ public interface CSSStyleRule extends CSSRule
 ~~~
 
 ## Métodos
-* [getSelectorText()](/Java/CSSStyleRule/getSelectorText)
-* [getStyle()](/Java/CSSStyleRule/getStyle)
-* [setSelectorText()](/Java/CSSStyleRule/setSelectorText)
+* [getSelectorText()](/Java/CSSStyleRule/getSelectorText/)
+* [getStyle()](/Java/CSSStyleRule/getStyle/)
+* [setSelectorText()](/Java/CSSStyleRule/setSelectorText/)
 
 ## Ejemplo
 ~~~java

@@ -21,9 +21,9 @@ public class PopupFactory extends Object
 * [PopupFactory()](/Java/PopupFactory/PopupFactory/)
 
 ## Métodos
-* [getPopup()](/Java/PopupFactory/getPopup)
-* [getSharedInstance()](/Java/PopupFactory/getSharedInstance)
-* [setSharedInstance()](/Java/PopupFactory/setSharedInstance)
+* [getPopup()](/Java/PopupFactory/getPopup/)
+* [getSharedInstance()](/Java/PopupFactory/getSharedInstance/)
+* [setSharedInstance()](/Java/PopupFactory/setSharedInstance/)
 
 ## Ejemplo
 ~~~java

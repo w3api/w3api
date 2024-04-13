@@ -21,8 +21,8 @@ public abstract class CalendarNameProvider extends LocaleServiceProvider
 * [CalendarNameProvider()](/Java/CalendarNameProvider/CalendarNameProvider/)
 
 ## Métodos
-* [getDisplayName()](/Java/CalendarNameProvider/getDisplayName)
-* [getDisplayNames()](/Java/CalendarNameProvider/getDisplayNames)
+* [getDisplayName()](/Java/CalendarNameProvider/getDisplayName/)
+* [getDisplayNames()](/Java/CalendarNameProvider/getDisplayNames/)
 
 ## Ejemplo
 ~~~java

@@ -21,12 +21,12 @@ public abstract class BindingTypeHelper extends Object
 * [BindingTypeHelper()](/Java/BindingTypeHelper/BindingTypeHelper/)
 
 ## Métodos
-* [extract()](/Java/BindingTypeHelper/extract)
-* [id()](/Java/BindingTypeHelper/id)
-* [insert()](/Java/BindingTypeHelper/insert)
-* [read()](/Java/BindingTypeHelper/read)
-* [type()](/Java/BindingTypeHelper/type)
-* [write()](/Java/BindingTypeHelper/write)
+* [extract()](/Java/BindingTypeHelper/extract/)
+* [id()](/Java/BindingTypeHelper/id/)
+* [insert()](/Java/BindingTypeHelper/insert/)
+* [read()](/Java/BindingTypeHelper/read/)
+* [type()](/Java/BindingTypeHelper/type/)
+* [write()](/Java/BindingTypeHelper/write/)
 
 ## Ejemplo
 ~~~java

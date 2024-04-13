@@ -21,12 +21,12 @@ public abstract class WrongTransactionHelper extends Object
 * [WrongTransactionHelper()](/Java/WrongTransactionHelper/WrongTransactionHelper/)
 
 ## Métodos
-* [extract()](/Java/WrongTransactionHelper/extract)
-* [id()](/Java/WrongTransactionHelper/id)
-* [insert()](/Java/WrongTransactionHelper/insert)
-* [read()](/Java/WrongTransactionHelper/read)
-* [type()](/Java/WrongTransactionHelper/type)
-* [write()](/Java/WrongTransactionHelper/write)
+* [extract()](/Java/WrongTransactionHelper/extract/)
+* [id()](/Java/WrongTransactionHelper/id/)
+* [insert()](/Java/WrongTransactionHelper/insert/)
+* [read()](/Java/WrongTransactionHelper/read/)
+* [type()](/Java/WrongTransactionHelper/type/)
+* [write()](/Java/WrongTransactionHelper/write/)
 
 ## Ejemplo
 ~~~java

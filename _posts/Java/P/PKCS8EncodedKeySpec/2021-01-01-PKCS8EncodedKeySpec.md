@@ -21,8 +21,8 @@ public class PKCS8EncodedKeySpec extends EncodedKeySpec
 * [PKCS8EncodedKeySpec()](/Java/PKCS8EncodedKeySpec/PKCS8EncodedKeySpec/)
 
 ## Métodos
-* [getEncoded()](/Java/PKCS8EncodedKeySpec/getEncoded)
-* [getFormat()](/Java/PKCS8EncodedKeySpec/getFormat)
+* [getEncoded()](/Java/PKCS8EncodedKeySpec/getEncoded/)
+* [getFormat()](/Java/PKCS8EncodedKeySpec/getFormat/)
 
 ## Ejemplo
 ~~~java

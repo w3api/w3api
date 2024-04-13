@@ -21,7 +21,7 @@ public final class WebSocketHandshakeException extends IOException
 * [WebSocketHandshakeException()](/Java/WebSocketHandshakeException/WebSocketHandshakeException/)
 
 ## Métodos
-* [getResponse()](/Java/WebSocketHandshakeException/getResponse)
+* [getResponse()](/Java/WebSocketHandshakeException/getResponse/)
 
 ## Ejemplo
 ~~~java

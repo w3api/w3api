@@ -21,14 +21,14 @@ sidebar:
 * [IdentityScope()](/Java/IdentityScope/IdentityScope/)
 
 ## Métodos
-* [addIdentity()](/Java/IdentityScope/addIdentity)
-* [getIdentity()](/Java/IdentityScope/getIdentity)
-* [getSystemScope()](/Java/IdentityScope/getSystemScope)
-* [identities()](/Java/IdentityScope/identities)
-* [removeIdentity()](/Java/IdentityScope/removeIdentity)
-* [setSystemScope()](/Java/IdentityScope/setSystemScope)
-* [size()](/Java/IdentityScope/size)
-* [toString()](/Java/IdentityScope/toString)
+* [addIdentity()](/Java/IdentityScope/addIdentity/)
+* [getIdentity()](/Java/IdentityScope/getIdentity/)
+* [getSystemScope()](/Java/IdentityScope/getSystemScope/)
+* [identities()](/Java/IdentityScope/identities/)
+* [removeIdentity()](/Java/IdentityScope/removeIdentity/)
+* [setSystemScope()](/Java/IdentityScope/setSystemScope/)
+* [size()](/Java/IdentityScope/size/)
+* [toString()](/Java/IdentityScope/toString/)
 
 ## Ejemplo
 ~~~java

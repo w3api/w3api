@@ -18,9 +18,9 @@ public interface DOMStringList
 ~~~
 
 ## Métodos
-* [contains()](/Java/DOMStringList/contains)
-* [getLength()](/Java/DOMStringList/getLength)
-* [item()](/Java/DOMStringList/item)
+* [contains()](/Java/DOMStringList/contains/)
+* [getLength()](/Java/DOMStringList/getLength/)
+* [item()](/Java/DOMStringList/item/)
 
 ## Ejemplo
 ~~~java

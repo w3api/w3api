@@ -18,15 +18,15 @@ public final class Configuration extends Object
 ~~~
 
 ## Métodos
-* [create()](/Java/Configuration-jdk-jfr/create)
-* [getConfiguration()](/Java/Configuration-jdk-jfr/getConfiguration)
-* [getConfigurations()](/Java/Configuration-jdk-jfr/getConfigurations)
-* [getContents()](/Java/Configuration-jdk-jfr/getContents)
-* [getDescription()](/Java/Configuration-jdk-jfr/getDescription)
-* [getLabel()](/Java/Configuration-jdk-jfr/getLabel)
-* [getName()](/Java/Configuration-jdk-jfr/getName)
-* [getProvider()](/Java/Configuration-jdk-jfr/getProvider)
-* [getSettings()](/Java/Configuration-jdk-jfr/getSettings)
+* [create()](/Java/Configuration-jdk-jfr/create/)
+* [getConfiguration()](/Java/Configuration-jdk-jfr/getConfiguration/)
+* [getConfigurations()](/Java/Configuration-jdk-jfr/getConfigurations/)
+* [getContents()](/Java/Configuration-jdk-jfr/getContents/)
+* [getDescription()](/Java/Configuration-jdk-jfr/getDescription/)
+* [getLabel()](/Java/Configuration-jdk-jfr/getLabel/)
+* [getName()](/Java/Configuration-jdk-jfr/getName/)
+* [getProvider()](/Java/Configuration-jdk-jfr/getProvider/)
+* [getSettings()](/Java/Configuration-jdk-jfr/getSettings/)
 
 ## Ejemplo
 ~~~java

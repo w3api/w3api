@@ -21,9 +21,9 @@ public class CheckMenuItem extends MenuItem
 * [CheckMenuItem()](/Java/CheckMenuItem/CheckMenuItem/)
 
 ## Métodos
-* [isSelected()](/Java/CheckMenuItem/isSelected)
-* [selectedProperty()](/Java/CheckMenuItem/selectedProperty)
-* [setSelected()](/Java/CheckMenuItem/setSelected)
+* [isSelected()](/Java/CheckMenuItem/isSelected/)
+* [selectedProperty()](/Java/CheckMenuItem/selectedProperty/)
+* [setSelected()](/Java/CheckMenuItem/setSelected/)
 
 ## Ejemplo
 ~~~java

@@ -21,10 +21,10 @@ public final class ParallelTransition extends Transition
 * [ParallelTransition()](/Java/ParallelTransition/ParallelTransition/)
 
 ## Métodos
-* [getChildren()](/Java/ParallelTransition/getChildren)
-* [getNode()](/Java/ParallelTransition/getNode)
-* [nodeProperty()](/Java/ParallelTransition/nodeProperty)
-* [setNode()](/Java/ParallelTransition/setNode)
+* [getChildren()](/Java/ParallelTransition/getChildren/)
+* [getNode()](/Java/ParallelTransition/getNode/)
+* [nodeProperty()](/Java/ParallelTransition/nodeProperty/)
+* [setNode()](/Java/ParallelTransition/setNode/)
 
 ## Ejemplo
 ~~~java

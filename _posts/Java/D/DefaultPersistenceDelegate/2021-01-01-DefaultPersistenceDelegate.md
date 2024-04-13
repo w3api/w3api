@@ -21,9 +21,9 @@ public class DefaultPersistenceDelegate extends PersistenceDelegate
 * [DefaultPersistenceDelegate()](/Java/DefaultPersistenceDelegate/DefaultPersistenceDelegate/)
 
 ## Métodos
-* [initialize()](/Java/DefaultPersistenceDelegate/initialize)
-* [instantiate()](/Java/DefaultPersistenceDelegate/instantiate)
-* [mutatesTo()](/Java/DefaultPersistenceDelegate/mutatesTo)
+* [initialize()](/Java/DefaultPersistenceDelegate/initialize/)
+* [instantiate()](/Java/DefaultPersistenceDelegate/instantiate/)
+* [mutatesTo()](/Java/DefaultPersistenceDelegate/mutatesTo/)
 
 ## Ejemplo
 ~~~java

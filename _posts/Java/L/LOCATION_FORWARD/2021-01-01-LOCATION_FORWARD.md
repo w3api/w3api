@@ -18,7 +18,7 @@ public interface LOCATION_FORWARD
 ~~~
 
 ## Campos
-* [value](/Java/LOCATION_FORWARD/value)
+* [value](/Java/LOCATION_FORWARD/value/)
 
 ## Ejemplo
 ~~~java

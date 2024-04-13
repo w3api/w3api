@@ -18,9 +18,9 @@ public interface BreakpointRequest extends EventRequest, Locatable
 ~~~
 
 ## Métodos
-* [addInstanceFilter()](/Java/BreakpointRequest/addInstanceFilter)
-* [addThreadFilter()](/Java/BreakpointRequest/addThreadFilter)
-* [location()](/Java/BreakpointRequest/location)
+* [addInstanceFilter()](/Java/BreakpointRequest/addInstanceFilter/)
+* [addThreadFilter()](/Java/BreakpointRequest/addThreadFilter/)
+* [location()](/Java/BreakpointRequest/location/)
 
 ## Ejemplo
 ~~~java

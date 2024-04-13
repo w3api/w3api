@@ -18,9 +18,9 @@ public interface IORInterceptor_3_0Operations extends IORInterceptorOperations
 ~~~
 
 ## Métodos
-* [adapter_manager_state_changed()](/Java/IORInterceptor_3_0Operations/adapter_manager_state_changed)
-* [adapter_state_changed()](/Java/IORInterceptor_3_0Operations/adapter_state_changed)
-* [components_established()](/Java/IORInterceptor_3_0Operations/components_established)
+* [adapter_manager_state_changed()](/Java/IORInterceptor_3_0Operations/adapter_manager_state_changed/)
+* [adapter_state_changed()](/Java/IORInterceptor_3_0Operations/adapter_state_changed/)
+* [components_established()](/Java/IORInterceptor_3_0Operations/components_established/)
 
 ## Ejemplo
 ~~~java

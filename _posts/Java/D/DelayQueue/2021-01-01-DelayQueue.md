@@ -21,18 +21,18 @@ public class DelayQueue<E extends Delayed> extends AbstractQueue<E> implements B
 * [DelayQueue()](/Java/DelayQueue/DelayQueue/)
 
 ## Métodos
-* [add()](/Java/DelayQueue/add)
-* [clear()](/Java/DelayQueue/clear)
-* [drainTo()](/Java/DelayQueue/drainTo)
-* [iterator()](/Java/DelayQueue/iterator)
-* [offer()](/Java/DelayQueue/offer)
-* [peek()](/Java/DelayQueue/peek)
-* [poll()](/Java/DelayQueue/poll)
-* [put()](/Java/DelayQueue/put)
-* [remainingCapacity()](/Java/DelayQueue/remainingCapacity)
-* [remove()](/Java/DelayQueue/remove)
-* [take()](/Java/DelayQueue/take)
-* [toArray()](/Java/DelayQueue/toArray)
+* [add()](/Java/DelayQueue/add/)
+* [clear()](/Java/DelayQueue/clear/)
+* [drainTo()](/Java/DelayQueue/drainTo/)
+* [iterator()](/Java/DelayQueue/iterator/)
+* [offer()](/Java/DelayQueue/offer/)
+* [peek()](/Java/DelayQueue/peek/)
+* [poll()](/Java/DelayQueue/poll/)
+* [put()](/Java/DelayQueue/put/)
+* [remainingCapacity()](/Java/DelayQueue/remainingCapacity/)
+* [remove()](/Java/DelayQueue/remove/)
+* [take()](/Java/DelayQueue/take/)
+* [toArray()](/Java/DelayQueue/toArray/)
 
 ## Ejemplo
 ~~~java

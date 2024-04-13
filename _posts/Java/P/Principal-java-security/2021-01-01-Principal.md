@@ -18,11 +18,11 @@ public interface Principal
 ~~~
 
 ## Métodos
-* [equals()](/Java/Principal-java-security/equals)
-* [getName()](/Java/Principal-java-security/getName)
-* [hashCode()](/Java/Principal-java-security/hashCode)
-* [implies()](/Java/Principal-java-security/implies)
-* [toString()](/Java/Principal-java-security/toString)
+* [equals()](/Java/Principal-java-security/equals/)
+* [getName()](/Java/Principal-java-security/getName/)
+* [hashCode()](/Java/Principal-java-security/hashCode/)
+* [implies()](/Java/Principal-java-security/implies/)
+* [toString()](/Java/Principal-java-security/toString/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface PrintServiceAttributeSet extends AttributeSet
 ~~~
 
 ## Métodos
-* [add()](/Java/PrintServiceAttributeSet/add)
-* [addAll()](/Java/PrintServiceAttributeSet/addAll)
+* [add()](/Java/PrintServiceAttributeSet/add/)
+* [addAll()](/Java/PrintServiceAttributeSet/addAll/)
 
 ## Ejemplo
 ~~~java

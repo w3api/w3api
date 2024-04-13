@@ -18,8 +18,8 @@ public interface CSSValueList extends CSSValue
 ~~~
 
 ## Métodos
-* [getLength()](/Java/CSSValueList/getLength)
-* [item()](/Java/CSSValueList/item)
+* [getLength()](/Java/CSSValueList/getLength/)
+* [item()](/Java/CSSValueList/item/)
 
 ## Ejemplo
 ~~~java

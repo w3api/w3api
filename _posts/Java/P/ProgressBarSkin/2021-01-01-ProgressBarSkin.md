@@ -21,7 +21,7 @@ public class ProgressBarSkin extends ProgressIndicatorSkin
 * [ProgressBarSkin()](/Java/ProgressBarSkin/ProgressBarSkin/)
 
 ## Métodos
-* [getClassCssMetaData()](/Java/ProgressBarSkin/getClassCssMetaData)
+* [getClassCssMetaData()](/Java/ProgressBarSkin/getClassCssMetaData/)
 
 ## Ejemplo
 ~~~java

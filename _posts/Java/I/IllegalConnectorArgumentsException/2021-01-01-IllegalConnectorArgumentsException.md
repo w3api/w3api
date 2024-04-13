@@ -21,7 +21,7 @@ public class IllegalConnectorArgumentsException extends Exception
 * [IllegalConnectorArgumentsException()](/Java/IllegalConnectorArgumentsException/IllegalConnectorArgumentsException/)
 
 ## Métodos
-* [argumentNames()](/Java/IllegalConnectorArgumentsException/argumentNames)
+* [argumentNames()](/Java/IllegalConnectorArgumentsException/argumentNames/)
 
 ## Ejemplo
 ~~~java

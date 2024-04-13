@@ -21,7 +21,7 @@ public abstract class BindingIteratorPOA extends Servant implements BindingItera
 * [BindingIteratorPOA()](/Java/BindingIteratorPOA/BindingIteratorPOA/)
 
 ## Métodos
-* [_this()](/Java/BindingIteratorPOA/_this)
+* [_this()](/Java/BindingIteratorPOA/_this/)
 
 ## Ejemplo
 ~~~java

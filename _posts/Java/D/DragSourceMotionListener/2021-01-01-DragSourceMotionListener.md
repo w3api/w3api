@@ -18,7 +18,7 @@ public interface DragSourceMotionListener extends EventListener
 ~~~
 
 ## Métodos
-* [dragMouseMoved()](/Java/DragSourceMotionListener/dragMouseMoved)
+* [dragMouseMoved()](/Java/DragSourceMotionListener/dragMouseMoved/)
 
 ## Ejemplo
 ~~~java

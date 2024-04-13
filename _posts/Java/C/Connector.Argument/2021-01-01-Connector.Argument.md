@@ -18,13 +18,13 @@ public static interface Connector.Argument extends Serializable
 ~~~
 
 ## Métodos
-* [description()](/Java/Connector/Argument/description)
-* [isValid()](/Java/Connector/Argument/isValid)
-* [label()](/Java/Connector/Argument/label)
-* [mustSpecify()](/Java/Connector/Argument/mustSpecify)
-* [name()](/Java/Connector/Argument/name)
-* [setValue()](/Java/Connector/Argument/setValue)
-* [value()](/Java/Connector/Argument/value)
+* [description()](/Java/Connector/Argument/description/)
+* [isValid()](/Java/Connector/Argument/isValid/)
+* [label()](/Java/Connector/Argument/label/)
+* [mustSpecify()](/Java/Connector/Argument/mustSpecify/)
+* [name()](/Java/Connector/Argument/name/)
+* [setValue()](/Java/Connector/Argument/setValue/)
+* [value()](/Java/Connector/Argument/value/)
 
 ## Ejemplo
 ~~~java

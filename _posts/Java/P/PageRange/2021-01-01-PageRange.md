@@ -21,10 +21,10 @@ public final class PageRange extends Object
 * [PageRange()](/Java/PageRange/PageRange/)
 
 ## Métodos
-* [endPageProperty()](/Java/PageRange/endPageProperty)
-* [getEndPage()](/Java/PageRange/getEndPage)
-* [getStartPage()](/Java/PageRange/getStartPage)
-* [startPageProperty()](/Java/PageRange/startPageProperty)
+* [endPageProperty()](/Java/PageRange/endPageProperty/)
+* [getEndPage()](/Java/PageRange/getEndPage/)
+* [getStartPage()](/Java/PageRange/getStartPage/)
+* [startPageProperty()](/Java/PageRange/startPageProperty/)
 
 ## Ejemplo
 ~~~java

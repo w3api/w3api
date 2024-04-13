@@ -21,14 +21,14 @@ public abstract class IORInterceptor_3_0Helper extends Object
 * [IORInterceptor_3_0Helper()](/Java/IORInterceptor_3_0Helper/IORInterceptor_3_0Helper/)
 
 ## Métodos
-* [extract()](/Java/IORInterceptor_3_0Helper/extract)
-* [id()](/Java/IORInterceptor_3_0Helper/id)
-* [insert()](/Java/IORInterceptor_3_0Helper/insert)
-* [narrow()](/Java/IORInterceptor_3_0Helper/narrow)
-* [read()](/Java/IORInterceptor_3_0Helper/read)
-* [type()](/Java/IORInterceptor_3_0Helper/type)
-* [unchecked_narrow()](/Java/IORInterceptor_3_0Helper/unchecked_narrow)
-* [write()](/Java/IORInterceptor_3_0Helper/write)
+* [extract()](/Java/IORInterceptor_3_0Helper/extract/)
+* [id()](/Java/IORInterceptor_3_0Helper/id/)
+* [insert()](/Java/IORInterceptor_3_0Helper/insert/)
+* [narrow()](/Java/IORInterceptor_3_0Helper/narrow/)
+* [read()](/Java/IORInterceptor_3_0Helper/read/)
+* [type()](/Java/IORInterceptor_3_0Helper/type/)
+* [unchecked_narrow()](/Java/IORInterceptor_3_0Helper/unchecked_narrow/)
+* [write()](/Java/IORInterceptor_3_0Helper/write/)
 
 ## Ejemplo
 ~~~java

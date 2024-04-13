@@ -18,18 +18,18 @@ public interface Diagnostic<S>
 ~~~
 
 ## Campos
-* [NOPOS](/Java/Diagnostic-javax-tools/NOPOS)
+* [NOPOS](/Java/Diagnostic-javax-tools/NOPOS/)
 
 ## Métodos
-* [getCode()](/Java/Diagnostic-javax-tools/getCode)
-* [getColumnNumber()](/Java/Diagnostic-javax-tools/getColumnNumber)
-* [getEndPosition()](/Java/Diagnostic-javax-tools/getEndPosition)
-* [getKind()](/Java/Diagnostic-javax-tools/getKind)
-* [getLineNumber()](/Java/Diagnostic-javax-tools/getLineNumber)
-* [getMessage()](/Java/Diagnostic-javax-tools/getMessage)
-* [getPosition()](/Java/Diagnostic-javax-tools/getPosition)
-* [getSource()](/Java/Diagnostic-javax-tools/getSource)
-* [getStartPosition()](/Java/Diagnostic-javax-tools/getStartPosition)
+* [getCode()](/Java/Diagnostic-javax-tools/getCode/)
+* [getColumnNumber()](/Java/Diagnostic-javax-tools/getColumnNumber/)
+* [getEndPosition()](/Java/Diagnostic-javax-tools/getEndPosition/)
+* [getKind()](/Java/Diagnostic-javax-tools/getKind/)
+* [getLineNumber()](/Java/Diagnostic-javax-tools/getLineNumber/)
+* [getMessage()](/Java/Diagnostic-javax-tools/getMessage/)
+* [getPosition()](/Java/Diagnostic-javax-tools/getPosition/)
+* [getSource()](/Java/Diagnostic-javax-tools/getSource/)
+* [getStartPosition()](/Java/Diagnostic-javax-tools/getStartPosition/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface DirectoryStream<T> extends Closeable, Iterable<T>
 ~~~
 
 ## Métodos
-* [iterator()](/Java/DirectoryStream/iterator)
+* [iterator()](/Java/DirectoryStream/iterator/)
 
 ## Ejemplo
 ~~~java

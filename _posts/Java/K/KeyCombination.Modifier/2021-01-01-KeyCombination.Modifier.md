@@ -18,9 +18,9 @@ public static final class KeyCombination.Modifier extends Object
 ~~~
 
 ## Métodos
-* [getKey()](/Java/KeyCombination/Modifier/getKey)
-* [getValue()](/Java/KeyCombination/Modifier/getValue)
-* [toString()](/Java/KeyCombination/Modifier/toString)
+* [getKey()](/Java/KeyCombination/Modifier/getKey/)
+* [getValue()](/Java/KeyCombination/Modifier/getValue/)
+* [toString()](/Java/KeyCombination/Modifier/toString/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public final class InsetsConverter extends StyleConverter<ParsedValue[],Insets>
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/InsetsConverter/getInstance)
+* [getInstance()](/Java/InsetsConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

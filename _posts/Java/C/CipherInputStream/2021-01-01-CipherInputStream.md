@@ -21,11 +21,11 @@ public class CipherInputStream extends FilterInputStream
 * [CipherInputStream()](/Java/CipherInputStream/CipherInputStream/)
 
 ## Métodos
-* [available()](/Java/CipherInputStream/available)
-* [close()](/Java/CipherInputStream/close)
-* [markSupported()](/Java/CipherInputStream/markSupported)
-* [read()](/Java/CipherInputStream/read)
-* [skip()](/Java/CipherInputStream/skip)
+* [available()](/Java/CipherInputStream/available/)
+* [close()](/Java/CipherInputStream/close/)
+* [markSupported()](/Java/CipherInputStream/markSupported/)
+* [read()](/Java/CipherInputStream/read/)
+* [skip()](/Java/CipherInputStream/skip/)
 
 ## Ejemplo
 ~~~java

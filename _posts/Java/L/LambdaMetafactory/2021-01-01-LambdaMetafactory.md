@@ -18,13 +18,13 @@ public final class LambdaMetafactory extends Object
 ~~~
 
 ## Campos
-* [FLAG_BRIDGES](/Java/LambdaMetafactory/FLAG_BRIDGES)
-* [FLAG_MARKERS](/Java/LambdaMetafactory/FLAG_MARKERS)
-* [FLAG_SERIALIZABLE](/Java/LambdaMetafactory/FLAG_SERIALIZABLE)
+* [FLAG_BRIDGES](/Java/LambdaMetafactory/FLAG_BRIDGES/)
+* [FLAG_MARKERS](/Java/LambdaMetafactory/FLAG_MARKERS/)
+* [FLAG_SERIALIZABLE](/Java/LambdaMetafactory/FLAG_SERIALIZABLE/)
 
 ## Métodos
-* [altMetafactory()](/Java/LambdaMetafactory/altMetafactory)
-* [metafactory()](/Java/LambdaMetafactory/metafactory)
+* [altMetafactory()](/Java/LambdaMetafactory/altMetafactory/)
+* [metafactory()](/Java/LambdaMetafactory/metafactory/)
 
 ## Ejemplo
 ~~~java

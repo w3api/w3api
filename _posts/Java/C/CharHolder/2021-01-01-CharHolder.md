@@ -21,12 +21,12 @@ public final class CharHolder extends Object implements Streamable
 * [CharHolder()](/Java/CharHolder/CharHolder/)
 
 ## Campos
-* [value](/Java/CharHolder/value)
+* [value](/Java/CharHolder/value/)
 
 ## Métodos
-* [_read()](/Java/CharHolder/_read)
-* [_type()](/Java/CharHolder/_type)
-* [_write()](/Java/CharHolder/_write)
+* [_read()](/Java/CharHolder/_read/)
+* [_type()](/Java/CharHolder/_type/)
+* [_write()](/Java/CharHolder/_write/)
 
 ## Ejemplo
 ~~~java

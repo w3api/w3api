@@ -18,8 +18,8 @@ public interface XMLEventAllocator
 ~~~
 
 ## Métodos
-* [allocate()](/Java/XMLEventAllocator/allocate)
-* [newInstance()](/Java/XMLEventAllocator/newInstance)
+* [allocate()](/Java/XMLEventAllocator/allocate/)
+* [newInstance()](/Java/XMLEventAllocator/newInstance/)
 
 ## Ejemplo
 ~~~java

@@ -21,14 +21,14 @@ public class BasicControl extends Object implements Control
 * [BasicControl()](/Java/BasicControl/BasicControl/)
 
 ## Campos
-* [criticality](/Java/BasicControl/criticality)
-* [id](/Java/BasicControl/id)
-* [value](/Java/BasicControl/value)
+* [criticality](/Java/BasicControl/criticality/)
+* [id](/Java/BasicControl/id/)
+* [value](/Java/BasicControl/value/)
 
 ## Métodos
-* [getEncodedValue()](/Java/BasicControl/getEncodedValue)
-* [getID()](/Java/BasicControl/getID)
-* [isCritical()](/Java/BasicControl/isCritical)
+* [getEncodedValue()](/Java/BasicControl/getEncodedValue/)
+* [getID()](/Java/BasicControl/getID/)
+* [isCritical()](/Java/BasicControl/isCritical/)
 
 ## Ejemplo
 ~~~java

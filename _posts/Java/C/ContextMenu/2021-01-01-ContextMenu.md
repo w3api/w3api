@@ -21,12 +21,12 @@ sidebar:
 * [ContextMenu()](/Java/ContextMenu/ContextMenu/)
 
 ## Métodos
-* [getItems()](/Java/ContextMenu/getItems)
-* [getOnAction()](/Java/ContextMenu/getOnAction)
-* [hide()](/Java/ContextMenu/hide)
-* [onActionProperty()](/Java/ContextMenu/onActionProperty)
-* [setOnAction()](/Java/ContextMenu/setOnAction)
-* [show()](/Java/ContextMenu/show)
+* [getItems()](/Java/ContextMenu/getItems/)
+* [getOnAction()](/Java/ContextMenu/getOnAction/)
+* [hide()](/Java/ContextMenu/hide/)
+* [onActionProperty()](/Java/ContextMenu/onActionProperty/)
+* [setOnAction()](/Java/ContextMenu/setOnAction/)
+* [show()](/Java/ContextMenu/show/)
 
 ## Ejemplo
 ~~~java

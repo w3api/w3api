@@ -18,11 +18,11 @@ public interface ClassLoadingMXBean extends PlatformManagedObject
 ~~~
 
 ## Métodos
-* [getLoadedClassCount()](/Java/ClassLoadingMXBean/getLoadedClassCount)
-* [getTotalLoadedClassCount()](/Java/ClassLoadingMXBean/getTotalLoadedClassCount)
-* [getUnloadedClassCount()](/Java/ClassLoadingMXBean/getUnloadedClassCount)
-* [isVerbose()](/Java/ClassLoadingMXBean/isVerbose)
-* [setVerbose()](/Java/ClassLoadingMXBean/setVerbose)
+* [getLoadedClassCount()](/Java/ClassLoadingMXBean/getLoadedClassCount/)
+* [getTotalLoadedClassCount()](/Java/ClassLoadingMXBean/getTotalLoadedClassCount/)
+* [getUnloadedClassCount()](/Java/ClassLoadingMXBean/getUnloadedClassCount/)
+* [isVerbose()](/Java/ClassLoadingMXBean/isVerbose/)
+* [setVerbose()](/Java/ClassLoadingMXBean/setVerbose/)
 
 ## Ejemplo
 ~~~java

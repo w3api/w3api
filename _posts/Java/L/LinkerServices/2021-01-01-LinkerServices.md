@@ -18,14 +18,14 @@ public interface LinkerServices
 ~~~
 
 ## Métodos
-* [asType()](/Java/LinkerServices/asType)
-* [asTypeLosslessReturn()](/Java/LinkerServices/asTypeLosslessReturn)
-* [canConvert()](/Java/LinkerServices/canConvert)
-* [compareConversion()](/Java/LinkerServices/compareConversion)
-* [filterInternalObjects()](/Java/LinkerServices/filterInternalObjects)
-* [getGuardedInvocation()](/Java/LinkerServices/getGuardedInvocation)
-* [getTypeConverter()](/Java/LinkerServices/getTypeConverter)
-* [getWithLookup()](/Java/LinkerServices/getWithLookup)
+* [asType()](/Java/LinkerServices/asType/)
+* [asTypeLosslessReturn()](/Java/LinkerServices/asTypeLosslessReturn/)
+* [canConvert()](/Java/LinkerServices/canConvert/)
+* [compareConversion()](/Java/LinkerServices/compareConversion/)
+* [filterInternalObjects()](/Java/LinkerServices/filterInternalObjects/)
+* [getGuardedInvocation()](/Java/LinkerServices/getGuardedInvocation/)
+* [getTypeConverter()](/Java/LinkerServices/getTypeConverter/)
+* [getWithLookup()](/Java/LinkerServices/getWithLookup/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface EventIterator extends Iterator<Event>
 ~~~
 
 ## Métodos
-* [nextEvent()](/Java/EventIterator/nextEvent)
+* [nextEvent()](/Java/EventIterator/nextEvent/)
 
 ## Ejemplo
 ~~~java

@@ -21,13 +21,13 @@ public class KeyFactory extends Object
 * [KeyFactory()](/Java/KeyFactory/KeyFactory/)
 
 ## Métodos
-* [generatePrivate()](/Java/KeyFactory/generatePrivate)
-* [generatePublic()](/Java/KeyFactory/generatePublic)
-* [getAlgorithm()](/Java/KeyFactory/getAlgorithm)
-* [getInstance()](/Java/KeyFactory/getInstance)
-* [getKeySpec()](/Java/KeyFactory/getKeySpec)
-* [getProvider()](/Java/KeyFactory/getProvider)
-* [translateKey()](/Java/KeyFactory/translateKey)
+* [generatePrivate()](/Java/KeyFactory/generatePrivate/)
+* [generatePublic()](/Java/KeyFactory/generatePublic/)
+* [getAlgorithm()](/Java/KeyFactory/getAlgorithm/)
+* [getInstance()](/Java/KeyFactory/getInstance/)
+* [getKeySpec()](/Java/KeyFactory/getKeySpec/)
+* [getProvider()](/Java/KeyFactory/getProvider/)
+* [translateKey()](/Java/KeyFactory/translateKey/)
 
 ## Ejemplo
 ~~~java

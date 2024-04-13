@@ -21,19 +21,19 @@ public class LineBorder extends AbstractBorder
 * [LineBorder()](/Java/LineBorder/LineBorder/)
 
 ## Campos
-* [lineColor](/Java/LineBorder/lineColor)
-* [roundedCorners](/Java/LineBorder/roundedCorners)
-* [thickness](/Java/LineBorder/thickness)
+* [lineColor](/Java/LineBorder/lineColor/)
+* [roundedCorners](/Java/LineBorder/roundedCorners/)
+* [thickness](/Java/LineBorder/thickness/)
 
 ## Métodos
-* [createBlackLineBorder()](/Java/LineBorder/createBlackLineBorder)
-* [createGrayLineBorder()](/Java/LineBorder/createGrayLineBorder)
-* [getBorderInsets()](/Java/LineBorder/getBorderInsets)
-* [getLineColor()](/Java/LineBorder/getLineColor)
-* [getRoundedCorners()](/Java/LineBorder/getRoundedCorners)
-* [getThickness()](/Java/LineBorder/getThickness)
-* [isBorderOpaque()](/Java/LineBorder/isBorderOpaque)
-* [paintBorder()](/Java/LineBorder/paintBorder)
+* [createBlackLineBorder()](/Java/LineBorder/createBlackLineBorder/)
+* [createGrayLineBorder()](/Java/LineBorder/createGrayLineBorder/)
+* [getBorderInsets()](/Java/LineBorder/getBorderInsets/)
+* [getLineColor()](/Java/LineBorder/getLineColor/)
+* [getRoundedCorners()](/Java/LineBorder/getRoundedCorners/)
+* [getThickness()](/Java/LineBorder/getThickness/)
+* [isBorderOpaque()](/Java/LineBorder/isBorderOpaque/)
+* [paintBorder()](/Java/LineBorder/paintBorder/)
 
 ## Ejemplo
 ~~~java

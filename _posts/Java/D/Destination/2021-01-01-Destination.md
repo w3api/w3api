@@ -21,9 +21,9 @@ public final class Destination extends URISyntax implements PrintJobAttribute, P
 * [Destination()](/Java/Destination/Destination/)
 
 ## Métodos
-* [equals()](/Java/Destination/equals)
-* [getCategory()](/Java/Destination/getCategory)
-* [getName()](/Java/Destination/getName)
+* [equals()](/Java/Destination/equals/)
+* [getCategory()](/Java/Destination/getCategory/)
+* [getName()](/Java/Destination/getName/)
 
 ## Ejemplo
 ~~~java

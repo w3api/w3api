@@ -18,7 +18,7 @@ public interface IMPLICIT_ACTIVATION_POLICY_ID
 ~~~
 
 ## Campos
-* [value](/Java/IMPLICIT_ACTIVATION_POLICY_ID/value)
+* [value](/Java/IMPLICIT_ACTIVATION_POLICY_ID/value/)
 
 ## Ejemplo
 ~~~java

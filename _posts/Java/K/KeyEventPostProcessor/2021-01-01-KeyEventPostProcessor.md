@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [postProcessKeyEvent()](/Java/KeyEventPostProcessor/postProcessKeyEvent)
+* [postProcessKeyEvent()](/Java/KeyEventPostProcessor/postProcessKeyEvent/)
 
 ## Ejemplo
 ~~~java

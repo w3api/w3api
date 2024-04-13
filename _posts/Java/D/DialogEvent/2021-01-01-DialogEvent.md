@@ -21,16 +21,16 @@ public class DialogEvent extends Event
 * [DialogEvent()](/Java/DialogEvent/DialogEvent/)
 
 ## Campos
-* [ANY](/Java/DialogEvent/ANY)
-* [DIALOG_CLOSE_REQUEST](/Java/DialogEvent/DIALOG_CLOSE_REQUEST)
-* [DIALOG_HIDDEN](/Java/DialogEvent/DIALOG_HIDDEN)
-* [DIALOG_HIDING](/Java/DialogEvent/DIALOG_HIDING)
-* [DIALOG_SHOWING](/Java/DialogEvent/DIALOG_SHOWING)
-* [DIALOG_SHOWN](/Java/DialogEvent/DIALOG_SHOWN)
+* [ANY](/Java/DialogEvent/ANY/)
+* [DIALOG_CLOSE_REQUEST](/Java/DialogEvent/DIALOG_CLOSE_REQUEST/)
+* [DIALOG_HIDDEN](/Java/DialogEvent/DIALOG_HIDDEN/)
+* [DIALOG_HIDING](/Java/DialogEvent/DIALOG_HIDING/)
+* [DIALOG_SHOWING](/Java/DialogEvent/DIALOG_SHOWING/)
+* [DIALOG_SHOWN](/Java/DialogEvent/DIALOG_SHOWN/)
 
 ## Métodos
-* [copyFor()](/Java/DialogEvent/copyFor)
-* [toString()](/Java/DialogEvent/toString)
+* [copyFor()](/Java/DialogEvent/copyFor/)
+* [toString()](/Java/DialogEvent/toString/)
 
 ## Ejemplo
 ~~~java

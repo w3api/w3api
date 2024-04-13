@@ -21,7 +21,7 @@ public class IllformedLocaleException extends RuntimeException
 * [IllformedLocaleException()](/Java/IllformedLocaleException/IllformedLocaleException/)
 
 ## Métodos
-* [getErrorIndex()](/Java/IllformedLocaleException/getErrorIndex)
+* [getErrorIndex()](/Java/IllformedLocaleException/getErrorIndex/)
 
 ## Ejemplo
 ~~~java

@@ -18,9 +18,9 @@ public static interface PrimitiveIterator.OfDouble extends PrimitiveIterator<Dou
 ~~~
 
 ## Métodos
-* [forEachRemaining()](/Java/PrimitiveIterator/OfDouble/forEachRemaining)
-* [next()](/Java/PrimitiveIterator/OfDouble/next)
-* [nextDouble()](/Java/PrimitiveIterator/OfDouble/nextDouble)
+* [forEachRemaining()](/Java/PrimitiveIterator/OfDouble/forEachRemaining/)
+* [next()](/Java/PrimitiveIterator/OfDouble/next/)
+* [nextDouble()](/Java/PrimitiveIterator/OfDouble/nextDouble/)
 
 ## Ejemplo
 ~~~java

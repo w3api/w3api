@@ -18,8 +18,8 @@ public interface Destroyable
 ~~~
 
 ## Métodos
-* [destroy()](/Java/Destroyable/destroy)
-* [isDestroyed()](/Java/Destroyable/isDestroyed)
+* [destroy()](/Java/Destroyable/destroy/)
+* [isDestroyed()](/Java/Destroyable/isDestroyed/)
 
 ## Ejemplo
 ~~~java

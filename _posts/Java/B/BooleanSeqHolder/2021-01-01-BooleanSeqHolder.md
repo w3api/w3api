@@ -21,7 +21,7 @@ public final class BooleanSeqHolder extends Object implements Streamable
 * [BooleanSeqHolder()](/Java/BooleanSeqHolder/BooleanSeqHolder/)
 
 ## Campos
-* [value](/Java/BooleanSeqHolder/value)
+* [value](/Java/BooleanSeqHolder/value/)
 
 ## Ejemplo
 ~~~java

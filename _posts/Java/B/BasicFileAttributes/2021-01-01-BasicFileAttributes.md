@@ -18,15 +18,15 @@ public interface BasicFileAttributes
 ~~~
 
 ## Métodos
-* [creationTime()](/Java/BasicFileAttributes/creationTime)
-* [fileKey()](/Java/BasicFileAttributes/fileKey)
-* [isDirectory()](/Java/BasicFileAttributes/isDirectory)
-* [isOther()](/Java/BasicFileAttributes/isOther)
-* [isRegularFile()](/Java/BasicFileAttributes/isRegularFile)
-* [isSymbolicLink()](/Java/BasicFileAttributes/isSymbolicLink)
-* [lastAccessTime()](/Java/BasicFileAttributes/lastAccessTime)
-* [lastModifiedTime()](/Java/BasicFileAttributes/lastModifiedTime)
-* [size()](/Java/BasicFileAttributes/size)
+* [creationTime()](/Java/BasicFileAttributes/creationTime/)
+* [fileKey()](/Java/BasicFileAttributes/fileKey/)
+* [isDirectory()](/Java/BasicFileAttributes/isDirectory/)
+* [isOther()](/Java/BasicFileAttributes/isOther/)
+* [isRegularFile()](/Java/BasicFileAttributes/isRegularFile/)
+* [isSymbolicLink()](/Java/BasicFileAttributes/isSymbolicLink/)
+* [lastAccessTime()](/Java/BasicFileAttributes/lastAccessTime/)
+* [lastModifiedTime()](/Java/BasicFileAttributes/lastModifiedTime/)
+* [size()](/Java/BasicFileAttributes/size/)
 
 ## Ejemplo
 ~~~java

@@ -21,10 +21,10 @@ public abstract class Connection extends Object
 * [Connection()](/Java/Connection-com-sun-jdi-connect-spi/Connection/)
 
 ## Métodos
-* [close()](/Java/Connection-com-sun-jdi-connect-spi/close)
-* [isOpen()](/Java/Connection-com-sun-jdi-connect-spi/isOpen)
-* [readPacket()](/Java/Connection-com-sun-jdi-connect-spi/readPacket)
-* [writePacket()](/Java/Connection-com-sun-jdi-connect-spi/writePacket)
+* [close()](/Java/Connection-com-sun-jdi-connect-spi/close/)
+* [isOpen()](/Java/Connection-com-sun-jdi-connect-spi/isOpen/)
+* [readPacket()](/Java/Connection-com-sun-jdi-connect-spi/readPacket/)
+* [writePacket()](/Java/Connection-com-sun-jdi-connect-spi/writePacket/)
 
 ## Ejemplo
 ~~~java

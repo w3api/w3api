@@ -21,9 +21,9 @@ public class ImageCapabilities extends Object implements Cloneable
 * [ImageCapabilities()](/Java/ImageCapabilities/ImageCapabilities/)
 
 ## Métodos
-* [clone()](/Java/ImageCapabilities/clone)
-* [isAccelerated()](/Java/ImageCapabilities/isAccelerated)
-* [isTrueVolatile()](/Java/ImageCapabilities/isTrueVolatile)
+* [clone()](/Java/ImageCapabilities/clone/)
+* [isAccelerated()](/Java/ImageCapabilities/isAccelerated/)
+* [isTrueVolatile()](/Java/ImageCapabilities/isTrueVolatile/)
 
 ## Ejemplo
 ~~~java

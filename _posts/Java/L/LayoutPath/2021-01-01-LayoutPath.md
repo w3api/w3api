@@ -21,8 +21,8 @@ public abstract class LayoutPath extends Object
 * [LayoutPath()](/Java/LayoutPath/LayoutPath/)
 
 ## Métodos
-* [pathToPoint()](/Java/LayoutPath/pathToPoint)
-* [pointToPath()](/Java/LayoutPath/pointToPath)
+* [pathToPoint()](/Java/LayoutPath/pathToPoint/)
+* [pointToPath()](/Java/LayoutPath/pointToPath/)
 
 ## Ejemplo
 ~~~java

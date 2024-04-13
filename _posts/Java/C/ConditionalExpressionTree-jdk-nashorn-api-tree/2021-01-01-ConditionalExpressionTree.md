@@ -18,9 +18,9 @@ public interface ConditionalExpressionTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getCondition()](/Java/ConditionalExpressionTree-jdk-nashorn-api-tree/getCondition)
-* [getFalseExpression()](/Java/ConditionalExpressionTree-jdk-nashorn-api-tree/getFalseExpression)
-* [getTrueExpression()](/Java/ConditionalExpressionTree-jdk-nashorn-api-tree/getTrueExpression)
+* [getCondition()](/Java/ConditionalExpressionTree-jdk-nashorn-api-tree/getCondition/)
+* [getFalseExpression()](/Java/ConditionalExpressionTree-jdk-nashorn-api-tree/getFalseExpression/)
+* [getTrueExpression()](/Java/ConditionalExpressionTree-jdk-nashorn-api-tree/getTrueExpression/)
 
 ## Ejemplo
 ~~~java

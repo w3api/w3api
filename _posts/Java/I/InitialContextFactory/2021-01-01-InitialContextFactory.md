@@ -18,7 +18,7 @@ public interface InitialContextFactory
 ~~~
 
 ## Métodos
-* [getInitialContext()](/Java/InitialContextFactory/getInitialContext)
+* [getInitialContext()](/Java/InitialContextFactory/getInitialContext/)
 
 ## Ejemplo
 ~~~java

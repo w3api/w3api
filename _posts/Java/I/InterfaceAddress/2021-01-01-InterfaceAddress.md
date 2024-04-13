@@ -18,12 +18,12 @@ public class InterfaceAddress extends Object
 ~~~
 
 ## Métodos
-* [equals()](/Java/InterfaceAddress/equals)
-* [getAddress()](/Java/InterfaceAddress/getAddress)
-* [getBroadcast()](/Java/InterfaceAddress/getBroadcast)
-* [getNetworkPrefixLength()](/Java/InterfaceAddress/getNetworkPrefixLength)
-* [hashCode()](/Java/InterfaceAddress/hashCode)
-* [toString()](/Java/InterfaceAddress/toString)
+* [equals()](/Java/InterfaceAddress/equals/)
+* [getAddress()](/Java/InterfaceAddress/getAddress/)
+* [getBroadcast()](/Java/InterfaceAddress/getBroadcast/)
+* [getNetworkPrefixLength()](/Java/InterfaceAddress/getNetworkPrefixLength/)
+* [hashCode()](/Java/InterfaceAddress/hashCode/)
+* [toString()](/Java/InterfaceAddress/toString/)
 
 ## Ejemplo
 ~~~java

@@ -21,7 +21,7 @@ public final class PolicyErrorHolder extends Object implements Streamable
 * [PolicyErrorHolder()](/Java/PolicyErrorHolder/PolicyErrorHolder/)
 
 ## Campos
-* [value](/Java/PolicyErrorHolder/value)
+* [value](/Java/PolicyErrorHolder/value/)
 
 ## Ejemplo
 ~~~java

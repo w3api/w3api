@@ -21,14 +21,14 @@ public abstract class BindingIteratorHelper extends Object
 * [BindingIteratorHelper()](/Java/BindingIteratorHelper/BindingIteratorHelper/)
 
 ## Métodos
-* [extract()](/Java/BindingIteratorHelper/extract)
-* [id()](/Java/BindingIteratorHelper/id)
-* [insert()](/Java/BindingIteratorHelper/insert)
-* [narrow()](/Java/BindingIteratorHelper/narrow)
-* [read()](/Java/BindingIteratorHelper/read)
-* [type()](/Java/BindingIteratorHelper/type)
-* [unchecked_narrow()](/Java/BindingIteratorHelper/unchecked_narrow)
-* [write()](/Java/BindingIteratorHelper/write)
+* [extract()](/Java/BindingIteratorHelper/extract/)
+* [id()](/Java/BindingIteratorHelper/id/)
+* [insert()](/Java/BindingIteratorHelper/insert/)
+* [narrow()](/Java/BindingIteratorHelper/narrow/)
+* [read()](/Java/BindingIteratorHelper/read/)
+* [type()](/Java/BindingIteratorHelper/type/)
+* [unchecked_narrow()](/Java/BindingIteratorHelper/unchecked_narrow/)
+* [write()](/Java/BindingIteratorHelper/write/)
 
 ## Ejemplo
 ~~~java

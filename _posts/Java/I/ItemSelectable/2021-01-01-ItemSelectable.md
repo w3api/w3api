@@ -18,9 +18,9 @@ public interface ItemSelectable
 ~~~
 
 ## Métodos
-* [addItemListener()](/Java/ItemSelectable/addItemListener)
-* [getSelectedObjects()](/Java/ItemSelectable/getSelectedObjects)
-* [removeItemListener()](/Java/ItemSelectable/removeItemListener)
+* [addItemListener()](/Java/ItemSelectable/addItemListener/)
+* [getSelectedObjects()](/Java/ItemSelectable/getSelectedObjects/)
+* [removeItemListener()](/Java/ItemSelectable/removeItemListener/)
 
 ## Ejemplo
 ~~~java

@@ -18,14 +18,14 @@ public static enum Component.BaselineResizeBehavior extends Enum<Component.Basel
 ~~~
 
 ## Enumerados
-* [CENTER_OFFSET](/Java/Component/BaselineResizeBehavior/CENTER_OFFSET)
-* [CONSTANT_ASCENT](/Java/Component/BaselineResizeBehavior/CONSTANT_ASCENT)
-* [CONSTANT_DESCENT](/Java/Component/BaselineResizeBehavior/CONSTANT_DESCENT)
-* [OTHER](/Java/Component/BaselineResizeBehavior/OTHER)
+* [CENTER_OFFSET](/Java/Component/BaselineResizeBehavior/CENTER_OFFSET/)
+* [CONSTANT_ASCENT](/Java/Component/BaselineResizeBehavior/CONSTANT_ASCENT/)
+* [CONSTANT_DESCENT](/Java/Component/BaselineResizeBehavior/CONSTANT_DESCENT/)
+* [OTHER](/Java/Component/BaselineResizeBehavior/OTHER/)
 
 ## Métodos
-* [valueOf()](/Java/Component/BaselineResizeBehavior/valueOf)
-* [values()](/Java/Component/BaselineResizeBehavior/values)
+* [valueOf()](/Java/Component/BaselineResizeBehavior/valueOf/)
+* [values()](/Java/Component/BaselineResizeBehavior/values/)
 
 ## Ejemplo
 ~~~java

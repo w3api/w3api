@@ -18,11 +18,11 @@ public interface DocumentEvent
 ~~~
 
 ## Métodos
-* [getChange()](/Java/DocumentEvent-javax-swing-event/getChange)
-* [getDocument()](/Java/DocumentEvent-javax-swing-event/getDocument)
-* [getLength()](/Java/DocumentEvent-javax-swing-event/getLength)
-* [getOffset()](/Java/DocumentEvent-javax-swing-event/getOffset)
-* [getType()](/Java/DocumentEvent-javax-swing-event/getType)
+* [getChange()](/Java/DocumentEvent-javax-swing-event/getChange/)
+* [getDocument()](/Java/DocumentEvent-javax-swing-event/getDocument/)
+* [getLength()](/Java/DocumentEvent-javax-swing-event/getLength/)
+* [getOffset()](/Java/DocumentEvent-javax-swing-event/getOffset/)
+* [getType()](/Java/DocumentEvent-javax-swing-event/getType/)
 
 ## Ejemplo
 ~~~java

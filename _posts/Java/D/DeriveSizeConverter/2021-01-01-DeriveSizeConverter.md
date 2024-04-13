@@ -18,7 +18,7 @@ public final class DeriveSizeConverter extends StyleConverter<ParsedValue<Size,S
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/DeriveSizeConverter/getInstance)
+* [getInstance()](/Java/DeriveSizeConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

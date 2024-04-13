@@ -18,8 +18,8 @@ public interface InputMethodListener extends EventListener
 ~~~
 
 ## Métodos
-* [caretPositionChanged()](/Java/InputMethodListener/caretPositionChanged)
-* [inputMethodTextChanged()](/Java/InputMethodListener/inputMethodTextChanged)
+* [caretPositionChanged()](/Java/InputMethodListener/caretPositionChanged/)
+* [inputMethodTextChanged()](/Java/InputMethodListener/inputMethodTextChanged/)
 
 ## Ejemplo
 ~~~java

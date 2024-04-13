@@ -21,13 +21,13 @@ public class BeanContextServiceRevokedEvent extends BeanContextEvent
 * [BeanContextServiceRevokedEvent()](/Java/BeanContextServiceRevokedEvent/BeanContextServiceRevokedEvent/)
 
 ## Campos
-* [serviceClass](/Java/BeanContextServiceRevokedEvent/serviceClass)
+* [serviceClass](/Java/BeanContextServiceRevokedEvent/serviceClass/)
 
 ## Métodos
-* [getServiceClass()](/Java/BeanContextServiceRevokedEvent/getServiceClass)
-* [getSourceAsBeanContextServices()](/Java/BeanContextServiceRevokedEvent/getSourceAsBeanContextServices)
-* [isCurrentServiceInvalidNow()](/Java/BeanContextServiceRevokedEvent/isCurrentServiceInvalidNow)
-* [isServiceClass()](/Java/BeanContextServiceRevokedEvent/isServiceClass)
+* [getServiceClass()](/Java/BeanContextServiceRevokedEvent/getServiceClass/)
+* [getSourceAsBeanContextServices()](/Java/BeanContextServiceRevokedEvent/getSourceAsBeanContextServices/)
+* [isCurrentServiceInvalidNow()](/Java/BeanContextServiceRevokedEvent/isCurrentServiceInvalidNow/)
+* [isServiceClass()](/Java/BeanContextServiceRevokedEvent/isServiceClass/)
 
 ## Ejemplo
 ~~~java

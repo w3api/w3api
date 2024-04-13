@@ -21,7 +21,7 @@ public class BadLocationException extends Exception
 * [BadLocationException()](/Java/BadLocationException/BadLocationException/)
 
 ## Métodos
-* [offsetRequested()](/Java/BadLocationException/offsetRequested)
+* [offsetRequested()](/Java/BadLocationException/offsetRequested/)
 
 ## Ejemplo
 ~~~java

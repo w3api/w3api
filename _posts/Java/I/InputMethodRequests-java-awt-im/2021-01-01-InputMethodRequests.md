@@ -18,13 +18,13 @@ public interface InputMethodRequests
 ~~~
 
 ## Métodos
-* [cancelLatestCommittedText()](/Java/InputMethodRequests-java-awt-im/cancelLatestCommittedText)
-* [getCommittedText()](/Java/InputMethodRequests-java-awt-im/getCommittedText)
-* [getCommittedTextLength()](/Java/InputMethodRequests-java-awt-im/getCommittedTextLength)
-* [getInsertPositionOffset()](/Java/InputMethodRequests-java-awt-im/getInsertPositionOffset)
-* [getLocationOffset()](/Java/InputMethodRequests-java-awt-im/getLocationOffset)
-* [getSelectedText()](/Java/InputMethodRequests-java-awt-im/getSelectedText)
-* [getTextLocation()](/Java/InputMethodRequests-java-awt-im/getTextLocation)
+* [cancelLatestCommittedText()](/Java/InputMethodRequests-java-awt-im/cancelLatestCommittedText/)
+* [getCommittedText()](/Java/InputMethodRequests-java-awt-im/getCommittedText/)
+* [getCommittedTextLength()](/Java/InputMethodRequests-java-awt-im/getCommittedTextLength/)
+* [getInsertPositionOffset()](/Java/InputMethodRequests-java-awt-im/getInsertPositionOffset/)
+* [getLocationOffset()](/Java/InputMethodRequests-java-awt-im/getLocationOffset/)
+* [getSelectedText()](/Java/InputMethodRequests-java-awt-im/getSelectedText/)
+* [getTextLocation()](/Java/InputMethodRequests-java-awt-im/getTextLocation/)
 
 ## Ejemplo
 ~~~java

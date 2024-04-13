@@ -18,13 +18,13 @@ public enum DepthTest extends Enum<DepthTest>
 ~~~
 
 ## Enumerados
-* [DISABLE](/Java/DepthTest/DISABLE)
-* [ENABLE](/Java/DepthTest/ENABLE)
-* [INHERIT](/Java/DepthTest/INHERIT)
+* [DISABLE](/Java/DepthTest/DISABLE/)
+* [ENABLE](/Java/DepthTest/ENABLE/)
+* [INHERIT](/Java/DepthTest/INHERIT/)
 
 ## Métodos
-* [valueOf()](/Java/DepthTest/valueOf)
-* [values()](/Java/DepthTest/values)
+* [valueOf()](/Java/DepthTest/valueOf/)
+* [values()](/Java/DepthTest/values/)
 
 ## Ejemplo
 ~~~java

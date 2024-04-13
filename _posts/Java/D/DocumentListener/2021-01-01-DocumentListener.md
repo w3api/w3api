@@ -18,9 +18,9 @@ public interface DocumentListener extends EventListener
 ~~~
 
 ## Métodos
-* [changedUpdate()](/Java/DocumentListener/changedUpdate)
-* [insertUpdate()](/Java/DocumentListener/insertUpdate)
-* [removeUpdate()](/Java/DocumentListener/removeUpdate)
+* [changedUpdate()](/Java/DocumentListener/changedUpdate/)
+* [insertUpdate()](/Java/DocumentListener/insertUpdate/)
+* [removeUpdate()](/Java/DocumentListener/removeUpdate/)
 
 ## Ejemplo
 ~~~java

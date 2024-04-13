@@ -18,7 +18,7 @@ public interface DISCARDING
 ~~~
 
 ## Campos
-* [value](/Java/DISCARDING/value)
+* [value](/Java/DISCARDING/value/)
 
 ## Ejemplo
 ~~~java

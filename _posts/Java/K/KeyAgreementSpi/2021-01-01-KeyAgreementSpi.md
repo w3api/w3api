@@ -21,9 +21,9 @@ public abstract class KeyAgreementSpi extends Object
 * [KeyAgreementSpi()](/Java/KeyAgreementSpi/KeyAgreementSpi/)
 
 ## Métodos
-* [engineDoPhase()](/Java/KeyAgreementSpi/engineDoPhase)
-* [engineGenerateSecret()](/Java/KeyAgreementSpi/engineGenerateSecret)
-* [engineInit()](/Java/KeyAgreementSpi/engineInit)
+* [engineDoPhase()](/Java/KeyAgreementSpi/engineDoPhase/)
+* [engineGenerateSecret()](/Java/KeyAgreementSpi/engineGenerateSecret/)
+* [engineInit()](/Java/KeyAgreementSpi/engineInit/)
 
 ## Ejemplo
 ~~~java

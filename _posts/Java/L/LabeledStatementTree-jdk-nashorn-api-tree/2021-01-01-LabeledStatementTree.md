@@ -18,8 +18,8 @@ public interface LabeledStatementTree extends StatementTree
 ~~~
 
 ## Métodos
-* [getLabel()](/Java/LabeledStatementTree-jdk-nashorn-api-tree/getLabel)
-* [getStatement()](/Java/LabeledStatementTree-jdk-nashorn-api-tree/getStatement)
+* [getLabel()](/Java/LabeledStatementTree-jdk-nashorn-api-tree/getLabel/)
+* [getStatement()](/Java/LabeledStatementTree-jdk-nashorn-api-tree/getStatement/)
 
 ## Ejemplo
 ~~~java

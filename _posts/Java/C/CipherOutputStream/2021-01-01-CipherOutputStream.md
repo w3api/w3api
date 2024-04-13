@@ -21,9 +21,9 @@ public class CipherOutputStream extends FilterOutputStream
 * [CipherOutputStream()](/Java/CipherOutputStream/CipherOutputStream/)
 
 ## Métodos
-* [close()](/Java/CipherOutputStream/close)
-* [flush()](/Java/CipherOutputStream/flush)
-* [write()](/Java/CipherOutputStream/write)
+* [close()](/Java/CipherOutputStream/close/)
+* [flush()](/Java/CipherOutputStream/flush/)
+* [write()](/Java/CipherOutputStream/write/)
 
 ## Ejemplo
 ~~~java

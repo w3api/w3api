@@ -18,13 +18,13 @@ public static interface WebSocket.Listener
 ~~~
 
 ## Métodos
-* [onBinary()](/Java/WebSocket/Listener/onBinary)
-* [onClose()](/Java/WebSocket/Listener/onClose)
-* [onError()](/Java/WebSocket/Listener/onError)
-* [onOpen()](/Java/WebSocket/Listener/onOpen)
-* [onPing()](/Java/WebSocket/Listener/onPing)
-* [onPong()](/Java/WebSocket/Listener/onPong)
-* [onText()](/Java/WebSocket/Listener/onText)
+* [onBinary()](/Java/WebSocket/Listener/onBinary/)
+* [onClose()](/Java/WebSocket/Listener/onClose/)
+* [onError()](/Java/WebSocket/Listener/onError/)
+* [onOpen()](/Java/WebSocket/Listener/onOpen/)
+* [onPing()](/Java/WebSocket/Listener/onPing/)
+* [onPong()](/Java/WebSocket/Listener/onPong/)
+* [onText()](/Java/WebSocket/Listener/onText/)
 
 ## Ejemplo
 ~~~java

@@ -18,16 +18,16 @@ sidebar:
 ~~~
 
 ## Métodos
-* [getCommandLine()](/Java/ContentSignerParameters/getCommandLine)
-* [getContent()](/Java/ContentSignerParameters/getContent)
-* [getSignature()](/Java/ContentSignerParameters/getSignature)
-* [getSignatureAlgorithm()](/Java/ContentSignerParameters/getSignatureAlgorithm)
-* [getSignerCertificateChain()](/Java/ContentSignerParameters/getSignerCertificateChain)
-* [getSource()](/Java/ContentSignerParameters/getSource)
-* [getTimestampingAuthority()](/Java/ContentSignerParameters/getTimestampingAuthority)
-* [getTimestampingAuthorityCertificate()](/Java/ContentSignerParameters/getTimestampingAuthorityCertificate)
-* [getTSADigestAlg()](/Java/ContentSignerParameters/getTSADigestAlg)
-* [getTSAPolicyID()](/Java/ContentSignerParameters/getTSAPolicyID)
+* [getCommandLine()](/Java/ContentSignerParameters/getCommandLine/)
+* [getContent()](/Java/ContentSignerParameters/getContent/)
+* [getSignature()](/Java/ContentSignerParameters/getSignature/)
+* [getSignatureAlgorithm()](/Java/ContentSignerParameters/getSignatureAlgorithm/)
+* [getSignerCertificateChain()](/Java/ContentSignerParameters/getSignerCertificateChain/)
+* [getSource()](/Java/ContentSignerParameters/getSource/)
+* [getTimestampingAuthority()](/Java/ContentSignerParameters/getTimestampingAuthority/)
+* [getTimestampingAuthorityCertificate()](/Java/ContentSignerParameters/getTimestampingAuthorityCertificate/)
+* [getTSADigestAlg()](/Java/ContentSignerParameters/getTSADigestAlg/)
+* [getTSAPolicyID()](/Java/ContentSignerParameters/getTSAPolicyID/)
 
 ## Ejemplo
 ~~~java

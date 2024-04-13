@@ -18,19 +18,19 @@ public class Executors extends Object
 ~~~
 
 ## Métodos
-* [callable()](/Java/Executors/callable)
-* [defaultThreadFactory()](/Java/Executors/defaultThreadFactory)
-* [newCachedThreadPool()](/Java/Executors/newCachedThreadPool)
-* [newFixedThreadPool()](/Java/Executors/newFixedThreadPool)
-* [newScheduledThreadPool()](/Java/Executors/newScheduledThreadPool)
-* [newSingleThreadExecutor()](/Java/Executors/newSingleThreadExecutor)
-* [newSingleThreadScheduledExecutor()](/Java/Executors/newSingleThreadScheduledExecutor)
-* [newWorkStealingPool()](/Java/Executors/newWorkStealingPool)
-* [privilegedCallable()](/Java/Executors/privilegedCallable)
-* [privilegedCallableUsingCurrentClassLoader()](/Java/Executors/privilegedCallableUsingCurrentClassLoader)
-* [privilegedThreadFactory()](/Java/Executors/privilegedThreadFactory)
-* [unconfigurableExecutorService()](/Java/Executors/unconfigurableExecutorService)
-* [unconfigurableScheduledExecutorService()](/Java/Executors/unconfigurableScheduledExecutorService)
+* [callable()](/Java/Executors/callable/)
+* [defaultThreadFactory()](/Java/Executors/defaultThreadFactory/)
+* [newCachedThreadPool()](/Java/Executors/newCachedThreadPool/)
+* [newFixedThreadPool()](/Java/Executors/newFixedThreadPool/)
+* [newScheduledThreadPool()](/Java/Executors/newScheduledThreadPool/)
+* [newSingleThreadExecutor()](/Java/Executors/newSingleThreadExecutor/)
+* [newSingleThreadScheduledExecutor()](/Java/Executors/newSingleThreadScheduledExecutor/)
+* [newWorkStealingPool()](/Java/Executors/newWorkStealingPool/)
+* [privilegedCallable()](/Java/Executors/privilegedCallable/)
+* [privilegedCallableUsingCurrentClassLoader()](/Java/Executors/privilegedCallableUsingCurrentClassLoader/)
+* [privilegedThreadFactory()](/Java/Executors/privilegedThreadFactory/)
+* [unconfigurableExecutorService()](/Java/Executors/unconfigurableExecutorService/)
+* [unconfigurableScheduledExecutorService()](/Java/Executors/unconfigurableScheduledExecutorService/)
 
 ## Ejemplo
 ~~~java

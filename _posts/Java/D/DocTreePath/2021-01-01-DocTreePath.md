@@ -21,11 +21,11 @@ public class DocTreePath extends Object implements Iterable<DocTree>
 * [DocTreePath()](/Java/DocTreePath/DocTreePath/)
 
 ## Métodos
-* [getDocComment()](/Java/DocTreePath/getDocComment)
-* [getLeaf()](/Java/DocTreePath/getLeaf)
-* [getParentPath()](/Java/DocTreePath/getParentPath)
-* [getPath()](/Java/DocTreePath/getPath)
-* [getTreePath()](/Java/DocTreePath/getTreePath)
+* [getDocComment()](/Java/DocTreePath/getDocComment/)
+* [getLeaf()](/Java/DocTreePath/getLeaf/)
+* [getParentPath()](/Java/DocTreePath/getParentPath/)
+* [getPath()](/Java/DocTreePath/getPath/)
+* [getTreePath()](/Java/DocTreePath/getTreePath/)
 
 ## Ejemplo
 ~~~java

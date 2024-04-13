@@ -21,10 +21,10 @@ public abstract class KeyFactorySpi extends Object
 * [KeyFactorySpi()](/Java/KeyFactorySpi/KeyFactorySpi/)
 
 ## Métodos
-* [engineGeneratePrivate()](/Java/KeyFactorySpi/engineGeneratePrivate)
-* [engineGeneratePublic()](/Java/KeyFactorySpi/engineGeneratePublic)
-* [engineGetKeySpec()](/Java/KeyFactorySpi/engineGetKeySpec)
-* [engineTranslateKey()](/Java/KeyFactorySpi/engineTranslateKey)
+* [engineGeneratePrivate()](/Java/KeyFactorySpi/engineGeneratePrivate/)
+* [engineGeneratePublic()](/Java/KeyFactorySpi/engineGeneratePublic/)
+* [engineGetKeySpec()](/Java/KeyFactorySpi/engineGetKeySpec/)
+* [engineTranslateKey()](/Java/KeyFactorySpi/engineTranslateKey/)
 
 ## Ejemplo
 ~~~java

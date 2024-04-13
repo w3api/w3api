@@ -18,7 +18,7 @@ public interface DirObjectFactory extends ObjectFactory
 ~~~
 
 ## Métodos
-* [getObjectInstance()](/Java/DirObjectFactory/getObjectInstance)
+* [getObjectInstance()](/Java/DirObjectFactory/getObjectInstance/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface EventFilter
 ~~~
 
 ## Métodos
-* [accept()](/Java/EventFilter/accept)
+* [accept()](/Java/EventFilter/accept/)
 
 ## Ejemplo
 ~~~java

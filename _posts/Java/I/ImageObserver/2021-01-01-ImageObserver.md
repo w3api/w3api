@@ -18,17 +18,17 @@ public interface ImageObserver
 ~~~
 
 ## Campos
-* [ABORT](/Java/ImageObserver/ABORT)
-* [ALLBITS](/Java/ImageObserver/ALLBITS)
-* [ERROR](/Java/ImageObserver/ERROR)
-* [FRAMEBITS](/Java/ImageObserver/FRAMEBITS)
-* [HEIGHT](/Java/ImageObserver/HEIGHT)
-* [PROPERTIES](/Java/ImageObserver/PROPERTIES)
-* [SOMEBITS](/Java/ImageObserver/SOMEBITS)
-* [WIDTH](/Java/ImageObserver/WIDTH)
+* [ABORT](/Java/ImageObserver/ABORT/)
+* [ALLBITS](/Java/ImageObserver/ALLBITS/)
+* [ERROR](/Java/ImageObserver/ERROR/)
+* [FRAMEBITS](/Java/ImageObserver/FRAMEBITS/)
+* [HEIGHT](/Java/ImageObserver/HEIGHT/)
+* [PROPERTIES](/Java/ImageObserver/PROPERTIES/)
+* [SOMEBITS](/Java/ImageObserver/SOMEBITS/)
+* [WIDTH](/Java/ImageObserver/WIDTH/)
 
 ## Métodos
-* [imageUpdate()](/Java/ImageObserver/imageUpdate)
+* [imageUpdate()](/Java/ImageObserver/imageUpdate/)
 
 ## Ejemplo
 ~~~java

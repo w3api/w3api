@@ -18,21 +18,21 @@ public static class ConcurrentHashMap.KeySetView<K,V> extends Object implements 
 ~~~
 
 ## Métodos
-* [add()](/Java/ConcurrentHashMap/KeySetView/add)
-* [addAll()](/Java/ConcurrentHashMap/KeySetView/addAll)
-* [clear()](/Java/ConcurrentHashMap/KeySetView/clear)
-* [contains()](/Java/ConcurrentHashMap/KeySetView/contains)
-* [containsAll()](/Java/ConcurrentHashMap/KeySetView/containsAll)
-* [getMap()](/Java/ConcurrentHashMap/KeySetView/getMap)
-* [getMappedValue()](/Java/ConcurrentHashMap/KeySetView/getMappedValue)
-* [isEmpty()](/Java/ConcurrentHashMap/KeySetView/isEmpty)
-* [iterator()](/Java/ConcurrentHashMap/KeySetView/iterator)
-* [remove()](/Java/ConcurrentHashMap/KeySetView/remove)
-* [removeAll()](/Java/ConcurrentHashMap/KeySetView/removeAll)
-* [retainAll()](/Java/ConcurrentHashMap/KeySetView/retainAll)
-* [size()](/Java/ConcurrentHashMap/KeySetView/size)
-* [toArray()](/Java/ConcurrentHashMap/KeySetView/toArray)
-* [toString()](/Java/ConcurrentHashMap/KeySetView/toString)
+* [add()](/Java/ConcurrentHashMap/KeySetView/add/)
+* [addAll()](/Java/ConcurrentHashMap/KeySetView/addAll/)
+* [clear()](/Java/ConcurrentHashMap/KeySetView/clear/)
+* [contains()](/Java/ConcurrentHashMap/KeySetView/contains/)
+* [containsAll()](/Java/ConcurrentHashMap/KeySetView/containsAll/)
+* [getMap()](/Java/ConcurrentHashMap/KeySetView/getMap/)
+* [getMappedValue()](/Java/ConcurrentHashMap/KeySetView/getMappedValue/)
+* [isEmpty()](/Java/ConcurrentHashMap/KeySetView/isEmpty/)
+* [iterator()](/Java/ConcurrentHashMap/KeySetView/iterator/)
+* [remove()](/Java/ConcurrentHashMap/KeySetView/remove/)
+* [removeAll()](/Java/ConcurrentHashMap/KeySetView/removeAll/)
+* [retainAll()](/Java/ConcurrentHashMap/KeySetView/retainAll/)
+* [size()](/Java/ConcurrentHashMap/KeySetView/size/)
+* [toArray()](/Java/ConcurrentHashMap/KeySetView/toArray/)
+* [toString()](/Java/ConcurrentHashMap/KeySetView/toString/)
 
 ## Ejemplo
 ~~~java

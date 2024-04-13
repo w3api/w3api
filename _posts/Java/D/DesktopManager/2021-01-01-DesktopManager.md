@@ -18,21 +18,21 @@ public interface DesktopManager
 ~~~
 
 ## Métodos
-* [activateFrame()](/Java/DesktopManager/activateFrame)
-* [beginDraggingFrame()](/Java/DesktopManager/beginDraggingFrame)
-* [beginResizingFrame()](/Java/DesktopManager/beginResizingFrame)
-* [closeFrame()](/Java/DesktopManager/closeFrame)
-* [deactivateFrame()](/Java/DesktopManager/deactivateFrame)
-* [deiconifyFrame()](/Java/DesktopManager/deiconifyFrame)
-* [dragFrame()](/Java/DesktopManager/dragFrame)
-* [endDraggingFrame()](/Java/DesktopManager/endDraggingFrame)
-* [endResizingFrame()](/Java/DesktopManager/endResizingFrame)
-* [iconifyFrame()](/Java/DesktopManager/iconifyFrame)
-* [maximizeFrame()](/Java/DesktopManager/maximizeFrame)
-* [minimizeFrame()](/Java/DesktopManager/minimizeFrame)
-* [openFrame()](/Java/DesktopManager/openFrame)
-* [resizeFrame()](/Java/DesktopManager/resizeFrame)
-* [setBoundsForFrame()](/Java/DesktopManager/setBoundsForFrame)
+* [activateFrame()](/Java/DesktopManager/activateFrame/)
+* [beginDraggingFrame()](/Java/DesktopManager/beginDraggingFrame/)
+* [beginResizingFrame()](/Java/DesktopManager/beginResizingFrame/)
+* [closeFrame()](/Java/DesktopManager/closeFrame/)
+* [deactivateFrame()](/Java/DesktopManager/deactivateFrame/)
+* [deiconifyFrame()](/Java/DesktopManager/deiconifyFrame/)
+* [dragFrame()](/Java/DesktopManager/dragFrame/)
+* [endDraggingFrame()](/Java/DesktopManager/endDraggingFrame/)
+* [endResizingFrame()](/Java/DesktopManager/endResizingFrame/)
+* [iconifyFrame()](/Java/DesktopManager/iconifyFrame/)
+* [maximizeFrame()](/Java/DesktopManager/maximizeFrame/)
+* [minimizeFrame()](/Java/DesktopManager/minimizeFrame/)
+* [openFrame()](/Java/DesktopManager/openFrame/)
+* [resizeFrame()](/Java/DesktopManager/resizeFrame/)
+* [setBoundsForFrame()](/Java/DesktopManager/setBoundsForFrame/)
 
 ## Ejemplo
 ~~~java

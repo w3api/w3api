@@ -21,9 +21,9 @@ public final class PrinterURI extends URISyntax implements PrintServiceAttribute
 * [PrinterURI()](/Java/PrinterURI/PrinterURI/)
 
 ## Métodos
-* [equals()](/Java/PrinterURI/equals)
-* [getCategory()](/Java/PrinterURI/getCategory)
-* [getName()](/Java/PrinterURI/getName)
+* [equals()](/Java/PrinterURI/equals/)
+* [getCategory()](/Java/PrinterURI/getCategory/)
+* [getName()](/Java/PrinterURI/getName/)
 
 ## Ejemplo
 ~~~java

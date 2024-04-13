@@ -21,14 +21,14 @@ public abstract class LongBinding extends LongExpression implements NumberBindin
 * [LongBinding()](/Java/LongBinding/LongBinding/)
 
 ## Métodos
-* [bind()](/Java/LongBinding/bind)
-* [computeValue()](/Java/LongBinding/computeValue)
-* [dispose()](/Java/LongBinding/dispose)
-* [get()](/Java/LongBinding/get)
-* [getDependencies()](/Java/LongBinding/getDependencies)
-* [onInvalidating()](/Java/LongBinding/onInvalidating)
-* [toString()](/Java/LongBinding/toString)
-* [unbind()](/Java/LongBinding/unbind)
+* [bind()](/Java/LongBinding/bind/)
+* [computeValue()](/Java/LongBinding/computeValue/)
+* [dispose()](/Java/LongBinding/dispose/)
+* [get()](/Java/LongBinding/get/)
+* [getDependencies()](/Java/LongBinding/getDependencies/)
+* [onInvalidating()](/Java/LongBinding/onInvalidating/)
+* [toString()](/Java/LongBinding/toString/)
+* [unbind()](/Java/LongBinding/unbind/)
 
 ## Ejemplo
 ~~~java

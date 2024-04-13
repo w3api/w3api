@@ -21,8 +21,8 @@ public class BMPImageWriteParam extends ImageWriteParam
 * [BMPImageWriteParam()](/Java/BMPImageWriteParam/BMPImageWriteParam/)
 
 ## Métodos
-* [isTopDown()](/Java/BMPImageWriteParam/isTopDown)
-* [setTopDown()](/Java/BMPImageWriteParam/setTopDown)
+* [isTopDown()](/Java/BMPImageWriteParam/isTopDown/)
+* [setTopDown()](/Java/BMPImageWriteParam/setTopDown/)
 
 ## Ejemplo
 ~~~java

@@ -18,10 +18,10 @@ public interface InputMethodContext extends InputMethodRequests
 ~~~
 
 ## Métodos
-* [createInputMethodJFrame()](/Java/InputMethodContext/createInputMethodJFrame)
-* [createInputMethodWindow()](/Java/InputMethodContext/createInputMethodWindow)
-* [dispatchInputMethodEvent()](/Java/InputMethodContext/dispatchInputMethodEvent)
-* [enableClientWindowNotification()](/Java/InputMethodContext/enableClientWindowNotification)
+* [createInputMethodJFrame()](/Java/InputMethodContext/createInputMethodJFrame/)
+* [createInputMethodWindow()](/Java/InputMethodContext/createInputMethodWindow/)
+* [dispatchInputMethodEvent()](/Java/InputMethodContext/dispatchInputMethodEvent/)
+* [enableClientWindowNotification()](/Java/InputMethodContext/enableClientWindowNotification/)
 
 ## Ejemplo
 ~~~java

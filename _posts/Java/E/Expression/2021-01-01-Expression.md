@@ -21,10 +21,10 @@ public class Expression extends Statement
 * [Expression()](/Java/Expression/Expression/)
 
 ## Métodos
-* [execute()](/Java/Expression/execute)
-* [getValue()](/Java/Expression/getValue)
-* [setValue()](/Java/Expression/setValue)
-* [toString()](/Java/Expression/toString)
+* [execute()](/Java/Expression/execute/)
+* [getValue()](/Java/Expression/getValue/)
+* [setValue()](/Java/Expression/setValue/)
+* [toString()](/Java/Expression/toString/)
 
 ## Ejemplo
 ~~~java

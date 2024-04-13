@@ -21,12 +21,12 @@ public abstract class PolicyListHelper extends Object
 * [PolicyListHelper()](/Java/PolicyListHelper/PolicyListHelper/)
 
 ## Métodos
-* [extract()](/Java/PolicyListHelper/extract)
-* [id()](/Java/PolicyListHelper/id)
-* [insert()](/Java/PolicyListHelper/insert)
-* [read()](/Java/PolicyListHelper/read)
-* [type()](/Java/PolicyListHelper/type)
-* [write()](/Java/PolicyListHelper/write)
+* [extract()](/Java/PolicyListHelper/extract/)
+* [id()](/Java/PolicyListHelper/id/)
+* [insert()](/Java/PolicyListHelper/insert/)
+* [read()](/Java/PolicyListHelper/read/)
+* [type()](/Java/PolicyListHelper/type/)
+* [write()](/Java/PolicyListHelper/write/)
 
 ## Ejemplo
 ~~~java

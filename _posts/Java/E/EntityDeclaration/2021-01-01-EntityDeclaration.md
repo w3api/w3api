@@ -18,12 +18,12 @@ public interface EntityDeclaration extends XMLEvent
 ~~~
 
 ## Métodos
-* [getBaseURI()](/Java/EntityDeclaration/getBaseURI)
-* [getName()](/Java/EntityDeclaration/getName)
-* [getNotationName()](/Java/EntityDeclaration/getNotationName)
-* [getPublicId()](/Java/EntityDeclaration/getPublicId)
-* [getReplacementText()](/Java/EntityDeclaration/getReplacementText)
-* [getSystemId()](/Java/EntityDeclaration/getSystemId)
+* [getBaseURI()](/Java/EntityDeclaration/getBaseURI/)
+* [getName()](/Java/EntityDeclaration/getName/)
+* [getNotationName()](/Java/EntityDeclaration/getNotationName/)
+* [getPublicId()](/Java/EntityDeclaration/getPublicId/)
+* [getReplacementText()](/Java/EntityDeclaration/getReplacementText/)
+* [getSystemId()](/Java/EntityDeclaration/getSystemId/)
 
 ## Ejemplo
 ~~~java

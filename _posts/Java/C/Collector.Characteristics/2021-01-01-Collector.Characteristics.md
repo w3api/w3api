@@ -18,13 +18,13 @@ public static enum Collector.Characteristics extends Enum<Collector.Characterist
 ~~~
 
 ## Enumerados
-* [CONCURRENT](/Java/Collector/Characteristics/CONCURRENT)
-* [IDENTITY_FINISH](/Java/Collector/Characteristics/IDENTITY_FINISH)
-* [UNORDERED](/Java/Collector/Characteristics/UNORDERED)
+* [CONCURRENT](/Java/Collector/Characteristics/CONCURRENT/)
+* [IDENTITY_FINISH](/Java/Collector/Characteristics/IDENTITY_FINISH/)
+* [UNORDERED](/Java/Collector/Characteristics/UNORDERED/)
 
 ## Métodos
-* [valueOf()](/Java/Collector/Characteristics/valueOf)
-* [values()](/Java/Collector/Characteristics/values)
+* [valueOf()](/Java/Collector/Characteristics/valueOf/)
+* [values()](/Java/Collector/Characteristics/values/)
 
 ## Ejemplo
 ~~~java

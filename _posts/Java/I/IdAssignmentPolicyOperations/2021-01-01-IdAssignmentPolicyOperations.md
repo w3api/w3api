@@ -18,7 +18,7 @@ public interface IdAssignmentPolicyOperations extends PolicyOperations
 ~~~
 
 ## Métodos
-* [value()](/Java/IdAssignmentPolicyOperations/value)
+* [value()](/Java/IdAssignmentPolicyOperations/value/)
 
 ## Ejemplo
 ~~~java

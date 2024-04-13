@@ -21,16 +21,16 @@ public class DefaultColorSelectionModel extends Object implements ColorSelection
 * [DefaultColorSelectionModel()](/Java/DefaultColorSelectionModel/DefaultColorSelectionModel/)
 
 ## Campos
-* [changeEvent](/Java/DefaultColorSelectionModel/changeEvent)
-* [listenerList](/Java/DefaultColorSelectionModel/listenerList)
+* [changeEvent](/Java/DefaultColorSelectionModel/changeEvent/)
+* [listenerList](/Java/DefaultColorSelectionModel/listenerList/)
 
 ## Métodos
-* [addChangeListener()](/Java/DefaultColorSelectionModel/addChangeListener)
-* [fireStateChanged()](/Java/DefaultColorSelectionModel/fireStateChanged)
-* [getChangeListeners()](/Java/DefaultColorSelectionModel/getChangeListeners)
-* [getSelectedColor()](/Java/DefaultColorSelectionModel/getSelectedColor)
-* [removeChangeListener()](/Java/DefaultColorSelectionModel/removeChangeListener)
-* [setSelectedColor()](/Java/DefaultColorSelectionModel/setSelectedColor)
+* [addChangeListener()](/Java/DefaultColorSelectionModel/addChangeListener/)
+* [fireStateChanged()](/Java/DefaultColorSelectionModel/fireStateChanged/)
+* [getChangeListeners()](/Java/DefaultColorSelectionModel/getChangeListeners/)
+* [getSelectedColor()](/Java/DefaultColorSelectionModel/getSelectedColor/)
+* [removeChangeListener()](/Java/DefaultColorSelectionModel/removeChangeListener/)
+* [setSelectedColor()](/Java/DefaultColorSelectionModel/setSelectedColor/)
 
 ## Ejemplo
 ~~~java

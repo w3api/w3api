@@ -21,11 +21,11 @@ public class DragSourceDragEvent extends DragSourceEvent
 * [DragSourceDragEvent()](/Java/DragSourceDragEvent/DragSourceDragEvent/)
 
 ## Métodos
-* [getDropAction()](/Java/DragSourceDragEvent/getDropAction)
-* [getGestureModifiers()](/Java/DragSourceDragEvent/getGestureModifiers)
-* [getGestureModifiersEx()](/Java/DragSourceDragEvent/getGestureModifiersEx)
-* [getTargetActions()](/Java/DragSourceDragEvent/getTargetActions)
-* [getUserAction()](/Java/DragSourceDragEvent/getUserAction)
+* [getDropAction()](/Java/DragSourceDragEvent/getDropAction/)
+* [getGestureModifiers()](/Java/DragSourceDragEvent/getGestureModifiers/)
+* [getGestureModifiersEx()](/Java/DragSourceDragEvent/getGestureModifiersEx/)
+* [getTargetActions()](/Java/DragSourceDragEvent/getTargetActions/)
+* [getUserAction()](/Java/DragSourceDragEvent/getUserAction/)
 
 ## Ejemplo
 ~~~java

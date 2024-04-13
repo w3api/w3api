@@ -21,9 +21,9 @@ public class DSAParameterSpec extends Object implements AlgorithmParameterSpec, 
 * [DSAParameterSpec()](/Java/DSAParameterSpec/DSAParameterSpec/)
 
 ## Métodos
-* [getG()](/Java/DSAParameterSpec/getG)
-* [getP()](/Java/DSAParameterSpec/getP)
-* [getQ()](/Java/DSAParameterSpec/getQ)
+* [getG()](/Java/DSAParameterSpec/getG/)
+* [getP()](/Java/DSAParameterSpec/getP/)
+* [getQ()](/Java/DSAParameterSpec/getQ/)
 
 ## Ejemplo
 ~~~java

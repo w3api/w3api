@@ -18,8 +18,8 @@ public interface IRObjectOperations
 ~~~
 
 ## Métodos
-* [def_kind()](/Java/IRObjectOperations/def_kind)
-* [destroy()](/Java/IRObjectOperations/destroy)
+* [def_kind()](/Java/IRObjectOperations/def_kind/)
+* [destroy()](/Java/IRObjectOperations/destroy/)
 
 ## Ejemplo
 ~~~java

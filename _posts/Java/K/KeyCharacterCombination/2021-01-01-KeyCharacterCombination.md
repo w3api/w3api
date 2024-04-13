@@ -21,11 +21,11 @@ public final class KeyCharacterCombination extends KeyCombination
 * [KeyCharacterCombination()](/Java/KeyCharacterCombination/KeyCharacterCombination/)
 
 ## Métodos
-* [equals()](/Java/KeyCharacterCombination/equals)
-* [getCharacter()](/Java/KeyCharacterCombination/getCharacter)
-* [getName()](/Java/KeyCharacterCombination/getName)
-* [hashCode()](/Java/KeyCharacterCombination/hashCode)
-* [match()](/Java/KeyCharacterCombination/match)
+* [equals()](/Java/KeyCharacterCombination/equals/)
+* [getCharacter()](/Java/KeyCharacterCombination/getCharacter/)
+* [getName()](/Java/KeyCharacterCombination/getName/)
+* [hashCode()](/Java/KeyCharacterCombination/hashCode/)
+* [match()](/Java/KeyCharacterCombination/match/)
 
 ## Ejemplo
 ~~~java

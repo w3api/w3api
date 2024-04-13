@@ -21,10 +21,10 @@ public abstract class PersistenceDelegate extends Object
 * [PersistenceDelegate()](/Java/PersistenceDelegate/PersistenceDelegate/)
 
 ## Métodos
-* [initialize()](/Java/PersistenceDelegate/initialize)
-* [instantiate()](/Java/PersistenceDelegate/instantiate)
-* [mutatesTo()](/Java/PersistenceDelegate/mutatesTo)
-* [writeObject()](/Java/PersistenceDelegate/writeObject)
+* [initialize()](/Java/PersistenceDelegate/initialize/)
+* [instantiate()](/Java/PersistenceDelegate/instantiate/)
+* [mutatesTo()](/Java/PersistenceDelegate/mutatesTo/)
+* [writeObject()](/Java/PersistenceDelegate/writeObject/)
 
 ## Ejemplo
 ~~~java

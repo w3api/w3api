@@ -21,12 +21,12 @@ public abstract class IORHelper extends Object
 * [IORHelper()](/Java/IORHelper/IORHelper/)
 
 ## Métodos
-* [extract()](/Java/IORHelper/extract)
-* [id()](/Java/IORHelper/id)
-* [insert()](/Java/IORHelper/insert)
-* [read()](/Java/IORHelper/read)
-* [type()](/Java/IORHelper/type)
-* [write()](/Java/IORHelper/write)
+* [extract()](/Java/IORHelper/extract/)
+* [id()](/Java/IORHelper/id/)
+* [insert()](/Java/IORHelper/insert/)
+* [read()](/Java/IORHelper/read/)
+* [type()](/Java/IORHelper/type/)
+* [write()](/Java/IORHelper/write/)
 
 ## Ejemplo
 ~~~java

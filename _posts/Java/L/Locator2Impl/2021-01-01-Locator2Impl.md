@@ -21,10 +21,10 @@ public class Locator2Impl extends LocatorImpl implements Locator2
 * [Locator2Impl()](/Java/Locator2Impl/Locator2Impl/)
 
 ## Métodos
-* [getEncoding()](/Java/Locator2Impl/getEncoding)
-* [getXMLVersion()](/Java/Locator2Impl/getXMLVersion)
-* [setEncoding()](/Java/Locator2Impl/setEncoding)
-* [setXMLVersion()](/Java/Locator2Impl/setXMLVersion)
+* [getEncoding()](/Java/Locator2Impl/getEncoding/)
+* [getXMLVersion()](/Java/Locator2Impl/getXMLVersion/)
+* [setEncoding()](/Java/Locator2Impl/setEncoding/)
+* [setXMLVersion()](/Java/Locator2Impl/setXMLVersion/)
 
 ## Ejemplo
 ~~~java

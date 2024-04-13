@@ -18,12 +18,12 @@ public interface BeanContextChild
 ~~~
 
 ## Métodos
-* [addPropertyChangeListener()](/Java/BeanContextChild/addPropertyChangeListener)
-* [addVetoableChangeListener()](/Java/BeanContextChild/addVetoableChangeListener)
-* [getBeanContext()](/Java/BeanContextChild/getBeanContext)
-* [removePropertyChangeListener()](/Java/BeanContextChild/removePropertyChangeListener)
-* [removeVetoableChangeListener()](/Java/BeanContextChild/removeVetoableChangeListener)
-* [setBeanContext()](/Java/BeanContextChild/setBeanContext)
+* [addPropertyChangeListener()](/Java/BeanContextChild/addPropertyChangeListener/)
+* [addVetoableChangeListener()](/Java/BeanContextChild/addVetoableChangeListener/)
+* [getBeanContext()](/Java/BeanContextChild/getBeanContext/)
+* [removePropertyChangeListener()](/Java/BeanContextChild/removePropertyChangeListener/)
+* [removeVetoableChangeListener()](/Java/BeanContextChild/removeVetoableChangeListener/)
+* [setBeanContext()](/Java/BeanContextChild/setBeanContext/)
 
 ## Ejemplo
 ~~~java

@@ -18,9 +18,9 @@ public interface PathSearchingVirtualMachine extends VirtualMachine
 ~~~
 
 ## Métodos
-* [baseDirectory()](/Java/PathSearchingVirtualMachine/baseDirectory)
-* [bootClassPath()](/Java/PathSearchingVirtualMachine/bootClassPath)
-* [classPath()](/Java/PathSearchingVirtualMachine/classPath)
+* [baseDirectory()](/Java/PathSearchingVirtualMachine/baseDirectory/)
+* [bootClassPath()](/Java/PathSearchingVirtualMachine/bootClassPath/)
+* [classPath()](/Java/PathSearchingVirtualMachine/classPath/)
 
 ## Ejemplo
 ~~~java

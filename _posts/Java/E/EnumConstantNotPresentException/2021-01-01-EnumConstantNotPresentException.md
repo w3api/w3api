@@ -21,8 +21,8 @@ public class EnumConstantNotPresentException extends RuntimeException
 * [EnumConstantNotPresentException()](/Java/EnumConstantNotPresentException/EnumConstantNotPresentException/)
 
 ## Métodos
-* [constantName()](/Java/EnumConstantNotPresentException/constantName)
-* [enumType()](/Java/EnumConstantNotPresentException/enumType)
+* [constantName()](/Java/EnumConstantNotPresentException/constantName/)
+* [enumType()](/Java/EnumConstantNotPresentException/enumType/)
 
 ## Ejemplo
 ~~~java

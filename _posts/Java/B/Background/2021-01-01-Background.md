@@ -21,15 +21,15 @@ public final class Background extends Object
 * [Background()](/Java/Background/Background/)
 
 ## Campos
-* [EMPTY](/Java/Background/EMPTY)
+* [EMPTY](/Java/Background/EMPTY/)
 
 ## Métodos
-* [getClassCssMetaData()](/Java/Background/getClassCssMetaData)
-* [getFills()](/Java/Background/getFills)
-* [getImages()](/Java/Background/getImages)
-* [getOutsets()](/Java/Background/getOutsets)
-* [isEmpty()](/Java/Background/isEmpty)
-* [isFillPercentageBased()](/Java/Background/isFillPercentageBased)
+* [getClassCssMetaData()](/Java/Background/getClassCssMetaData/)
+* [getFills()](/Java/Background/getFills/)
+* [getImages()](/Java/Background/getImages/)
+* [getOutsets()](/Java/Background/getOutsets/)
+* [isEmpty()](/Java/Background/isEmpty/)
+* [isFillPercentageBased()](/Java/Background/isFillPercentageBased/)
 
 ## Ejemplo
 ~~~java

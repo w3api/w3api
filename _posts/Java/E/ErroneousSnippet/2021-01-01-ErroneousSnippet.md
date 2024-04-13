@@ -18,7 +18,7 @@ public class ErroneousSnippet extends Snippet
 ~~~
 
 ## Métodos
-* [probableKind()](/Java/ErroneousSnippet/probableKind)
+* [probableKind()](/Java/ErroneousSnippet/probableKind/)
 
 ## Ejemplo
 ~~~java

@@ -18,17 +18,17 @@ public interface Descriptor extends Serializable, Cloneable
 ~~~
 
 ## Métodos
-* [clone()](/Java/Descriptor/clone)
-* [equals()](/Java/Descriptor/equals)
-* [getFieldNames()](/Java/Descriptor/getFieldNames)
-* [getFields()](/Java/Descriptor/getFields)
-* [getFieldValue()](/Java/Descriptor/getFieldValue)
-* [getFieldValues()](/Java/Descriptor/getFieldValues)
-* [hashCode()](/Java/Descriptor/hashCode)
-* [isValid()](/Java/Descriptor/isValid)
-* [removeField()](/Java/Descriptor/removeField)
-* [setField()](/Java/Descriptor/setField)
-* [setFields()](/Java/Descriptor/setFields)
+* [clone()](/Java/Descriptor/clone/)
+* [equals()](/Java/Descriptor/equals/)
+* [getFieldNames()](/Java/Descriptor/getFieldNames/)
+* [getFields()](/Java/Descriptor/getFields/)
+* [getFieldValue()](/Java/Descriptor/getFieldValue/)
+* [getFieldValues()](/Java/Descriptor/getFieldValues/)
+* [hashCode()](/Java/Descriptor/hashCode/)
+* [isValid()](/Java/Descriptor/isValid/)
+* [removeField()](/Java/Descriptor/removeField/)
+* [setField()](/Java/Descriptor/setField/)
+* [setFields()](/Java/Descriptor/setFields/)
 
 ## Ejemplo
 ~~~java

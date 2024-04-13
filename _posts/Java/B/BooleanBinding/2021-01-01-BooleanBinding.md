@@ -21,14 +21,14 @@ public abstract class BooleanBinding extends BooleanExpression implements Bindin
 * [BooleanBinding()](/Java/BooleanBinding/BooleanBinding/)
 
 ## Métodos
-* [bind()](/Java/BooleanBinding/bind)
-* [computeValue()](/Java/BooleanBinding/computeValue)
-* [dispose()](/Java/BooleanBinding/dispose)
-* [get()](/Java/BooleanBinding/get)
-* [getDependencies()](/Java/BooleanBinding/getDependencies)
-* [onInvalidating()](/Java/BooleanBinding/onInvalidating)
-* [toString()](/Java/BooleanBinding/toString)
-* [unbind()](/Java/BooleanBinding/unbind)
+* [bind()](/Java/BooleanBinding/bind/)
+* [computeValue()](/Java/BooleanBinding/computeValue/)
+* [dispose()](/Java/BooleanBinding/dispose/)
+* [get()](/Java/BooleanBinding/get/)
+* [getDependencies()](/Java/BooleanBinding/getDependencies/)
+* [onInvalidating()](/Java/BooleanBinding/onInvalidating/)
+* [toString()](/Java/BooleanBinding/toString/)
+* [unbind()](/Java/BooleanBinding/unbind/)
 
 ## Ejemplo
 ~~~java

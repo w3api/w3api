@@ -18,18 +18,18 @@ public interface DataOutput
 ~~~
 
 ## Métodos
-* [write()](/Java/DataOutput/write)
-* [writeBoolean()](/Java/DataOutput/writeBoolean)
-* [writeByte()](/Java/DataOutput/writeByte)
-* [writeBytes()](/Java/DataOutput/writeBytes)
-* [writeChar()](/Java/DataOutput/writeChar)
-* [writeChars()](/Java/DataOutput/writeChars)
-* [writeDouble()](/Java/DataOutput/writeDouble)
-* [writeFloat()](/Java/DataOutput/writeFloat)
-* [writeInt()](/Java/DataOutput/writeInt)
-* [writeLong()](/Java/DataOutput/writeLong)
-* [writeShort()](/Java/DataOutput/writeShort)
-* [writeUTF()](/Java/DataOutput/writeUTF)
+* [write()](/Java/DataOutput/write/)
+* [writeBoolean()](/Java/DataOutput/writeBoolean/)
+* [writeByte()](/Java/DataOutput/writeByte/)
+* [writeBytes()](/Java/DataOutput/writeBytes/)
+* [writeChar()](/Java/DataOutput/writeChar/)
+* [writeChars()](/Java/DataOutput/writeChars/)
+* [writeDouble()](/Java/DataOutput/writeDouble/)
+* [writeFloat()](/Java/DataOutput/writeFloat/)
+* [writeInt()](/Java/DataOutput/writeInt/)
+* [writeLong()](/Java/DataOutput/writeLong/)
+* [writeShort()](/Java/DataOutput/writeShort/)
+* [writeUTF()](/Java/DataOutput/writeUTF/)
 
 ## Ejemplo
 ~~~java

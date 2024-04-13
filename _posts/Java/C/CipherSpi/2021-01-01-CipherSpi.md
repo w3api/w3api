@@ -21,19 +21,19 @@ public abstract class CipherSpi extends Object
 * [CipherSpi()](/Java/CipherSpi/CipherSpi/)
 
 ## Métodos
-* [engineDoFinal()](/Java/CipherSpi/engineDoFinal)
-* [engineGetBlockSize()](/Java/CipherSpi/engineGetBlockSize)
-* [engineGetIV()](/Java/CipherSpi/engineGetIV)
-* [engineGetKeySize()](/Java/CipherSpi/engineGetKeySize)
-* [engineGetOutputSize()](/Java/CipherSpi/engineGetOutputSize)
-* [engineGetParameters()](/Java/CipherSpi/engineGetParameters)
-* [engineInit()](/Java/CipherSpi/engineInit)
-* [engineSetMode()](/Java/CipherSpi/engineSetMode)
-* [engineSetPadding()](/Java/CipherSpi/engineSetPadding)
-* [engineUnwrap()](/Java/CipherSpi/engineUnwrap)
-* [engineUpdate()](/Java/CipherSpi/engineUpdate)
-* [engineUpdateAAD()](/Java/CipherSpi/engineUpdateAAD)
-* [engineWrap()](/Java/CipherSpi/engineWrap)
+* [engineDoFinal()](/Java/CipherSpi/engineDoFinal/)
+* [engineGetBlockSize()](/Java/CipherSpi/engineGetBlockSize/)
+* [engineGetIV()](/Java/CipherSpi/engineGetIV/)
+* [engineGetKeySize()](/Java/CipherSpi/engineGetKeySize/)
+* [engineGetOutputSize()](/Java/CipherSpi/engineGetOutputSize/)
+* [engineGetParameters()](/Java/CipherSpi/engineGetParameters/)
+* [engineInit()](/Java/CipherSpi/engineInit/)
+* [engineSetMode()](/Java/CipherSpi/engineSetMode/)
+* [engineSetPadding()](/Java/CipherSpi/engineSetPadding/)
+* [engineUnwrap()](/Java/CipherSpi/engineUnwrap/)
+* [engineUpdate()](/Java/CipherSpi/engineUpdate/)
+* [engineUpdateAAD()](/Java/CipherSpi/engineUpdateAAD/)
+* [engineWrap()](/Java/CipherSpi/engineWrap/)
 
 ## Ejemplo
 ~~~java

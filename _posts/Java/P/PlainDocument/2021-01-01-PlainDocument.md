@@ -21,16 +21,16 @@ public class PlainDocument extends AbstractDocument
 * [PlainDocument()](/Java/PlainDocument/PlainDocument/)
 
 ## Campos
-* [lineLimitAttribute](/Java/PlainDocument/lineLimitAttribute)
-* [tabSizeAttribute](/Java/PlainDocument/tabSizeAttribute)
+* [lineLimitAttribute](/Java/PlainDocument/lineLimitAttribute/)
+* [tabSizeAttribute](/Java/PlainDocument/tabSizeAttribute/)
 
 ## Métodos
-* [createDefaultRoot()](/Java/PlainDocument/createDefaultRoot)
-* [getDefaultRootElement()](/Java/PlainDocument/getDefaultRootElement)
-* [getParagraphElement()](/Java/PlainDocument/getParagraphElement)
-* [insertString()](/Java/PlainDocument/insertString)
-* [insertUpdate()](/Java/PlainDocument/insertUpdate)
-* [removeUpdate()](/Java/PlainDocument/removeUpdate)
+* [createDefaultRoot()](/Java/PlainDocument/createDefaultRoot/)
+* [getDefaultRootElement()](/Java/PlainDocument/getDefaultRootElement/)
+* [getParagraphElement()](/Java/PlainDocument/getParagraphElement/)
+* [insertString()](/Java/PlainDocument/insertString/)
+* [insertUpdate()](/Java/PlainDocument/insertUpdate/)
+* [removeUpdate()](/Java/PlainDocument/removeUpdate/)
 
 ## Ejemplo
 ~~~java

@@ -18,20 +18,20 @@ public final class Inet4Address extends InetAddress
 ~~~
 
 ## Métodos
-* [equals()](/Java/Inet4Address/equals)
-* [getAddress()](/Java/Inet4Address/getAddress)
-* [getHostAddress()](/Java/Inet4Address/getHostAddress)
-* [hashCode()](/Java/Inet4Address/hashCode)
-* [isAnyLocalAddress()](/Java/Inet4Address/isAnyLocalAddress)
-* [isLinkLocalAddress()](/Java/Inet4Address/isLinkLocalAddress)
-* [isLoopbackAddress()](/Java/Inet4Address/isLoopbackAddress)
-* [isMCGlobal()](/Java/Inet4Address/isMCGlobal)
-* [isMCLinkLocal()](/Java/Inet4Address/isMCLinkLocal)
-* [isMCNodeLocal()](/Java/Inet4Address/isMCNodeLocal)
-* [isMCOrgLocal()](/Java/Inet4Address/isMCOrgLocal)
-* [isMCSiteLocal()](/Java/Inet4Address/isMCSiteLocal)
-* [isMulticastAddress()](/Java/Inet4Address/isMulticastAddress)
-* [isSiteLocalAddress()](/Java/Inet4Address/isSiteLocalAddress)
+* [equals()](/Java/Inet4Address/equals/)
+* [getAddress()](/Java/Inet4Address/getAddress/)
+* [getHostAddress()](/Java/Inet4Address/getHostAddress/)
+* [hashCode()](/Java/Inet4Address/hashCode/)
+* [isAnyLocalAddress()](/Java/Inet4Address/isAnyLocalAddress/)
+* [isLinkLocalAddress()](/Java/Inet4Address/isLinkLocalAddress/)
+* [isLoopbackAddress()](/Java/Inet4Address/isLoopbackAddress/)
+* [isMCGlobal()](/Java/Inet4Address/isMCGlobal/)
+* [isMCLinkLocal()](/Java/Inet4Address/isMCLinkLocal/)
+* [isMCNodeLocal()](/Java/Inet4Address/isMCNodeLocal/)
+* [isMCOrgLocal()](/Java/Inet4Address/isMCOrgLocal/)
+* [isMCSiteLocal()](/Java/Inet4Address/isMCSiteLocal/)
+* [isMulticastAddress()](/Java/Inet4Address/isMulticastAddress/)
+* [isSiteLocalAddress()](/Java/Inet4Address/isSiteLocalAddress/)
 
 ## Ejemplo
 ~~~java

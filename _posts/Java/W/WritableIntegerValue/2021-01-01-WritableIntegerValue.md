@@ -18,9 +18,9 @@ public interface WritableIntegerValue extends WritableNumberValue
 ~~~
 
 ## Métodos
-* [get()](/Java/WritableIntegerValue/get)
-* [set()](/Java/WritableIntegerValue/set)
-* [setValue()](/Java/WritableIntegerValue/setValue)
+* [get()](/Java/WritableIntegerValue/get/)
+* [set()](/Java/WritableIntegerValue/set/)
+* [setValue()](/Java/WritableIntegerValue/setValue/)
 
 ## Ejemplo
 ~~~java

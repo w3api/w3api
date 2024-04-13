@@ -18,9 +18,9 @@ public interface WritableBooleanValue extends WritableValue<Boolean>
 ~~~
 
 ## Métodos
-* [get()](/Java/WritableBooleanValue/get)
-* [set()](/Java/WritableBooleanValue/set)
-* [setValue()](/Java/WritableBooleanValue/setValue)
+* [get()](/Java/WritableBooleanValue/get/)
+* [set()](/Java/WritableBooleanValue/set/)
+* [setValue()](/Java/WritableBooleanValue/setValue/)
 
 ## Ejemplo
 ~~~java

@@ -21,13 +21,13 @@ public abstract class BeanContextEvent extends EventObject
 * [BeanContextEvent()](/Java/BeanContextEvent/BeanContextEvent/)
 
 ## Campos
-* [propagatedFrom](/Java/BeanContextEvent/propagatedFrom)
+* [propagatedFrom](/Java/BeanContextEvent/propagatedFrom/)
 
 ## Métodos
-* [getBeanContext()](/Java/BeanContextEvent/getBeanContext)
-* [getPropagatedFrom()](/Java/BeanContextEvent/getPropagatedFrom)
-* [isPropagated()](/Java/BeanContextEvent/isPropagated)
-* [setPropagatedFrom()](/Java/BeanContextEvent/setPropagatedFrom)
+* [getBeanContext()](/Java/BeanContextEvent/getBeanContext/)
+* [getPropagatedFrom()](/Java/BeanContextEvent/getPropagatedFrom/)
+* [isPropagated()](/Java/BeanContextEvent/isPropagated/)
+* [setPropagatedFrom()](/Java/BeanContextEvent/setPropagatedFrom/)
 
 ## Ejemplo
 ~~~java

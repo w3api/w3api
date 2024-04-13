@@ -21,23 +21,23 @@ public class BasicStroke extends Object implements Stroke
 * [BasicStroke()](/Java/BasicStroke/BasicStroke/)
 
 ## Campos
-* [CAP_BUTT](/Java/BasicStroke/CAP_BUTT)
-* [CAP_ROUND](/Java/BasicStroke/CAP_ROUND)
-* [CAP_SQUARE](/Java/BasicStroke/CAP_SQUARE)
-* [JOIN_BEVEL](/Java/BasicStroke/JOIN_BEVEL)
-* [JOIN_MITER](/Java/BasicStroke/JOIN_MITER)
-* [JOIN_ROUND](/Java/BasicStroke/JOIN_ROUND)
+* [CAP_BUTT](/Java/BasicStroke/CAP_BUTT/)
+* [CAP_ROUND](/Java/BasicStroke/CAP_ROUND/)
+* [CAP_SQUARE](/Java/BasicStroke/CAP_SQUARE/)
+* [JOIN_BEVEL](/Java/BasicStroke/JOIN_BEVEL/)
+* [JOIN_MITER](/Java/BasicStroke/JOIN_MITER/)
+* [JOIN_ROUND](/Java/BasicStroke/JOIN_ROUND/)
 
 ## Métodos
-* [createStrokedShape()](/Java/BasicStroke/createStrokedShape)
-* [equals()](/Java/BasicStroke/equals)
-* [getDashArray()](/Java/BasicStroke/getDashArray)
-* [getDashPhase()](/Java/BasicStroke/getDashPhase)
-* [getEndCap()](/Java/BasicStroke/getEndCap)
-* [getLineJoin()](/Java/BasicStroke/getLineJoin)
-* [getLineWidth()](/Java/BasicStroke/getLineWidth)
-* [getMiterLimit()](/Java/BasicStroke/getMiterLimit)
-* [hashCode()](/Java/BasicStroke/hashCode)
+* [createStrokedShape()](/Java/BasicStroke/createStrokedShape/)
+* [equals()](/Java/BasicStroke/equals/)
+* [getDashArray()](/Java/BasicStroke/getDashArray/)
+* [getDashPhase()](/Java/BasicStroke/getDashPhase/)
+* [getEndCap()](/Java/BasicStroke/getEndCap/)
+* [getLineJoin()](/Java/BasicStroke/getLineJoin/)
+* [getLineWidth()](/Java/BasicStroke/getLineWidth/)
+* [getMiterLimit()](/Java/BasicStroke/getMiterLimit/)
+* [hashCode()](/Java/BasicStroke/hashCode/)
 
 ## Ejemplo
 ~~~java

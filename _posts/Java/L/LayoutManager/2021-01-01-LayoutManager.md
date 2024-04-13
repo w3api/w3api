@@ -18,11 +18,11 @@ public interface LayoutManager
 ~~~
 
 ## Métodos
-* [addLayoutComponent()](/Java/LayoutManager/addLayoutComponent)
-* [layoutContainer()](/Java/LayoutManager/layoutContainer)
-* [minimumLayoutSize()](/Java/LayoutManager/minimumLayoutSize)
-* [preferredLayoutSize()](/Java/LayoutManager/preferredLayoutSize)
-* [removeLayoutComponent()](/Java/LayoutManager/removeLayoutComponent)
+* [addLayoutComponent()](/Java/LayoutManager/addLayoutComponent/)
+* [layoutContainer()](/Java/LayoutManager/layoutContainer/)
+* [minimumLayoutSize()](/Java/LayoutManager/minimumLayoutSize/)
+* [preferredLayoutSize()](/Java/LayoutManager/preferredLayoutSize/)
+* [removeLayoutComponent()](/Java/LayoutManager/removeLayoutComponent/)
 
 ## Ejemplo
 ~~~java

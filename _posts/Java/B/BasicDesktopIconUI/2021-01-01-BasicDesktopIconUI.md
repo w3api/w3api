@@ -21,22 +21,22 @@ public class BasicDesktopIconUI extends DesktopIconUI
 * [BasicDesktopIconUI()](/Java/BasicDesktopIconUI/BasicDesktopIconUI/)
 
 ## Campos
-* [desktopIcon](/Java/BasicDesktopIconUI/desktopIcon)
-* [frame](/Java/BasicDesktopIconUI/frame)
-* [iconPane](/Java/BasicDesktopIconUI/iconPane)
+* [desktopIcon](/Java/BasicDesktopIconUI/desktopIcon/)
+* [frame](/Java/BasicDesktopIconUI/frame/)
+* [iconPane](/Java/BasicDesktopIconUI/iconPane/)
 
 ## Métodos
-* [createMouseInputListener()](/Java/BasicDesktopIconUI/createMouseInputListener)
-* [createUI()](/Java/BasicDesktopIconUI/createUI)
-* [deiconize()](/Java/BasicDesktopIconUI/deiconize)
-* [getInsets()](/Java/BasicDesktopIconUI/getInsets)
-* [getMaximumSize()](/Java/BasicDesktopIconUI/getMaximumSize)
-* [installComponents()](/Java/BasicDesktopIconUI/installComponents)
-* [installDefaults()](/Java/BasicDesktopIconUI/installDefaults)
-* [installListeners()](/Java/BasicDesktopIconUI/installListeners)
-* [uninstallComponents()](/Java/BasicDesktopIconUI/uninstallComponents)
-* [uninstallDefaults()](/Java/BasicDesktopIconUI/uninstallDefaults)
-* [uninstallListeners()](/Java/BasicDesktopIconUI/uninstallListeners)
+* [createMouseInputListener()](/Java/BasicDesktopIconUI/createMouseInputListener/)
+* [createUI()](/Java/BasicDesktopIconUI/createUI/)
+* [deiconize()](/Java/BasicDesktopIconUI/deiconize/)
+* [getInsets()](/Java/BasicDesktopIconUI/getInsets/)
+* [getMaximumSize()](/Java/BasicDesktopIconUI/getMaximumSize/)
+* [installComponents()](/Java/BasicDesktopIconUI/installComponents/)
+* [installDefaults()](/Java/BasicDesktopIconUI/installDefaults/)
+* [installListeners()](/Java/BasicDesktopIconUI/installListeners/)
+* [uninstallComponents()](/Java/BasicDesktopIconUI/uninstallComponents/)
+* [uninstallDefaults()](/Java/BasicDesktopIconUI/uninstallDefaults/)
+* [uninstallListeners()](/Java/BasicDesktopIconUI/uninstallListeners/)
 
 ## Ejemplo
 ~~~java

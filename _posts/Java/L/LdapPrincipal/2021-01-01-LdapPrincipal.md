@@ -21,10 +21,10 @@ public final class LdapPrincipal extends Object implements Principal, Serializab
 * [LdapPrincipal()](/Java/LdapPrincipal/LdapPrincipal/)
 
 ## Métodos
-* [equals()](/Java/LdapPrincipal/equals)
-* [getName()](/Java/LdapPrincipal/getName)
-* [hashCode()](/Java/LdapPrincipal/hashCode)
-* [toString()](/Java/LdapPrincipal/toString)
+* [equals()](/Java/LdapPrincipal/equals/)
+* [getName()](/Java/LdapPrincipal/getName/)
+* [hashCode()](/Java/LdapPrincipal/hashCode/)
+* [toString()](/Java/LdapPrincipal/toString/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [applyAsInt()](/Java/IntBinaryOperator/applyAsInt)
+* [applyAsInt()](/Java/IntBinaryOperator/applyAsInt/)
 
 ## Ejemplo
 ~~~java

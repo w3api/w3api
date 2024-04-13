@@ -18,7 +18,7 @@ public interface DSAKeyPairGenerator
 ~~~
 
 ## Métodos
-* [initialize()](/Java/DSAKeyPairGenerator/initialize)
+* [initialize()](/Java/DSAKeyPairGenerator/initialize/)
 
 ## Ejemplo
 ~~~java

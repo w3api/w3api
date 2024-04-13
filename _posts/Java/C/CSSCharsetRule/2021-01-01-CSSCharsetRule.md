@@ -18,8 +18,8 @@ public interface CSSCharsetRule extends CSSRule
 ~~~
 
 ## Métodos
-* [getEncoding()](/Java/CSSCharsetRule/getEncoding)
-* [setEncoding()](/Java/CSSCharsetRule/setEncoding)
+* [getEncoding()](/Java/CSSCharsetRule/getEncoding/)
+* [setEncoding()](/Java/CSSCharsetRule/setEncoding/)
 
 ## Ejemplo
 ~~~java

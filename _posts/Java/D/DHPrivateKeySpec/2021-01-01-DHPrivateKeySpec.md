@@ -21,9 +21,9 @@ public class DHPrivateKeySpec extends Object implements KeySpec
 * [DHPrivateKeySpec()](/Java/DHPrivateKeySpec/DHPrivateKeySpec/)
 
 ## Métodos
-* [getG()](/Java/DHPrivateKeySpec/getG)
-* [getP()](/Java/DHPrivateKeySpec/getP)
-* [getX()](/Java/DHPrivateKeySpec/getX)
+* [getG()](/Java/DHPrivateKeySpec/getG/)
+* [getP()](/Java/DHPrivateKeySpec/getP/)
+* [getX()](/Java/DHPrivateKeySpec/getX/)
 
 ## Ejemplo
 ~~~java

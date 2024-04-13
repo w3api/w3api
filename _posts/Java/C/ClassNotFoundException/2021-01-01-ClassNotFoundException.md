@@ -21,8 +21,8 @@ public class ClassNotFoundException extends ReflectiveOperationException
 * [ClassNotFoundException()](/Java/ClassNotFoundException/ClassNotFoundException/)
 
 ## Métodos
-* [getCause()](/Java/ClassNotFoundException/getCause)
-* [getException()](/Java/ClassNotFoundException/getException)
+* [getCause()](/Java/ClassNotFoundException/getCause/)
+* [getException()](/Java/ClassNotFoundException/getException/)
 
 ## Ejemplo
 ~~~java

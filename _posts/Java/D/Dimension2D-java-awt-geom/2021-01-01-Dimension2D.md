@@ -21,10 +21,10 @@ public abstract class Dimension2D extends Object implements Cloneable
 * [Dimension2D()](/Java/Dimension2D-java-awt-geom/Dimension2D/)
 
 ## Métodos
-* [clone()](/Java/Dimension2D-java-awt-geom/clone)
-* [getHeight()](/Java/Dimension2D-java-awt-geom/getHeight)
-* [getWidth()](/Java/Dimension2D-java-awt-geom/getWidth)
-* [setSize()](/Java/Dimension2D-java-awt-geom/setSize)
+* [clone()](/Java/Dimension2D-java-awt-geom/clone/)
+* [getHeight()](/Java/Dimension2D-java-awt-geom/getHeight/)
+* [getWidth()](/Java/Dimension2D-java-awt-geom/getWidth/)
+* [setSize()](/Java/Dimension2D-java-awt-geom/setSize/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public class PasswordField extends TextField
 * [PasswordField()](/Java/PasswordField/PasswordField/)
 
 ## Métodos
-* [copy()](/Java/PasswordField/copy)
-* [cut()](/Java/PasswordField/cut)
+* [copy()](/Java/PasswordField/copy/)
+* [cut()](/Java/PasswordField/cut/)
 
 ## Ejemplo
 ~~~java

@@ -21,15 +21,15 @@ public class ContainerEvent extends ComponentEvent
 * [ContainerEvent()](/Java/ContainerEvent/ContainerEvent/)
 
 ## Campos
-* [COMPONENT_ADDED](/Java/ContainerEvent/COMPONENT_ADDED)
-* [COMPONENT_REMOVED](/Java/ContainerEvent/COMPONENT_REMOVED)
-* [CONTAINER_FIRST](/Java/ContainerEvent/CONTAINER_FIRST)
-* [CONTAINER_LAST](/Java/ContainerEvent/CONTAINER_LAST)
+* [COMPONENT_ADDED](/Java/ContainerEvent/COMPONENT_ADDED/)
+* [COMPONENT_REMOVED](/Java/ContainerEvent/COMPONENT_REMOVED/)
+* [CONTAINER_FIRST](/Java/ContainerEvent/CONTAINER_FIRST/)
+* [CONTAINER_LAST](/Java/ContainerEvent/CONTAINER_LAST/)
 
 ## Métodos
-* [getChild()](/Java/ContainerEvent/getChild)
-* [getContainer()](/Java/ContainerEvent/getContainer)
-* [paramString()](/Java/ContainerEvent/paramString)
+* [getChild()](/Java/ContainerEvent/getChild/)
+* [getContainer()](/Java/ContainerEvent/getContainer/)
+* [paramString()](/Java/ContainerEvent/paramString/)
 
 ## Ejemplo
 ~~~java

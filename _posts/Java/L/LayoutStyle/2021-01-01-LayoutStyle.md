@@ -21,10 +21,10 @@ public abstract class LayoutStyle extends Object
 * [LayoutStyle()](/Java/LayoutStyle/LayoutStyle/)
 
 ## Métodos
-* [getContainerGap()](/Java/LayoutStyle/getContainerGap)
-* [getInstance()](/Java/LayoutStyle/getInstance)
-* [getPreferredGap()](/Java/LayoutStyle/getPreferredGap)
-* [setInstance()](/Java/LayoutStyle/setInstance)
+* [getContainerGap()](/Java/LayoutStyle/getContainerGap/)
+* [getInstance()](/Java/LayoutStyle/getInstance/)
+* [getPreferredGap()](/Java/LayoutStyle/getPreferredGap/)
+* [setInstance()](/Java/LayoutStyle/setInstance/)
 
 ## Ejemplo
 ~~~java

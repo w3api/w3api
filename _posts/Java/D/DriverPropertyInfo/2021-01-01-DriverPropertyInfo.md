@@ -21,11 +21,11 @@ public class DriverPropertyInfo extends Object
 * [DriverPropertyInfo()](/Java/DriverPropertyInfo/DriverPropertyInfo/)
 
 ## Campos
-* [choices](/Java/DriverPropertyInfo/choices)
-* [description](/Java/DriverPropertyInfo/description)
-* [name](/Java/DriverPropertyInfo/name)
-* [required](/Java/DriverPropertyInfo/required)
-* [value](/Java/DriverPropertyInfo/value)
+* [choices](/Java/DriverPropertyInfo/choices/)
+* [description](/Java/DriverPropertyInfo/description/)
+* [name](/Java/DriverPropertyInfo/name/)
+* [required](/Java/DriverPropertyInfo/required/)
+* [value](/Java/DriverPropertyInfo/value/)
 
 ## Ejemplo
 ~~~java

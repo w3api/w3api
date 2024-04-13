@@ -18,8 +18,8 @@ public interface YieldTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getExpression()](/Java/YieldTree/getExpression)
-* [isStar()](/Java/YieldTree/isStar)
+* [getExpression()](/Java/YieldTree/getExpression/)
+* [isStar()](/Java/YieldTree/isStar/)
 
 ## Ejemplo
 ~~~java

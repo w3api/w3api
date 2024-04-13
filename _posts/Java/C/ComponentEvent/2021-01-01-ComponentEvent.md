@@ -21,16 +21,16 @@ public class ComponentEvent extends AWTEvent
 * [ComponentEvent()](/Java/ComponentEvent/ComponentEvent/)
 
 ## Campos
-* [COMPONENT_FIRST](/Java/ComponentEvent/COMPONENT_FIRST)
-* [COMPONENT_HIDDEN](/Java/ComponentEvent/COMPONENT_HIDDEN)
-* [COMPONENT_LAST](/Java/ComponentEvent/COMPONENT_LAST)
-* [COMPONENT_MOVED](/Java/ComponentEvent/COMPONENT_MOVED)
-* [COMPONENT_RESIZED](/Java/ComponentEvent/COMPONENT_RESIZED)
-* [COMPONENT_SHOWN](/Java/ComponentEvent/COMPONENT_SHOWN)
+* [COMPONENT_FIRST](/Java/ComponentEvent/COMPONENT_FIRST/)
+* [COMPONENT_HIDDEN](/Java/ComponentEvent/COMPONENT_HIDDEN/)
+* [COMPONENT_LAST](/Java/ComponentEvent/COMPONENT_LAST/)
+* [COMPONENT_MOVED](/Java/ComponentEvent/COMPONENT_MOVED/)
+* [COMPONENT_RESIZED](/Java/ComponentEvent/COMPONENT_RESIZED/)
+* [COMPONENT_SHOWN](/Java/ComponentEvent/COMPONENT_SHOWN/)
 
 ## Métodos
-* [getComponent()](/Java/ComponentEvent/getComponent)
-* [paramString()](/Java/ComponentEvent/paramString)
+* [getComponent()](/Java/ComponentEvent/getComponent/)
+* [paramString()](/Java/ComponentEvent/paramString/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public final class WeakEventHandler<T extends Event> extends Object implements E
 * [WeakEventHandler()](/Java/WeakEventHandler/WeakEventHandler/)
 
 ## Métodos
-* [handle()](/Java/WeakEventHandler/handle)
-* [wasGarbageCollected()](/Java/WeakEventHandler/wasGarbageCollected)
+* [handle()](/Java/WeakEventHandler/handle/)
+* [wasGarbageCollected()](/Java/WeakEventHandler/wasGarbageCollected/)
 
 ## Ejemplo
 ~~~java

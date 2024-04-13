@@ -21,12 +21,12 @@ public class BandCombineOp extends Object implements RasterOp
 * [BandCombineOp()](/Java/BandCombineOp/BandCombineOp/)
 
 ## Métodos
-* [createCompatibleDestRaster()](/Java/BandCombineOp/createCompatibleDestRaster)
-* [filter()](/Java/BandCombineOp/filter)
-* [getBounds2D()](/Java/BandCombineOp/getBounds2D)
-* [getMatrix()](/Java/BandCombineOp/getMatrix)
-* [getPoint2D()](/Java/BandCombineOp/getPoint2D)
-* [getRenderingHints()](/Java/BandCombineOp/getRenderingHints)
+* [createCompatibleDestRaster()](/Java/BandCombineOp/createCompatibleDestRaster/)
+* [filter()](/Java/BandCombineOp/filter/)
+* [getBounds2D()](/Java/BandCombineOp/getBounds2D/)
+* [getMatrix()](/Java/BandCombineOp/getMatrix/)
+* [getPoint2D()](/Java/BandCombineOp/getPoint2D/)
+* [getRenderingHints()](/Java/BandCombineOp/getRenderingHints/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface EventDirContext extends EventContext, DirContext
 ~~~
 
 ## Métodos
-* [addNamingListener()](/Java/EventDirContext/addNamingListener)
+* [addNamingListener()](/Java/EventDirContext/addNamingListener/)
 
 ## Ejemplo
 ~~~java

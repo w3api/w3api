@@ -21,14 +21,14 @@ public abstract class EnumSyntax extends Object implements Serializable, Cloneab
 * [EnumSyntax()](/Java/EnumSyntax/EnumSyntax/)
 
 ## Métodos
-* [clone()](/Java/EnumSyntax/clone)
-* [getEnumValueTable()](/Java/EnumSyntax/getEnumValueTable)
-* [getOffset()](/Java/EnumSyntax/getOffset)
-* [getStringTable()](/Java/EnumSyntax/getStringTable)
-* [getValue()](/Java/EnumSyntax/getValue)
-* [hashCode()](/Java/EnumSyntax/hashCode)
-* [readResolve()](/Java/EnumSyntax/readResolve)
-* [toString()](/Java/EnumSyntax/toString)
+* [clone()](/Java/EnumSyntax/clone/)
+* [getEnumValueTable()](/Java/EnumSyntax/getEnumValueTable/)
+* [getOffset()](/Java/EnumSyntax/getOffset/)
+* [getStringTable()](/Java/EnumSyntax/getStringTable/)
+* [getValue()](/Java/EnumSyntax/getValue/)
+* [hashCode()](/Java/EnumSyntax/hashCode/)
+* [readResolve()](/Java/EnumSyntax/readResolve/)
+* [toString()](/Java/EnumSyntax/toString/)
 
 ## Ejemplo
 ~~~java

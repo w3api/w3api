@@ -18,8 +18,8 @@ public interface DOMImplementationList
 ~~~
 
 ## Métodos
-* [getLength()](/Java/DOMImplementationList/getLength)
-* [item()](/Java/DOMImplementationList/item)
+* [getLength()](/Java/DOMImplementationList/getLength/)
+* [item()](/Java/DOMImplementationList/item/)
 
 ## Ejemplo
 ~~~java

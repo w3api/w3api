@@ -18,9 +18,9 @@ sidebar:
 ~~~
 
 ## Elementos
-* [name](/Java/WebServiceClient/name)
-* [targetNamespace](/Java/WebServiceClient/targetNamespace)
-* [wsdlLocation](/Java/WebServiceClient/wsdlLocation)
+* [name](/Java/WebServiceClient/name/)
+* [targetNamespace](/Java/WebServiceClient/targetNamespace/)
+* [wsdlLocation](/Java/WebServiceClient/wsdlLocation/)
 
 ## Ejemplo
 ~~~java

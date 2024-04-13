@@ -21,11 +21,11 @@ public class DataTruncation extends SQLWarning
 * [DataTruncation()](/Java/DataTruncation/DataTruncation/)
 
 ## Métodos
-* [getDataSize()](/Java/DataTruncation/getDataSize)
-* [getIndex()](/Java/DataTruncation/getIndex)
-* [getParameter()](/Java/DataTruncation/getParameter)
-* [getRead()](/Java/DataTruncation/getRead)
-* [getTransferSize()](/Java/DataTruncation/getTransferSize)
+* [getDataSize()](/Java/DataTruncation/getDataSize/)
+* [getIndex()](/Java/DataTruncation/getIndex/)
+* [getParameter()](/Java/DataTruncation/getParameter/)
+* [getRead()](/Java/DataTruncation/getRead/)
+* [getTransferSize()](/Java/DataTruncation/getTransferSize/)
 
 ## Ejemplo
 ~~~java

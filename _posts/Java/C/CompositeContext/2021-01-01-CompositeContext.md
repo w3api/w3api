@@ -18,8 +18,8 @@ public interface CompositeContext
 ~~~
 
 ## Métodos
-* [compose()](/Java/CompositeContext/compose)
-* [dispose()](/Java/CompositeContext/dispose)
+* [compose()](/Java/CompositeContext/compose/)
+* [dispose()](/Java/CompositeContext/dispose/)
 
 ## Ejemplo
 ~~~java

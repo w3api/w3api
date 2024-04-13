@@ -21,14 +21,14 @@ public abstract class IntegerBinding extends IntegerExpression implements Number
 * [IntegerBinding()](/Java/IntegerBinding/IntegerBinding/)
 
 ## Métodos
-* [bind()](/Java/IntegerBinding/bind)
-* [computeValue()](/Java/IntegerBinding/computeValue)
-* [dispose()](/Java/IntegerBinding/dispose)
-* [get()](/Java/IntegerBinding/get)
-* [getDependencies()](/Java/IntegerBinding/getDependencies)
-* [onInvalidating()](/Java/IntegerBinding/onInvalidating)
-* [toString()](/Java/IntegerBinding/toString)
-* [unbind()](/Java/IntegerBinding/unbind)
+* [bind()](/Java/IntegerBinding/bind/)
+* [computeValue()](/Java/IntegerBinding/computeValue/)
+* [dispose()](/Java/IntegerBinding/dispose/)
+* [get()](/Java/IntegerBinding/get/)
+* [getDependencies()](/Java/IntegerBinding/getDependencies/)
+* [onInvalidating()](/Java/IntegerBinding/onInvalidating/)
+* [toString()](/Java/IntegerBinding/toString/)
+* [unbind()](/Java/IntegerBinding/unbind/)
 
 ## Ejemplo
 ~~~java

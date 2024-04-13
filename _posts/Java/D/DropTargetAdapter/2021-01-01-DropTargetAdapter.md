@@ -21,10 +21,10 @@ public abstract class DropTargetAdapter extends Object implements DropTargetList
 * [DropTargetAdapter()](/Java/DropTargetAdapter/DropTargetAdapter/)
 
 ## Métodos
-* [dragEnter()](/Java/DropTargetAdapter/dragEnter)
-* [dragExit()](/Java/DropTargetAdapter/dragExit)
-* [dragOver()](/Java/DropTargetAdapter/dragOver)
-* [dropActionChanged()](/Java/DropTargetAdapter/dropActionChanged)
+* [dragEnter()](/Java/DropTargetAdapter/dragEnter/)
+* [dragExit()](/Java/DropTargetAdapter/dragExit/)
+* [dragOver()](/Java/DropTargetAdapter/dragOver/)
+* [dropActionChanged()](/Java/DropTargetAdapter/dropActionChanged/)
 
 ## Ejemplo
 ~~~java

@@ -21,19 +21,19 @@ public class Properties extends Hashtable<Object,Object>
 * [Properties()](/Java/Properties/Properties/)
 
 ## Campos
-* [defaults](/Java/Properties/defaults)
+* [defaults](/Java/Properties/defaults/)
 
 ## Métodos
-* [getProperty()](/Java/Properties/getProperty)
-* [list()](/Java/Properties/list)
-* [load()](/Java/Properties/load)
-* [loadFromXML()](/Java/Properties/loadFromXML)
-* [propertyNames()](/Java/Properties/propertyNames)
-* [save()](/Java/Properties/save)
-* [setProperty()](/Java/Properties/setProperty)
-* [store()](/Java/Properties/store)
-* [storeToXML()](/Java/Properties/storeToXML)
-* [stringPropertyNames()](/Java/Properties/stringPropertyNames)
+* [getProperty()](/Java/Properties/getProperty/)
+* [list()](/Java/Properties/list/)
+* [load()](/Java/Properties/load/)
+* [loadFromXML()](/Java/Properties/loadFromXML/)
+* [propertyNames()](/Java/Properties/propertyNames/)
+* [save()](/Java/Properties/save/)
+* [setProperty()](/Java/Properties/setProperty/)
+* [store()](/Java/Properties/store/)
+* [storeToXML()](/Java/Properties/storeToXML/)
+* [stringPropertyNames()](/Java/Properties/stringPropertyNames/)
 
 ## Ejemplo
 ~~~java

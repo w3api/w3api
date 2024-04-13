@@ -18,10 +18,10 @@ public interface DynEnumOperations extends DynAnyOperations
 ~~~
 
 ## Métodos
-* [get_as_string()](/Java/DynEnumOperations/get_as_string)
-* [get_as_ulong()](/Java/DynEnumOperations/get_as_ulong)
-* [set_as_string()](/Java/DynEnumOperations/set_as_string)
-* [set_as_ulong()](/Java/DynEnumOperations/set_as_ulong)
+* [get_as_string()](/Java/DynEnumOperations/get_as_string/)
+* [get_as_ulong()](/Java/DynEnumOperations/get_as_ulong/)
+* [set_as_string()](/Java/DynEnumOperations/set_as_string/)
+* [set_as_ulong()](/Java/DynEnumOperations/set_as_ulong/)
 
 ## Ejemplo
 ~~~java

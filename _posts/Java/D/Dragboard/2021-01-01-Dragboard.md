@@ -18,13 +18,13 @@ public final class Dragboard extends Clipboard
 ~~~
 
 ## Métodos
-* [getDragView()](/Java/Dragboard/getDragView)
-* [getDragViewOffsetX()](/Java/Dragboard/getDragViewOffsetX)
-* [getDragViewOffsetY()](/Java/Dragboard/getDragViewOffsetY)
-* [getTransferModes()](/Java/Dragboard/getTransferModes)
-* [setDragView()](/Java/Dragboard/setDragView)
-* [setDragViewOffsetX()](/Java/Dragboard/setDragViewOffsetX)
-* [setDragViewOffsetY()](/Java/Dragboard/setDragViewOffsetY)
+* [getDragView()](/Java/Dragboard/getDragView/)
+* [getDragViewOffsetX()](/Java/Dragboard/getDragViewOffsetX/)
+* [getDragViewOffsetY()](/Java/Dragboard/getDragViewOffsetY/)
+* [getTransferModes()](/Java/Dragboard/getTransferModes/)
+* [setDragView()](/Java/Dragboard/setDragView/)
+* [setDragViewOffsetX()](/Java/Dragboard/setDragViewOffsetX/)
+* [setDragViewOffsetY()](/Java/Dragboard/setDragViewOffsetY/)
 
 ## Ejemplo
 ~~~java

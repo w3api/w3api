@@ -21,7 +21,7 @@ public class CompositeDataInvocationHandler extends Object implements Invocation
 * [CompositeDataInvocationHandler()](/Java/CompositeDataInvocationHandler/CompositeDataInvocationHandler/)
 
 ## Métodos
-* [getCompositeData()](/Java/CompositeDataInvocationHandler/getCompositeData)
+* [getCompositeData()](/Java/CompositeDataInvocationHandler/getCompositeData/)
 
 ## Ejemplo
 ~~~java

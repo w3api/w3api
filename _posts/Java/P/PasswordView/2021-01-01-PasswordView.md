@@ -21,12 +21,12 @@ public class PasswordView extends FieldView
 * [PasswordView()](/Java/PasswordView/PasswordView/)
 
 ## Métodos
-* [drawEchoCharacter()](/Java/PasswordView/drawEchoCharacter)
-* [drawSelectedText()](/Java/PasswordView/drawSelectedText)
-* [drawUnselectedText()](/Java/PasswordView/drawUnselectedText)
-* [getPreferredSpan()](/Java/PasswordView/getPreferredSpan)
-* [modelToView()](/Java/PasswordView/modelToView)
-* [viewToModel()](/Java/PasswordView/viewToModel)
+* [drawEchoCharacter()](/Java/PasswordView/drawEchoCharacter/)
+* [drawSelectedText()](/Java/PasswordView/drawSelectedText/)
+* [drawUnselectedText()](/Java/PasswordView/drawUnselectedText/)
+* [getPreferredSpan()](/Java/PasswordView/getPreferredSpan/)
+* [modelToView()](/Java/PasswordView/modelToView/)
+* [viewToModel()](/Java/PasswordView/viewToModel/)
 
 ## Ejemplo
 ~~~java

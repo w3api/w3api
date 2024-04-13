@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [applyAsLong()](/Java/LongBinaryOperator/applyAsLong)
+* [applyAsLong()](/Java/LongBinaryOperator/applyAsLong/)
 
 ## Ejemplo
 ~~~java

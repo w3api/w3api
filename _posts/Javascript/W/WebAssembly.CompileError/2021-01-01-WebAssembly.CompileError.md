@@ -21,16 +21,16 @@ WebAssembly.CompileError
 * [WebAssembly.CompileError()](/Javascript/WebAssembly/CompileError/WebAssembly/CompileError/)
 
 ## Propiedades
-* [message](/Javascript/WebAssembly/CompileError/message)
-* [name](/Javascript/WebAssembly/CompileError/name)
-* [fileName](/Javascript/WebAssembly/CompileError/fileName)
-* [lineNumber](/Javascript/WebAssembly/CompileError/lineNumber)
-* [columnNumber](/Javascript/WebAssembly/CompileError/columnNumber)
-* [stack](/Javascript/WebAssembly/CompileError/stack)
+* [message](/Javascript/WebAssembly/CompileError/message/)
+* [name](/Javascript/WebAssembly/CompileError/name/)
+* [fileName](/Javascript/WebAssembly/CompileError/fileName/)
+* [lineNumber](/Javascript/WebAssembly/CompileError/lineNumber/)
+* [columnNumber](/Javascript/WebAssembly/CompileError/columnNumber/)
+* [stack](/Javascript/WebAssembly/CompileError/stack/)
 
 ## Métodos
-* [toSource()](/Javascript/WebAssembly/CompileError/toSource)
-* [toString()](/Javascript/WebAssembly/CompileError/toString)
+* [toSource()](/Javascript/WebAssembly/CompileError/toSource/)
+* [toString()](/Javascript/WebAssembly/CompileError/toString/)
 
 ## Ejemplo
 ~~~java

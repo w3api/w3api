@@ -18,9 +18,9 @@ public interface PopupMenuListener extends EventListener
 ~~~
 
 ## Métodos
-* [popupMenuCanceled()](/Java/PopupMenuListener/popupMenuCanceled)
-* [popupMenuWillBecomeInvisible()](/Java/PopupMenuListener/popupMenuWillBecomeInvisible)
-* [popupMenuWillBecomeVisible()](/Java/PopupMenuListener/popupMenuWillBecomeVisible)
+* [popupMenuCanceled()](/Java/PopupMenuListener/popupMenuCanceled/)
+* [popupMenuWillBecomeInvisible()](/Java/PopupMenuListener/popupMenuWillBecomeInvisible/)
+* [popupMenuWillBecomeVisible()](/Java/PopupMenuListener/popupMenuWillBecomeVisible/)
 
 ## Ejemplo
 ~~~java

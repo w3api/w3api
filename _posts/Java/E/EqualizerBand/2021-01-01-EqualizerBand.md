@@ -21,19 +21,19 @@ public final class EqualizerBand extends Object
 * [EqualizerBand()](/Java/EqualizerBand/EqualizerBand/)
 
 ## Campos
-* [MAX_GAIN](/Java/EqualizerBand/MAX_GAIN)
-* [MIN_GAIN](/Java/EqualizerBand/MIN_GAIN)
+* [MAX_GAIN](/Java/EqualizerBand/MAX_GAIN/)
+* [MIN_GAIN](/Java/EqualizerBand/MIN_GAIN/)
 
 ## Métodos
-* [bandwidthProperty()](/Java/EqualizerBand/bandwidthProperty)
-* [centerFrequencyProperty()](/Java/EqualizerBand/centerFrequencyProperty)
-* [gainProperty()](/Java/EqualizerBand/gainProperty)
-* [getBandwidth()](/Java/EqualizerBand/getBandwidth)
-* [getCenterFrequency()](/Java/EqualizerBand/getCenterFrequency)
-* [getGain()](/Java/EqualizerBand/getGain)
-* [setBandwidth()](/Java/EqualizerBand/setBandwidth)
-* [setCenterFrequency()](/Java/EqualizerBand/setCenterFrequency)
-* [setGain()](/Java/EqualizerBand/setGain)
+* [bandwidthProperty()](/Java/EqualizerBand/bandwidthProperty/)
+* [centerFrequencyProperty()](/Java/EqualizerBand/centerFrequencyProperty/)
+* [gainProperty()](/Java/EqualizerBand/gainProperty/)
+* [getBandwidth()](/Java/EqualizerBand/getBandwidth/)
+* [getCenterFrequency()](/Java/EqualizerBand/getCenterFrequency/)
+* [getGain()](/Java/EqualizerBand/getGain/)
+* [setBandwidth()](/Java/EqualizerBand/setBandwidth/)
+* [setCenterFrequency()](/Java/EqualizerBand/setCenterFrequency/)
+* [setGain()](/Java/EqualizerBand/setGain/)
 
 ## Ejemplo
 ~~~java

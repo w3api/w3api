@@ -18,23 +18,23 @@ public interface ImageConsumer
 ~~~
 
 ## Campos
-* [COMPLETESCANLINES](/Java/ImageConsumer/COMPLETESCANLINES)
-* [IMAGEABORTED](/Java/ImageConsumer/IMAGEABORTED)
-* [IMAGEERROR](/Java/ImageConsumer/IMAGEERROR)
-* [RANDOMPIXELORDER](/Java/ImageConsumer/RANDOMPIXELORDER)
-* [SINGLEFRAME](/Java/ImageConsumer/SINGLEFRAME)
-* [SINGLEFRAMEDONE](/Java/ImageConsumer/SINGLEFRAMEDONE)
-* [SINGLEPASS](/Java/ImageConsumer/SINGLEPASS)
-* [STATICIMAGEDONE](/Java/ImageConsumer/STATICIMAGEDONE)
-* [TOPDOWNLEFTRIGHT](/Java/ImageConsumer/TOPDOWNLEFTRIGHT)
+* [COMPLETESCANLINES](/Java/ImageConsumer/COMPLETESCANLINES/)
+* [IMAGEABORTED](/Java/ImageConsumer/IMAGEABORTED/)
+* [IMAGEERROR](/Java/ImageConsumer/IMAGEERROR/)
+* [RANDOMPIXELORDER](/Java/ImageConsumer/RANDOMPIXELORDER/)
+* [SINGLEFRAME](/Java/ImageConsumer/SINGLEFRAME/)
+* [SINGLEFRAMEDONE](/Java/ImageConsumer/SINGLEFRAMEDONE/)
+* [SINGLEPASS](/Java/ImageConsumer/SINGLEPASS/)
+* [STATICIMAGEDONE](/Java/ImageConsumer/STATICIMAGEDONE/)
+* [TOPDOWNLEFTRIGHT](/Java/ImageConsumer/TOPDOWNLEFTRIGHT/)
 
 ## Métodos
-* [imageComplete()](/Java/ImageConsumer/imageComplete)
-* [setColorModel()](/Java/ImageConsumer/setColorModel)
-* [setDimensions()](/Java/ImageConsumer/setDimensions)
-* [setHints()](/Java/ImageConsumer/setHints)
-* [setPixels()](/Java/ImageConsumer/setPixels)
-* [setProperties()](/Java/ImageConsumer/setProperties)
+* [imageComplete()](/Java/ImageConsumer/imageComplete/)
+* [setColorModel()](/Java/ImageConsumer/setColorModel/)
+* [setDimensions()](/Java/ImageConsumer/setDimensions/)
+* [setHints()](/Java/ImageConsumer/setHints/)
+* [setPixels()](/Java/ImageConsumer/setPixels/)
+* [setProperties()](/Java/ImageConsumer/setProperties/)
 
 ## Ejemplo
 ~~~java

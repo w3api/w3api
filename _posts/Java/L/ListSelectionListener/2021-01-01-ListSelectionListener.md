@@ -18,7 +18,7 @@ public interface ListSelectionListener extends EventListener
 ~~~
 
 ## Métodos
-* [valueChanged()](/Java/ListSelectionListener/valueChanged)
+* [valueChanged()](/Java/ListSelectionListener/valueChanged/)
 
 ## Ejemplo
 ~~~java

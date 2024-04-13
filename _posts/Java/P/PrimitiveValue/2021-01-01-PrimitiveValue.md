@@ -18,14 +18,14 @@ public interface PrimitiveValue extends Value
 ~~~
 
 ## Métodos
-* [booleanValue()](/Java/PrimitiveValue/booleanValue)
-* [byteValue()](/Java/PrimitiveValue/byteValue)
-* [charValue()](/Java/PrimitiveValue/charValue)
-* [doubleValue()](/Java/PrimitiveValue/doubleValue)
-* [floatValue()](/Java/PrimitiveValue/floatValue)
-* [intValue()](/Java/PrimitiveValue/intValue)
-* [longValue()](/Java/PrimitiveValue/longValue)
-* [shortValue()](/Java/PrimitiveValue/shortValue)
+* [booleanValue()](/Java/PrimitiveValue/booleanValue/)
+* [byteValue()](/Java/PrimitiveValue/byteValue/)
+* [charValue()](/Java/PrimitiveValue/charValue/)
+* [doubleValue()](/Java/PrimitiveValue/doubleValue/)
+* [floatValue()](/Java/PrimitiveValue/floatValue/)
+* [intValue()](/Java/PrimitiveValue/intValue/)
+* [longValue()](/Java/PrimitiveValue/longValue/)
+* [shortValue()](/Java/PrimitiveValue/shortValue/)
 
 ## Ejemplo
 ~~~java

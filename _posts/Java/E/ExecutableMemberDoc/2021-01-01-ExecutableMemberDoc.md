@@ -18,19 +18,19 @@ sidebar:
 ~~~
 
 ## Métodos
-* [flatSignature()](/Java/ExecutableMemberDoc/flatSignature)
-* [isNative()](/Java/ExecutableMemberDoc/isNative)
-* [isSynchronized()](/Java/ExecutableMemberDoc/isSynchronized)
-* [isVarArgs()](/Java/ExecutableMemberDoc/isVarArgs)
-* [parameters()](/Java/ExecutableMemberDoc/parameters)
-* [paramTags()](/Java/ExecutableMemberDoc/paramTags)
-* [receiverType()](/Java/ExecutableMemberDoc/receiverType)
-* [signature()](/Java/ExecutableMemberDoc/signature)
-* [thrownExceptions()](/Java/ExecutableMemberDoc/thrownExceptions)
-* [thrownExceptionTypes()](/Java/ExecutableMemberDoc/thrownExceptionTypes)
-* [throwsTags()](/Java/ExecutableMemberDoc/throwsTags)
-* [typeParameters()](/Java/ExecutableMemberDoc/typeParameters)
-* [typeParamTags()](/Java/ExecutableMemberDoc/typeParamTags)
+* [flatSignature()](/Java/ExecutableMemberDoc/flatSignature/)
+* [isNative()](/Java/ExecutableMemberDoc/isNative/)
+* [isSynchronized()](/Java/ExecutableMemberDoc/isSynchronized/)
+* [isVarArgs()](/Java/ExecutableMemberDoc/isVarArgs/)
+* [parameters()](/Java/ExecutableMemberDoc/parameters/)
+* [paramTags()](/Java/ExecutableMemberDoc/paramTags/)
+* [receiverType()](/Java/ExecutableMemberDoc/receiverType/)
+* [signature()](/Java/ExecutableMemberDoc/signature/)
+* [thrownExceptions()](/Java/ExecutableMemberDoc/thrownExceptions/)
+* [thrownExceptionTypes()](/Java/ExecutableMemberDoc/thrownExceptionTypes/)
+* [throwsTags()](/Java/ExecutableMemberDoc/throwsTags/)
+* [typeParameters()](/Java/ExecutableMemberDoc/typeParameters/)
+* [typeParamTags()](/Java/ExecutableMemberDoc/typeParamTags/)
 
 ## Ejemplo
 ~~~java

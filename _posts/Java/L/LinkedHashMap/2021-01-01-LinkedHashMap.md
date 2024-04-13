@@ -21,12 +21,12 @@ public class LinkedHashMap<K,V> extends HashMap<K,V> implements Map<K,V>
 * [LinkedHashMap()](/Java/LinkedHashMap/LinkedHashMap/)
 
 ## Métodos
-* [containsValue()](/Java/LinkedHashMap/containsValue)
-* [entrySet()](/Java/LinkedHashMap/entrySet)
-* [get()](/Java/LinkedHashMap/get)
-* [keySet()](/Java/LinkedHashMap/keySet)
-* [removeEldestEntry()](/Java/LinkedHashMap/removeEldestEntry)
-* [values()](/Java/LinkedHashMap/values)
+* [containsValue()](/Java/LinkedHashMap/containsValue/)
+* [entrySet()](/Java/LinkedHashMap/entrySet/)
+* [get()](/Java/LinkedHashMap/get/)
+* [keySet()](/Java/LinkedHashMap/keySet/)
+* [removeEldestEntry()](/Java/LinkedHashMap/removeEldestEntry/)
+* [values()](/Java/LinkedHashMap/values/)
 
 ## Ejemplo
 ~~~java

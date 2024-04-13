@@ -18,23 +18,23 @@ public final class DecimalStyle extends Object
 ~~~
 
 ## Campos
-* [STANDARD](/Java/DecimalStyle/STANDARD)
+* [STANDARD](/Java/DecimalStyle/STANDARD/)
 
 ## Métodos
-* [equals()](/Java/DecimalStyle/equals)
-* [getAvailableLocales()](/Java/DecimalStyle/getAvailableLocales)
-* [getDecimalSeparator()](/Java/DecimalStyle/getDecimalSeparator)
-* [getNegativeSign()](/Java/DecimalStyle/getNegativeSign)
-* [getPositiveSign()](/Java/DecimalStyle/getPositiveSign)
-* [getZeroDigit()](/Java/DecimalStyle/getZeroDigit)
-* [hashCode()](/Java/DecimalStyle/hashCode)
-* [of()](/Java/DecimalStyle/of)
-* [ofDefaultLocale()](/Java/DecimalStyle/ofDefaultLocale)
-* [toString()](/Java/DecimalStyle/toString)
-* [withDecimalSeparator()](/Java/DecimalStyle/withDecimalSeparator)
-* [withNegativeSign()](/Java/DecimalStyle/withNegativeSign)
-* [withPositiveSign()](/Java/DecimalStyle/withPositiveSign)
-* [withZeroDigit()](/Java/DecimalStyle/withZeroDigit)
+* [equals()](/Java/DecimalStyle/equals/)
+* [getAvailableLocales()](/Java/DecimalStyle/getAvailableLocales/)
+* [getDecimalSeparator()](/Java/DecimalStyle/getDecimalSeparator/)
+* [getNegativeSign()](/Java/DecimalStyle/getNegativeSign/)
+* [getPositiveSign()](/Java/DecimalStyle/getPositiveSign/)
+* [getZeroDigit()](/Java/DecimalStyle/getZeroDigit/)
+* [hashCode()](/Java/DecimalStyle/hashCode/)
+* [of()](/Java/DecimalStyle/of/)
+* [ofDefaultLocale()](/Java/DecimalStyle/ofDefaultLocale/)
+* [toString()](/Java/DecimalStyle/toString/)
+* [withDecimalSeparator()](/Java/DecimalStyle/withDecimalSeparator/)
+* [withNegativeSign()](/Java/DecimalStyle/withNegativeSign/)
+* [withPositiveSign()](/Java/DecimalStyle/withPositiveSign/)
+* [withZeroDigit()](/Java/DecimalStyle/withZeroDigit/)
 
 ## Ejemplo
 ~~~java

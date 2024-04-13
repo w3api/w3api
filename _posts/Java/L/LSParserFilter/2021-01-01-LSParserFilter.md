@@ -18,15 +18,15 @@ public interface LSParserFilter
 ~~~
 
 ## Campos
-* [FILTER_ACCEPT](/Java/LSParserFilter/FILTER_ACCEPT)
-* [FILTER_INTERRUPT](/Java/LSParserFilter/FILTER_INTERRUPT)
-* [FILTER_REJECT](/Java/LSParserFilter/FILTER_REJECT)
-* [FILTER_SKIP](/Java/LSParserFilter/FILTER_SKIP)
+* [FILTER_ACCEPT](/Java/LSParserFilter/FILTER_ACCEPT/)
+* [FILTER_INTERRUPT](/Java/LSParserFilter/FILTER_INTERRUPT/)
+* [FILTER_REJECT](/Java/LSParserFilter/FILTER_REJECT/)
+* [FILTER_SKIP](/Java/LSParserFilter/FILTER_SKIP/)
 
 ## Métodos
-* [acceptNode()](/Java/LSParserFilter/acceptNode)
-* [getWhatToShow()](/Java/LSParserFilter/getWhatToShow)
-* [startElement()](/Java/LSParserFilter/startElement)
+* [acceptNode()](/Java/LSParserFilter/acceptNode/)
+* [getWhatToShow()](/Java/LSParserFilter/getWhatToShow/)
+* [startElement()](/Java/LSParserFilter/startElement/)
 
 ## Ejemplo
 ~~~java

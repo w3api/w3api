@@ -21,9 +21,9 @@ public final class PrinterName extends TextSyntax implements PrintServiceAttribu
 * [PrinterName()](/Java/PrinterName/PrinterName/)
 
 ## Métodos
-* [equals()](/Java/PrinterName/equals)
-* [getCategory()](/Java/PrinterName/getCategory)
-* [getName()](/Java/PrinterName/getName)
+* [equals()](/Java/PrinterName/equals/)
+* [getCategory()](/Java/PrinterName/getCategory/)
+* [getName()](/Java/PrinterName/getName/)
 
 ## Ejemplo
 ~~~java

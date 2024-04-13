@@ -18,7 +18,7 @@ public static final class PaintConverter.RepeatingImagePatternConverter extends 
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/PaintConverter/RepeatingImagePatternConverter/getInstance)
+* [getInstance()](/Java/PaintConverter/RepeatingImagePatternConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

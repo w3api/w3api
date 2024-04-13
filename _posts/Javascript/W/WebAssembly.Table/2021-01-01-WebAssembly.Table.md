@@ -21,12 +21,12 @@ WebAssembly.Table
 * [WebAssembly.Table()](/Javascript/WebAssembly/Table/WebAssembly/Table/)
 
 ## Propiedades
-* [Table.prototype.length](/Javascript/WebAssembly/Table/Table.prototype.length)
+* [Table.prototype.length](/Javascript/WebAssembly/Table/Table.prototype.length/)
 
 ## Métodos
-* [get()](/Javascript/WebAssembly/Table/get)
-* [grow()](/Javascript/WebAssembly/Table/grow)
-* [set()](/Javascript/WebAssembly/Table/set)
+* [get()](/Javascript/WebAssembly/Table/get/)
+* [grow()](/Javascript/WebAssembly/Table/grow/)
+* [set()](/Javascript/WebAssembly/Table/set/)
 
 ## Ejemplo
 ~~~java

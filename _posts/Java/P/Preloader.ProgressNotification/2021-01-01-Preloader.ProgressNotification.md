@@ -21,7 +21,7 @@ public static class Preloader.ProgressNotification extends Object implements Pre
 * [Preloader.ProgressNotification()](/Java/Preloader/ProgressNotification/Preloader/ProgressNotification/)
 
 ## Métodos
-* [getProgress()](/Java/Preloader/ProgressNotification/getProgress)
+* [getProgress()](/Java/Preloader/ProgressNotification/getProgress/)
 
 ## Ejemplo
 ~~~java

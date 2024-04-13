@@ -21,9 +21,9 @@ public class BasicToggleButtonUI extends BasicButtonUI
 * [BasicToggleButtonUI()](/Java/BasicToggleButtonUI/BasicToggleButtonUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicToggleButtonUI/createUI)
-* [getTextShiftOffset()](/Java/BasicToggleButtonUI/getTextShiftOffset)
-* [paintIcon()](/Java/BasicToggleButtonUI/paintIcon)
+* [createUI()](/Java/BasicToggleButtonUI/createUI/)
+* [getTextShiftOffset()](/Java/BasicToggleButtonUI/getTextShiftOffset/)
+* [paintIcon()](/Java/BasicToggleButtonUI/paintIcon/)
 
 ## Ejemplo
 ~~~java

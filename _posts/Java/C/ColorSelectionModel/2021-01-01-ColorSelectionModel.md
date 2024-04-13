@@ -18,10 +18,10 @@ public interface ColorSelectionModel
 ~~~
 
 ## Métodos
-* [addChangeListener()](/Java/ColorSelectionModel/addChangeListener)
-* [getSelectedColor()](/Java/ColorSelectionModel/getSelectedColor)
-* [removeChangeListener()](/Java/ColorSelectionModel/removeChangeListener)
-* [setSelectedColor()](/Java/ColorSelectionModel/setSelectedColor)
+* [addChangeListener()](/Java/ColorSelectionModel/addChangeListener/)
+* [getSelectedColor()](/Java/ColorSelectionModel/getSelectedColor/)
+* [removeChangeListener()](/Java/ColorSelectionModel/removeChangeListener/)
+* [setSelectedColor()](/Java/ColorSelectionModel/setSelectedColor/)
 
 ## Ejemplo
 ~~~java

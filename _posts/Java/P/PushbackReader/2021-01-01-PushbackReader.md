@@ -21,14 +21,14 @@ public class PushbackReader extends FilterReader
 * [PushbackReader()](/Java/PushbackReader/PushbackReader/)
 
 ## Métodos
-* [close()](/Java/PushbackReader/close)
-* [mark()](/Java/PushbackReader/mark)
-* [markSupported()](/Java/PushbackReader/markSupported)
-* [read()](/Java/PushbackReader/read)
-* [ready()](/Java/PushbackReader/ready)
-* [reset()](/Java/PushbackReader/reset)
-* [skip()](/Java/PushbackReader/skip)
-* [unread()](/Java/PushbackReader/unread)
+* [close()](/Java/PushbackReader/close/)
+* [mark()](/Java/PushbackReader/mark/)
+* [markSupported()](/Java/PushbackReader/markSupported/)
+* [read()](/Java/PushbackReader/read/)
+* [ready()](/Java/PushbackReader/ready/)
+* [reset()](/Java/PushbackReader/reset/)
+* [skip()](/Java/PushbackReader/skip/)
+* [unread()](/Java/PushbackReader/unread/)
 
 ## Ejemplo
 ~~~java

@@ -21,18 +21,18 @@ public class InputContext extends Object
 * [InputContext()](/Java/InputContext/InputContext/)
 
 ## Métodos
-* [dispatchEvent()](/Java/InputContext/dispatchEvent)
-* [dispose()](/Java/InputContext/dispose)
-* [endComposition()](/Java/InputContext/endComposition)
-* [getInputMethodControlObject()](/Java/InputContext/getInputMethodControlObject)
-* [getInstance()](/Java/InputContext/getInstance)
-* [getLocale()](/Java/InputContext/getLocale)
-* [isCompositionEnabled()](/Java/InputContext/isCompositionEnabled)
-* [reconvert()](/Java/InputContext/reconvert)
-* [removeNotify()](/Java/InputContext/removeNotify)
-* [selectInputMethod()](/Java/InputContext/selectInputMethod)
-* [setCharacterSubsets()](/Java/InputContext/setCharacterSubsets)
-* [setCompositionEnabled()](/Java/InputContext/setCompositionEnabled)
+* [dispatchEvent()](/Java/InputContext/dispatchEvent/)
+* [dispose()](/Java/InputContext/dispose/)
+* [endComposition()](/Java/InputContext/endComposition/)
+* [getInputMethodControlObject()](/Java/InputContext/getInputMethodControlObject/)
+* [getInstance()](/Java/InputContext/getInstance/)
+* [getLocale()](/Java/InputContext/getLocale/)
+* [isCompositionEnabled()](/Java/InputContext/isCompositionEnabled/)
+* [reconvert()](/Java/InputContext/reconvert/)
+* [removeNotify()](/Java/InputContext/removeNotify/)
+* [selectInputMethod()](/Java/InputContext/selectInputMethod/)
+* [setCharacterSubsets()](/Java/InputContext/setCharacterSubsets/)
+* [setCompositionEnabled()](/Java/InputContext/setCompositionEnabled/)
 
 ## Ejemplo
 ~~~java

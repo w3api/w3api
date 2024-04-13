@@ -21,13 +21,13 @@ public abstract class CommandMap extends Object
 * [CommandMap()](/Java/CommandMap/CommandMap/)
 
 ## Métodos
-* [createDataContentHandler()](/Java/CommandMap/createDataContentHandler)
-* [getAllCommands()](/Java/CommandMap/getAllCommands)
-* [getCommand()](/Java/CommandMap/getCommand)
-* [getDefaultCommandMap()](/Java/CommandMap/getDefaultCommandMap)
-* [getMimeTypes()](/Java/CommandMap/getMimeTypes)
-* [getPreferredCommands()](/Java/CommandMap/getPreferredCommands)
-* [setDefaultCommandMap()](/Java/CommandMap/setDefaultCommandMap)
+* [createDataContentHandler()](/Java/CommandMap/createDataContentHandler/)
+* [getAllCommands()](/Java/CommandMap/getAllCommands/)
+* [getCommand()](/Java/CommandMap/getCommand/)
+* [getDefaultCommandMap()](/Java/CommandMap/getDefaultCommandMap/)
+* [getMimeTypes()](/Java/CommandMap/getMimeTypes/)
+* [getPreferredCommands()](/Java/CommandMap/getPreferredCommands/)
+* [setDefaultCommandMap()](/Java/CommandMap/setDefaultCommandMap/)
 
 ## Ejemplo
 ~~~java

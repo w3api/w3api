@@ -21,15 +21,15 @@ public class DropTargetDragEvent extends DropTargetEvent
 * [DropTargetDragEvent()](/Java/DropTargetDragEvent/DropTargetDragEvent/)
 
 ## Métodos
-* [acceptDrag()](/Java/DropTargetDragEvent/acceptDrag)
-* [getCurrentDataFlavors()](/Java/DropTargetDragEvent/getCurrentDataFlavors)
-* [getCurrentDataFlavorsAsList()](/Java/DropTargetDragEvent/getCurrentDataFlavorsAsList)
-* [getDropAction()](/Java/DropTargetDragEvent/getDropAction)
-* [getLocation()](/Java/DropTargetDragEvent/getLocation)
-* [getSourceActions()](/Java/DropTargetDragEvent/getSourceActions)
-* [getTransferable()](/Java/DropTargetDragEvent/getTransferable)
-* [isDataFlavorSupported()](/Java/DropTargetDragEvent/isDataFlavorSupported)
-* [rejectDrag()](/Java/DropTargetDragEvent/rejectDrag)
+* [acceptDrag()](/Java/DropTargetDragEvent/acceptDrag/)
+* [getCurrentDataFlavors()](/Java/DropTargetDragEvent/getCurrentDataFlavors/)
+* [getCurrentDataFlavorsAsList()](/Java/DropTargetDragEvent/getCurrentDataFlavorsAsList/)
+* [getDropAction()](/Java/DropTargetDragEvent/getDropAction/)
+* [getLocation()](/Java/DropTargetDragEvent/getLocation/)
+* [getSourceActions()](/Java/DropTargetDragEvent/getSourceActions/)
+* [getTransferable()](/Java/DropTargetDragEvent/getTransferable/)
+* [isDataFlavorSupported()](/Java/DropTargetDragEvent/isDataFlavorSupported/)
+* [rejectDrag()](/Java/DropTargetDragEvent/rejectDrag/)
 
 ## Ejemplo
 ~~~java

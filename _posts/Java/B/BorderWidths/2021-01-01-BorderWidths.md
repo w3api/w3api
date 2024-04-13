@@ -21,20 +21,20 @@ public final class BorderWidths extends Object
 * [BorderWidths()](/Java/BorderWidths/BorderWidths/)
 
 ## Campos
-* [AUTO](/Java/BorderWidths/AUTO)
-* [DEFAULT](/Java/BorderWidths/DEFAULT)
-* [EMPTY](/Java/BorderWidths/EMPTY)
-* [FULL](/Java/BorderWidths/FULL)
+* [AUTO](/Java/BorderWidths/AUTO/)
+* [DEFAULT](/Java/BorderWidths/DEFAULT/)
+* [EMPTY](/Java/BorderWidths/EMPTY/)
+* [FULL](/Java/BorderWidths/FULL/)
 
 ## Métodos
-* [getBottom()](/Java/BorderWidths/getBottom)
-* [getLeft()](/Java/BorderWidths/getLeft)
-* [getRight()](/Java/BorderWidths/getRight)
-* [getTop()](/Java/BorderWidths/getTop)
-* [isBottomAsPercentage()](/Java/BorderWidths/isBottomAsPercentage)
-* [isLeftAsPercentage()](/Java/BorderWidths/isLeftAsPercentage)
-* [isRightAsPercentage()](/Java/BorderWidths/isRightAsPercentage)
-* [isTopAsPercentage()](/Java/BorderWidths/isTopAsPercentage)
+* [getBottom()](/Java/BorderWidths/getBottom/)
+* [getLeft()](/Java/BorderWidths/getLeft/)
+* [getRight()](/Java/BorderWidths/getRight/)
+* [getTop()](/Java/BorderWidths/getTop/)
+* [isBottomAsPercentage()](/Java/BorderWidths/isBottomAsPercentage/)
+* [isLeftAsPercentage()](/Java/BorderWidths/isLeftAsPercentage/)
+* [isRightAsPercentage()](/Java/BorderWidths/isRightAsPercentage/)
+* [isTopAsPercentage()](/Java/BorderWidths/isTopAsPercentage/)
 
 ## Ejemplo
 ~~~java

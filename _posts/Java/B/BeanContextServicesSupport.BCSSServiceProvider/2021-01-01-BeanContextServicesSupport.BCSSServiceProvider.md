@@ -18,10 +18,10 @@ protected static class BeanContextServicesSupport.BCSSServiceProvider extends Ob
 ~~~
 
 ## Campos
-* [serviceProvider](/Java/BeanContextServicesSupport/BCSSServiceProvider/serviceProvider)
+* [serviceProvider](/Java/BeanContextServicesSupport/BCSSServiceProvider/serviceProvider/)
 
 ## Métodos
-* [getServiceProvider()](/Java/BeanContextServicesSupport/BCSSServiceProvider/getServiceProvider)
+* [getServiceProvider()](/Java/BeanContextServicesSupport/BCSSServiceProvider/getServiceProvider/)
 
 ## Ejemplo
 ~~~java

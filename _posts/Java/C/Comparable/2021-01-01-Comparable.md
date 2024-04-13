@@ -18,7 +18,7 @@ public interface Comparable<T>
 ~~~
 
 ## Métodos
-* [compareTo()](/Java/Comparable/compareTo)
+* [compareTo()](/Java/Comparable/compareTo/)
 
 ## Ejemplo
 ~~~java

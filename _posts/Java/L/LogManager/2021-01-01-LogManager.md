@@ -21,21 +21,21 @@ public class LogManager extends Object
 * [LogManager()](/Java/LogManager/LogManager/)
 
 ## Campos
-* [LOGGING_MXBEAN_NAME](/Java/LogManager/LOGGING_MXBEAN_NAME)
+* [LOGGING_MXBEAN_NAME](/Java/LogManager/LOGGING_MXBEAN_NAME/)
 
 ## Métodos
-* [addConfigurationListener()](/Java/LogManager/addConfigurationListener)
-* [addLogger()](/Java/LogManager/addLogger)
-* [checkAccess()](/Java/LogManager/checkAccess)
-* [getLogger()](/Java/LogManager/getLogger)
-* [getLoggerNames()](/Java/LogManager/getLoggerNames)
-* [getLoggingMXBean()](/Java/LogManager/getLoggingMXBean)
-* [getLogManager()](/Java/LogManager/getLogManager)
-* [getProperty()](/Java/LogManager/getProperty)
-* [readConfiguration()](/Java/LogManager/readConfiguration)
-* [removeConfigurationListener()](/Java/LogManager/removeConfigurationListener)
-* [reset()](/Java/LogManager/reset)
-* [updateConfiguration()](/Java/LogManager/updateConfiguration)
+* [addConfigurationListener()](/Java/LogManager/addConfigurationListener/)
+* [addLogger()](/Java/LogManager/addLogger/)
+* [checkAccess()](/Java/LogManager/checkAccess/)
+* [getLogger()](/Java/LogManager/getLogger/)
+* [getLoggerNames()](/Java/LogManager/getLoggerNames/)
+* [getLoggingMXBean()](/Java/LogManager/getLoggingMXBean/)
+* [getLogManager()](/Java/LogManager/getLogManager/)
+* [getProperty()](/Java/LogManager/getProperty/)
+* [readConfiguration()](/Java/LogManager/readConfiguration/)
+* [removeConfigurationListener()](/Java/LogManager/removeConfigurationListener/)
+* [reset()](/Java/LogManager/reset/)
+* [updateConfiguration()](/Java/LogManager/updateConfiguration/)
 
 ## Ejemplo
 ~~~java

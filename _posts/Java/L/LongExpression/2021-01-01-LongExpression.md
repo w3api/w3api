@@ -21,8 +21,8 @@ public abstract class LongExpression extends NumberExpressionBase implements Obs
 * [LongExpression()](/Java/LongExpression/LongExpression/)
 
 ## Métodos
-* [asObject()](/Java/LongExpression/asObject)
-* [longExpression()](/Java/LongExpression/longExpression)
+* [asObject()](/Java/LongExpression/asObject/)
+* [longExpression()](/Java/LongExpression/longExpression/)
 
 ## Ejemplo
 ~~~java

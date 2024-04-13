@@ -18,10 +18,10 @@ public interface Characters extends XMLEvent
 ~~~
 
 ## Métodos
-* [getData()](/Java/Characters/getData)
-* [isCData()](/Java/Characters/isCData)
-* [isIgnorableWhiteSpace()](/Java/Characters/isIgnorableWhiteSpace)
-* [isWhiteSpace()](/Java/Characters/isWhiteSpace)
+* [getData()](/Java/Characters/getData/)
+* [isCData()](/Java/Characters/isCData/)
+* [isIgnorableWhiteSpace()](/Java/Characters/isIgnorableWhiteSpace/)
+* [isWhiteSpace()](/Java/Characters/isWhiteSpace/)
 
 ## Ejemplo
 ~~~java

@@ -18,11 +18,11 @@ public class LockSupport extends Object
 ~~~
 
 ## Métodos
-* [getBlocker()](/Java/LockSupport/getBlocker)
-* [park()](/Java/LockSupport/park)
-* [parkNanos()](/Java/LockSupport/parkNanos)
-* [parkUntil()](/Java/LockSupport/parkUntil)
-* [unpark()](/Java/LockSupport/unpark)
+* [getBlocker()](/Java/LockSupport/getBlocker/)
+* [park()](/Java/LockSupport/park/)
+* [parkNanos()](/Java/LockSupport/parkNanos/)
+* [parkUntil()](/Java/LockSupport/parkUntil/)
+* [unpark()](/Java/LockSupport/unpark/)
 
 ## Ejemplo
 ~~~java

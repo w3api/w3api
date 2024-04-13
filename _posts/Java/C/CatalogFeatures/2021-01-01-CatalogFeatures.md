@@ -18,9 +18,9 @@ public class CatalogFeatures extends Object
 ~~~
 
 ## Métodos
-* [builder()](/Java/CatalogFeatures/builder)
-* [defaults()](/Java/CatalogFeatures/defaults)
-* [get()](/Java/CatalogFeatures/get)
+* [builder()](/Java/CatalogFeatures/builder/)
+* [defaults()](/Java/CatalogFeatures/defaults/)
+* [get()](/Java/CatalogFeatures/get/)
 
 ## Ejemplo
 ~~~java

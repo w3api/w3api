@@ -21,9 +21,9 @@ public final class Permissions extends PermissionCollection implements Serializa
 * [Permissions()](/Java/Permissions/Permissions/)
 
 ## Métodos
-* [add()](/Java/Permissions/add)
-* [elements()](/Java/Permissions/elements)
-* [implies()](/Java/Permissions/implies)
+* [add()](/Java/Permissions/add/)
+* [elements()](/Java/Permissions/elements/)
+* [implies()](/Java/Permissions/implies/)
 
 ## Ejemplo
 ~~~java

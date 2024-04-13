@@ -18,7 +18,7 @@ public interface BeanContextProxy
 ~~~
 
 ## Métodos
-* [getBeanContextProxy()](/Java/BeanContextProxy/getBeanContextProxy)
+* [getBeanContextProxy()](/Java/BeanContextProxy/getBeanContextProxy/)
 
 ## Ejemplo
 ~~~java

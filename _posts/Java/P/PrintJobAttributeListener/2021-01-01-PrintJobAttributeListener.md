@@ -18,7 +18,7 @@ public interface PrintJobAttributeListener
 ~~~
 
 ## Métodos
-* [attributeUpdate()](/Java/PrintJobAttributeListener/attributeUpdate)
+* [attributeUpdate()](/Java/PrintJobAttributeListener/attributeUpdate/)
 
 ## Ejemplo
 ~~~java

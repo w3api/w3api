@@ -18,8 +18,8 @@ public interface InstanceOfTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getExpression()](/Java/InstanceOfTree-com-sun-source-tree/getExpression)
-* [getType()](/Java/InstanceOfTree-com-sun-source-tree/getType)
+* [getExpression()](/Java/InstanceOfTree-com-sun-source-tree/getExpression/)
+* [getType()](/Java/InstanceOfTree-com-sun-source-tree/getType/)
 
 ## Ejemplo
 ~~~java

@@ -21,20 +21,20 @@ public class BasicMenuBarUI extends MenuBarUI
 * [BasicMenuBarUI()](/Java/BasicMenuBarUI/BasicMenuBarUI/)
 
 ## Campos
-* [changeListener](/Java/BasicMenuBarUI/changeListener)
-* [containerListener](/Java/BasicMenuBarUI/containerListener)
-* [menuBar](/Java/BasicMenuBarUI/menuBar)
+* [changeListener](/Java/BasicMenuBarUI/changeListener/)
+* [containerListener](/Java/BasicMenuBarUI/containerListener/)
+* [menuBar](/Java/BasicMenuBarUI/menuBar/)
 
 ## Métodos
-* [createChangeListener()](/Java/BasicMenuBarUI/createChangeListener)
-* [createContainerListener()](/Java/BasicMenuBarUI/createContainerListener)
-* [createUI()](/Java/BasicMenuBarUI/createUI)
-* [installDefaults()](/Java/BasicMenuBarUI/installDefaults)
-* [installKeyboardActions()](/Java/BasicMenuBarUI/installKeyboardActions)
-* [installListeners()](/Java/BasicMenuBarUI/installListeners)
-* [uninstallDefaults()](/Java/BasicMenuBarUI/uninstallDefaults)
-* [uninstallKeyboardActions()](/Java/BasicMenuBarUI/uninstallKeyboardActions)
-* [uninstallListeners()](/Java/BasicMenuBarUI/uninstallListeners)
+* [createChangeListener()](/Java/BasicMenuBarUI/createChangeListener/)
+* [createContainerListener()](/Java/BasicMenuBarUI/createContainerListener/)
+* [createUI()](/Java/BasicMenuBarUI/createUI/)
+* [installDefaults()](/Java/BasicMenuBarUI/installDefaults/)
+* [installKeyboardActions()](/Java/BasicMenuBarUI/installKeyboardActions/)
+* [installListeners()](/Java/BasicMenuBarUI/installListeners/)
+* [uninstallDefaults()](/Java/BasicMenuBarUI/uninstallDefaults/)
+* [uninstallKeyboardActions()](/Java/BasicMenuBarUI/uninstallKeyboardActions/)
+* [uninstallListeners()](/Java/BasicMenuBarUI/uninstallListeners/)
 
 ## Ejemplo
 ~~~java

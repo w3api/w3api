@@ -21,9 +21,9 @@ public abstract class ComboBoxUI extends ComponentUI
 * [ComboBoxUI()](/Java/ComboBoxUI/ComboBoxUI/)
 
 ## Métodos
-* [isFocusTraversable()](/Java/ComboBoxUI/isFocusTraversable)
-* [isPopupVisible()](/Java/ComboBoxUI/isPopupVisible)
-* [setPopupVisible()](/Java/ComboBoxUI/setPopupVisible)
+* [isFocusTraversable()](/Java/ComboBoxUI/isFocusTraversable/)
+* [isPopupVisible()](/Java/ComboBoxUI/isPopupVisible/)
+* [setPopupVisible()](/Java/ComboBoxUI/setPopupVisible/)
 
 ## Ejemplo
 ~~~java

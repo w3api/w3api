@@ -21,7 +21,7 @@ public class DuplicateFormatFlagsException extends IllegalFormatException
 * [DuplicateFormatFlagsException()](/Java/DuplicateFormatFlagsException/DuplicateFormatFlagsException/)
 
 ## Métodos
-* [getFlags()](/Java/DuplicateFormatFlagsException/getFlags)
+* [getFlags()](/Java/DuplicateFormatFlagsException/getFlags/)
 
 ## Ejemplo
 ~~~java

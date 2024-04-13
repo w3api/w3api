@@ -18,7 +18,7 @@ public class Completions extends Object
 ~~~
 
 ## Métodos
-* [of()](/Java/Completions/of)
+* [of()](/Java/Completions/of/)
 
 ## Ejemplo
 ~~~java

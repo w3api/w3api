@@ -18,11 +18,11 @@ public interface ElementTraversal
 ~~~
 
 ## Métodos
-* [getChildElementCount()](/Java/ElementTraversal/getChildElementCount)
-* [getFirstElementChild()](/Java/ElementTraversal/getFirstElementChild)
-* [getLastElementChild()](/Java/ElementTraversal/getLastElementChild)
-* [getNextElementSibling()](/Java/ElementTraversal/getNextElementSibling)
-* [getPreviousElementSibling()](/Java/ElementTraversal/getPreviousElementSibling)
+* [getChildElementCount()](/Java/ElementTraversal/getChildElementCount/)
+* [getFirstElementChild()](/Java/ElementTraversal/getFirstElementChild/)
+* [getLastElementChild()](/Java/ElementTraversal/getLastElementChild/)
+* [getNextElementSibling()](/Java/ElementTraversal/getNextElementSibling/)
+* [getPreviousElementSibling()](/Java/ElementTraversal/getPreviousElementSibling/)
 
 ## Ejemplo
 ~~~java

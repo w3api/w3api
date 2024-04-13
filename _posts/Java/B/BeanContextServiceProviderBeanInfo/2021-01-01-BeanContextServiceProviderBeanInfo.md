@@ -18,7 +18,7 @@ public interface BeanContextServiceProviderBeanInfo extends BeanInfo
 ~~~
 
 ## Métodos
-* [getServicesBeanInfo()](/Java/BeanContextServiceProviderBeanInfo/getServicesBeanInfo)
+* [getServicesBeanInfo()](/Java/BeanContextServiceProviderBeanInfo/getServicesBeanInfo/)
 
 ## Ejemplo
 ~~~java

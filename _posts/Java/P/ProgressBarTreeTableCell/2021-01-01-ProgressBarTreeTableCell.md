@@ -21,7 +21,7 @@ public class ProgressBarTreeTableCell<S> extends TreeTableCell<S,Double>
 * [ProgressBarTreeTableCell()](/Java/ProgressBarTreeTableCell/ProgressBarTreeTableCell/)
 
 ## Métodos
-* [forTreeTableColumn()](/Java/ProgressBarTreeTableCell/forTreeTableColumn)
+* [forTreeTableColumn()](/Java/ProgressBarTreeTableCell/forTreeTableColumn/)
 
 ## Ejemplo
 ~~~java

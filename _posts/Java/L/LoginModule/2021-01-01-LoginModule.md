@@ -18,11 +18,11 @@ public interface LoginModule
 ~~~
 
 ## Métodos
-* [abort()](/Java/LoginModule/abort)
-* [commit()](/Java/LoginModule/commit)
-* [initialize()](/Java/LoginModule/initialize)
-* [login()](/Java/LoginModule/login)
-* [logout()](/Java/LoginModule/logout)
+* [abort()](/Java/LoginModule/abort/)
+* [commit()](/Java/LoginModule/commit/)
+* [initialize()](/Java/LoginModule/initialize/)
+* [login()](/Java/LoginModule/login/)
+* [logout()](/Java/LoginModule/logout/)
 
 ## Ejemplo
 ~~~java

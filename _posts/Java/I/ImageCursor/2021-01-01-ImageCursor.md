@@ -21,15 +21,15 @@ public class ImageCursor extends Cursor
 * [ImageCursor()](/Java/ImageCursor/ImageCursor/)
 
 ## Métodos
-* [chooseBestCursor()](/Java/ImageCursor/chooseBestCursor)
-* [getBestSize()](/Java/ImageCursor/getBestSize)
-* [getHotspotX()](/Java/ImageCursor/getHotspotX)
-* [getHotspotY()](/Java/ImageCursor/getHotspotY)
-* [getImage()](/Java/ImageCursor/getImage)
-* [getMaximumColors()](/Java/ImageCursor/getMaximumColors)
-* [hotspotXProperty()](/Java/ImageCursor/hotspotXProperty)
-* [hotspotYProperty()](/Java/ImageCursor/hotspotYProperty)
-* [imageProperty()](/Java/ImageCursor/imageProperty)
+* [chooseBestCursor()](/Java/ImageCursor/chooseBestCursor/)
+* [getBestSize()](/Java/ImageCursor/getBestSize/)
+* [getHotspotX()](/Java/ImageCursor/getHotspotX/)
+* [getHotspotY()](/Java/ImageCursor/getHotspotY/)
+* [getImage()](/Java/ImageCursor/getImage/)
+* [getMaximumColors()](/Java/ImageCursor/getMaximumColors/)
+* [hotspotXProperty()](/Java/ImageCursor/hotspotXProperty/)
+* [hotspotYProperty()](/Java/ImageCursor/hotspotYProperty/)
+* [imageProperty()](/Java/ImageCursor/imageProperty/)
 
 ## Ejemplo
 ~~~java

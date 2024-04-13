@@ -18,8 +18,8 @@ public interface ProvidesTree extends BlockTagTree
 ~~~
 
 ## Métodos
-* [getDescription()](/Java/ProvidesTree-com-sun-source-doctree/getDescription)
-* [getServiceType()](/Java/ProvidesTree-com-sun-source-doctree/getServiceType)
+* [getDescription()](/Java/ProvidesTree-com-sun-source-doctree/getDescription/)
+* [getServiceType()](/Java/ProvidesTree-com-sun-source-doctree/getServiceType/)
 
 ## Ejemplo
 ~~~java

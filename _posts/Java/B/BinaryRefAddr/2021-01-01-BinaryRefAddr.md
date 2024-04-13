@@ -21,10 +21,10 @@ public class BinaryRefAddr extends RefAddr
 * [BinaryRefAddr()](/Java/BinaryRefAddr/BinaryRefAddr/)
 
 ## Métodos
-* [equals()](/Java/BinaryRefAddr/equals)
-* [getContent()](/Java/BinaryRefAddr/getContent)
-* [hashCode()](/Java/BinaryRefAddr/hashCode)
-* [toString()](/Java/BinaryRefAddr/toString)
+* [equals()](/Java/BinaryRefAddr/equals/)
+* [getContent()](/Java/BinaryRefAddr/getContent/)
+* [hashCode()](/Java/BinaryRefAddr/hashCode/)
+* [toString()](/Java/BinaryRefAddr/toString/)
 
 ## Ejemplo
 ~~~java

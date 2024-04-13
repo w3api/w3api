@@ -18,19 +18,19 @@ public class DriverManager extends Object
 ~~~
 
 ## Métodos
-* [deregisterDriver()](/Java/DriverManager/deregisterDriver)
-* [drivers()](/Java/DriverManager/drivers)
-* [getConnection()](/Java/DriverManager/getConnection)
-* [getDriver()](/Java/DriverManager/getDriver)
-* [getDrivers()](/Java/DriverManager/getDrivers)
-* [getLoginTimeout()](/Java/DriverManager/getLoginTimeout)
-* [getLogStream()](/Java/DriverManager/getLogStream)
-* [getLogWriter()](/Java/DriverManager/getLogWriter)
-* [println()](/Java/DriverManager/println)
-* [registerDriver()](/Java/DriverManager/registerDriver)
-* [setLoginTimeout()](/Java/DriverManager/setLoginTimeout)
-* [setLogStream()](/Java/DriverManager/setLogStream)
-* [setLogWriter()](/Java/DriverManager/setLogWriter)
+* [deregisterDriver()](/Java/DriverManager/deregisterDriver/)
+* [drivers()](/Java/DriverManager/drivers/)
+* [getConnection()](/Java/DriverManager/getConnection/)
+* [getDriver()](/Java/DriverManager/getDriver/)
+* [getDrivers()](/Java/DriverManager/getDrivers/)
+* [getLoginTimeout()](/Java/DriverManager/getLoginTimeout/)
+* [getLogStream()](/Java/DriverManager/getLogStream/)
+* [getLogWriter()](/Java/DriverManager/getLogWriter/)
+* [println()](/Java/DriverManager/println/)
+* [registerDriver()](/Java/DriverManager/registerDriver/)
+* [setLoginTimeout()](/Java/DriverManager/setLoginTimeout/)
+* [setLogStream()](/Java/DriverManager/setLogStream/)
+* [setLogWriter()](/Java/DriverManager/setLogWriter/)
 
 ## Ejemplo
 ~~~java

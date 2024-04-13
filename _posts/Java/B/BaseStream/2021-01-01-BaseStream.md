@@ -18,14 +18,14 @@ public interface BaseStream<T,S extends BaseStream<T,S>> extends AutoCloseable
 ~~~
 
 ## Métodos
-* [close()](/Java/BaseStream/close)
-* [isParallel()](/Java/BaseStream/isParallel)
-* [iterator()](/Java/BaseStream/iterator)
-* [onClose()](/Java/BaseStream/onClose)
-* [parallel()](/Java/BaseStream/parallel)
-* [sequential()](/Java/BaseStream/sequential)
-* [spliterator()](/Java/BaseStream/spliterator)
-* [unordered()](/Java/BaseStream/unordered)
+* [close()](/Java/BaseStream/close/)
+* [isParallel()](/Java/BaseStream/isParallel/)
+* [iterator()](/Java/BaseStream/iterator/)
+* [onClose()](/Java/BaseStream/onClose/)
+* [parallel()](/Java/BaseStream/parallel/)
+* [sequential()](/Java/BaseStream/sequential/)
+* [spliterator()](/Java/BaseStream/spliterator/)
+* [unordered()](/Java/BaseStream/unordered/)
 
 ## Ejemplo
 ~~~java

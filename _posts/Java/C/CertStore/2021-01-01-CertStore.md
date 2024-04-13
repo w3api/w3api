@@ -21,13 +21,13 @@ public class CertStore extends Object
 * [CertStore()](/Java/CertStore/CertStore/)
 
 ## Métodos
-* [getCertificates()](/Java/CertStore/getCertificates)
-* [getCertStoreParameters()](/Java/CertStore/getCertStoreParameters)
-* [getCRLs()](/Java/CertStore/getCRLs)
-* [getDefaultType()](/Java/CertStore/getDefaultType)
-* [getInstance()](/Java/CertStore/getInstance)
-* [getProvider()](/Java/CertStore/getProvider)
-* [getType()](/Java/CertStore/getType)
+* [getCertificates()](/Java/CertStore/getCertificates/)
+* [getCertStoreParameters()](/Java/CertStore/getCertStoreParameters/)
+* [getCRLs()](/Java/CertStore/getCRLs/)
+* [getDefaultType()](/Java/CertStore/getDefaultType/)
+* [getInstance()](/Java/CertStore/getInstance/)
+* [getProvider()](/Java/CertStore/getProvider/)
+* [getType()](/Java/CertStore/getType/)
 
 ## Ejemplo
 ~~~java

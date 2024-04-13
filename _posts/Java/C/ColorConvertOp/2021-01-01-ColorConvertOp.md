@@ -21,13 +21,13 @@ public class ColorConvertOp extends Object implements BufferedImageOp, RasterOp
 * [ColorConvertOp()](/Java/ColorConvertOp/ColorConvertOp/)
 
 ## Métodos
-* [createCompatibleDestImage()](/Java/ColorConvertOp/createCompatibleDestImage)
-* [createCompatibleDestRaster()](/Java/ColorConvertOp/createCompatibleDestRaster)
-* [filter()](/Java/ColorConvertOp/filter)
-* [getBounds2D()](/Java/ColorConvertOp/getBounds2D)
-* [getICC_Profiles()](/Java/ColorConvertOp/getICC_Profiles)
-* [getPoint2D()](/Java/ColorConvertOp/getPoint2D)
-* [getRenderingHints()](/Java/ColorConvertOp/getRenderingHints)
+* [createCompatibleDestImage()](/Java/ColorConvertOp/createCompatibleDestImage/)
+* [createCompatibleDestRaster()](/Java/ColorConvertOp/createCompatibleDestRaster/)
+* [filter()](/Java/ColorConvertOp/filter/)
+* [getBounds2D()](/Java/ColorConvertOp/getBounds2D/)
+* [getICC_Profiles()](/Java/ColorConvertOp/getICC_Profiles/)
+* [getPoint2D()](/Java/ColorConvertOp/getPoint2D/)
+* [getRenderingHints()](/Java/ColorConvertOp/getRenderingHints/)
 
 ## Ejemplo
 ~~~java

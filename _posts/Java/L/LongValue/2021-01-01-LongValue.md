@@ -18,9 +18,9 @@ public interface LongValue extends PrimitiveValue, Comparable<LongValue>
 ~~~
 
 ## Métodos
-* [equals()](/Java/LongValue/equals)
-* [hashCode()](/Java/LongValue/hashCode)
-* [value()](/Java/LongValue/value)
+* [equals()](/Java/LongValue/equals/)
+* [hashCode()](/Java/LongValue/hashCode/)
+* [value()](/Java/LongValue/value/)
 
 ## Ejemplo
 ~~~java

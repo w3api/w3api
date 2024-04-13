@@ -21,8 +21,8 @@ public static final class ExecutionControl.ClassBytecodes extends Object impleme
 * [ExecutionControl.ClassBytecodes()](/Java/ExecutionControl/ClassBytecodes/ExecutionControl/ClassBytecodes/)
 
 ## Métodos
-* [bytecodes()](/Java/ExecutionControl/ClassBytecodes/bytecodes)
-* [name()](/Java/ExecutionControl/ClassBytecodes/name)
+* [bytecodes()](/Java/ExecutionControl/ClassBytecodes/bytecodes/)
+* [name()](/Java/ExecutionControl/ClassBytecodes/name/)
 
 ## Ejemplo
 ~~~java

@@ -21,9 +21,9 @@ sidebar:
 * [BoundedMeter()](/Java/BoundedMeter/BoundedMeter/)
 
 ## Métodos
-* [create()](/Java/BoundedMeter/create)
-* [getBound()](/Java/BoundedMeter/getBound)
-* [setBound()](/Java/BoundedMeter/setBound)
+* [create()](/Java/BoundedMeter/create/)
+* [getBound()](/Java/BoundedMeter/getBound/)
+* [setBound()](/Java/BoundedMeter/setBound/)
 
 ## Ejemplo
 ~~~java

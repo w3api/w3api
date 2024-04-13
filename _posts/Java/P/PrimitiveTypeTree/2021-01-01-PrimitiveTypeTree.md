@@ -18,7 +18,7 @@ public interface PrimitiveTypeTree extends Tree
 ~~~
 
 ## Métodos
-* [getPrimitiveTypeKind()](/Java/PrimitiveTypeTree/getPrimitiveTypeKind)
+* [getPrimitiveTypeKind()](/Java/PrimitiveTypeTree/getPrimitiveTypeKind/)
 
 ## Ejemplo
 ~~~java

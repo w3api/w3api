@@ -18,20 +18,20 @@ public enum CryptoPrimitive extends Enum<CryptoPrimitive>
 ~~~
 
 ## Enumerados
-* [BLOCK_CIPHER](/Java/CryptoPrimitive/BLOCK_CIPHER)
-* [KEY_AGREEMENT](/Java/CryptoPrimitive/KEY_AGREEMENT)
-* [KEY_ENCAPSULATION](/Java/CryptoPrimitive/KEY_ENCAPSULATION)
-* [KEY_WRAP](/Java/CryptoPrimitive/KEY_WRAP)
-* [MAC](/Java/CryptoPrimitive/MAC)
-* [MESSAGE_DIGEST](/Java/CryptoPrimitive/MESSAGE_DIGEST)
-* [PUBLIC_KEY_ENCRYPTION](/Java/CryptoPrimitive/PUBLIC_KEY_ENCRYPTION)
-* [SECURE_RANDOM](/Java/CryptoPrimitive/SECURE_RANDOM)
-* [SIGNATURE](/Java/CryptoPrimitive/SIGNATURE)
-* [STREAM_CIPHER](/Java/CryptoPrimitive/STREAM_CIPHER)
+* [BLOCK_CIPHER](/Java/CryptoPrimitive/BLOCK_CIPHER/)
+* [KEY_AGREEMENT](/Java/CryptoPrimitive/KEY_AGREEMENT/)
+* [KEY_ENCAPSULATION](/Java/CryptoPrimitive/KEY_ENCAPSULATION/)
+* [KEY_WRAP](/Java/CryptoPrimitive/KEY_WRAP/)
+* [MAC](/Java/CryptoPrimitive/MAC/)
+* [MESSAGE_DIGEST](/Java/CryptoPrimitive/MESSAGE_DIGEST/)
+* [PUBLIC_KEY_ENCRYPTION](/Java/CryptoPrimitive/PUBLIC_KEY_ENCRYPTION/)
+* [SECURE_RANDOM](/Java/CryptoPrimitive/SECURE_RANDOM/)
+* [SIGNATURE](/Java/CryptoPrimitive/SIGNATURE/)
+* [STREAM_CIPHER](/Java/CryptoPrimitive/STREAM_CIPHER/)
 
 ## Métodos
-* [valueOf()](/Java/CryptoPrimitive/valueOf)
-* [values()](/Java/CryptoPrimitive/values)
+* [valueOf()](/Java/CryptoPrimitive/valueOf/)
+* [values()](/Java/CryptoPrimitive/values/)
 
 ## Ejemplo
 ~~~java

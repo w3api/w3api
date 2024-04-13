@@ -18,7 +18,7 @@ public interface EndElementTree extends DocTree
 ~~~
 
 ## Métodos
-* [getName()](/Java/EndElementTree/getName)
+* [getName()](/Java/EndElementTree/getName/)
 
 ## Ejemplo
 ~~~java

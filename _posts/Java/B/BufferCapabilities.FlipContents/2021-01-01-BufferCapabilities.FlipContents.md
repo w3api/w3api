@@ -18,14 +18,14 @@ public static final class BufferCapabilities.FlipContents extends Object
 ~~~
 
 ## Campos
-* [BACKGROUND](/Java/BufferCapabilities/FlipContents/BACKGROUND)
-* [COPIED](/Java/BufferCapabilities/FlipContents/COPIED)
-* [PRIOR](/Java/BufferCapabilities/FlipContents/PRIOR)
-* [UNDEFINED](/Java/BufferCapabilities/FlipContents/UNDEFINED)
+* [BACKGROUND](/Java/BufferCapabilities/FlipContents/BACKGROUND/)
+* [COPIED](/Java/BufferCapabilities/FlipContents/COPIED/)
+* [PRIOR](/Java/BufferCapabilities/FlipContents/PRIOR/)
+* [UNDEFINED](/Java/BufferCapabilities/FlipContents/UNDEFINED/)
 
 ## Métodos
-* [hashCode()](/Java/BufferCapabilities/FlipContents/hashCode)
-* [toString()](/Java/BufferCapabilities/FlipContents/toString)
+* [hashCode()](/Java/BufferCapabilities/FlipContents/hashCode/)
+* [toString()](/Java/BufferCapabilities/FlipContents/toString/)
 
 ## Ejemplo
 ~~~java

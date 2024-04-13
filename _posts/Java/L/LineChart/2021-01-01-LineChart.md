@@ -21,14 +21,14 @@ public class LineChart<X,Y> extends XYChart<X,Y>
 * [LineChart()](/Java/LineChart/LineChart/)
 
 ## Métodos
-* [axisSortingPolicyProperty()](/Java/LineChart/axisSortingPolicyProperty)
-* [createSymbolsProperty()](/Java/LineChart/createSymbolsProperty)
-* [getAxisSortingPolicy()](/Java/LineChart/getAxisSortingPolicy)
-* [getClassCssMetaData()](/Java/LineChart/getClassCssMetaData)
-* [getCreateSymbols()](/Java/LineChart/getCreateSymbols)
-* [getCssMetaData()](/Java/LineChart/getCssMetaData)
-* [setAxisSortingPolicy()](/Java/LineChart/setAxisSortingPolicy)
-* [setCreateSymbols()](/Java/LineChart/setCreateSymbols)
+* [axisSortingPolicyProperty()](/Java/LineChart/axisSortingPolicyProperty/)
+* [createSymbolsProperty()](/Java/LineChart/createSymbolsProperty/)
+* [getAxisSortingPolicy()](/Java/LineChart/getAxisSortingPolicy/)
+* [getClassCssMetaData()](/Java/LineChart/getClassCssMetaData/)
+* [getCreateSymbols()](/Java/LineChart/getCreateSymbols/)
+* [getCssMetaData()](/Java/LineChart/getCssMetaData/)
+* [setAxisSortingPolicy()](/Java/LineChart/setAxisSortingPolicy/)
+* [setCreateSymbols()](/Java/LineChart/setCreateSymbols/)
 
 ## Ejemplo
 ~~~java

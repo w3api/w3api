@@ -21,8 +21,8 @@ public abstract class KeyPairGeneratorSpi extends Object
 * [KeyPairGeneratorSpi()](/Java/KeyPairGeneratorSpi/KeyPairGeneratorSpi/)
 
 ## Métodos
-* [generateKeyPair()](/Java/KeyPairGeneratorSpi/generateKeyPair)
-* [initialize()](/Java/KeyPairGeneratorSpi/initialize)
+* [generateKeyPair()](/Java/KeyPairGeneratorSpi/generateKeyPair/)
+* [initialize()](/Java/KeyPairGeneratorSpi/initialize/)
 
 ## Ejemplo
 ~~~java

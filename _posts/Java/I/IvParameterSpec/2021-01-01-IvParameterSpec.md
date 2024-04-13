@@ -21,7 +21,7 @@ public class IvParameterSpec extends Object implements AlgorithmParameterSpec
 * [IvParameterSpec()](/Java/IvParameterSpec/IvParameterSpec/)
 
 ## Métodos
-* [getIV()](/Java/IvParameterSpec/getIV)
+* [getIV()](/Java/IvParameterSpec/getIV/)
 
 ## Ejemplo
 ~~~java

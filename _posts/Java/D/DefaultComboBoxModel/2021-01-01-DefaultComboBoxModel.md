@@ -21,9 +21,9 @@ public class DefaultComboBoxModel<E> extends AbstractListModel<E> implements Mut
 * [DefaultComboBoxModel()](/Java/DefaultComboBoxModel/DefaultComboBoxModel/)
 
 ## Métodos
-* [getIndexOf()](/Java/DefaultComboBoxModel/getIndexOf)
-* [removeAllElements()](/Java/DefaultComboBoxModel/removeAllElements)
-* [setSelectedItem()](/Java/DefaultComboBoxModel/setSelectedItem)
+* [getIndexOf()](/Java/DefaultComboBoxModel/getIndexOf/)
+* [removeAllElements()](/Java/DefaultComboBoxModel/removeAllElements/)
+* [setSelectedItem()](/Java/DefaultComboBoxModel/setSelectedItem/)
 
 ## Ejemplo
 ~~~java

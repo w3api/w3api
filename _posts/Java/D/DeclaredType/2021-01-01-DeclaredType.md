@@ -18,9 +18,9 @@ public interface DeclaredType extends ReferenceType
 ~~~
 
 ## Métodos
-* [asElement()](/Java/DeclaredType/asElement)
-* [getEnclosingType()](/Java/DeclaredType/getEnclosingType)
-* [getTypeArguments()](/Java/DeclaredType/getTypeArguments)
+* [asElement()](/Java/DeclaredType/asElement/)
+* [getEnclosingType()](/Java/DeclaredType/getEnclosingType/)
+* [getTypeArguments()](/Java/DeclaredType/getTypeArguments/)
 
 ## Ejemplo
 ~~~java

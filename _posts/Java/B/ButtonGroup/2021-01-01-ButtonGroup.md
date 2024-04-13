@@ -21,17 +21,17 @@ public class ButtonGroup extends Object implements Serializable
 * [ButtonGroup()](/Java/ButtonGroup/ButtonGroup/)
 
 ## Campos
-* [buttons](/Java/ButtonGroup/buttons)
+* [buttons](/Java/ButtonGroup/buttons/)
 
 ## Métodos
-* [add()](/Java/ButtonGroup/add)
-* [clearSelection()](/Java/ButtonGroup/clearSelection)
-* [getButtonCount()](/Java/ButtonGroup/getButtonCount)
-* [getElements()](/Java/ButtonGroup/getElements)
-* [getSelection()](/Java/ButtonGroup/getSelection)
-* [isSelected()](/Java/ButtonGroup/isSelected)
-* [remove()](/Java/ButtonGroup/remove)
-* [setSelected()](/Java/ButtonGroup/setSelected)
+* [add()](/Java/ButtonGroup/add/)
+* [clearSelection()](/Java/ButtonGroup/clearSelection/)
+* [getButtonCount()](/Java/ButtonGroup/getButtonCount/)
+* [getElements()](/Java/ButtonGroup/getElements/)
+* [getSelection()](/Java/ButtonGroup/getSelection/)
+* [isSelected()](/Java/ButtonGroup/isSelected/)
+* [remove()](/Java/ButtonGroup/remove/)
+* [setSelected()](/Java/ButtonGroup/setSelected/)
 
 ## Ejemplo
 ~~~java

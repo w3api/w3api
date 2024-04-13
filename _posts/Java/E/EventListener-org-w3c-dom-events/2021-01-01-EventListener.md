@@ -18,7 +18,7 @@ public interface EventListener
 ~~~
 
 ## Métodos
-* [handleEvent()](/Java/EventListener-org-w3c-dom-events/handleEvent)
+* [handleEvent()](/Java/EventListener-org-w3c-dom-events/handleEvent/)
 
 ## Ejemplo
 ~~~java

@@ -21,10 +21,10 @@ public class LayoutQueue extends Object
 * [LayoutQueue()](/Java/LayoutQueue/LayoutQueue/)
 
 ## Métodos
-* [addTask()](/Java/LayoutQueue/addTask)
-* [getDefaultQueue()](/Java/LayoutQueue/getDefaultQueue)
-* [setDefaultQueue()](/Java/LayoutQueue/setDefaultQueue)
-* [waitForWork()](/Java/LayoutQueue/waitForWork)
+* [addTask()](/Java/LayoutQueue/addTask/)
+* [getDefaultQueue()](/Java/LayoutQueue/getDefaultQueue/)
+* [setDefaultQueue()](/Java/LayoutQueue/setDefaultQueue/)
+* [waitForWork()](/Java/LayoutQueue/waitForWork/)
 
 ## Ejemplo
 ~~~java

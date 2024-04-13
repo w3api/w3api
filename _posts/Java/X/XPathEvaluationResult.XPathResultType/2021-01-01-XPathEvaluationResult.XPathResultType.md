@@ -18,17 +18,17 @@ public static enum XPathEvaluationResult.XPathResultType extends Enum<XPathEvalu
 ~~~
 
 ## Enumerados
-* [ANY](/Java/XPathEvaluationResult/XPathResultType/ANY)
-* [BOOLEAN](/Java/XPathEvaluationResult/XPathResultType/BOOLEAN)
-* [NODE](/Java/XPathEvaluationResult/XPathResultType/NODE)
-* [NODESET](/Java/XPathEvaluationResult/XPathResultType/NODESET)
-* [NUMBER](/Java/XPathEvaluationResult/XPathResultType/NUMBER)
-* [STRING](/Java/XPathEvaluationResult/XPathResultType/STRING)
+* [ANY](/Java/XPathEvaluationResult/XPathResultType/ANY/)
+* [BOOLEAN](/Java/XPathEvaluationResult/XPathResultType/BOOLEAN/)
+* [NODE](/Java/XPathEvaluationResult/XPathResultType/NODE/)
+* [NODESET](/Java/XPathEvaluationResult/XPathResultType/NODESET/)
+* [NUMBER](/Java/XPathEvaluationResult/XPathResultType/NUMBER/)
+* [STRING](/Java/XPathEvaluationResult/XPathResultType/STRING/)
 
 ## Métodos
-* [getQNameType()](/Java/XPathEvaluationResult/XPathResultType/getQNameType)
-* [valueOf()](/Java/XPathEvaluationResult/XPathResultType/valueOf)
-* [values()](/Java/XPathEvaluationResult/XPathResultType/values)
+* [getQNameType()](/Java/XPathEvaluationResult/XPathResultType/getQNameType/)
+* [valueOf()](/Java/XPathEvaluationResult/XPathResultType/valueOf/)
+* [values()](/Java/XPathEvaluationResult/XPathResultType/values/)
 
 ## Ejemplo
 ~~~java

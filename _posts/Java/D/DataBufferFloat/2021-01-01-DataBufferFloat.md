@@ -21,14 +21,14 @@ public final class DataBufferFloat extends DataBuffer
 * [DataBufferFloat()](/Java/DataBufferFloat/DataBufferFloat/)
 
 ## Métodos
-* [getBankData()](/Java/DataBufferFloat/getBankData)
-* [getData()](/Java/DataBufferFloat/getData)
-* [getElem()](/Java/DataBufferFloat/getElem)
-* [getElemDouble()](/Java/DataBufferFloat/getElemDouble)
-* [getElemFloat()](/Java/DataBufferFloat/getElemFloat)
-* [setElem()](/Java/DataBufferFloat/setElem)
-* [setElemDouble()](/Java/DataBufferFloat/setElemDouble)
-* [setElemFloat()](/Java/DataBufferFloat/setElemFloat)
+* [getBankData()](/Java/DataBufferFloat/getBankData/)
+* [getData()](/Java/DataBufferFloat/getData/)
+* [getElem()](/Java/DataBufferFloat/getElem/)
+* [getElemDouble()](/Java/DataBufferFloat/getElemDouble/)
+* [getElemFloat()](/Java/DataBufferFloat/getElemFloat/)
+* [setElem()](/Java/DataBufferFloat/setElem/)
+* [setElemDouble()](/Java/DataBufferFloat/setElemDouble/)
+* [setElemFloat()](/Java/DataBufferFloat/setElemFloat/)
 
 ## Ejemplo
 ~~~java

@@ -18,9 +18,9 @@ public interface ConditionalExpressionTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getCondition()](/Java/ConditionalExpressionTree-com-sun-source-tree/getCondition)
-* [getFalseExpression()](/Java/ConditionalExpressionTree-com-sun-source-tree/getFalseExpression)
-* [getTrueExpression()](/Java/ConditionalExpressionTree-com-sun-source-tree/getTrueExpression)
+* [getCondition()](/Java/ConditionalExpressionTree-com-sun-source-tree/getCondition/)
+* [getFalseExpression()](/Java/ConditionalExpressionTree-com-sun-source-tree/getFalseExpression/)
+* [getTrueExpression()](/Java/ConditionalExpressionTree-com-sun-source-tree/getTrueExpression/)
 
 ## Ejemplo
 ~~~java

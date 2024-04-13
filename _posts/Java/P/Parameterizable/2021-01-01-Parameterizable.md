@@ -18,7 +18,7 @@ public interface Parameterizable extends Element
 ~~~
 
 ## Métodos
-* [getTypeParameters()](/Java/Parameterizable/getTypeParameters)
+* [getTypeParameters()](/Java/Parameterizable/getTypeParameters/)
 
 ## Ejemplo
 ~~~java

@@ -21,17 +21,17 @@ public abstract class LineMetrics extends Object
 * [LineMetrics()](/Java/LineMetrics/LineMetrics/)
 
 ## Métodos
-* [getAscent()](/Java/LineMetrics/getAscent)
-* [getBaselineIndex()](/Java/LineMetrics/getBaselineIndex)
-* [getBaselineOffsets()](/Java/LineMetrics/getBaselineOffsets)
-* [getDescent()](/Java/LineMetrics/getDescent)
-* [getHeight()](/Java/LineMetrics/getHeight)
-* [getLeading()](/Java/LineMetrics/getLeading)
-* [getNumChars()](/Java/LineMetrics/getNumChars)
-* [getStrikethroughOffset()](/Java/LineMetrics/getStrikethroughOffset)
-* [getStrikethroughThickness()](/Java/LineMetrics/getStrikethroughThickness)
-* [getUnderlineOffset()](/Java/LineMetrics/getUnderlineOffset)
-* [getUnderlineThickness()](/Java/LineMetrics/getUnderlineThickness)
+* [getAscent()](/Java/LineMetrics/getAscent/)
+* [getBaselineIndex()](/Java/LineMetrics/getBaselineIndex/)
+* [getBaselineOffsets()](/Java/LineMetrics/getBaselineOffsets/)
+* [getDescent()](/Java/LineMetrics/getDescent/)
+* [getHeight()](/Java/LineMetrics/getHeight/)
+* [getLeading()](/Java/LineMetrics/getLeading/)
+* [getNumChars()](/Java/LineMetrics/getNumChars/)
+* [getStrikethroughOffset()](/Java/LineMetrics/getStrikethroughOffset/)
+* [getStrikethroughThickness()](/Java/LineMetrics/getStrikethroughThickness/)
+* [getUnderlineOffset()](/Java/LineMetrics/getUnderlineOffset/)
+* [getUnderlineThickness()](/Java/LineMetrics/getUnderlineThickness/)
 
 ## Ejemplo
 ~~~java

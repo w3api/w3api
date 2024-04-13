@@ -21,11 +21,11 @@ public class BufferedImageFilter extends ImageFilter implements Cloneable
 * [BufferedImageFilter()](/Java/BufferedImageFilter/BufferedImageFilter/)
 
 ## Métodos
-* [getBufferedImageOp()](/Java/BufferedImageFilter/getBufferedImageOp)
-* [imageComplete()](/Java/BufferedImageFilter/imageComplete)
-* [setColorModel()](/Java/BufferedImageFilter/setColorModel)
-* [setDimensions()](/Java/BufferedImageFilter/setDimensions)
-* [setPixels()](/Java/BufferedImageFilter/setPixels)
+* [getBufferedImageOp()](/Java/BufferedImageFilter/getBufferedImageOp/)
+* [imageComplete()](/Java/BufferedImageFilter/imageComplete/)
+* [setColorModel()](/Java/BufferedImageFilter/setColorModel/)
+* [setDimensions()](/Java/BufferedImageFilter/setDimensions/)
+* [setPixels()](/Java/BufferedImageFilter/setPixels/)
 
 ## Ejemplo
 ~~~java

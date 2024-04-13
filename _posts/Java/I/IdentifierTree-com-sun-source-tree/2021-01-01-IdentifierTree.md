@@ -18,7 +18,7 @@ public interface IdentifierTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getName()](/Java/IdentifierTree-com-sun-source-tree/getName)
+* [getName()](/Java/IdentifierTree-com-sun-source-tree/getName/)
 
 ## Ejemplo
 ~~~java

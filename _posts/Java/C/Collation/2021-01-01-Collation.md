@@ -18,12 +18,12 @@ public enum Collation extends Enum<Collation>
 ~~~
 
 ## Enumerados
-* [COLLATED](/Java/Collation/COLLATED)
-* [UNCOLLATED](/Java/Collation/UNCOLLATED)
+* [COLLATED](/Java/Collation/COLLATED/)
+* [UNCOLLATED](/Java/Collation/UNCOLLATED/)
 
 ## Métodos
-* [valueOf()](/Java/Collation/valueOf)
-* [values()](/Java/Collation/values)
+* [valueOf()](/Java/Collation/valueOf/)
+* [values()](/Java/Collation/values/)
 
 ## Ejemplo
 ~~~java

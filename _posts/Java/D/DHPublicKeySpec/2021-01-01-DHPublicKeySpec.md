@@ -21,9 +21,9 @@ public class DHPublicKeySpec extends Object implements KeySpec
 * [DHPublicKeySpec()](/Java/DHPublicKeySpec/DHPublicKeySpec/)
 
 ## Métodos
-* [getG()](/Java/DHPublicKeySpec/getG)
-* [getP()](/Java/DHPublicKeySpec/getP)
-* [getY()](/Java/DHPublicKeySpec/getY)
+* [getG()](/Java/DHPublicKeySpec/getG/)
+* [getP()](/Java/DHPublicKeySpec/getP/)
+* [getY()](/Java/DHPublicKeySpec/getY/)
 
 ## Ejemplo
 ~~~java

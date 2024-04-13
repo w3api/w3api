@@ -18,9 +18,9 @@ public interface WatchpointEvent extends LocatableEvent
 ~~~
 
 ## Métodos
-* [field()](/Java/WatchpointEvent/field)
-* [object()](/Java/WatchpointEvent/object)
-* [valueCurrent()](/Java/WatchpointEvent/valueCurrent)
+* [field()](/Java/WatchpointEvent/field/)
+* [object()](/Java/WatchpointEvent/object/)
+* [valueCurrent()](/Java/WatchpointEvent/valueCurrent/)
 
 ## Ejemplo
 ~~~java

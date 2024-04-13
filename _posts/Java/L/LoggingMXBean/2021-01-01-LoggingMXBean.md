@@ -18,10 +18,10 @@ sidebar:
 ~~~
 
 ## Métodos
-* [getLoggerLevel()](/Java/LoggingMXBean/getLoggerLevel)
-* [getLoggerNames()](/Java/LoggingMXBean/getLoggerNames)
-* [getParentLoggerName()](/Java/LoggingMXBean/getParentLoggerName)
-* [setLoggerLevel()](/Java/LoggingMXBean/setLoggerLevel)
+* [getLoggerLevel()](/Java/LoggingMXBean/getLoggerLevel/)
+* [getLoggerNames()](/Java/LoggingMXBean/getLoggerNames/)
+* [getParentLoggerName()](/Java/LoggingMXBean/getParentLoggerName/)
+* [setLoggerLevel()](/Java/LoggingMXBean/setLoggerLevel/)
 
 ## Ejemplo
 ~~~java

@@ -21,17 +21,17 @@ public abstract class Interpolator extends Object
 * [Interpolator()](/Java/Interpolator/Interpolator/)
 
 ## Campos
-* [DISCRETE](/Java/Interpolator/DISCRETE)
-* [EASE_BOTH](/Java/Interpolator/EASE_BOTH)
-* [EASE_IN](/Java/Interpolator/EASE_IN)
-* [EASE_OUT](/Java/Interpolator/EASE_OUT)
-* [LINEAR](/Java/Interpolator/LINEAR)
+* [DISCRETE](/Java/Interpolator/DISCRETE/)
+* [EASE_BOTH](/Java/Interpolator/EASE_BOTH/)
+* [EASE_IN](/Java/Interpolator/EASE_IN/)
+* [EASE_OUT](/Java/Interpolator/EASE_OUT/)
+* [LINEAR](/Java/Interpolator/LINEAR/)
 
 ## Métodos
-* [curve()](/Java/Interpolator/curve)
-* [interpolate()](/Java/Interpolator/interpolate)
-* [SPLINE()](/Java/Interpolator/SPLINE)
-* [TANGENT()](/Java/Interpolator/TANGENT)
+* [curve()](/Java/Interpolator/curve/)
+* [interpolate()](/Java/Interpolator/interpolate/)
+* [SPLINE()](/Java/Interpolator/SPLINE/)
+* [TANGENT()](/Java/Interpolator/TANGENT/)
 
 ## Ejemplo
 ~~~java

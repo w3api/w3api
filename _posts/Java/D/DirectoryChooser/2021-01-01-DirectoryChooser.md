@@ -21,13 +21,13 @@ public final class DirectoryChooser extends Object
 * [DirectoryChooser()](/Java/DirectoryChooser/DirectoryChooser/)
 
 ## Métodos
-* [getInitialDirectory()](/Java/DirectoryChooser/getInitialDirectory)
-* [getTitle()](/Java/DirectoryChooser/getTitle)
-* [initialDirectoryProperty()](/Java/DirectoryChooser/initialDirectoryProperty)
-* [setInitialDirectory()](/Java/DirectoryChooser/setInitialDirectory)
-* [setTitle()](/Java/DirectoryChooser/setTitle)
-* [showDialog()](/Java/DirectoryChooser/showDialog)
-* [titleProperty()](/Java/DirectoryChooser/titleProperty)
+* [getInitialDirectory()](/Java/DirectoryChooser/getInitialDirectory/)
+* [getTitle()](/Java/DirectoryChooser/getTitle/)
+* [initialDirectoryProperty()](/Java/DirectoryChooser/initialDirectoryProperty/)
+* [setInitialDirectory()](/Java/DirectoryChooser/setInitialDirectory/)
+* [setTitle()](/Java/DirectoryChooser/setTitle/)
+* [showDialog()](/Java/DirectoryChooser/showDialog/)
+* [titleProperty()](/Java/DirectoryChooser/titleProperty/)
 
 ## Ejemplo
 ~~~java

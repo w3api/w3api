@@ -21,10 +21,10 @@ public class ListSelectionEvent extends EventObject
 * [ListSelectionEvent()](/Java/ListSelectionEvent/ListSelectionEvent/)
 
 ## Métodos
-* [getFirstIndex()](/Java/ListSelectionEvent/getFirstIndex)
-* [getLastIndex()](/Java/ListSelectionEvent/getLastIndex)
-* [getValueIsAdjusting()](/Java/ListSelectionEvent/getValueIsAdjusting)
-* [toString()](/Java/ListSelectionEvent/toString)
+* [getFirstIndex()](/Java/ListSelectionEvent/getFirstIndex/)
+* [getLastIndex()](/Java/ListSelectionEvent/getLastIndex/)
+* [getValueIsAdjusting()](/Java/ListSelectionEvent/getValueIsAdjusting/)
+* [toString()](/Java/ListSelectionEvent/toString/)
 
 ## Ejemplo
 ~~~java

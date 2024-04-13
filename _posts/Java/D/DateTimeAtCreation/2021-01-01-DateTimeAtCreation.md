@@ -21,9 +21,9 @@ public final class DateTimeAtCreation extends DateTimeSyntax implements PrintJob
 * [DateTimeAtCreation()](/Java/DateTimeAtCreation/DateTimeAtCreation/)
 
 ## Métodos
-* [equals()](/Java/DateTimeAtCreation/equals)
-* [getCategory()](/Java/DateTimeAtCreation/getCategory)
-* [getName()](/Java/DateTimeAtCreation/getName)
+* [equals()](/Java/DateTimeAtCreation/equals/)
+* [getCategory()](/Java/DateTimeAtCreation/getCategory/)
+* [getName()](/Java/DateTimeAtCreation/getName/)
 
 ## Ejemplo
 ~~~java

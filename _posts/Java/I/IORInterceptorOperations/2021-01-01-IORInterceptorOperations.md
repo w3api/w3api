@@ -18,7 +18,7 @@ public interface IORInterceptorOperations extends InterceptorOperations
 ~~~
 
 ## Métodos
-* [establish_components()](/Java/IORInterceptorOperations/establish_components)
+* [establish_components()](/Java/IORInterceptorOperations/establish_components/)
 
 ## Ejemplo
 ~~~java

@@ -18,14 +18,14 @@ public interface LSSerializer
 ~~~
 
 ## Métodos
-* [getDomConfig()](/Java/LSSerializer/getDomConfig)
-* [getFilter()](/Java/LSSerializer/getFilter)
-* [getNewLine()](/Java/LSSerializer/getNewLine)
-* [setFilter()](/Java/LSSerializer/setFilter)
-* [setNewLine()](/Java/LSSerializer/setNewLine)
-* [write()](/Java/LSSerializer/write)
-* [writeToString()](/Java/LSSerializer/writeToString)
-* [writeToURI()](/Java/LSSerializer/writeToURI)
+* [getDomConfig()](/Java/LSSerializer/getDomConfig/)
+* [getFilter()](/Java/LSSerializer/getFilter/)
+* [getNewLine()](/Java/LSSerializer/getNewLine/)
+* [setFilter()](/Java/LSSerializer/setFilter/)
+* [setNewLine()](/Java/LSSerializer/setNewLine/)
+* [write()](/Java/LSSerializer/write/)
+* [writeToString()](/Java/LSSerializer/writeToString/)
+* [writeToURI()](/Java/LSSerializer/writeToURI/)
 
 ## Ejemplo
 ~~~java

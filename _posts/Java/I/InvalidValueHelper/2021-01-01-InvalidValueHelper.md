@@ -21,12 +21,12 @@ public abstract class InvalidValueHelper extends Object
 * [InvalidValueHelper()](/Java/InvalidValueHelper/InvalidValueHelper/)
 
 ## Métodos
-* [extract()](/Java/InvalidValueHelper/extract)
-* [id()](/Java/InvalidValueHelper/id)
-* [insert()](/Java/InvalidValueHelper/insert)
-* [read()](/Java/InvalidValueHelper/read)
-* [type()](/Java/InvalidValueHelper/type)
-* [write()](/Java/InvalidValueHelper/write)
+* [extract()](/Java/InvalidValueHelper/extract/)
+* [id()](/Java/InvalidValueHelper/id/)
+* [insert()](/Java/InvalidValueHelper/insert/)
+* [read()](/Java/InvalidValueHelper/read/)
+* [type()](/Java/InvalidValueHelper/type/)
+* [write()](/Java/InvalidValueHelper/write/)
 
 ## Ejemplo
 ~~~java

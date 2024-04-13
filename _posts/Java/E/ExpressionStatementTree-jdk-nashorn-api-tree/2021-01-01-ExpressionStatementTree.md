@@ -18,7 +18,7 @@ public interface ExpressionStatementTree extends StatementTree
 ~~~
 
 ## Métodos
-* [getExpression()](/Java/ExpressionStatementTree-jdk-nashorn-api-tree/getExpression)
+* [getExpression()](/Java/ExpressionStatementTree-jdk-nashorn-api-tree/getExpression/)
 
 ## Ejemplo
 ~~~java

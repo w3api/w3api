@@ -18,10 +18,10 @@ public interface DSAPublicKey extends DSAKey, PublicKey
 ~~~
 
 ## Campos
-* [serialVersionUID](/Java/DSAPublicKey/serialVersionUID)
+* [serialVersionUID](/Java/DSAPublicKey/serialVersionUID/)
 
 ## Métodos
-* [getY()](/Java/DSAPublicKey/getY)
+* [getY()](/Java/DSAPublicKey/getY/)
 
 ## Ejemplo
 ~~~java

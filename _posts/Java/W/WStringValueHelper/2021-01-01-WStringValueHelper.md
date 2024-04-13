@@ -21,12 +21,12 @@ public class WStringValueHelper extends Object implements BoxedValueHelper
 * [WStringValueHelper()](/Java/WStringValueHelper/WStringValueHelper/)
 
 ## Métodos
-* [extract()](/Java/WStringValueHelper/extract)
-* [id()](/Java/WStringValueHelper/id)
-* [insert()](/Java/WStringValueHelper/insert)
-* [read()](/Java/WStringValueHelper/read)
-* [type()](/Java/WStringValueHelper/type)
-* [write()](/Java/WStringValueHelper/write)
+* [extract()](/Java/WStringValueHelper/extract/)
+* [id()](/Java/WStringValueHelper/id/)
+* [insert()](/Java/WStringValueHelper/insert/)
+* [read()](/Java/WStringValueHelper/read/)
+* [type()](/Java/WStringValueHelper/type/)
+* [write()](/Java/WStringValueHelper/write/)
 
 ## Ejemplo
 ~~~java

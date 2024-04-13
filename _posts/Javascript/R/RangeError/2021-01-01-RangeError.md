@@ -21,12 +21,12 @@ RangeError
 * [RangeError()](/Javascript/RangeError/RangeError/)
 
 ## Propiedades
-* [message](/Javascript/RangeError/message)
-* [name](/Javascript/RangeError/name)
-* [fileName](/Javascript/RangeError/fileName)
-* [lineNumber](/Javascript/RangeError/lineNumber)
-* [columnNumber](/Javascript/RangeError/columnNumber)
-* [stack](/Javascript/RangeError/stack)
+* [message](/Javascript/RangeError/message/)
+* [name](/Javascript/RangeError/name/)
+* [fileName](/Javascript/RangeError/fileName/)
+* [lineNumber](/Javascript/RangeError/lineNumber/)
+* [columnNumber](/Javascript/RangeError/columnNumber/)
+* [stack](/Javascript/RangeError/stack/)
 
 ## Ejemplo
 ~~~java

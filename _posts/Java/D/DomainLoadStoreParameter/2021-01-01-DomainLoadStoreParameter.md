@@ -21,9 +21,9 @@ public final class DomainLoadStoreParameter extends Object implements KeyStore.L
 * [DomainLoadStoreParameter()](/Java/DomainLoadStoreParameter/DomainLoadStoreParameter/)
 
 ## Métodos
-* [getConfiguration()](/Java/DomainLoadStoreParameter/getConfiguration)
-* [getProtectionParameter()](/Java/DomainLoadStoreParameter/getProtectionParameter)
-* [getProtectionParams()](/Java/DomainLoadStoreParameter/getProtectionParams)
+* [getConfiguration()](/Java/DomainLoadStoreParameter/getConfiguration/)
+* [getProtectionParameter()](/Java/DomainLoadStoreParameter/getProtectionParameter/)
+* [getProtectionParams()](/Java/DomainLoadStoreParameter/getProtectionParams/)
 
 ## Ejemplo
 ~~~java

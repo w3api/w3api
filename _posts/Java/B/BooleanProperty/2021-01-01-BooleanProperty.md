@@ -21,9 +21,9 @@ public abstract class BooleanProperty extends ReadOnlyBooleanProperty implements
 * [BooleanProperty()](/Java/BooleanProperty/BooleanProperty/)
 
 ## Métodos
-* [asObject()](/Java/BooleanProperty/asObject)
-* [booleanProperty()](/Java/BooleanProperty/booleanProperty)
-* [toString()](/Java/BooleanProperty/toString)
+* [asObject()](/Java/BooleanProperty/asObject/)
+* [booleanProperty()](/Java/BooleanProperty/booleanProperty/)
+* [toString()](/Java/BooleanProperty/toString/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface ExportsTree extends DirectiveTree
 ~~~
 
 ## Métodos
-* [getModuleNames()](/Java/ExportsTree/getModuleNames)
-* [getPackageName()](/Java/ExportsTree/getPackageName)
+* [getModuleNames()](/Java/ExportsTree/getModuleNames/)
+* [getPackageName()](/Java/ExportsTree/getPackageName/)
 
 ## Ejemplo
 ~~~java

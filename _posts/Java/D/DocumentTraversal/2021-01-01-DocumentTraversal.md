@@ -18,8 +18,8 @@ public interface DocumentTraversal
 ~~~
 
 ## Métodos
-* [createNodeIterator()](/Java/DocumentTraversal/createNodeIterator)
-* [createTreeWalker()](/Java/DocumentTraversal/createTreeWalker)
+* [createNodeIterator()](/Java/DocumentTraversal/createNodeIterator/)
+* [createTreeWalker()](/Java/DocumentTraversal/createTreeWalker/)
 
 ## Ejemplo
 ~~~java

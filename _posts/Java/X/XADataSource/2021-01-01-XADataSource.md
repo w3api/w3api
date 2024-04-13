@@ -18,12 +18,12 @@ public interface XADataSource extends CommonDataSource
 ~~~
 
 ## Métodos
-* [createXAConnectionBuilder()](/Java/XADataSource/createXAConnectionBuilder)
-* [getLoginTimeout()](/Java/XADataSource/getLoginTimeout)
-* [getLogWriter()](/Java/XADataSource/getLogWriter)
-* [getXAConnection()](/Java/XADataSource/getXAConnection)
-* [setLoginTimeout()](/Java/XADataSource/setLoginTimeout)
-* [setLogWriter()](/Java/XADataSource/setLogWriter)
+* [createXAConnectionBuilder()](/Java/XADataSource/createXAConnectionBuilder/)
+* [getLoginTimeout()](/Java/XADataSource/getLoginTimeout/)
+* [getLogWriter()](/Java/XADataSource/getLogWriter/)
+* [getXAConnection()](/Java/XADataSource/getXAConnection/)
+* [setLoginTimeout()](/Java/XADataSource/setLoginTimeout/)
+* [setLogWriter()](/Java/XADataSource/setLogWriter/)
 
 ## Ejemplo
 ~~~java

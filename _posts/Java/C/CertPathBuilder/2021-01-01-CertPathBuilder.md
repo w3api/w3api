@@ -21,12 +21,12 @@ public class CertPathBuilder extends Object
 * [CertPathBuilder()](/Java/CertPathBuilder/CertPathBuilder/)
 
 ## Métodos
-* [build()](/Java/CertPathBuilder/build)
-* [getAlgorithm()](/Java/CertPathBuilder/getAlgorithm)
-* [getDefaultType()](/Java/CertPathBuilder/getDefaultType)
-* [getInstance()](/Java/CertPathBuilder/getInstance)
-* [getProvider()](/Java/CertPathBuilder/getProvider)
-* [getRevocationChecker()](/Java/CertPathBuilder/getRevocationChecker)
+* [build()](/Java/CertPathBuilder/build/)
+* [getAlgorithm()](/Java/CertPathBuilder/getAlgorithm/)
+* [getDefaultType()](/Java/CertPathBuilder/getDefaultType/)
+* [getInstance()](/Java/CertPathBuilder/getInstance/)
+* [getProvider()](/Java/CertPathBuilder/getProvider/)
+* [getRevocationChecker()](/Java/CertPathBuilder/getRevocationChecker/)
 
 ## Ejemplo
 ~~~java

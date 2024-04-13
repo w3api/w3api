@@ -21,8 +21,8 @@ public class PrintJobAttributeEvent extends PrintEvent
 * [PrintJobAttributeEvent()](/Java/PrintJobAttributeEvent/PrintJobAttributeEvent/)
 
 ## Métodos
-* [getAttributes()](/Java/PrintJobAttributeEvent/getAttributes)
-* [getPrintJob()](/Java/PrintJobAttributeEvent/getPrintJob)
+* [getAttributes()](/Java/PrintJobAttributeEvent/getAttributes/)
+* [getPrintJob()](/Java/PrintJobAttributeEvent/getPrintJob/)
 
 ## Ejemplo
 ~~~java

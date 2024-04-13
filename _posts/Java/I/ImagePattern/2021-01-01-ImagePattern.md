@@ -21,12 +21,12 @@ public final class ImagePattern extends Paint
 * [ImagePattern()](/Java/ImagePattern/ImagePattern/)
 
 ## Métodos
-* [getHeight()](/Java/ImagePattern/getHeight)
-* [getImage()](/Java/ImagePattern/getImage)
-* [getWidth()](/Java/ImagePattern/getWidth)
-* [getX()](/Java/ImagePattern/getX)
-* [getY()](/Java/ImagePattern/getY)
-* [isProportional()](/Java/ImagePattern/isProportional)
+* [getHeight()](/Java/ImagePattern/getHeight/)
+* [getImage()](/Java/ImagePattern/getImage/)
+* [getWidth()](/Java/ImagePattern/getWidth/)
+* [getX()](/Java/ImagePattern/getX/)
+* [getY()](/Java/ImagePattern/getY/)
+* [isProportional()](/Java/ImagePattern/isProportional/)
 
 ## Ejemplo
 ~~~java

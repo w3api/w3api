@@ -18,12 +18,12 @@ public interface DataSource extends CommonDataSource, Wrapper
 ~~~
 
 ## Métodos
-* [createConnectionBuilder()](/Java/DataSource-javax-sql/createConnectionBuilder)
-* [getConnection()](/Java/DataSource-javax-sql/getConnection)
-* [getLoginTimeout()](/Java/DataSource-javax-sql/getLoginTimeout)
-* [getLogWriter()](/Java/DataSource-javax-sql/getLogWriter)
-* [setLoginTimeout()](/Java/DataSource-javax-sql/setLoginTimeout)
-* [setLogWriter()](/Java/DataSource-javax-sql/setLogWriter)
+* [createConnectionBuilder()](/Java/DataSource-javax-sql/createConnectionBuilder/)
+* [getConnection()](/Java/DataSource-javax-sql/getConnection/)
+* [getLoginTimeout()](/Java/DataSource-javax-sql/getLoginTimeout/)
+* [getLogWriter()](/Java/DataSource-javax-sql/getLogWriter/)
+* [setLoginTimeout()](/Java/DataSource-javax-sql/setLoginTimeout/)
+* [setLogWriter()](/Java/DataSource-javax-sql/setLogWriter/)
 
 ## Ejemplo
 ~~~java

@@ -18,11 +18,11 @@ public interface ExecutionEnv
 ~~~
 
 ## Métodos
-* [closeDown()](/Java/ExecutionEnv/closeDown)
-* [extraRemoteVMOptions()](/Java/ExecutionEnv/extraRemoteVMOptions)
-* [userErr()](/Java/ExecutionEnv/userErr)
-* [userIn()](/Java/ExecutionEnv/userIn)
-* [userOut()](/Java/ExecutionEnv/userOut)
+* [closeDown()](/Java/ExecutionEnv/closeDown/)
+* [extraRemoteVMOptions()](/Java/ExecutionEnv/extraRemoteVMOptions/)
+* [userErr()](/Java/ExecutionEnv/userErr/)
+* [userIn()](/Java/ExecutionEnv/userIn/)
+* [userOut()](/Java/ExecutionEnv/userOut/)
 
 ## Ejemplo
 ~~~java

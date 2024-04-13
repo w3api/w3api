@@ -21,7 +21,7 @@ public static class ExecutionControl.ResolutionException extends ExecutionContro
 * [ExecutionControl.ResolutionException()](/Java/ExecutionControl/ResolutionException/ExecutionControl/ResolutionException/)
 
 ## Métodos
-* [id()](/Java/ExecutionControl/ResolutionException/id)
+* [id()](/Java/ExecutionControl/ResolutionException/id/)
 
 ## Ejemplo
 ~~~java

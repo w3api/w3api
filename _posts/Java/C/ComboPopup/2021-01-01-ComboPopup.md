@@ -18,14 +18,14 @@ public interface ComboPopup
 ~~~
 
 ## Métodos
-* [getKeyListener()](/Java/ComboPopup/getKeyListener)
-* [getList()](/Java/ComboPopup/getList)
-* [getMouseListener()](/Java/ComboPopup/getMouseListener)
-* [getMouseMotionListener()](/Java/ComboPopup/getMouseMotionListener)
-* [hide()](/Java/ComboPopup/hide)
-* [isVisible()](/Java/ComboPopup/isVisible)
-* [show()](/Java/ComboPopup/show)
-* [uninstallingUI()](/Java/ComboPopup/uninstallingUI)
+* [getKeyListener()](/Java/ComboPopup/getKeyListener/)
+* [getList()](/Java/ComboPopup/getList/)
+* [getMouseListener()](/Java/ComboPopup/getMouseListener/)
+* [getMouseMotionListener()](/Java/ComboPopup/getMouseMotionListener/)
+* [hide()](/Java/ComboPopup/hide/)
+* [isVisible()](/Java/ComboPopup/isVisible/)
+* [show()](/Java/ComboPopup/show/)
+* [uninstallingUI()](/Java/ComboPopup/uninstallingUI/)
 
 ## Ejemplo
 ~~~java

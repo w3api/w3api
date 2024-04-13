@@ -18,7 +18,7 @@ public interface ElementCSSInlineStyle
 ~~~
 
 ## Métodos
-* [getStyle()](/Java/ElementCSSInlineStyle/getStyle)
+* [getStyle()](/Java/ElementCSSInlineStyle/getStyle/)
 
 ## Ejemplo
 ~~~java

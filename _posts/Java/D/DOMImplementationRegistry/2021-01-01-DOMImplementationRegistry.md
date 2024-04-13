@@ -18,13 +18,13 @@ public final class DOMImplementationRegistry extends Object
 ~~~
 
 ## Campos
-* [PROPERTY](/Java/DOMImplementationRegistry/PROPERTY)
+* [PROPERTY](/Java/DOMImplementationRegistry/PROPERTY/)
 
 ## Métodos
-* [addSource()](/Java/DOMImplementationRegistry/addSource)
-* [getDOMImplementation()](/Java/DOMImplementationRegistry/getDOMImplementation)
-* [getDOMImplementationList()](/Java/DOMImplementationRegistry/getDOMImplementationList)
-* [newInstance()](/Java/DOMImplementationRegistry/newInstance)
+* [addSource()](/Java/DOMImplementationRegistry/addSource/)
+* [getDOMImplementation()](/Java/DOMImplementationRegistry/getDOMImplementation/)
+* [getDOMImplementationList()](/Java/DOMImplementationRegistry/getDOMImplementationList/)
+* [newInstance()](/Java/DOMImplementationRegistry/newInstance/)
 
 ## Ejemplo
 ~~~java

@@ -18,11 +18,11 @@ sidebar:
 ~~~
 
 ## Métodos
-* [annotations()](/Java/Parameter-com-sun-javadoc/annotations)
-* [name()](/Java/Parameter-com-sun-javadoc/name)
-* [toString()](/Java/Parameter-com-sun-javadoc/toString)
-* [type()](/Java/Parameter-com-sun-javadoc/type)
-* [typeName()](/Java/Parameter-com-sun-javadoc/typeName)
+* [annotations()](/Java/Parameter-com-sun-javadoc/annotations/)
+* [name()](/Java/Parameter-com-sun-javadoc/name/)
+* [toString()](/Java/Parameter-com-sun-javadoc/toString/)
+* [type()](/Java/Parameter-com-sun-javadoc/type/)
+* [typeName()](/Java/Parameter-com-sun-javadoc/typeName/)
 
 ## Ejemplo
 ~~~java

@@ -21,16 +21,16 @@ public final class W3CEndpointReferenceBuilder extends Object
 * [W3CEndpointReferenceBuilder()](/Java/W3CEndpointReferenceBuilder/W3CEndpointReferenceBuilder/)
 
 ## Métodos
-* [address()](/Java/W3CEndpointReferenceBuilder/address)
-* [attribute()](/Java/W3CEndpointReferenceBuilder/attribute)
-* [build()](/Java/W3CEndpointReferenceBuilder/build)
-* [element()](/Java/W3CEndpointReferenceBuilder/element)
-* [endpointName()](/Java/W3CEndpointReferenceBuilder/endpointName)
-* [interfaceName()](/Java/W3CEndpointReferenceBuilder/interfaceName)
-* [metadata()](/Java/W3CEndpointReferenceBuilder/metadata)
-* [referenceParameter()](/Java/W3CEndpointReferenceBuilder/referenceParameter)
-* [serviceName()](/Java/W3CEndpointReferenceBuilder/serviceName)
-* [wsdlDocumentLocation()](/Java/W3CEndpointReferenceBuilder/wsdlDocumentLocation)
+* [address()](/Java/W3CEndpointReferenceBuilder/address/)
+* [attribute()](/Java/W3CEndpointReferenceBuilder/attribute/)
+* [build()](/Java/W3CEndpointReferenceBuilder/build/)
+* [element()](/Java/W3CEndpointReferenceBuilder/element/)
+* [endpointName()](/Java/W3CEndpointReferenceBuilder/endpointName/)
+* [interfaceName()](/Java/W3CEndpointReferenceBuilder/interfaceName/)
+* [metadata()](/Java/W3CEndpointReferenceBuilder/metadata/)
+* [referenceParameter()](/Java/W3CEndpointReferenceBuilder/referenceParameter/)
+* [serviceName()](/Java/W3CEndpointReferenceBuilder/serviceName/)
+* [wsdlDocumentLocation()](/Java/W3CEndpointReferenceBuilder/wsdlDocumentLocation/)
 
 ## Ejemplo
 ~~~java

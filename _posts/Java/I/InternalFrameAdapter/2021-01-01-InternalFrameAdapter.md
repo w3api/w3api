@@ -21,13 +21,13 @@ public abstract class InternalFrameAdapter extends Object implements InternalFra
 * [InternalFrameAdapter()](/Java/InternalFrameAdapter/InternalFrameAdapter/)
 
 ## Métodos
-* [internalFrameActivated()](/Java/InternalFrameAdapter/internalFrameActivated)
-* [internalFrameClosed()](/Java/InternalFrameAdapter/internalFrameClosed)
-* [internalFrameClosing()](/Java/InternalFrameAdapter/internalFrameClosing)
-* [internalFrameDeactivated()](/Java/InternalFrameAdapter/internalFrameDeactivated)
-* [internalFrameDeiconified()](/Java/InternalFrameAdapter/internalFrameDeiconified)
-* [internalFrameIconified()](/Java/InternalFrameAdapter/internalFrameIconified)
-* [internalFrameOpened()](/Java/InternalFrameAdapter/internalFrameOpened)
+* [internalFrameActivated()](/Java/InternalFrameAdapter/internalFrameActivated/)
+* [internalFrameClosed()](/Java/InternalFrameAdapter/internalFrameClosed/)
+* [internalFrameClosing()](/Java/InternalFrameAdapter/internalFrameClosing/)
+* [internalFrameDeactivated()](/Java/InternalFrameAdapter/internalFrameDeactivated/)
+* [internalFrameDeiconified()](/Java/InternalFrameAdapter/internalFrameDeiconified/)
+* [internalFrameIconified()](/Java/InternalFrameAdapter/internalFrameIconified/)
+* [internalFrameOpened()](/Java/InternalFrameAdapter/internalFrameOpened/)
 
 ## Ejemplo
 ~~~java

@@ -18,11 +18,11 @@ public interface DesignMode
 ~~~
 
 ## Campos
-* [PROPERTYNAME](/Java/DesignMode/PROPERTYNAME)
+* [PROPERTYNAME](/Java/DesignMode/PROPERTYNAME/)
 
 ## Métodos
-* [isDesignTime()](/Java/DesignMode/isDesignTime)
-* [setDesignTime()](/Java/DesignMode/setDesignTime)
+* [isDesignTime()](/Java/DesignMode/isDesignTime/)
+* [setDesignTime()](/Java/DesignMode/setDesignTime/)
 
 ## Ejemplo
 ~~~java

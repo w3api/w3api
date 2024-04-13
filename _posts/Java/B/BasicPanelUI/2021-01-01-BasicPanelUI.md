@@ -21,11 +21,11 @@ public class BasicPanelUI extends PanelUI
 * [BasicPanelUI()](/Java/BasicPanelUI/BasicPanelUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicPanelUI/createUI)
-* [getBaseline()](/Java/BasicPanelUI/getBaseline)
-* [getBaselineResizeBehavior()](/Java/BasicPanelUI/getBaselineResizeBehavior)
-* [installDefaults()](/Java/BasicPanelUI/installDefaults)
-* [uninstallDefaults()](/Java/BasicPanelUI/uninstallDefaults)
+* [createUI()](/Java/BasicPanelUI/createUI/)
+* [getBaseline()](/Java/BasicPanelUI/getBaseline/)
+* [getBaselineResizeBehavior()](/Java/BasicPanelUI/getBaselineResizeBehavior/)
+* [installDefaults()](/Java/BasicPanelUI/installDefaults/)
+* [uninstallDefaults()](/Java/BasicPanelUI/uninstallDefaults/)
 
 ## Ejemplo
 ~~~java

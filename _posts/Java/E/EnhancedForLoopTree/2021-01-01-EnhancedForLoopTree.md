@@ -18,9 +18,9 @@ public interface EnhancedForLoopTree extends StatementTree
 ~~~
 
 ## Métodos
-* [getExpression()](/Java/EnhancedForLoopTree/getExpression)
-* [getStatement()](/Java/EnhancedForLoopTree/getStatement)
-* [getVariable()](/Java/EnhancedForLoopTree/getVariable)
+* [getExpression()](/Java/EnhancedForLoopTree/getExpression/)
+* [getStatement()](/Java/EnhancedForLoopTree/getStatement/)
+* [getVariable()](/Java/EnhancedForLoopTree/getVariable/)
 
 ## Ejemplo
 ~~~java

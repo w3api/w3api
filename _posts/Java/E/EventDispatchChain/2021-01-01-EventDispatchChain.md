@@ -18,9 +18,9 @@ public interface EventDispatchChain
 ~~~
 
 ## Métodos
-* [append()](/Java/EventDispatchChain/append)
-* [dispatchEvent()](/Java/EventDispatchChain/dispatchEvent)
-* [prepend()](/Java/EventDispatchChain/prepend)
+* [append()](/Java/EventDispatchChain/append/)
+* [dispatchEvent()](/Java/EventDispatchChain/dispatchEvent/)
+* [prepend()](/Java/EventDispatchChain/prepend/)
 
 ## Ejemplo
 ~~~java

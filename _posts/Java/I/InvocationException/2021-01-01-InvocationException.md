@@ -21,7 +21,7 @@ public class InvocationException extends Exception
 * [InvocationException()](/Java/InvocationException/InvocationException/)
 
 ## Métodos
-* [exception()](/Java/InvocationException/exception)
+* [exception()](/Java/InvocationException/exception/)
 
 ## Ejemplo
 ~~~java

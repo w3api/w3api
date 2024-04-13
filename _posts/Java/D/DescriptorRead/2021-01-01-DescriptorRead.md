@@ -18,7 +18,7 @@ public interface DescriptorRead
 ~~~
 
 ## Métodos
-* [getDescriptor()](/Java/DescriptorRead/getDescriptor)
+* [getDescriptor()](/Java/DescriptorRead/getDescriptor/)
 
 ## Ejemplo
 ~~~java

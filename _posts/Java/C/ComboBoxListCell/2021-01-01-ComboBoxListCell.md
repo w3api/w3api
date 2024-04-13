@@ -21,14 +21,14 @@ public class ComboBoxListCell<T> extends ListCell<T>
 * [ComboBoxListCell()](/Java/ComboBoxListCell/ComboBoxListCell/)
 
 ## Métodos
-* [comboBoxEditableProperty()](/Java/ComboBoxListCell/comboBoxEditableProperty)
-* [converterProperty()](/Java/ComboBoxListCell/converterProperty)
-* [forListView()](/Java/ComboBoxListCell/forListView)
-* [getConverter()](/Java/ComboBoxListCell/getConverter)
-* [getItems()](/Java/ComboBoxListCell/getItems)
-* [isComboBoxEditable()](/Java/ComboBoxListCell/isComboBoxEditable)
-* [setComboBoxEditable()](/Java/ComboBoxListCell/setComboBoxEditable)
-* [setConverter()](/Java/ComboBoxListCell/setConverter)
+* [comboBoxEditableProperty()](/Java/ComboBoxListCell/comboBoxEditableProperty/)
+* [converterProperty()](/Java/ComboBoxListCell/converterProperty/)
+* [forListView()](/Java/ComboBoxListCell/forListView/)
+* [getConverter()](/Java/ComboBoxListCell/getConverter/)
+* [getItems()](/Java/ComboBoxListCell/getItems/)
+* [isComboBoxEditable()](/Java/ComboBoxListCell/isComboBoxEditable/)
+* [setComboBoxEditable()](/Java/ComboBoxListCell/setComboBoxEditable/)
+* [setConverter()](/Java/ComboBoxListCell/setConverter/)
 
 ## Ejemplo
 ~~~java

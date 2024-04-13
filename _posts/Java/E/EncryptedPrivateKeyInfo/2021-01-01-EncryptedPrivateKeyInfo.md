@@ -21,11 +21,11 @@ public class EncryptedPrivateKeyInfo extends Object
 * [EncryptedPrivateKeyInfo()](/Java/EncryptedPrivateKeyInfo/EncryptedPrivateKeyInfo/)
 
 ## Métodos
-* [getAlgName()](/Java/EncryptedPrivateKeyInfo/getAlgName)
-* [getAlgParameters()](/Java/EncryptedPrivateKeyInfo/getAlgParameters)
-* [getEncoded()](/Java/EncryptedPrivateKeyInfo/getEncoded)
-* [getEncryptedData()](/Java/EncryptedPrivateKeyInfo/getEncryptedData)
-* [getKeySpec()](/Java/EncryptedPrivateKeyInfo/getKeySpec)
+* [getAlgName()](/Java/EncryptedPrivateKeyInfo/getAlgName/)
+* [getAlgParameters()](/Java/EncryptedPrivateKeyInfo/getAlgParameters/)
+* [getEncoded()](/Java/EncryptedPrivateKeyInfo/getEncoded/)
+* [getEncryptedData()](/Java/EncryptedPrivateKeyInfo/getEncryptedData/)
+* [getKeySpec()](/Java/EncryptedPrivateKeyInfo/getKeySpec/)
 
 ## Ejemplo
 ~~~java

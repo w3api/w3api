@@ -18,13 +18,13 @@ public static final class PageAttributes.PrintQualityType extends Object
 ~~~
 
 ## Campos
-* [DRAFT](/Java/PageAttributes/PrintQualityType/DRAFT)
-* [HIGH](/Java/PageAttributes/PrintQualityType/HIGH)
-* [NORMAL](/Java/PageAttributes/PrintQualityType/NORMAL)
+* [DRAFT](/Java/PageAttributes/PrintQualityType/DRAFT/)
+* [HIGH](/Java/PageAttributes/PrintQualityType/HIGH/)
+* [NORMAL](/Java/PageAttributes/PrintQualityType/NORMAL/)
 
 ## Métodos
-* [hashCode()](/Java/PageAttributes/PrintQualityType/hashCode)
-* [toString()](/Java/PageAttributes/PrintQualityType/toString)
+* [hashCode()](/Java/PageAttributes/PrintQualityType/hashCode/)
+* [toString()](/Java/PageAttributes/PrintQualityType/toString/)
 
 ## Ejemplo
 ~~~java

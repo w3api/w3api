@@ -21,8 +21,8 @@ public abstract class KeyGeneratorSpi extends Object
 * [KeyGeneratorSpi()](/Java/KeyGeneratorSpi/KeyGeneratorSpi/)
 
 ## Métodos
-* [engineGenerateKey()](/Java/KeyGeneratorSpi/engineGenerateKey)
-* [engineInit()](/Java/KeyGeneratorSpi/engineInit)
+* [engineGenerateKey()](/Java/KeyGeneratorSpi/engineGenerateKey/)
+* [engineInit()](/Java/KeyGeneratorSpi/engineInit/)
 
 ## Ejemplo
 ~~~java

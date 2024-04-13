@@ -21,9 +21,9 @@ public class LSException extends RuntimeException
 * [LSException()](/Java/LSException/LSException/)
 
 ## Campos
-* [code](/Java/LSException/code)
-* [PARSE_ERR](/Java/LSException/PARSE_ERR)
-* [SERIALIZE_ERR](/Java/LSException/SERIALIZE_ERR)
+* [code](/Java/LSException/code/)
+* [PARSE_ERR](/Java/LSException/PARSE_ERR/)
+* [SERIALIZE_ERR](/Java/LSException/SERIALIZE_ERR/)
 
 ## Ejemplo
 ~~~java

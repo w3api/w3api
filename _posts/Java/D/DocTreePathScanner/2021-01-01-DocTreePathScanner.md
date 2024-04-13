@@ -21,8 +21,8 @@ public class DocTreePathScanner<R,P> extends DocTreeScanner<R,P>
 * [DocTreePathScanner()](/Java/DocTreePathScanner/DocTreePathScanner/)
 
 ## Métodos
-* [getCurrentPath()](/Java/DocTreePathScanner/getCurrentPath)
-* [scan()](/Java/DocTreePathScanner/scan)
+* [getCurrentPath()](/Java/DocTreePathScanner/getCurrentPath/)
+* [scan()](/Java/DocTreePathScanner/scan/)
 
 ## Ejemplo
 ~~~java

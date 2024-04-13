@@ -21,14 +21,14 @@ public final class InputMethodEvent extends InputEvent
 * [InputMethodEvent()](/Java/InputMethodEvent-javafx-scene-input/InputMethodEvent/)
 
 ## Campos
-* [ANY](/Java/InputMethodEvent-javafx-scene-input/ANY)
-* [INPUT_METHOD_TEXT_CHANGED](/Java/InputMethodEvent-javafx-scene-input/INPUT_METHOD_TEXT_CHANGED)
+* [ANY](/Java/InputMethodEvent-javafx-scene-input/ANY/)
+* [INPUT_METHOD_TEXT_CHANGED](/Java/InputMethodEvent-javafx-scene-input/INPUT_METHOD_TEXT_CHANGED/)
 
 ## Métodos
-* [getCaretPosition()](/Java/InputMethodEvent-javafx-scene-input/getCaretPosition)
-* [getCommitted()](/Java/InputMethodEvent-javafx-scene-input/getCommitted)
-* [getComposed()](/Java/InputMethodEvent-javafx-scene-input/getComposed)
-* [toString()](/Java/InputMethodEvent-javafx-scene-input/toString)
+* [getCaretPosition()](/Java/InputMethodEvent-javafx-scene-input/getCaretPosition/)
+* [getCommitted()](/Java/InputMethodEvent-javafx-scene-input/getCommitted/)
+* [getComposed()](/Java/InputMethodEvent-javafx-scene-input/getComposed/)
+* [toString()](/Java/InputMethodEvent-javafx-scene-input/toString/)
 
 ## Ejemplo
 ~~~java

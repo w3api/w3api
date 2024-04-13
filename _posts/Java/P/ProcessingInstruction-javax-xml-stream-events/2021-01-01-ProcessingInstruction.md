@@ -18,8 +18,8 @@ public interface ProcessingInstruction extends XMLEvent
 ~~~
 
 ## Métodos
-* [getData()](/Java/ProcessingInstruction-javax-xml-stream-events/getData)
-* [getTarget()](/Java/ProcessingInstruction-javax-xml-stream-events/getTarget)
+* [getData()](/Java/ProcessingInstruction-javax-xml-stream-events/getData/)
+* [getTarget()](/Java/ProcessingInstruction-javax-xml-stream-events/getTarget/)
 
 ## Ejemplo
 ~~~java

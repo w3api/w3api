@@ -18,9 +18,9 @@ public static interface PrimitiveIterator.OfLong extends PrimitiveIterator<Long,
 ~~~
 
 ## Métodos
-* [forEachRemaining()](/Java/PrimitiveIterator/OfLong/forEachRemaining)
-* [next()](/Java/PrimitiveIterator/OfLong/next)
-* [nextLong()](/Java/PrimitiveIterator/OfLong/nextLong)
+* [forEachRemaining()](/Java/PrimitiveIterator/OfLong/forEachRemaining/)
+* [next()](/Java/PrimitiveIterator/OfLong/next/)
+* [nextLong()](/Java/PrimitiveIterator/OfLong/nextLong/)
 
 ## Ejemplo
 ~~~java

@@ -21,7 +21,7 @@ public final class CookieHolder extends Object implements Streamable
 * [CookieHolder()](/Java/CookieHolder/CookieHolder/)
 
 ## Campos
-* [value](/Java/CookieHolder/value)
+* [value](/Java/CookieHolder/value/)
 
 ## Ejemplo
 ~~~java

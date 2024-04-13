@@ -21,20 +21,20 @@ public class PrintWriter extends Writer
 * [PrintWriter()](/Java/PrintWriter/PrintWriter/)
 
 ## Campos
-* [out](/Java/PrintWriter/out)
+* [out](/Java/PrintWriter/out/)
 
 ## Métodos
-* [append()](/Java/PrintWriter/append)
-* [checkError()](/Java/PrintWriter/checkError)
-* [clearError()](/Java/PrintWriter/clearError)
-* [close()](/Java/PrintWriter/close)
-* [flush()](/Java/PrintWriter/flush)
-* [format()](/Java/PrintWriter/format)
-* [print()](/Java/PrintWriter/print)
-* [printf()](/Java/PrintWriter/printf)
-* [println()](/Java/PrintWriter/println)
-* [setError()](/Java/PrintWriter/setError)
-* [write()](/Java/PrintWriter/write)
+* [append()](/Java/PrintWriter/append/)
+* [checkError()](/Java/PrintWriter/checkError/)
+* [clearError()](/Java/PrintWriter/clearError/)
+* [close()](/Java/PrintWriter/close/)
+* [flush()](/Java/PrintWriter/flush/)
+* [format()](/Java/PrintWriter/format/)
+* [print()](/Java/PrintWriter/print/)
+* [printf()](/Java/PrintWriter/printf/)
+* [println()](/Java/PrintWriter/println/)
+* [setError()](/Java/PrintWriter/setError/)
+* [write()](/Java/PrintWriter/write/)
 
 ## Ejemplo
 ~~~java

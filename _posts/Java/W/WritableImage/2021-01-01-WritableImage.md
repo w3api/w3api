@@ -21,7 +21,7 @@ public class WritableImage extends Image
 * [WritableImage()](/Java/WritableImage/WritableImage/)
 
 ## Métodos
-* [getPixelWriter()](/Java/WritableImage/getPixelWriter)
+* [getPixelWriter()](/Java/WritableImage/getPixelWriter/)
 
 ## Ejemplo
 ~~~java

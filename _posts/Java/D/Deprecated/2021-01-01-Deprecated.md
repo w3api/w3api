@@ -18,8 +18,8 @@ sidebar:
 ~~~
 
 ## Elementos
-* [forRemoval](/Java/Deprecated/forRemoval)
-* [since](/Java/Deprecated/since)
+* [forRemoval](/Java/Deprecated/forRemoval/)
+* [since](/Java/Deprecated/since/)
 
 ## Ejemplo
 ~~~java

@@ -18,14 +18,14 @@ public enum InputMethodHighlight extends Enum<InputMethodHighlight>
 ~~~
 
 ## Enumerados
-* [SELECTED_CONVERTED](/Java/InputMethodHighlight-javafx-scene-input/SELECTED_CONVERTED)
-* [SELECTED_RAW](/Java/InputMethodHighlight-javafx-scene-input/SELECTED_RAW)
-* [UNSELECTED_CONVERTED](/Java/InputMethodHighlight-javafx-scene-input/UNSELECTED_CONVERTED)
-* [UNSELECTED_RAW](/Java/InputMethodHighlight-javafx-scene-input/UNSELECTED_RAW)
+* [SELECTED_CONVERTED](/Java/InputMethodHighlight-javafx-scene-input/SELECTED_CONVERTED/)
+* [SELECTED_RAW](/Java/InputMethodHighlight-javafx-scene-input/SELECTED_RAW/)
+* [UNSELECTED_CONVERTED](/Java/InputMethodHighlight-javafx-scene-input/UNSELECTED_CONVERTED/)
+* [UNSELECTED_RAW](/Java/InputMethodHighlight-javafx-scene-input/UNSELECTED_RAW/)
 
 ## Métodos
-* [valueOf()](/Java/InputMethodHighlight-javafx-scene-input/valueOf)
-* [values()](/Java/InputMethodHighlight-javafx-scene-input/values)
+* [valueOf()](/Java/InputMethodHighlight-javafx-scene-input/valueOf/)
+* [values()](/Java/InputMethodHighlight-javafx-scene-input/values/)
 
 ## Ejemplo
 ~~~java

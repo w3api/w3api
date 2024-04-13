@@ -21,17 +21,17 @@ public class DocFlavor extends Object implements Serializable, Cloneable
 * [DocFlavor()](/Java/DocFlavor/DocFlavor/)
 
 ## Campos
-* [hostEncoding](/Java/DocFlavor/hostEncoding)
+* [hostEncoding](/Java/DocFlavor/hostEncoding/)
 
 ## Métodos
-* [equals()](/Java/DocFlavor/equals)
-* [getMediaSubtype()](/Java/DocFlavor/getMediaSubtype)
-* [getMediaType()](/Java/DocFlavor/getMediaType)
-* [getMimeType()](/Java/DocFlavor/getMimeType)
-* [getParameter()](/Java/DocFlavor/getParameter)
-* [getRepresentationClassName()](/Java/DocFlavor/getRepresentationClassName)
-* [hashCode()](/Java/DocFlavor/hashCode)
-* [toString()](/Java/DocFlavor/toString)
+* [equals()](/Java/DocFlavor/equals/)
+* [getMediaSubtype()](/Java/DocFlavor/getMediaSubtype/)
+* [getMediaType()](/Java/DocFlavor/getMediaType/)
+* [getMimeType()](/Java/DocFlavor/getMimeType/)
+* [getParameter()](/Java/DocFlavor/getParameter/)
+* [getRepresentationClassName()](/Java/DocFlavor/getRepresentationClassName/)
+* [hashCode()](/Java/DocFlavor/hashCode/)
+* [toString()](/Java/DocFlavor/toString/)
 
 ## Ejemplo
 ~~~java

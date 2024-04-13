@@ -18,12 +18,12 @@ public interface PrintJobListener
 ~~~
 
 ## Métodos
-* [printDataTransferCompleted()](/Java/PrintJobListener/printDataTransferCompleted)
-* [printJobCanceled()](/Java/PrintJobListener/printJobCanceled)
-* [printJobCompleted()](/Java/PrintJobListener/printJobCompleted)
-* [printJobFailed()](/Java/PrintJobListener/printJobFailed)
-* [printJobNoMoreEvents()](/Java/PrintJobListener/printJobNoMoreEvents)
-* [printJobRequiresAttention()](/Java/PrintJobListener/printJobRequiresAttention)
+* [printDataTransferCompleted()](/Java/PrintJobListener/printDataTransferCompleted/)
+* [printJobCanceled()](/Java/PrintJobListener/printJobCanceled/)
+* [printJobCompleted()](/Java/PrintJobListener/printJobCompleted/)
+* [printJobFailed()](/Java/PrintJobListener/printJobFailed/)
+* [printJobNoMoreEvents()](/Java/PrintJobListener/printJobNoMoreEvents/)
+* [printJobRequiresAttention()](/Java/PrintJobListener/printJobRequiresAttention/)
 
 ## Ejemplo
 ~~~java

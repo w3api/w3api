@@ -21,7 +21,7 @@ public abstract class ListProperty<E> extends ReadOnlyListProperty<E> implements
 * [ListProperty()](/Java/ListProperty/ListProperty/)
 
 ## Métodos
-* [toString()](/Java/ListProperty/toString)
+* [toString()](/Java/ListProperty/toString/)
 
 ## Ejemplo
 ~~~java

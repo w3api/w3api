@@ -18,7 +18,7 @@ public interface InitialContextFactoryBuilder
 ~~~
 
 ## Métodos
-* [createInitialContextFactory()](/Java/InitialContextFactoryBuilder/createInitialContextFactory)
+* [createInitialContextFactory()](/Java/InitialContextFactoryBuilder/createInitialContextFactory/)
 
 ## Ejemplo
 ~~~java

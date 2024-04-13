@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [onChanged()](/Java/ListChangeListener/onChanged)
+* [onChanged()](/Java/ListChangeListener/onChanged/)
 
 ## Ejemplo
 ~~~java

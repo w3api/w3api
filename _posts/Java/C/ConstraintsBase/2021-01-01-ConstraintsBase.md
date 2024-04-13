@@ -18,10 +18,10 @@ public abstract class ConstraintsBase extends Object
 ~~~
 
 ## Campos
-* [CONSTRAIN_TO_PREF](/Java/ConstraintsBase/CONSTRAIN_TO_PREF)
+* [CONSTRAIN_TO_PREF](/Java/ConstraintsBase/CONSTRAIN_TO_PREF/)
 
 ## Métodos
-* [requestLayout()](/Java/ConstraintsBase/requestLayout)
+* [requestLayout()](/Java/ConstraintsBase/requestLayout/)
 
 ## Ejemplo
 ~~~java

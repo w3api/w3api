@@ -18,10 +18,10 @@ public interface PixelReader
 ~~~
 
 ## Métodos
-* [getArgb()](/Java/PixelReader/getArgb)
-* [getColor()](/Java/PixelReader/getColor)
-* [getPixelFormat()](/Java/PixelReader/getPixelFormat)
-* [getPixels()](/Java/PixelReader/getPixels)
+* [getArgb()](/Java/PixelReader/getArgb/)
+* [getColor()](/Java/PixelReader/getColor/)
+* [getPixelFormat()](/Java/PixelReader/getPixelFormat/)
+* [getPixels()](/Java/PixelReader/getPixels/)
 
 ## Ejemplo
 ~~~java

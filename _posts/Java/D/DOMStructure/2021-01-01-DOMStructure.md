@@ -21,8 +21,8 @@ public class DOMStructure extends Object implements XMLStructure
 * [DOMStructure()](/Java/DOMStructure/DOMStructure/)
 
 ## Métodos
-* [getNode()](/Java/DOMStructure/getNode)
-* [isFeatureSupported()](/Java/DOMStructure/isFeatureSupported)
+* [getNode()](/Java/DOMStructure/getNode/)
+* [isFeatureSupported()](/Java/DOMStructure/isFeatureSupported/)
 
 ## Ejemplo
 ~~~java

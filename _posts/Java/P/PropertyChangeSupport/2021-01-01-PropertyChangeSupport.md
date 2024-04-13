@@ -21,12 +21,12 @@ public class PropertyChangeSupport extends Object implements Serializable
 * [PropertyChangeSupport()](/Java/PropertyChangeSupport/PropertyChangeSupport/)
 
 ## Métodos
-* [addPropertyChangeListener()](/Java/PropertyChangeSupport/addPropertyChangeListener)
-* [fireIndexedPropertyChange()](/Java/PropertyChangeSupport/fireIndexedPropertyChange)
-* [firePropertyChange()](/Java/PropertyChangeSupport/firePropertyChange)
-* [getPropertyChangeListeners()](/Java/PropertyChangeSupport/getPropertyChangeListeners)
-* [hasListeners()](/Java/PropertyChangeSupport/hasListeners)
-* [removePropertyChangeListener()](/Java/PropertyChangeSupport/removePropertyChangeListener)
+* [addPropertyChangeListener()](/Java/PropertyChangeSupport/addPropertyChangeListener/)
+* [fireIndexedPropertyChange()](/Java/PropertyChangeSupport/fireIndexedPropertyChange/)
+* [firePropertyChange()](/Java/PropertyChangeSupport/firePropertyChange/)
+* [getPropertyChangeListeners()](/Java/PropertyChangeSupport/getPropertyChangeListeners/)
+* [hasListeners()](/Java/PropertyChangeSupport/hasListeners/)
+* [removePropertyChangeListener()](/Java/PropertyChangeSupport/removePropertyChangeListener/)
 
 ## Ejemplo
 ~~~java

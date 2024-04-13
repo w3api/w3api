@@ -21,14 +21,14 @@ public abstract class DynUnionHelper extends Object
 * [DynUnionHelper()](/Java/DynUnionHelper/DynUnionHelper/)
 
 ## Métodos
-* [extract()](/Java/DynUnionHelper/extract)
-* [id()](/Java/DynUnionHelper/id)
-* [insert()](/Java/DynUnionHelper/insert)
-* [narrow()](/Java/DynUnionHelper/narrow)
-* [read()](/Java/DynUnionHelper/read)
-* [type()](/Java/DynUnionHelper/type)
-* [unchecked_narrow()](/Java/DynUnionHelper/unchecked_narrow)
-* [write()](/Java/DynUnionHelper/write)
+* [extract()](/Java/DynUnionHelper/extract/)
+* [id()](/Java/DynUnionHelper/id/)
+* [insert()](/Java/DynUnionHelper/insert/)
+* [narrow()](/Java/DynUnionHelper/narrow/)
+* [read()](/Java/DynUnionHelper/read/)
+* [type()](/Java/DynUnionHelper/type/)
+* [unchecked_narrow()](/Java/DynUnionHelper/unchecked_narrow/)
+* [write()](/Java/DynUnionHelper/write/)
 
 ## Ejemplo
 ~~~java

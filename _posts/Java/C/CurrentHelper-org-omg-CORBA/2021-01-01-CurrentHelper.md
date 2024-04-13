@@ -21,13 +21,13 @@ public abstract class CurrentHelper extends Object
 * [CurrentHelper()](/Java/CurrentHelper-org-omg-CORBA/CurrentHelper/)
 
 ## Métodos
-* [extract()](/Java/CurrentHelper-org-omg-CORBA/extract)
-* [id()](/Java/CurrentHelper-org-omg-CORBA/id)
-* [insert()](/Java/CurrentHelper-org-omg-CORBA/insert)
-* [narrow()](/Java/CurrentHelper-org-omg-CORBA/narrow)
-* [read()](/Java/CurrentHelper-org-omg-CORBA/read)
-* [type()](/Java/CurrentHelper-org-omg-CORBA/type)
-* [write()](/Java/CurrentHelper-org-omg-CORBA/write)
+* [extract()](/Java/CurrentHelper-org-omg-CORBA/extract/)
+* [id()](/Java/CurrentHelper-org-omg-CORBA/id/)
+* [insert()](/Java/CurrentHelper-org-omg-CORBA/insert/)
+* [narrow()](/Java/CurrentHelper-org-omg-CORBA/narrow/)
+* [read()](/Java/CurrentHelper-org-omg-CORBA/read/)
+* [type()](/Java/CurrentHelper-org-omg-CORBA/type/)
+* [write()](/Java/CurrentHelper-org-omg-CORBA/write/)
 
 ## Ejemplo
 ~~~java

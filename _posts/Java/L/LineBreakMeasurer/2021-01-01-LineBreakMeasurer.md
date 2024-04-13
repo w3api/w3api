@@ -21,12 +21,12 @@ public final class LineBreakMeasurer extends Object
 * [LineBreakMeasurer()](/Java/LineBreakMeasurer/LineBreakMeasurer/)
 
 ## Métodos
-* [deleteChar()](/Java/LineBreakMeasurer/deleteChar)
-* [getPosition()](/Java/LineBreakMeasurer/getPosition)
-* [insertChar()](/Java/LineBreakMeasurer/insertChar)
-* [nextLayout()](/Java/LineBreakMeasurer/nextLayout)
-* [nextOffset()](/Java/LineBreakMeasurer/nextOffset)
-* [setPosition()](/Java/LineBreakMeasurer/setPosition)
+* [deleteChar()](/Java/LineBreakMeasurer/deleteChar/)
+* [getPosition()](/Java/LineBreakMeasurer/getPosition/)
+* [insertChar()](/Java/LineBreakMeasurer/insertChar/)
+* [nextLayout()](/Java/LineBreakMeasurer/nextLayout/)
+* [nextOffset()](/Java/LineBreakMeasurer/nextOffset/)
+* [setPosition()](/Java/LineBreakMeasurer/setPosition/)
 
 ## Ejemplo
 ~~~java

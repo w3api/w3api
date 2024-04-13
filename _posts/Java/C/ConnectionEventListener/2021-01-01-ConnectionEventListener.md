@@ -18,8 +18,8 @@ public interface ConnectionEventListener extends EventListener
 ~~~
 
 ## Métodos
-* [connectionClosed()](/Java/ConnectionEventListener/connectionClosed)
-* [connectionErrorOccurred()](/Java/ConnectionEventListener/connectionErrorOccurred)
+* [connectionClosed()](/Java/ConnectionEventListener/connectionClosed/)
+* [connectionErrorOccurred()](/Java/ConnectionEventListener/connectionErrorOccurred/)
 
 ## Ejemplo
 ~~~java

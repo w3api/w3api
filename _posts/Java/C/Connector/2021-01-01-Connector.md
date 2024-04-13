@@ -18,10 +18,10 @@ public interface Connector
 ~~~
 
 ## Métodos
-* [defaultArguments()](/Java/Connector/defaultArguments)
-* [description()](/Java/Connector/description)
-* [name()](/Java/Connector/name)
-* [transport()](/Java/Connector/transport)
+* [defaultArguments()](/Java/Connector/defaultArguments/)
+* [description()](/Java/Connector/description/)
+* [name()](/Java/Connector/name/)
+* [transport()](/Java/Connector/transport/)
 
 ## Ejemplo
 ~~~java

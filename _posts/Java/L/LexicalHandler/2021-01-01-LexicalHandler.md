@@ -18,13 +18,13 @@ public interface LexicalHandler
 ~~~
 
 ## Métodos
-* [comment()](/Java/LexicalHandler/comment)
-* [endCDATA()](/Java/LexicalHandler/endCDATA)
-* [endDTD()](/Java/LexicalHandler/endDTD)
-* [endEntity()](/Java/LexicalHandler/endEntity)
-* [startCDATA()](/Java/LexicalHandler/startCDATA)
-* [startDTD()](/Java/LexicalHandler/startDTD)
-* [startEntity()](/Java/LexicalHandler/startEntity)
+* [comment()](/Java/LexicalHandler/comment/)
+* [endCDATA()](/Java/LexicalHandler/endCDATA/)
+* [endDTD()](/Java/LexicalHandler/endDTD/)
+* [endEntity()](/Java/LexicalHandler/endEntity/)
+* [startCDATA()](/Java/LexicalHandler/startCDATA/)
+* [startDTD()](/Java/LexicalHandler/startDTD/)
+* [startEntity()](/Java/LexicalHandler/startEntity/)
 
 ## Ejemplo
 ~~~java

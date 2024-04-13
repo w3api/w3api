@@ -18,9 +18,9 @@ public interface IntegerValue extends PrimitiveValue, Comparable<IntegerValue>
 ~~~
 
 ## Métodos
-* [equals()](/Java/IntegerValue/equals)
-* [hashCode()](/Java/IntegerValue/hashCode)
-* [value()](/Java/IntegerValue/value)
+* [equals()](/Java/IntegerValue/equals/)
+* [hashCode()](/Java/IntegerValue/hashCode/)
+* [value()](/Java/IntegerValue/value/)
 
 ## Ejemplo
 ~~~java

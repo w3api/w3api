@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [getAsInt()](/Java/IntSupplier/getAsInt)
+* [getAsInt()](/Java/IntSupplier/getAsInt/)
 
 ## Ejemplo
 ~~~java

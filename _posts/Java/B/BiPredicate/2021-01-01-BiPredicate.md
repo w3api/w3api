@@ -18,10 +18,10 @@ sidebar:
 ~~~
 
 ## Métodos
-* [and()](/Java/BiPredicate/and)
-* [negate()](/Java/BiPredicate/negate)
-* [or()](/Java/BiPredicate/or)
-* [test()](/Java/BiPredicate/test)
+* [and()](/Java/BiPredicate/and/)
+* [negate()](/Java/BiPredicate/negate/)
+* [or()](/Java/BiPredicate/or/)
+* [test()](/Java/BiPredicate/test/)
 
 ## Ejemplo
 ~~~java

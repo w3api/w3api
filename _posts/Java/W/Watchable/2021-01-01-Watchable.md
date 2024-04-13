@@ -18,7 +18,7 @@ public interface Watchable
 ~~~
 
 ## Métodos
-* [register()](/Java/Watchable/register)
+* [register()](/Java/Watchable/register/)
 
 ## Ejemplo
 ~~~java

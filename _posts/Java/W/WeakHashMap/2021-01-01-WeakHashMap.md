@@ -21,18 +21,18 @@ public class WeakHashMap<K,V> extends AbstractMap<K,V> implements Map<K,V>
 * [WeakHashMap()](/Java/WeakHashMap/WeakHashMap/)
 
 ## Métodos
-* [clear()](/Java/WeakHashMap/clear)
-* [containsKey()](/Java/WeakHashMap/containsKey)
-* [containsValue()](/Java/WeakHashMap/containsValue)
-* [entrySet()](/Java/WeakHashMap/entrySet)
-* [get()](/Java/WeakHashMap/get)
-* [isEmpty()](/Java/WeakHashMap/isEmpty)
-* [keySet()](/Java/WeakHashMap/keySet)
-* [put()](/Java/WeakHashMap/put)
-* [putAll()](/Java/WeakHashMap/putAll)
-* [remove()](/Java/WeakHashMap/remove)
-* [size()](/Java/WeakHashMap/size)
-* [values()](/Java/WeakHashMap/values)
+* [clear()](/Java/WeakHashMap/clear/)
+* [containsKey()](/Java/WeakHashMap/containsKey/)
+* [containsValue()](/Java/WeakHashMap/containsValue/)
+* [entrySet()](/Java/WeakHashMap/entrySet/)
+* [get()](/Java/WeakHashMap/get/)
+* [isEmpty()](/Java/WeakHashMap/isEmpty/)
+* [keySet()](/Java/WeakHashMap/keySet/)
+* [put()](/Java/WeakHashMap/put/)
+* [putAll()](/Java/WeakHashMap/putAll/)
+* [remove()](/Java/WeakHashMap/remove/)
+* [size()](/Java/WeakHashMap/size/)
+* [values()](/Java/WeakHashMap/values/)
 
 ## Ejemplo
 ~~~java

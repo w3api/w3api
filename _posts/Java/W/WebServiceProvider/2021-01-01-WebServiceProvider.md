@@ -18,10 +18,10 @@ sidebar:
 ~~~
 
 ## Elementos
-* [portName](/Java/WebServiceProvider/portName)
-* [serviceName](/Java/WebServiceProvider/serviceName)
-* [targetNamespace](/Java/WebServiceProvider/targetNamespace)
-* [wsdlLocation](/Java/WebServiceProvider/wsdlLocation)
+* [portName](/Java/WebServiceProvider/portName/)
+* [serviceName](/Java/WebServiceProvider/serviceName/)
+* [targetNamespace](/Java/WebServiceProvider/targetNamespace/)
+* [wsdlLocation](/Java/WebServiceProvider/wsdlLocation/)
 
 ## Ejemplo
 ~~~java

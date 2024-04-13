@@ -21,8 +21,8 @@ public class PixelInterleavedSampleModel extends ComponentSampleModel
 * [PixelInterleavedSampleModel()](/Java/PixelInterleavedSampleModel/PixelInterleavedSampleModel/)
 
 ## Métodos
-* [createCompatibleSampleModel()](/Java/PixelInterleavedSampleModel/createCompatibleSampleModel)
-* [createSubsetSampleModel()](/Java/PixelInterleavedSampleModel/createSubsetSampleModel)
+* [createCompatibleSampleModel()](/Java/PixelInterleavedSampleModel/createCompatibleSampleModel/)
+* [createSubsetSampleModel()](/Java/PixelInterleavedSampleModel/createSubsetSampleModel/)
 
 ## Ejemplo
 ~~~java

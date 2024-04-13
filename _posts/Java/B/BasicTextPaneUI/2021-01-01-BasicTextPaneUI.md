@@ -21,9 +21,9 @@ public class BasicTextPaneUI extends BasicEditorPaneUI
 * [BasicTextPaneUI()](/Java/BasicTextPaneUI/BasicTextPaneUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicTextPaneUI/createUI)
-* [getPropertyPrefix()](/Java/BasicTextPaneUI/getPropertyPrefix)
-* [propertyChange()](/Java/BasicTextPaneUI/propertyChange)
+* [createUI()](/Java/BasicTextPaneUI/createUI/)
+* [getPropertyPrefix()](/Java/BasicTextPaneUI/getPropertyPrefix/)
+* [propertyChange()](/Java/BasicTextPaneUI/propertyChange/)
 
 ## Ejemplo
 ~~~java

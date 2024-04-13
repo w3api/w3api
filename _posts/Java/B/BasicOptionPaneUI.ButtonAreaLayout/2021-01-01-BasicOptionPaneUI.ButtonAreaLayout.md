@@ -21,17 +21,17 @@ public static class BasicOptionPaneUI.ButtonAreaLayout extends Object implements
 * [BasicOptionPaneUI.ButtonAreaLayout()](/Java/BasicOptionPaneUI/ButtonAreaLayout/BasicOptionPaneUI/ButtonAreaLayout/)
 
 ## Campos
-* [centersChildren](/Java/BasicOptionPaneUI/ButtonAreaLayout/centersChildren)
-* [padding](/Java/BasicOptionPaneUI/ButtonAreaLayout/padding)
-* [syncAllWidths](/Java/BasicOptionPaneUI/ButtonAreaLayout/syncAllWidths)
+* [centersChildren](/Java/BasicOptionPaneUI/ButtonAreaLayout/centersChildren/)
+* [padding](/Java/BasicOptionPaneUI/ButtonAreaLayout/padding/)
+* [syncAllWidths](/Java/BasicOptionPaneUI/ButtonAreaLayout/syncAllWidths/)
 
 ## Métodos
-* [getCentersChildren()](/Java/BasicOptionPaneUI/ButtonAreaLayout/getCentersChildren)
-* [getPadding()](/Java/BasicOptionPaneUI/ButtonAreaLayout/getPadding)
-* [getSyncAllWidths()](/Java/BasicOptionPaneUI/ButtonAreaLayout/getSyncAllWidths)
-* [setCentersChildren()](/Java/BasicOptionPaneUI/ButtonAreaLayout/setCentersChildren)
-* [setPadding()](/Java/BasicOptionPaneUI/ButtonAreaLayout/setPadding)
-* [setSyncAllWidths()](/Java/BasicOptionPaneUI/ButtonAreaLayout/setSyncAllWidths)
+* [getCentersChildren()](/Java/BasicOptionPaneUI/ButtonAreaLayout/getCentersChildren/)
+* [getPadding()](/Java/BasicOptionPaneUI/ButtonAreaLayout/getPadding/)
+* [getSyncAllWidths()](/Java/BasicOptionPaneUI/ButtonAreaLayout/getSyncAllWidths/)
+* [setCentersChildren()](/Java/BasicOptionPaneUI/ButtonAreaLayout/setCentersChildren/)
+* [setPadding()](/Java/BasicOptionPaneUI/ButtonAreaLayout/setPadding/)
+* [setSyncAllWidths()](/Java/BasicOptionPaneUI/ButtonAreaLayout/setSyncAllWidths/)
 
 ## Ejemplo
 ~~~java

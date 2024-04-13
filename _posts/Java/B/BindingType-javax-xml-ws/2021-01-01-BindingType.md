@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Elementos
-* [value](/Java/BindingType-javax-xml-ws/value)
+* [value](/Java/BindingType-javax-xml-ws/value/)
 
 ## Ejemplo
 ~~~java

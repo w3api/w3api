@@ -21,10 +21,10 @@ public final class PopupFeatures extends Object
 * [PopupFeatures()](/Java/PopupFeatures/PopupFeatures/)
 
 ## Métodos
-* [hasMenu()](/Java/PopupFeatures/hasMenu)
-* [hasStatus()](/Java/PopupFeatures/hasStatus)
-* [hasToolbar()](/Java/PopupFeatures/hasToolbar)
-* [isResizable()](/Java/PopupFeatures/isResizable)
+* [hasMenu()](/Java/PopupFeatures/hasMenu/)
+* [hasStatus()](/Java/PopupFeatures/hasStatus/)
+* [hasToolbar()](/Java/PopupFeatures/hasToolbar/)
+* [isResizable()](/Java/PopupFeatures/isResizable/)
 
 ## Ejemplo
 ~~~java

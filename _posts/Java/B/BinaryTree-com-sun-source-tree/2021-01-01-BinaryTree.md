@@ -18,8 +18,8 @@ public interface BinaryTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getLeftOperand()](/Java/BinaryTree-com-sun-source-tree/getLeftOperand)
-* [getRightOperand()](/Java/BinaryTree-com-sun-source-tree/getRightOperand)
+* [getLeftOperand()](/Java/BinaryTree-com-sun-source-tree/getLeftOperand/)
+* [getRightOperand()](/Java/BinaryTree-com-sun-source-tree/getRightOperand/)
 
 ## Ejemplo
 ~~~java

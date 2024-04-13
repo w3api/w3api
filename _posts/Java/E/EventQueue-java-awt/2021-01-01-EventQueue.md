@@ -21,18 +21,18 @@ public class EventQueue extends Object
 * [EventQueue()](/Java/EventQueue-java-awt/EventQueue/)
 
 ## Métodos
-* [createSecondaryLoop()](/Java/EventQueue-java-awt/createSecondaryLoop)
-* [dispatchEvent()](/Java/EventQueue-java-awt/dispatchEvent)
-* [getCurrentEvent()](/Java/EventQueue-java-awt/getCurrentEvent)
-* [getMostRecentEventTime()](/Java/EventQueue-java-awt/getMostRecentEventTime)
-* [getNextEvent()](/Java/EventQueue-java-awt/getNextEvent)
-* [invokeAndWait()](/Java/EventQueue-java-awt/invokeAndWait)
-* [invokeLater()](/Java/EventQueue-java-awt/invokeLater)
-* [isDispatchThread()](/Java/EventQueue-java-awt/isDispatchThread)
-* [peekEvent()](/Java/EventQueue-java-awt/peekEvent)
-* [pop()](/Java/EventQueue-java-awt/pop)
-* [postEvent()](/Java/EventQueue-java-awt/postEvent)
-* [push()](/Java/EventQueue-java-awt/push)
+* [createSecondaryLoop()](/Java/EventQueue-java-awt/createSecondaryLoop/)
+* [dispatchEvent()](/Java/EventQueue-java-awt/dispatchEvent/)
+* [getCurrentEvent()](/Java/EventQueue-java-awt/getCurrentEvent/)
+* [getMostRecentEventTime()](/Java/EventQueue-java-awt/getMostRecentEventTime/)
+* [getNextEvent()](/Java/EventQueue-java-awt/getNextEvent/)
+* [invokeAndWait()](/Java/EventQueue-java-awt/invokeAndWait/)
+* [invokeLater()](/Java/EventQueue-java-awt/invokeLater/)
+* [isDispatchThread()](/Java/EventQueue-java-awt/isDispatchThread/)
+* [peekEvent()](/Java/EventQueue-java-awt/peekEvent/)
+* [pop()](/Java/EventQueue-java-awt/pop/)
+* [postEvent()](/Java/EventQueue-java-awt/postEvent/)
+* [push()](/Java/EventQueue-java-awt/push/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface PolicyFactoryOperations
 ~~~
 
 ## Métodos
-* [create_policy()](/Java/PolicyFactoryOperations/create_policy)
+* [create_policy()](/Java/PolicyFactoryOperations/create_policy/)
 
 ## Ejemplo
 ~~~java

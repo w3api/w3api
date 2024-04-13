@@ -21,16 +21,16 @@ WebAssembly.LinkError
 * [WebAssembly.LinkError()](/Javascript/WebAssembly/LinkError/WebAssembly/LinkError/)
 
 ## Propiedades
-* [message](/Javascript/WebAssembly/LinkError/message)
-* [name](/Javascript/WebAssembly/LinkError/name)
-* [fileName](/Javascript/WebAssembly/LinkError/fileName)
-* [lineNumber](/Javascript/WebAssembly/LinkError/lineNumber)
-* [columnNumber](/Javascript/WebAssembly/LinkError/columnNumber)
-* [stack](/Javascript/WebAssembly/LinkError/stack)
+* [message](/Javascript/WebAssembly/LinkError/message/)
+* [name](/Javascript/WebAssembly/LinkError/name/)
+* [fileName](/Javascript/WebAssembly/LinkError/fileName/)
+* [lineNumber](/Javascript/WebAssembly/LinkError/lineNumber/)
+* [columnNumber](/Javascript/WebAssembly/LinkError/columnNumber/)
+* [stack](/Javascript/WebAssembly/LinkError/stack/)
 
 ## Métodos
-* [toSource()](/Javascript/WebAssembly/LinkError/toSource)
-* [toString()](/Javascript/WebAssembly/LinkError/toString)
+* [toSource()](/Javascript/WebAssembly/LinkError/toSource/)
+* [toString()](/Javascript/WebAssembly/LinkError/toString/)
 
 ## Ejemplo
 ~~~java

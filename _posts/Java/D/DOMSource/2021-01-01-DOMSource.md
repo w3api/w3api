@@ -21,14 +21,14 @@ public class DOMSource extends Object implements Source
 * [DOMSource()](/Java/DOMSource/DOMSource/)
 
 ## Campos
-* [FEATURE](/Java/DOMSource/FEATURE)
+* [FEATURE](/Java/DOMSource/FEATURE/)
 
 ## Métodos
-* [getNode()](/Java/DOMSource/getNode)
-* [getSystemId()](/Java/DOMSource/getSystemId)
-* [isEmpty()](/Java/DOMSource/isEmpty)
-* [setNode()](/Java/DOMSource/setNode)
-* [setSystemId()](/Java/DOMSource/setSystemId)
+* [getNode()](/Java/DOMSource/getNode/)
+* [getSystemId()](/Java/DOMSource/getSystemId/)
+* [isEmpty()](/Java/DOMSource/isEmpty/)
+* [setNode()](/Java/DOMSource/setNode/)
+* [setSystemId()](/Java/DOMSource/setSystemId/)
 
 ## Ejemplo
 ~~~java

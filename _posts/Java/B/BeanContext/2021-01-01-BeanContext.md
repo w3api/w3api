@@ -18,14 +18,14 @@ public interface BeanContext extends BeanContextChild, Collection, DesignMode, V
 ~~~
 
 ## Campos
-* [globalHierarchyLock](/Java/BeanContext/globalHierarchyLock)
+* [globalHierarchyLock](/Java/BeanContext/globalHierarchyLock/)
 
 ## Métodos
-* [addBeanContextMembershipListener()](/Java/BeanContext/addBeanContextMembershipListener)
-* [getResource()](/Java/BeanContext/getResource)
-* [getResourceAsStream()](/Java/BeanContext/getResourceAsStream)
-* [instantiateChild()](/Java/BeanContext/instantiateChild)
-* [removeBeanContextMembershipListener()](/Java/BeanContext/removeBeanContextMembershipListener)
+* [addBeanContextMembershipListener()](/Java/BeanContext/addBeanContextMembershipListener/)
+* [getResource()](/Java/BeanContext/getResource/)
+* [getResourceAsStream()](/Java/BeanContext/getResourceAsStream/)
+* [instantiateChild()](/Java/BeanContext/instantiateChild/)
+* [removeBeanContextMembershipListener()](/Java/BeanContext/removeBeanContextMembershipListener/)
 
 ## Ejemplo
 ~~~java

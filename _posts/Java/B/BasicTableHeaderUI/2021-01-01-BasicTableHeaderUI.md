@@ -21,25 +21,25 @@ public class BasicTableHeaderUI extends TableHeaderUI
 * [BasicTableHeaderUI()](/Java/BasicTableHeaderUI/BasicTableHeaderUI/)
 
 ## Campos
-* [header](/Java/BasicTableHeaderUI/header)
-* [mouseInputListener](/Java/BasicTableHeaderUI/mouseInputListener)
-* [rendererPane](/Java/BasicTableHeaderUI/rendererPane)
+* [header](/Java/BasicTableHeaderUI/header/)
+* [mouseInputListener](/Java/BasicTableHeaderUI/mouseInputListener/)
+* [rendererPane](/Java/BasicTableHeaderUI/rendererPane/)
 
 ## Métodos
-* [createMouseInputListener()](/Java/BasicTableHeaderUI/createMouseInputListener)
-* [createUI()](/Java/BasicTableHeaderUI/createUI)
-* [getBaseline()](/Java/BasicTableHeaderUI/getBaseline)
-* [getMaximumSize()](/Java/BasicTableHeaderUI/getMaximumSize)
-* [getMinimumSize()](/Java/BasicTableHeaderUI/getMinimumSize)
-* [getPreferredSize()](/Java/BasicTableHeaderUI/getPreferredSize)
-* [getRolloverColumn()](/Java/BasicTableHeaderUI/getRolloverColumn)
-* [installDefaults()](/Java/BasicTableHeaderUI/installDefaults)
-* [installKeyboardActions()](/Java/BasicTableHeaderUI/installKeyboardActions)
-* [installListeners()](/Java/BasicTableHeaderUI/installListeners)
-* [rolloverColumnUpdated()](/Java/BasicTableHeaderUI/rolloverColumnUpdated)
-* [uninstallDefaults()](/Java/BasicTableHeaderUI/uninstallDefaults)
-* [uninstallKeyboardActions()](/Java/BasicTableHeaderUI/uninstallKeyboardActions)
-* [uninstallListeners()](/Java/BasicTableHeaderUI/uninstallListeners)
+* [createMouseInputListener()](/Java/BasicTableHeaderUI/createMouseInputListener/)
+* [createUI()](/Java/BasicTableHeaderUI/createUI/)
+* [getBaseline()](/Java/BasicTableHeaderUI/getBaseline/)
+* [getMaximumSize()](/Java/BasicTableHeaderUI/getMaximumSize/)
+* [getMinimumSize()](/Java/BasicTableHeaderUI/getMinimumSize/)
+* [getPreferredSize()](/Java/BasicTableHeaderUI/getPreferredSize/)
+* [getRolloverColumn()](/Java/BasicTableHeaderUI/getRolloverColumn/)
+* [installDefaults()](/Java/BasicTableHeaderUI/installDefaults/)
+* [installKeyboardActions()](/Java/BasicTableHeaderUI/installKeyboardActions/)
+* [installListeners()](/Java/BasicTableHeaderUI/installListeners/)
+* [rolloverColumnUpdated()](/Java/BasicTableHeaderUI/rolloverColumnUpdated/)
+* [uninstallDefaults()](/Java/BasicTableHeaderUI/uninstallDefaults/)
+* [uninstallKeyboardActions()](/Java/BasicTableHeaderUI/uninstallKeyboardActions/)
+* [uninstallListeners()](/Java/BasicTableHeaderUI/uninstallListeners/)
 
 ## Ejemplo
 ~~~java

@@ -18,12 +18,12 @@ sidebar:
 ~~~
 
 ## Elementos
-* [endpointInterface](/Java/WebService/endpointInterface)
-* [name](/Java/WebService/name)
-* [portName](/Java/WebService/portName)
-* [serviceName](/Java/WebService/serviceName)
-* [targetNamespace](/Java/WebService/targetNamespace)
-* [wsdlLocation](/Java/WebService/wsdlLocation)
+* [endpointInterface](/Java/WebService/endpointInterface/)
+* [name](/Java/WebService/name/)
+* [portName](/Java/WebService/portName/)
+* [serviceName](/Java/WebService/serviceName/)
+* [targetNamespace](/Java/WebService/targetNamespace/)
+* [wsdlLocation](/Java/WebService/wsdlLocation/)
 
 ## Ejemplo
 ~~~java

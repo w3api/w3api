@@ -21,11 +21,11 @@ public class ChoiceBoxListCell<T> extends ListCell<T>
 * [ChoiceBoxListCell()](/Java/ChoiceBoxListCell/ChoiceBoxListCell/)
 
 ## Métodos
-* [converterProperty()](/Java/ChoiceBoxListCell/converterProperty)
-* [forListView()](/Java/ChoiceBoxListCell/forListView)
-* [getConverter()](/Java/ChoiceBoxListCell/getConverter)
-* [getItems()](/Java/ChoiceBoxListCell/getItems)
-* [setConverter()](/Java/ChoiceBoxListCell/setConverter)
+* [converterProperty()](/Java/ChoiceBoxListCell/converterProperty/)
+* [forListView()](/Java/ChoiceBoxListCell/forListView/)
+* [getConverter()](/Java/ChoiceBoxListCell/getConverter/)
+* [getItems()](/Java/ChoiceBoxListCell/getItems/)
+* [setConverter()](/Java/ChoiceBoxListCell/setConverter/)
 
 ## Ejemplo
 ~~~java

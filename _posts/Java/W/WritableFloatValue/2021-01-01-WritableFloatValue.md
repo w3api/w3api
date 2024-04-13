@@ -18,9 +18,9 @@ public interface WritableFloatValue extends WritableNumberValue
 ~~~
 
 ## Métodos
-* [get()](/Java/WritableFloatValue/get)
-* [set()](/Java/WritableFloatValue/set)
-* [setValue()](/Java/WritableFloatValue/setValue)
+* [get()](/Java/WritableFloatValue/get/)
+* [set()](/Java/WritableFloatValue/set/)
+* [setValue()](/Java/WritableFloatValue/setValue/)
 
 ## Ejemplo
 ~~~java

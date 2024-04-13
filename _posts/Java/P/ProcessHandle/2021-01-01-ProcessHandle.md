@@ -18,22 +18,22 @@ public interface ProcessHandle extends Comparable<ProcessHandle>
 ~~~
 
 ## Métodos
-* [allProcesses()](/Java/ProcessHandle/allProcesses)
-* [children()](/Java/ProcessHandle/children)
-* [compareTo()](/Java/ProcessHandle/compareTo)
-* [current()](/Java/ProcessHandle/current)
-* [descendants()](/Java/ProcessHandle/descendants)
-* [destroy()](/Java/ProcessHandle/destroy)
-* [destroyForcibly()](/Java/ProcessHandle/destroyForcibly)
-* [equals()](/Java/ProcessHandle/equals)
-* [hashCode()](/Java/ProcessHandle/hashCode)
-* [info()](/Java/ProcessHandle/info)
-* [isAlive()](/Java/ProcessHandle/isAlive)
-* [of()](/Java/ProcessHandle/of)
-* [onExit()](/Java/ProcessHandle/onExit)
-* [parent()](/Java/ProcessHandle/parent)
-* [pid()](/Java/ProcessHandle/pid)
-* [supportsNormalTermination()](/Java/ProcessHandle/supportsNormalTermination)
+* [allProcesses()](/Java/ProcessHandle/allProcesses/)
+* [children()](/Java/ProcessHandle/children/)
+* [compareTo()](/Java/ProcessHandle/compareTo/)
+* [current()](/Java/ProcessHandle/current/)
+* [descendants()](/Java/ProcessHandle/descendants/)
+* [destroy()](/Java/ProcessHandle/destroy/)
+* [destroyForcibly()](/Java/ProcessHandle/destroyForcibly/)
+* [equals()](/Java/ProcessHandle/equals/)
+* [hashCode()](/Java/ProcessHandle/hashCode/)
+* [info()](/Java/ProcessHandle/info/)
+* [isAlive()](/Java/ProcessHandle/isAlive/)
+* [of()](/Java/ProcessHandle/of/)
+* [onExit()](/Java/ProcessHandle/onExit/)
+* [parent()](/Java/ProcessHandle/parent/)
+* [pid()](/Java/ProcessHandle/pid/)
+* [supportsNormalTermination()](/Java/ProcessHandle/supportsNormalTermination/)
 
 ## Ejemplo
 ~~~java

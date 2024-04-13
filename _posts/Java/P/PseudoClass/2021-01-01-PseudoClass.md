@@ -21,8 +21,8 @@ public abstract class PseudoClass extends Object
 * [PseudoClass()](/Java/PseudoClass/PseudoClass/)
 
 ## Métodos
-* [getPseudoClass()](/Java/PseudoClass/getPseudoClass)
-* [getPseudoClassName()](/Java/PseudoClass/getPseudoClassName)
+* [getPseudoClass()](/Java/PseudoClass/getPseudoClass/)
+* [getPseudoClassName()](/Java/PseudoClass/getPseudoClassName/)
 
 ## Ejemplo
 ~~~java

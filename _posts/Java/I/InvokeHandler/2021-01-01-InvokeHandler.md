@@ -18,7 +18,7 @@ public interface InvokeHandler
 ~~~
 
 ## Métodos
-* [_invoke()](/Java/InvokeHandler/_invoke)
+* [_invoke()](/Java/InvokeHandler/_invoke/)
 
 ## Ejemplo
 ~~~java

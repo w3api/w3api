@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [getBuilder()](/Java/BuilderFactory/getBuilder)
+* [getBuilder()](/Java/BuilderFactory/getBuilder/)
 
 ## Ejemplo
 ~~~java

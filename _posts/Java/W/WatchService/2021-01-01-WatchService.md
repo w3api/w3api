@@ -18,9 +18,9 @@ public interface WatchService extends Closeable
 ~~~
 
 ## Métodos
-* [close()](/Java/WatchService/close)
-* [poll()](/Java/WatchService/poll)
-* [take()](/Java/WatchService/take)
+* [close()](/Java/WatchService/close/)
+* [poll()](/Java/WatchService/poll/)
+* [take()](/Java/WatchService/take/)
 
 ## Ejemplo
 ~~~java

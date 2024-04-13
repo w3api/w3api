@@ -18,8 +18,8 @@ public interface ExtendedResponse extends Serializable
 ~~~
 
 ## Métodos
-* [getEncodedValue()](/Java/ExtendedResponse/getEncodedValue)
-* [getID()](/Java/ExtendedResponse/getID)
+* [getEncodedValue()](/Java/ExtendedResponse/getEncodedValue/)
+* [getID()](/Java/ExtendedResponse/getID/)
 
 ## Ejemplo
 ~~~java

@@ -21,18 +21,18 @@ public final class LinearGradient extends Paint
 * [LinearGradient()](/Java/LinearGradient/LinearGradient/)
 
 ## Métodos
-* [equals()](/Java/LinearGradient/equals)
-* [getCycleMethod()](/Java/LinearGradient/getCycleMethod)
-* [getEndX()](/Java/LinearGradient/getEndX)
-* [getEndY()](/Java/LinearGradient/getEndY)
-* [getStartX()](/Java/LinearGradient/getStartX)
-* [getStartY()](/Java/LinearGradient/getStartY)
-* [getStops()](/Java/LinearGradient/getStops)
-* [hashCode()](/Java/LinearGradient/hashCode)
-* [isOpaque()](/Java/LinearGradient/isOpaque)
-* [isProportional()](/Java/LinearGradient/isProportional)
-* [toString()](/Java/LinearGradient/toString)
-* [valueOf()](/Java/LinearGradient/valueOf)
+* [equals()](/Java/LinearGradient/equals/)
+* [getCycleMethod()](/Java/LinearGradient/getCycleMethod/)
+* [getEndX()](/Java/LinearGradient/getEndX/)
+* [getEndY()](/Java/LinearGradient/getEndY/)
+* [getStartX()](/Java/LinearGradient/getStartX/)
+* [getStartY()](/Java/LinearGradient/getStartY/)
+* [getStops()](/Java/LinearGradient/getStops/)
+* [hashCode()](/Java/LinearGradient/hashCode/)
+* [isOpaque()](/Java/LinearGradient/isOpaque/)
+* [isProportional()](/Java/LinearGradient/isProportional/)
+* [toString()](/Java/LinearGradient/toString/)
+* [valueOf()](/Java/LinearGradient/valueOf/)
 
 ## Ejemplo
 ~~~java

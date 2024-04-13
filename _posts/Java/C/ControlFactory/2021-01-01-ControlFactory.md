@@ -21,7 +21,7 @@ public abstract class ControlFactory extends Object
 * [ControlFactory()](/Java/ControlFactory/ControlFactory/)
 
 ## Métodos
-* [getControlInstance()](/Java/ControlFactory/getControlInstance)
+* [getControlInstance()](/Java/ControlFactory/getControlInstance/)
 
 ## Ejemplo
 ~~~java

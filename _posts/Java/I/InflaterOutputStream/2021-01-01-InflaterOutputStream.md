@@ -21,14 +21,14 @@ public class InflaterOutputStream extends FilterOutputStream
 * [InflaterOutputStream()](/Java/InflaterOutputStream/InflaterOutputStream/)
 
 ## Campos
-* [buf](/Java/InflaterOutputStream/buf)
-* [inf](/Java/InflaterOutputStream/inf)
+* [buf](/Java/InflaterOutputStream/buf/)
+* [inf](/Java/InflaterOutputStream/inf/)
 
 ## Métodos
-* [close()](/Java/InflaterOutputStream/close)
-* [finish()](/Java/InflaterOutputStream/finish)
-* [flush()](/Java/InflaterOutputStream/flush)
-* [write()](/Java/InflaterOutputStream/write)
+* [close()](/Java/InflaterOutputStream/close/)
+* [finish()](/Java/InflaterOutputStream/finish/)
+* [flush()](/Java/InflaterOutputStream/flush/)
+* [write()](/Java/InflaterOutputStream/write/)
 
 ## Ejemplo
 ~~~java

@@ -18,9 +18,9 @@ public interface CompletionService<V>
 ~~~
 
 ## Métodos
-* [poll()](/Java/CompletionService/poll)
-* [submit()](/Java/CompletionService/submit)
-* [take()](/Java/CompletionService/take)
+* [poll()](/Java/CompletionService/poll/)
+* [submit()](/Java/CompletionService/submit/)
+* [take()](/Java/CompletionService/take/)
 
 ## Ejemplo
 ~~~java

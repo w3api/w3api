@@ -18,8 +18,8 @@ public interface WritableValue<T>
 ~~~
 
 ## Métodos
-* [getValue()](/Java/WritableValue/getValue)
-* [setValue()](/Java/WritableValue/setValue)
+* [getValue()](/Java/WritableValue/getValue/)
+* [setValue()](/Java/WritableValue/setValue/)
 
 ## Ejemplo
 ~~~java

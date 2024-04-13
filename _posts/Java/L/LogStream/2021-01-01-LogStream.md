@@ -18,19 +18,19 @@ sidebar:
 ~~~
 
 ## Campos
-* [BRIEF](/Java/LogStream/BRIEF)
-* [SILENT](/Java/LogStream/SILENT)
-* [VERBOSE](/Java/LogStream/VERBOSE)
+* [BRIEF](/Java/LogStream/BRIEF/)
+* [SILENT](/Java/LogStream/SILENT/)
+* [VERBOSE](/Java/LogStream/VERBOSE/)
 
 ## Métodos
-* [getDefaultStream()](/Java/LogStream/getDefaultStream)
-* [getOutputStream()](/Java/LogStream/getOutputStream)
-* [log()](/Java/LogStream/log)
-* [parseLevel()](/Java/LogStream/parseLevel)
-* [setDefaultStream()](/Java/LogStream/setDefaultStream)
-* [setOutputStream()](/Java/LogStream/setOutputStream)
-* [toString()](/Java/LogStream/toString)
-* [write()](/Java/LogStream/write)
+* [getDefaultStream()](/Java/LogStream/getDefaultStream/)
+* [getOutputStream()](/Java/LogStream/getOutputStream/)
+* [log()](/Java/LogStream/log/)
+* [parseLevel()](/Java/LogStream/parseLevel/)
+* [setDefaultStream()](/Java/LogStream/setDefaultStream/)
+* [setOutputStream()](/Java/LogStream/setOutputStream/)
+* [toString()](/Java/LogStream/toString/)
+* [write()](/Java/LogStream/write/)
 
 ## Ejemplo
 ~~~java

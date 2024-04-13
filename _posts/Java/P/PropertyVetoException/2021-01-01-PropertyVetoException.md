@@ -21,7 +21,7 @@ public class PropertyVetoException extends Exception
 * [PropertyVetoException()](/Java/PropertyVetoException/PropertyVetoException/)
 
 ## Métodos
-* [getPropertyChangeEvent()](/Java/PropertyVetoException/getPropertyChangeEvent)
+* [getPropertyChangeEvent()](/Java/PropertyVetoException/getPropertyChangeEvent/)
 
 ## Ejemplo
 ~~~java

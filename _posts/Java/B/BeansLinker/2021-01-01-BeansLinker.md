@@ -21,16 +21,16 @@ public class BeansLinker extends Object implements GuardingDynamicLinker
 * [BeansLinker()](/Java/BeansLinker/BeansLinker/)
 
 ## Métodos
-* [getConstructorMethod()](/Java/BeansLinker/getConstructorMethod)
-* [getInstanceMethodNames()](/Java/BeansLinker/getInstanceMethodNames)
-* [getLinkerForClass()](/Java/BeansLinker/getLinkerForClass)
-* [getReadableInstancePropertyNames()](/Java/BeansLinker/getReadableInstancePropertyNames)
-* [getReadableStaticPropertyNames()](/Java/BeansLinker/getReadableStaticPropertyNames)
-* [getStaticMethodNames()](/Java/BeansLinker/getStaticMethodNames)
-* [getWritableInstancePropertyNames()](/Java/BeansLinker/getWritableInstancePropertyNames)
-* [getWritableStaticPropertyNames()](/Java/BeansLinker/getWritableStaticPropertyNames)
-* [isDynamicConstructor()](/Java/BeansLinker/isDynamicConstructor)
-* [isDynamicMethod()](/Java/BeansLinker/isDynamicMethod)
+* [getConstructorMethod()](/Java/BeansLinker/getConstructorMethod/)
+* [getInstanceMethodNames()](/Java/BeansLinker/getInstanceMethodNames/)
+* [getLinkerForClass()](/Java/BeansLinker/getLinkerForClass/)
+* [getReadableInstancePropertyNames()](/Java/BeansLinker/getReadableInstancePropertyNames/)
+* [getReadableStaticPropertyNames()](/Java/BeansLinker/getReadableStaticPropertyNames/)
+* [getStaticMethodNames()](/Java/BeansLinker/getStaticMethodNames/)
+* [getWritableInstancePropertyNames()](/Java/BeansLinker/getWritableInstancePropertyNames/)
+* [getWritableStaticPropertyNames()](/Java/BeansLinker/getWritableStaticPropertyNames/)
+* [isDynamicConstructor()](/Java/BeansLinker/isDynamicConstructor/)
+* [isDynamicMethod()](/Java/BeansLinker/isDynamicMethod/)
 
 ## Ejemplo
 ~~~java

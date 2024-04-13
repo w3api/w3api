@@ -18,10 +18,10 @@ public interface BasicService
 ~~~
 
 ## Métodos
-* [getCodeBase()](/Java/BasicService/getCodeBase)
-* [isOffline()](/Java/BasicService/isOffline)
-* [isWebBrowserSupported()](/Java/BasicService/isWebBrowserSupported)
-* [showDocument()](/Java/BasicService/showDocument)
+* [getCodeBase()](/Java/BasicService/getCodeBase/)
+* [isOffline()](/Java/BasicService/isOffline/)
+* [isWebBrowserSupported()](/Java/BasicService/isWebBrowserSupported/)
+* [showDocument()](/Java/BasicService/showDocument/)
 
 ## Ejemplo
 ~~~java

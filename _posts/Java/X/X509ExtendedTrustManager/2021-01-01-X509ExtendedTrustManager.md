@@ -21,8 +21,8 @@ public abstract class X509ExtendedTrustManager extends Object implements X509Tru
 * [X509ExtendedTrustManager()](/Java/X509ExtendedTrustManager/X509ExtendedTrustManager/)
 
 ## Métodos
-* [checkClientTrusted()](/Java/X509ExtendedTrustManager/checkClientTrusted)
-* [checkServerTrusted()](/Java/X509ExtendedTrustManager/checkServerTrusted)
+* [checkClientTrusted()](/Java/X509ExtendedTrustManager/checkClientTrusted/)
+* [checkServerTrusted()](/Java/X509ExtendedTrustManager/checkServerTrusted/)
 
 ## Ejemplo
 ~~~java

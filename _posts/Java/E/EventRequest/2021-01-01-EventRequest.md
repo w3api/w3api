@@ -18,20 +18,20 @@ public interface EventRequest extends Mirror
 ~~~
 
 ## Campos
-* [SUSPEND_ALL](/Java/EventRequest/SUSPEND_ALL)
-* [SUSPEND_EVENT_THREAD](/Java/EventRequest/SUSPEND_EVENT_THREAD)
-* [SUSPEND_NONE](/Java/EventRequest/SUSPEND_NONE)
+* [SUSPEND_ALL](/Java/EventRequest/SUSPEND_ALL/)
+* [SUSPEND_EVENT_THREAD](/Java/EventRequest/SUSPEND_EVENT_THREAD/)
+* [SUSPEND_NONE](/Java/EventRequest/SUSPEND_NONE/)
 
 ## Métodos
-* [addCountFilter()](/Java/EventRequest/addCountFilter)
-* [disable()](/Java/EventRequest/disable)
-* [enable()](/Java/EventRequest/enable)
-* [getProperty()](/Java/EventRequest/getProperty)
-* [isEnabled()](/Java/EventRequest/isEnabled)
-* [putProperty()](/Java/EventRequest/putProperty)
-* [setEnabled()](/Java/EventRequest/setEnabled)
-* [setSuspendPolicy()](/Java/EventRequest/setSuspendPolicy)
-* [suspendPolicy()](/Java/EventRequest/suspendPolicy)
+* [addCountFilter()](/Java/EventRequest/addCountFilter/)
+* [disable()](/Java/EventRequest/disable/)
+* [enable()](/Java/EventRequest/enable/)
+* [getProperty()](/Java/EventRequest/getProperty/)
+* [isEnabled()](/Java/EventRequest/isEnabled/)
+* [putProperty()](/Java/EventRequest/putProperty/)
+* [setEnabled()](/Java/EventRequest/setEnabled/)
+* [setSuspendPolicy()](/Java/EventRequest/setSuspendPolicy/)
+* [suspendPolicy()](/Java/EventRequest/suspendPolicy/)
 
 ## Ejemplo
 ~~~java

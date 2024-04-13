@@ -21,16 +21,16 @@ public class BasicRootPaneUI extends RootPaneUI implements PropertyChangeListene
 * [BasicRootPaneUI()](/Java/BasicRootPaneUI/BasicRootPaneUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicRootPaneUI/createUI)
-* [installComponents()](/Java/BasicRootPaneUI/installComponents)
-* [installDefaults()](/Java/BasicRootPaneUI/installDefaults)
-* [installKeyboardActions()](/Java/BasicRootPaneUI/installKeyboardActions)
-* [installListeners()](/Java/BasicRootPaneUI/installListeners)
-* [propertyChange()](/Java/BasicRootPaneUI/propertyChange)
-* [uninstallComponents()](/Java/BasicRootPaneUI/uninstallComponents)
-* [uninstallDefaults()](/Java/BasicRootPaneUI/uninstallDefaults)
-* [uninstallKeyboardActions()](/Java/BasicRootPaneUI/uninstallKeyboardActions)
-* [uninstallListeners()](/Java/BasicRootPaneUI/uninstallListeners)
+* [createUI()](/Java/BasicRootPaneUI/createUI/)
+* [installComponents()](/Java/BasicRootPaneUI/installComponents/)
+* [installDefaults()](/Java/BasicRootPaneUI/installDefaults/)
+* [installKeyboardActions()](/Java/BasicRootPaneUI/installKeyboardActions/)
+* [installListeners()](/Java/BasicRootPaneUI/installListeners/)
+* [propertyChange()](/Java/BasicRootPaneUI/propertyChange/)
+* [uninstallComponents()](/Java/BasicRootPaneUI/uninstallComponents/)
+* [uninstallDefaults()](/Java/BasicRootPaneUI/uninstallDefaults/)
+* [uninstallKeyboardActions()](/Java/BasicRootPaneUI/uninstallKeyboardActions/)
+* [uninstallListeners()](/Java/BasicRootPaneUI/uninstallListeners/)
 
 ## Ejemplo
 ~~~java

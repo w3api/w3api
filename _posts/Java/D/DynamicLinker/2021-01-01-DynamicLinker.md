@@ -18,9 +18,9 @@ public final class DynamicLinker extends Object
 ~~~
 
 ## Métodos
-* [getLinkedCallSiteLocation()](/Java/DynamicLinker/getLinkedCallSiteLocation)
-* [getLinkerServices()](/Java/DynamicLinker/getLinkerServices)
-* [link()](/Java/DynamicLinker/link)
+* [getLinkedCallSiteLocation()](/Java/DynamicLinker/getLinkedCallSiteLocation/)
+* [getLinkerServices()](/Java/DynamicLinker/getLinkerServices/)
+* [link()](/Java/DynamicLinker/link/)
 
 ## Ejemplo
 ~~~java

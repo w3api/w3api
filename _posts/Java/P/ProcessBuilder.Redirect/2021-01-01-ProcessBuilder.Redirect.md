@@ -18,18 +18,18 @@ public abstract static class ProcessBuilder.Redirect extends Object
 ~~~
 
 ## Campos
-* [DISCARD](/Java/ProcessBuilder/Redirect/DISCARD)
-* [INHERIT](/Java/ProcessBuilder/Redirect/INHERIT)
-* [PIPE](/Java/ProcessBuilder/Redirect/PIPE)
+* [DISCARD](/Java/ProcessBuilder/Redirect/DISCARD/)
+* [INHERIT](/Java/ProcessBuilder/Redirect/INHERIT/)
+* [PIPE](/Java/ProcessBuilder/Redirect/PIPE/)
 
 ## Métodos
-* [appendTo()](/Java/ProcessBuilder/Redirect/appendTo)
-* [equals()](/Java/ProcessBuilder/Redirect/equals)
-* [file()](/Java/ProcessBuilder/Redirect/file)
-* [from()](/Java/ProcessBuilder/Redirect/from)
-* [hashCode()](/Java/ProcessBuilder/Redirect/hashCode)
-* [to()](/Java/ProcessBuilder/Redirect/to)
-* [type()](/Java/ProcessBuilder/Redirect/type)
+* [appendTo()](/Java/ProcessBuilder/Redirect/appendTo/)
+* [equals()](/Java/ProcessBuilder/Redirect/equals/)
+* [file()](/Java/ProcessBuilder/Redirect/file/)
+* [from()](/Java/ProcessBuilder/Redirect/from/)
+* [hashCode()](/Java/ProcessBuilder/Redirect/hashCode/)
+* [to()](/Java/ProcessBuilder/Redirect/to/)
+* [type()](/Java/ProcessBuilder/Redirect/type/)
 
 ## Ejemplo
 ~~~java

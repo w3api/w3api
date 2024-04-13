@@ -18,16 +18,16 @@ public interface LdapContext extends DirContext
 ~~~
 
 ## Campos
-* [CONTROL_FACTORIES](/Java/LdapContext/CONTROL_FACTORIES)
+* [CONTROL_FACTORIES](/Java/LdapContext/CONTROL_FACTORIES/)
 
 ## Métodos
-* [extendedOperation()](/Java/LdapContext/extendedOperation)
-* [getConnectControls()](/Java/LdapContext/getConnectControls)
-* [getRequestControls()](/Java/LdapContext/getRequestControls)
-* [getResponseControls()](/Java/LdapContext/getResponseControls)
-* [newInstance()](/Java/LdapContext/newInstance)
-* [reconnect()](/Java/LdapContext/reconnect)
-* [setRequestControls()](/Java/LdapContext/setRequestControls)
+* [extendedOperation()](/Java/LdapContext/extendedOperation/)
+* [getConnectControls()](/Java/LdapContext/getConnectControls/)
+* [getRequestControls()](/Java/LdapContext/getRequestControls/)
+* [getResponseControls()](/Java/LdapContext/getResponseControls/)
+* [newInstance()](/Java/LdapContext/newInstance/)
+* [reconnect()](/Java/LdapContext/reconnect/)
+* [setRequestControls()](/Java/LdapContext/setRequestControls/)
 
 ## Ejemplo
 ~~~java

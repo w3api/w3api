@@ -18,8 +18,8 @@ public class ColorChooserComponentFactory extends Object
 ~~~
 
 ## Métodos
-* [getDefaultChooserPanels()](/Java/ColorChooserComponentFactory/getDefaultChooserPanels)
-* [getPreviewPanel()](/Java/ColorChooserComponentFactory/getPreviewPanel)
+* [getDefaultChooserPanels()](/Java/ColorChooserComponentFactory/getDefaultChooserPanels/)
+* [getPreviewPanel()](/Java/ColorChooserComponentFactory/getPreviewPanel/)
 
 ## Ejemplo
 ~~~java

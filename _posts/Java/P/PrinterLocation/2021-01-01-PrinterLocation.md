@@ -21,9 +21,9 @@ public final class PrinterLocation extends TextSyntax implements PrintServiceAtt
 * [PrinterLocation()](/Java/PrinterLocation/PrinterLocation/)
 
 ## Métodos
-* [equals()](/Java/PrinterLocation/equals)
-* [getCategory()](/Java/PrinterLocation/getCategory)
-* [getName()](/Java/PrinterLocation/getName)
+* [equals()](/Java/PrinterLocation/equals/)
+* [getCategory()](/Java/PrinterLocation/getCategory/)
+* [getName()](/Java/PrinterLocation/getName/)
 
 ## Ejemplo
 ~~~java

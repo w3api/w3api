@@ -21,9 +21,9 @@ public class LocalExecutionControlProvider extends Object implements ExecutionCo
 * [LocalExecutionControlProvider()](/Java/LocalExecutionControlProvider/LocalExecutionControlProvider/)
 
 ## Métodos
-* [defaultParameters()](/Java/LocalExecutionControlProvider/defaultParameters)
-* [generate()](/Java/LocalExecutionControlProvider/generate)
-* [name()](/Java/LocalExecutionControlProvider/name)
+* [defaultParameters()](/Java/LocalExecutionControlProvider/defaultParameters/)
+* [generate()](/Java/LocalExecutionControlProvider/generate/)
+* [name()](/Java/LocalExecutionControlProvider/name/)
 
 ## Ejemplo
 ~~~java

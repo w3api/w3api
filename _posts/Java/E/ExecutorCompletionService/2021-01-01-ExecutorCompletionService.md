@@ -21,7 +21,7 @@ public class ExecutorCompletionService<V> extends Object implements CompletionSe
 * [ExecutorCompletionService()](/Java/ExecutorCompletionService/ExecutorCompletionService/)
 
 ## Métodos
-* [submit()](/Java/ExecutorCompletionService/submit)
+* [submit()](/Java/ExecutorCompletionService/submit/)
 
 ## Ejemplo
 ~~~java

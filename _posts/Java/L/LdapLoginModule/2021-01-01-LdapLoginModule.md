@@ -21,11 +21,11 @@ public class LdapLoginModule extends Object implements LoginModule
 * [LdapLoginModule()](/Java/LdapLoginModule/LdapLoginModule/)
 
 ## Métodos
-* [abort()](/Java/LdapLoginModule/abort)
-* [commit()](/Java/LdapLoginModule/commit)
-* [initialize()](/Java/LdapLoginModule/initialize)
-* [login()](/Java/LdapLoginModule/login)
-* [logout()](/Java/LdapLoginModule/logout)
+* [abort()](/Java/LdapLoginModule/abort/)
+* [commit()](/Java/LdapLoginModule/commit/)
+* [initialize()](/Java/LdapLoginModule/initialize/)
+* [login()](/Java/LdapLoginModule/login/)
+* [logout()](/Java/LdapLoginModule/logout/)
 
 ## Ejemplo
 ~~~java

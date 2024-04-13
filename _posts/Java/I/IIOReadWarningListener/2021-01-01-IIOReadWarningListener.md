@@ -18,7 +18,7 @@ public interface IIOReadWarningListener extends EventListener
 ~~~
 
 ## Métodos
-* [warningOccurred()](/Java/IIOReadWarningListener/warningOccurred)
+* [warningOccurred()](/Java/IIOReadWarningListener/warningOccurred/)
 
 ## Ejemplo
 ~~~java

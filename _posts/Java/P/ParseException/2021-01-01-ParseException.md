@@ -21,7 +21,7 @@ public class ParseException extends Exception
 * [ParseException()](/Java/ParseException/ParseException/)
 
 ## Métodos
-* [getErrorOffset()](/Java/ParseException/getErrorOffset)
+* [getErrorOffset()](/Java/ParseException/getErrorOffset/)
 
 ## Ejemplo
 ~~~java

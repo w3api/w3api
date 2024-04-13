@@ -18,13 +18,13 @@ public interface InternalFrameListener extends EventListener
 ~~~
 
 ## Métodos
-* [internalFrameActivated()](/Java/InternalFrameListener/internalFrameActivated)
-* [internalFrameClosed()](/Java/InternalFrameListener/internalFrameClosed)
-* [internalFrameClosing()](/Java/InternalFrameListener/internalFrameClosing)
-* [internalFrameDeactivated()](/Java/InternalFrameListener/internalFrameDeactivated)
-* [internalFrameDeiconified()](/Java/InternalFrameListener/internalFrameDeiconified)
-* [internalFrameIconified()](/Java/InternalFrameListener/internalFrameIconified)
-* [internalFrameOpened()](/Java/InternalFrameListener/internalFrameOpened)
+* [internalFrameActivated()](/Java/InternalFrameListener/internalFrameActivated/)
+* [internalFrameClosed()](/Java/InternalFrameListener/internalFrameClosed/)
+* [internalFrameClosing()](/Java/InternalFrameListener/internalFrameClosing/)
+* [internalFrameDeactivated()](/Java/InternalFrameListener/internalFrameDeactivated/)
+* [internalFrameDeiconified()](/Java/InternalFrameListener/internalFrameDeiconified/)
+* [internalFrameIconified()](/Java/InternalFrameListener/internalFrameIconified/)
+* [internalFrameOpened()](/Java/InternalFrameListener/internalFrameOpened/)
 
 ## Ejemplo
 ~~~java

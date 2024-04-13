@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [applyAsInt()](/Java/DoubleToIntFunction/applyAsInt)
+* [applyAsInt()](/Java/DoubleToIntFunction/applyAsInt/)
 
 ## Ejemplo
 ~~~java

@@ -21,12 +21,12 @@ public abstract class DuplicateNameHelper extends Object
 * [DuplicateNameHelper()](/Java/DuplicateNameHelper/DuplicateNameHelper/)
 
 ## Métodos
-* [extract()](/Java/DuplicateNameHelper/extract)
-* [id()](/Java/DuplicateNameHelper/id)
-* [insert()](/Java/DuplicateNameHelper/insert)
-* [read()](/Java/DuplicateNameHelper/read)
-* [type()](/Java/DuplicateNameHelper/type)
-* [write()](/Java/DuplicateNameHelper/write)
+* [extract()](/Java/DuplicateNameHelper/extract/)
+* [id()](/Java/DuplicateNameHelper/id/)
+* [insert()](/Java/DuplicateNameHelper/insert/)
+* [read()](/Java/DuplicateNameHelper/read/)
+* [type()](/Java/DuplicateNameHelper/type/)
+* [write()](/Java/DuplicateNameHelper/write/)
 
 ## Ejemplo
 ~~~java

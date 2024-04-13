@@ -21,7 +21,7 @@ sidebar:
 * [PrincipalHolder()](/Java/PrincipalHolder/PrincipalHolder/)
 
 ## Campos
-* [value](/Java/PrincipalHolder/value)
+* [value](/Java/PrincipalHolder/value/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface CertPathValidatorResult extends Cloneable
 ~~~
 
 ## Métodos
-* [clone()](/Java/CertPathValidatorResult/clone)
+* [clone()](/Java/CertPathValidatorResult/clone/)
 
 ## Ejemplo
 ~~~java

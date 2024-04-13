@@ -21,11 +21,11 @@ public abstract class ProxySelector extends Object
 * [ProxySelector()](/Java/ProxySelector/ProxySelector/)
 
 ## Métodos
-* [connectFailed()](/Java/ProxySelector/connectFailed)
-* [getDefault()](/Java/ProxySelector/getDefault)
-* [of()](/Java/ProxySelector/of)
-* [select()](/Java/ProxySelector/select)
-* [setDefault()](/Java/ProxySelector/setDefault)
+* [connectFailed()](/Java/ProxySelector/connectFailed/)
+* [getDefault()](/Java/ProxySelector/getDefault/)
+* [of()](/Java/ProxySelector/of/)
+* [select()](/Java/ProxySelector/select/)
+* [setDefault()](/Java/ProxySelector/setDefault/)
 
 ## Ejemplo
 ~~~java

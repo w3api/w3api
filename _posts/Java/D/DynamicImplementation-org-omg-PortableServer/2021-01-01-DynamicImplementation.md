@@ -21,7 +21,7 @@ public abstract class DynamicImplementation extends Servant
 * [DynamicImplementation()](/Java/DynamicImplementation-org-omg-PortableServer/DynamicImplementation/)
 
 ## Métodos
-* [invoke()](/Java/DynamicImplementation-org-omg-PortableServer/invoke)
+* [invoke()](/Java/DynamicImplementation-org-omg-PortableServer/invoke/)
 
 ## Ejemplo
 ~~~java

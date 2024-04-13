@@ -21,13 +21,13 @@ public final class KerberosCredMessage extends Object implements Destroyable
 * [KerberosCredMessage()](/Java/KerberosCredMessage/KerberosCredMessage/)
 
 ## Métodos
-* [destroy()](/Java/KerberosCredMessage/destroy)
-* [equals()](/Java/KerberosCredMessage/equals)
-* [getEncoded()](/Java/KerberosCredMessage/getEncoded)
-* [getRecipient()](/Java/KerberosCredMessage/getRecipient)
-* [getSender()](/Java/KerberosCredMessage/getSender)
-* [hashCode()](/Java/KerberosCredMessage/hashCode)
-* [toString()](/Java/KerberosCredMessage/toString)
+* [destroy()](/Java/KerberosCredMessage/destroy/)
+* [equals()](/Java/KerberosCredMessage/equals/)
+* [getEncoded()](/Java/KerberosCredMessage/getEncoded/)
+* [getRecipient()](/Java/KerberosCredMessage/getRecipient/)
+* [getSender()](/Java/KerberosCredMessage/getSender/)
+* [hashCode()](/Java/KerberosCredMessage/hashCode/)
+* [toString()](/Java/KerberosCredMessage/toString/)
 
 ## Ejemplo
 ~~~java

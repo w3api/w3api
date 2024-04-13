@@ -21,7 +21,7 @@ public final class PolicyListHolder extends Object implements Streamable
 * [PolicyListHolder()](/Java/PolicyListHolder/PolicyListHolder/)
 
 ## Campos
-* [value](/Java/PolicyListHolder/value)
+* [value](/Java/PolicyListHolder/value/)
 
 ## Ejemplo
 ~~~java

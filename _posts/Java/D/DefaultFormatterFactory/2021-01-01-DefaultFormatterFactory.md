@@ -21,15 +21,15 @@ public class DefaultFormatterFactory extends JFormattedTextField.AbstractFormatt
 * [DefaultFormatterFactory()](/Java/DefaultFormatterFactory/DefaultFormatterFactory/)
 
 ## Métodos
-* [getDefaultFormatter()](/Java/DefaultFormatterFactory/getDefaultFormatter)
-* [getDisplayFormatter()](/Java/DefaultFormatterFactory/getDisplayFormatter)
-* [getEditFormatter()](/Java/DefaultFormatterFactory/getEditFormatter)
-* [getFormatter()](/Java/DefaultFormatterFactory/getFormatter)
-* [getNullFormatter()](/Java/DefaultFormatterFactory/getNullFormatter)
-* [setDefaultFormatter()](/Java/DefaultFormatterFactory/setDefaultFormatter)
-* [setDisplayFormatter()](/Java/DefaultFormatterFactory/setDisplayFormatter)
-* [setEditFormatter()](/Java/DefaultFormatterFactory/setEditFormatter)
-* [setNullFormatter()](/Java/DefaultFormatterFactory/setNullFormatter)
+* [getDefaultFormatter()](/Java/DefaultFormatterFactory/getDefaultFormatter/)
+* [getDisplayFormatter()](/Java/DefaultFormatterFactory/getDisplayFormatter/)
+* [getEditFormatter()](/Java/DefaultFormatterFactory/getEditFormatter/)
+* [getFormatter()](/Java/DefaultFormatterFactory/getFormatter/)
+* [getNullFormatter()](/Java/DefaultFormatterFactory/getNullFormatter/)
+* [setDefaultFormatter()](/Java/DefaultFormatterFactory/setDefaultFormatter/)
+* [setDisplayFormatter()](/Java/DefaultFormatterFactory/setDisplayFormatter/)
+* [setEditFormatter()](/Java/DefaultFormatterFactory/setEditFormatter/)
+* [setNullFormatter()](/Java/DefaultFormatterFactory/setNullFormatter/)
 
 ## Ejemplo
 ~~~java

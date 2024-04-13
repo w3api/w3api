@@ -21,9 +21,9 @@ public final class PauseTransition extends Transition
 * [PauseTransition()](/Java/PauseTransition/PauseTransition/)
 
 ## Métodos
-* [durationProperty()](/Java/PauseTransition/durationProperty)
-* [getDuration()](/Java/PauseTransition/getDuration)
-* [setDuration()](/Java/PauseTransition/setDuration)
+* [durationProperty()](/Java/PauseTransition/durationProperty/)
+* [getDuration()](/Java/PauseTransition/getDuration/)
+* [setDuration()](/Java/PauseTransition/setDuration/)
 
 ## Ejemplo
 ~~~java

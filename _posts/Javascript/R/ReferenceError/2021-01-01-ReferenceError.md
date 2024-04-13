@@ -21,12 +21,12 @@ ReferenceError
 * [ReferenceError()](/Javascript/ReferenceError/ReferenceError/)
 
 ## Propiedades
-* [message](/Javascript/ReferenceError/message)
-* [name](/Javascript/ReferenceError/name)
-* [fileName](/Javascript/ReferenceError/fileName)
-* [lineNumber](/Javascript/ReferenceError/lineNumber)
-* [columnNumber](/Javascript/ReferenceError/columnNumber)
-* [stack](/Javascript/ReferenceError/stack)
+* [message](/Javascript/ReferenceError/message/)
+* [name](/Javascript/ReferenceError/name/)
+* [fileName](/Javascript/ReferenceError/fileName/)
+* [lineNumber](/Javascript/ReferenceError/lineNumber/)
+* [columnNumber](/Javascript/ReferenceError/columnNumber/)
+* [stack](/Javascript/ReferenceError/stack/)
 
 ## Ejemplo
 ~~~java

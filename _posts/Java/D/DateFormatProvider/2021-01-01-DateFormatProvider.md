@@ -21,9 +21,9 @@ public abstract class DateFormatProvider extends LocaleServiceProvider
 * [DateFormatProvider()](/Java/DateFormatProvider/DateFormatProvider/)
 
 ## Métodos
-* [getDateInstance()](/Java/DateFormatProvider/getDateInstance)
-* [getDateTimeInstance()](/Java/DateFormatProvider/getDateTimeInstance)
-* [getTimeInstance()](/Java/DateFormatProvider/getTimeInstance)
+* [getDateInstance()](/Java/DateFormatProvider/getDateInstance/)
+* [getDateTimeInstance()](/Java/DateFormatProvider/getDateTimeInstance/)
+* [getTimeInstance()](/Java/DateFormatProvider/getTimeInstance/)
 
 ## Ejemplo
 ~~~java

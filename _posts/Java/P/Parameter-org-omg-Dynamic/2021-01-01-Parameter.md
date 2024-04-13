@@ -21,8 +21,8 @@ public final class Parameter extends Object implements IDLEntity
 * [Parameter()](/Java/Parameter-org-omg-Dynamic/Parameter/)
 
 ## Campos
-* [argument](/Java/Parameter-org-omg-Dynamic/argument)
-* [mode](/Java/Parameter-org-omg-Dynamic/mode)
+* [argument](/Java/Parameter-org-omg-Dynamic/argument/)
+* [mode](/Java/Parameter-org-omg-Dynamic/mode/)
 
 ## Ejemplo
 ~~~java

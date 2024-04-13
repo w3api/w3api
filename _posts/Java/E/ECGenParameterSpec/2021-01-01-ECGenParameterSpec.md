@@ -21,7 +21,7 @@ public class ECGenParameterSpec extends Object implements AlgorithmParameterSpec
 * [ECGenParameterSpec()](/Java/ECGenParameterSpec/ECGenParameterSpec/)
 
 ## Métodos
-* [getName()](/Java/ECGenParameterSpec/getName)
+* [getName()](/Java/ECGenParameterSpec/getName/)
 
 ## Ejemplo
 ~~~java

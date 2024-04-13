@@ -18,7 +18,7 @@ public interface BeanContextServiceRevokedListener extends EventListener
 ~~~
 
 ## Métodos
-* [serviceRevoked()](/Java/BeanContextServiceRevokedListener/serviceRevoked)
+* [serviceRevoked()](/Java/BeanContextServiceRevokedListener/serviceRevoked/)
 
 ## Ejemplo
 ~~~java

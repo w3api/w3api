@@ -18,18 +18,18 @@ public interface ClassType extends ReferenceType
 ~~~
 
 ## Campos
-* [INVOKE_SINGLE_THREADED](/Java/ClassType/INVOKE_SINGLE_THREADED)
+* [INVOKE_SINGLE_THREADED](/Java/ClassType/INVOKE_SINGLE_THREADED/)
 
 ## Métodos
-* [allInterfaces()](/Java/ClassType/allInterfaces)
-* [concreteMethodByName()](/Java/ClassType/concreteMethodByName)
-* [interfaces()](/Java/ClassType/interfaces)
-* [invokeMethod()](/Java/ClassType/invokeMethod)
-* [isEnum()](/Java/ClassType/isEnum)
-* [newInstance()](/Java/ClassType/newInstance)
-* [setValue()](/Java/ClassType/setValue)
-* [subclasses()](/Java/ClassType/subclasses)
-* [superclass()](/Java/ClassType/superclass)
+* [allInterfaces()](/Java/ClassType/allInterfaces/)
+* [concreteMethodByName()](/Java/ClassType/concreteMethodByName/)
+* [interfaces()](/Java/ClassType/interfaces/)
+* [invokeMethod()](/Java/ClassType/invokeMethod/)
+* [isEnum()](/Java/ClassType/isEnum/)
+* [newInstance()](/Java/ClassType/newInstance/)
+* [setValue()](/Java/ClassType/setValue/)
+* [subclasses()](/Java/ClassType/subclasses/)
+* [superclass()](/Java/ClassType/superclass/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public class ColorPickerSkin extends ComboBoxPopupControl<Color>
 * [ColorPickerSkin()](/Java/ColorPickerSkin/ColorPickerSkin/)
 
 ## Métodos
-* [getClassCssMetaData()](/Java/ColorPickerSkin/getClassCssMetaData)
-* [getEditor()](/Java/ColorPickerSkin/getEditor)
+* [getClassCssMetaData()](/Java/ColorPickerSkin/getClassCssMetaData/)
+* [getEditor()](/Java/ColorPickerSkin/getEditor/)
 
 ## Ejemplo
 ~~~java

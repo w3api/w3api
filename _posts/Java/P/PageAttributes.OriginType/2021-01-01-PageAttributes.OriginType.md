@@ -18,12 +18,12 @@ public static final class PageAttributes.OriginType extends Object
 ~~~
 
 ## Campos
-* [PHYSICAL](/Java/PageAttributes/OriginType/PHYSICAL)
-* [PRINTABLE](/Java/PageAttributes/OriginType/PRINTABLE)
+* [PHYSICAL](/Java/PageAttributes/OriginType/PHYSICAL/)
+* [PRINTABLE](/Java/PageAttributes/OriginType/PRINTABLE/)
 
 ## Métodos
-* [hashCode()](/Java/PageAttributes/OriginType/hashCode)
-* [toString()](/Java/PageAttributes/OriginType/toString)
+* [hashCode()](/Java/PageAttributes/OriginType/hashCode/)
+* [toString()](/Java/PageAttributes/OriginType/toString/)
 
 ## Ejemplo
 ~~~java

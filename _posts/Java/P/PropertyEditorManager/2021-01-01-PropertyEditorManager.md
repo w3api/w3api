@@ -21,10 +21,10 @@ public class PropertyEditorManager extends Object
 * [PropertyEditorManager()](/Java/PropertyEditorManager/PropertyEditorManager/)
 
 ## Métodos
-* [findEditor()](/Java/PropertyEditorManager/findEditor)
-* [getEditorSearchPath()](/Java/PropertyEditorManager/getEditorSearchPath)
-* [registerEditor()](/Java/PropertyEditorManager/registerEditor)
-* [setEditorSearchPath()](/Java/PropertyEditorManager/setEditorSearchPath)
+* [findEditor()](/Java/PropertyEditorManager/findEditor/)
+* [getEditorSearchPath()](/Java/PropertyEditorManager/getEditorSearchPath/)
+* [registerEditor()](/Java/PropertyEditorManager/registerEditor/)
+* [setEditorSearchPath()](/Java/PropertyEditorManager/setEditorSearchPath/)
 
 ## Ejemplo
 ~~~java

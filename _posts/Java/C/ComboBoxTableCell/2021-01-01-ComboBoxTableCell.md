@@ -21,14 +21,14 @@ public class ComboBoxTableCell<S,T> extends TableCell<S,T>
 * [ComboBoxTableCell()](/Java/ComboBoxTableCell/ComboBoxTableCell/)
 
 ## Métodos
-* [comboBoxEditableProperty()](/Java/ComboBoxTableCell/comboBoxEditableProperty)
-* [converterProperty()](/Java/ComboBoxTableCell/converterProperty)
-* [forTableColumn()](/Java/ComboBoxTableCell/forTableColumn)
-* [getConverter()](/Java/ComboBoxTableCell/getConverter)
-* [getItems()](/Java/ComboBoxTableCell/getItems)
-* [isComboBoxEditable()](/Java/ComboBoxTableCell/isComboBoxEditable)
-* [setComboBoxEditable()](/Java/ComboBoxTableCell/setComboBoxEditable)
-* [setConverter()](/Java/ComboBoxTableCell/setConverter)
+* [comboBoxEditableProperty()](/Java/ComboBoxTableCell/comboBoxEditableProperty/)
+* [converterProperty()](/Java/ComboBoxTableCell/converterProperty/)
+* [forTableColumn()](/Java/ComboBoxTableCell/forTableColumn/)
+* [getConverter()](/Java/ComboBoxTableCell/getConverter/)
+* [getItems()](/Java/ComboBoxTableCell/getItems/)
+* [isComboBoxEditable()](/Java/ComboBoxTableCell/isComboBoxEditable/)
+* [setComboBoxEditable()](/Java/ComboBoxTableCell/setComboBoxEditable/)
+* [setConverter()](/Java/ComboBoxTableCell/setConverter/)
 
 ## Ejemplo
 ~~~java

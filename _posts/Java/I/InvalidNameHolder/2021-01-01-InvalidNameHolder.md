@@ -21,7 +21,7 @@ public final class InvalidNameHolder extends Object implements Streamable
 * [InvalidNameHolder()](/Java/InvalidNameHolder/InvalidNameHolder/)
 
 ## Campos
-* [value](/Java/InvalidNameHolder/value)
+* [value](/Java/InvalidNameHolder/value/)
 
 ## Ejemplo
 ~~~java

@@ -18,17 +18,17 @@ public interface PersistenceService
 ~~~
 
 ## Campos
-* [CACHED](/Java/PersistenceService/CACHED)
-* [DIRTY](/Java/PersistenceService/DIRTY)
-* [TEMPORARY](/Java/PersistenceService/TEMPORARY)
+* [CACHED](/Java/PersistenceService/CACHED/)
+* [DIRTY](/Java/PersistenceService/DIRTY/)
+* [TEMPORARY](/Java/PersistenceService/TEMPORARY/)
 
 ## Métodos
-* [create()](/Java/PersistenceService/create)
-* [delete()](/Java/PersistenceService/delete)
-* [get()](/Java/PersistenceService/get)
-* [getNames()](/Java/PersistenceService/getNames)
-* [getTag()](/Java/PersistenceService/getTag)
-* [setTag()](/Java/PersistenceService/setTag)
+* [create()](/Java/PersistenceService/create/)
+* [delete()](/Java/PersistenceService/delete/)
+* [get()](/Java/PersistenceService/get/)
+* [getNames()](/Java/PersistenceService/getNames/)
+* [getTag()](/Java/PersistenceService/getTag/)
+* [setTag()](/Java/PersistenceService/setTag/)
 
 ## Ejemplo
 ~~~java

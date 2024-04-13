@@ -18,10 +18,10 @@ public interface PosixFileAttributeView extends BasicFileAttributeView, FileOwne
 ~~~
 
 ## Métodos
-* [name()](/Java/PosixFileAttributeView/name)
-* [readAttributes()](/Java/PosixFileAttributeView/readAttributes)
-* [setGroup()](/Java/PosixFileAttributeView/setGroup)
-* [setPermissions()](/Java/PosixFileAttributeView/setPermissions)
+* [name()](/Java/PosixFileAttributeView/name/)
+* [readAttributes()](/Java/PosixFileAttributeView/readAttributes/)
+* [setGroup()](/Java/PosixFileAttributeView/setGroup/)
+* [setPermissions()](/Java/PosixFileAttributeView/setPermissions/)
 
 ## Ejemplo
 ~~~java

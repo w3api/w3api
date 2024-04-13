@@ -21,8 +21,8 @@ public class CompositeTypeBasedGuardingDynamicLinker extends Object implements T
 * [CompositeTypeBasedGuardingDynamicLinker()](/Java/CompositeTypeBasedGuardingDynamicLinker/CompositeTypeBasedGuardingDynamicLinker/)
 
 ## Métodos
-* [canLinkType()](/Java/CompositeTypeBasedGuardingDynamicLinker/canLinkType)
-* [optimize()](/Java/CompositeTypeBasedGuardingDynamicLinker/optimize)
+* [canLinkType()](/Java/CompositeTypeBasedGuardingDynamicLinker/canLinkType/)
+* [optimize()](/Java/CompositeTypeBasedGuardingDynamicLinker/optimize/)
 
 ## Ejemplo
 ~~~java

@@ -21,14 +21,14 @@ public class IntSummaryStatistics extends Object implements IntConsumer
 * [IntSummaryStatistics()](/Java/IntSummaryStatistics/IntSummaryStatistics/)
 
 ## Métodos
-* [accept()](/Java/IntSummaryStatistics/accept)
-* [combine()](/Java/IntSummaryStatistics/combine)
-* [getAverage()](/Java/IntSummaryStatistics/getAverage)
-* [getCount()](/Java/IntSummaryStatistics/getCount)
-* [getMax()](/Java/IntSummaryStatistics/getMax)
-* [getMin()](/Java/IntSummaryStatistics/getMin)
-* [getSum()](/Java/IntSummaryStatistics/getSum)
-* [toString()](/Java/IntSummaryStatistics/toString)
+* [accept()](/Java/IntSummaryStatistics/accept/)
+* [combine()](/Java/IntSummaryStatistics/combine/)
+* [getAverage()](/Java/IntSummaryStatistics/getAverage/)
+* [getCount()](/Java/IntSummaryStatistics/getCount/)
+* [getMax()](/Java/IntSummaryStatistics/getMax/)
+* [getMin()](/Java/IntSummaryStatistics/getMin/)
+* [getSum()](/Java/IntSummaryStatistics/getSum/)
+* [toString()](/Java/IntSummaryStatistics/toString/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ AggregateError
 * [AggregateError()](/Javascript/AggregateError/AggregateError/)
 
 ## Propiedades
-* [message](/Javascript/AggregateError/message)
-* [name](/Javascript/AggregateError/name)
+* [message](/Javascript/AggregateError/message/)
+* [name](/Javascript/AggregateError/name/)
 
 ## Ejemplo
 ~~~java

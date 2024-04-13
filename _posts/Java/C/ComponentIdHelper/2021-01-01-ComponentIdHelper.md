@@ -21,12 +21,12 @@ public abstract class ComponentIdHelper extends Object
 * [ComponentIdHelper()](/Java/ComponentIdHelper/ComponentIdHelper/)
 
 ## Métodos
-* [extract()](/Java/ComponentIdHelper/extract)
-* [id()](/Java/ComponentIdHelper/id)
-* [insert()](/Java/ComponentIdHelper/insert)
-* [read()](/Java/ComponentIdHelper/read)
-* [type()](/Java/ComponentIdHelper/type)
-* [write()](/Java/ComponentIdHelper/write)
+* [extract()](/Java/ComponentIdHelper/extract/)
+* [id()](/Java/ComponentIdHelper/id/)
+* [insert()](/Java/ComponentIdHelper/insert/)
+* [read()](/Java/ComponentIdHelper/read/)
+* [type()](/Java/ComponentIdHelper/type/)
+* [write()](/Java/ComponentIdHelper/write/)
 
 ## Ejemplo
 ~~~java

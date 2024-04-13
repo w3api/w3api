@@ -21,20 +21,20 @@ public class InvocationEvent extends AWTEvent implements ActiveEvent
 * [InvocationEvent()](/Java/InvocationEvent/InvocationEvent/)
 
 ## Campos
-* [catchExceptions](/Java/InvocationEvent/catchExceptions)
-* [INVOCATION_DEFAULT](/Java/InvocationEvent/INVOCATION_DEFAULT)
-* [INVOCATION_FIRST](/Java/InvocationEvent/INVOCATION_FIRST)
-* [INVOCATION_LAST](/Java/InvocationEvent/INVOCATION_LAST)
-* [notifier](/Java/InvocationEvent/notifier)
-* [runnable](/Java/InvocationEvent/runnable)
+* [catchExceptions](/Java/InvocationEvent/catchExceptions/)
+* [INVOCATION_DEFAULT](/Java/InvocationEvent/INVOCATION_DEFAULT/)
+* [INVOCATION_FIRST](/Java/InvocationEvent/INVOCATION_FIRST/)
+* [INVOCATION_LAST](/Java/InvocationEvent/INVOCATION_LAST/)
+* [notifier](/Java/InvocationEvent/notifier/)
+* [runnable](/Java/InvocationEvent/runnable/)
 
 ## Métodos
-* [dispatch()](/Java/InvocationEvent/dispatch)
-* [getException()](/Java/InvocationEvent/getException)
-* [getThrowable()](/Java/InvocationEvent/getThrowable)
-* [getWhen()](/Java/InvocationEvent/getWhen)
-* [isDispatched()](/Java/InvocationEvent/isDispatched)
-* [paramString()](/Java/InvocationEvent/paramString)
+* [dispatch()](/Java/InvocationEvent/dispatch/)
+* [getException()](/Java/InvocationEvent/getException/)
+* [getThrowable()](/Java/InvocationEvent/getThrowable/)
+* [getWhen()](/Java/InvocationEvent/getWhen/)
+* [isDispatched()](/Java/InvocationEvent/isDispatched/)
+* [paramString()](/Java/InvocationEvent/paramString/)
 
 ## Ejemplo
 ~~~java

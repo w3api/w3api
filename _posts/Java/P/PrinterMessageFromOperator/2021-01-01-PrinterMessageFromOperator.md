@@ -21,9 +21,9 @@ public final class PrinterMessageFromOperator extends TextSyntax implements Prin
 * [PrinterMessageFromOperator()](/Java/PrinterMessageFromOperator/PrinterMessageFromOperator/)
 
 ## Métodos
-* [equals()](/Java/PrinterMessageFromOperator/equals)
-* [getCategory()](/Java/PrinterMessageFromOperator/getCategory)
-* [getName()](/Java/PrinterMessageFromOperator/getName)
+* [equals()](/Java/PrinterMessageFromOperator/equals/)
+* [getCategory()](/Java/PrinterMessageFromOperator/getCategory/)
+* [getName()](/Java/PrinterMessageFromOperator/getName/)
 
 ## Ejemplo
 ~~~java

@@ -21,10 +21,10 @@ public class CardPermission extends Permission
 * [CardPermission()](/Java/CardPermission/CardPermission/)
 
 ## Métodos
-* [equals()](/Java/CardPermission/equals)
-* [getActions()](/Java/CardPermission/getActions)
-* [hashCode()](/Java/CardPermission/hashCode)
-* [implies()](/Java/CardPermission/implies)
+* [equals()](/Java/CardPermission/equals/)
+* [getActions()](/Java/CardPermission/getActions/)
+* [hashCode()](/Java/CardPermission/hashCode/)
+* [implies()](/Java/CardPermission/implies/)
 
 ## Ejemplo
 ~~~java

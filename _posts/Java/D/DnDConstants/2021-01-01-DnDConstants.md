@@ -18,12 +18,12 @@ public final class DnDConstants extends Object
 ~~~
 
 ## Campos
-* [ACTION_COPY](/Java/DnDConstants/ACTION_COPY)
-* [ACTION_COPY_OR_MOVE](/Java/DnDConstants/ACTION_COPY_OR_MOVE)
-* [ACTION_LINK](/Java/DnDConstants/ACTION_LINK)
-* [ACTION_MOVE](/Java/DnDConstants/ACTION_MOVE)
-* [ACTION_NONE](/Java/DnDConstants/ACTION_NONE)
-* [ACTION_REFERENCE](/Java/DnDConstants/ACTION_REFERENCE)
+* [ACTION_COPY](/Java/DnDConstants/ACTION_COPY/)
+* [ACTION_COPY_OR_MOVE](/Java/DnDConstants/ACTION_COPY_OR_MOVE/)
+* [ACTION_LINK](/Java/DnDConstants/ACTION_LINK/)
+* [ACTION_MOVE](/Java/DnDConstants/ACTION_MOVE/)
+* [ACTION_NONE](/Java/DnDConstants/ACTION_NONE/)
+* [ACTION_REFERENCE](/Java/DnDConstants/ACTION_REFERENCE/)
 
 ## Ejemplo
 ~~~java

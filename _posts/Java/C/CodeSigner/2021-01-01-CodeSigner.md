@@ -21,11 +21,11 @@ public final class CodeSigner extends Object implements Serializable
 * [CodeSigner()](/Java/CodeSigner/CodeSigner/)
 
 ## Métodos
-* [equals()](/Java/CodeSigner/equals)
-* [getSignerCertPath()](/Java/CodeSigner/getSignerCertPath)
-* [getTimestamp()](/Java/CodeSigner/getTimestamp)
-* [hashCode()](/Java/CodeSigner/hashCode)
-* [toString()](/Java/CodeSigner/toString)
+* [equals()](/Java/CodeSigner/equals/)
+* [getSignerCertPath()](/Java/CodeSigner/getSignerCertPath/)
+* [getTimestamp()](/Java/CodeSigner/getTimestamp/)
+* [hashCode()](/Java/CodeSigner/hashCode/)
+* [toString()](/Java/CodeSigner/toString/)
 
 ## Ejemplo
 ~~~java

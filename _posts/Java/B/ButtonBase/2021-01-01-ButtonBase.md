@@ -21,14 +21,14 @@ public abstract class ButtonBase extends Labeled
 * [ButtonBase()](/Java/ButtonBase/ButtonBase/)
 
 ## Métodos
-* [arm()](/Java/ButtonBase/arm)
-* [armedProperty()](/Java/ButtonBase/armedProperty)
-* [disarm()](/Java/ButtonBase/disarm)
-* [fire()](/Java/ButtonBase/fire)
-* [getOnAction()](/Java/ButtonBase/getOnAction)
-* [isArmed()](/Java/ButtonBase/isArmed)
-* [onActionProperty()](/Java/ButtonBase/onActionProperty)
-* [setOnAction()](/Java/ButtonBase/setOnAction)
+* [arm()](/Java/ButtonBase/arm/)
+* [armedProperty()](/Java/ButtonBase/armedProperty/)
+* [disarm()](/Java/ButtonBase/disarm/)
+* [fire()](/Java/ButtonBase/fire/)
+* [getOnAction()](/Java/ButtonBase/getOnAction/)
+* [isArmed()](/Java/ButtonBase/isArmed/)
+* [onActionProperty()](/Java/ButtonBase/onActionProperty/)
+* [setOnAction()](/Java/ButtonBase/setOnAction/)
 
 ## Ejemplo
 ~~~java

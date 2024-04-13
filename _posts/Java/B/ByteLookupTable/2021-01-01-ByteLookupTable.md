@@ -21,8 +21,8 @@ public class ByteLookupTable extends LookupTable
 * [ByteLookupTable()](/Java/ByteLookupTable/ByteLookupTable/)
 
 ## Métodos
-* [getTable()](/Java/ByteLookupTable/getTable)
-* [lookupPixel()](/Java/ByteLookupTable/lookupPixel)
+* [getTable()](/Java/ByteLookupTable/getTable/)
+* [lookupPixel()](/Java/ByteLookupTable/lookupPixel/)
 
 ## Ejemplo
 ~~~java

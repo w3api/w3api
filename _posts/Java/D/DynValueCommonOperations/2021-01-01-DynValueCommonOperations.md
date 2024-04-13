@@ -18,9 +18,9 @@ public interface DynValueCommonOperations extends DynAnyOperations
 ~~~
 
 ## Métodos
-* [is_null()](/Java/DynValueCommonOperations/is_null)
-* [set_to_null()](/Java/DynValueCommonOperations/set_to_null)
-* [set_to_value()](/Java/DynValueCommonOperations/set_to_value)
+* [is_null()](/Java/DynValueCommonOperations/is_null/)
+* [set_to_null()](/Java/DynValueCommonOperations/set_to_null/)
+* [set_to_value()](/Java/DynValueCommonOperations/set_to_value/)
 
 ## Ejemplo
 ~~~java

@@ -18,10 +18,10 @@ public interface PixelWriter
 ~~~
 
 ## Métodos
-* [getPixelFormat()](/Java/PixelWriter/getPixelFormat)
-* [setArgb()](/Java/PixelWriter/setArgb)
-* [setColor()](/Java/PixelWriter/setColor)
-* [setPixels()](/Java/PixelWriter/setPixels)
+* [getPixelFormat()](/Java/PixelWriter/getPixelFormat/)
+* [setArgb()](/Java/PixelWriter/setArgb/)
+* [setColor()](/Java/PixelWriter/setColor/)
+* [setPixels()](/Java/PixelWriter/setPixels/)
 
 ## Ejemplo
 ~~~java

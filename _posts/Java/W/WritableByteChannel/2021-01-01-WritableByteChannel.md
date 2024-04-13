@@ -18,7 +18,7 @@ public interface WritableByteChannel extends Channel
 ~~~
 
 ## Métodos
-* [write()](/Java/WritableByteChannel/write)
+* [write()](/Java/WritableByteChannel/write/)
 
 ## Ejemplo
 ~~~java

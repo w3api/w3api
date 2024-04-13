@@ -18,7 +18,7 @@ public interface IIOParamController
 ~~~
 
 ## Métodos
-* [activate()](/Java/IIOParamController/activate)
+* [activate()](/Java/IIOParamController/activate/)
 
 ## Ejemplo
 ~~~java

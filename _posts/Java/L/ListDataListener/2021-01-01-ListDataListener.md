@@ -18,9 +18,9 @@ public interface ListDataListener extends EventListener
 ~~~
 
 ## Métodos
-* [contentsChanged()](/Java/ListDataListener/contentsChanged)
-* [intervalAdded()](/Java/ListDataListener/intervalAdded)
-* [intervalRemoved()](/Java/ListDataListener/intervalRemoved)
+* [contentsChanged()](/Java/ListDataListener/contentsChanged/)
+* [intervalAdded()](/Java/ListDataListener/intervalAdded/)
+* [intervalRemoved()](/Java/ListDataListener/intervalRemoved/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface CatchTree extends Tree
 ~~~
 
 ## Métodos
-* [getBlock()](/Java/CatchTree-com-sun-source-tree/getBlock)
-* [getParameter()](/Java/CatchTree-com-sun-source-tree/getParameter)
+* [getBlock()](/Java/CatchTree-com-sun-source-tree/getBlock/)
+* [getParameter()](/Java/CatchTree-com-sun-source-tree/getParameter/)
 
 ## Ejemplo
 ~~~java

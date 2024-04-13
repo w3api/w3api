@@ -21,7 +21,7 @@ public final class WStringSeqHolder extends Object implements Streamable
 * [WStringSeqHolder()](/Java/WStringSeqHolder/WStringSeqHolder/)
 
 ## Campos
-* [value](/Java/WStringSeqHolder/value)
+* [value](/Java/WStringSeqHolder/value/)
 
 ## Ejemplo
 ~~~java

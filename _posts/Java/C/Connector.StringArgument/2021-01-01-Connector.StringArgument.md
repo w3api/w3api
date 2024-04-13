@@ -18,7 +18,7 @@ public static interface Connector.StringArgument extends Connector.Argument
 ~~~
 
 ## Métodos
-* [isValid()](/Java/Connector/StringArgument/isValid)
+* [isValid()](/Java/Connector/StringArgument/isValid/)
 
 ## Ejemplo
 ~~~java

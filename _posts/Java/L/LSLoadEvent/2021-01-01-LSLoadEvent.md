@@ -18,8 +18,8 @@ public interface LSLoadEvent extends Event
 ~~~
 
 ## Métodos
-* [getInput()](/Java/LSLoadEvent/getInput)
-* [getNewDocument()](/Java/LSLoadEvent/getNewDocument)
+* [getInput()](/Java/LSLoadEvent/getInput/)
+* [getNewDocument()](/Java/LSLoadEvent/getNewDocument/)
 
 ## Ejemplo
 ~~~java

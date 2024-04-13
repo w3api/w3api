@@ -18,10 +18,10 @@ sidebar:
 ~~~
 
 ## Métodos
-* [andThen()](/Java/IntUnaryOperator/andThen)
-* [applyAsInt()](/Java/IntUnaryOperator/applyAsInt)
-* [compose()](/Java/IntUnaryOperator/compose)
-* [identity()](/Java/IntUnaryOperator/identity)
+* [andThen()](/Java/IntUnaryOperator/andThen/)
+* [applyAsInt()](/Java/IntUnaryOperator/applyAsInt/)
+* [compose()](/Java/IntUnaryOperator/compose/)
+* [identity()](/Java/IntUnaryOperator/identity/)
 
 ## Ejemplo
 ~~~java

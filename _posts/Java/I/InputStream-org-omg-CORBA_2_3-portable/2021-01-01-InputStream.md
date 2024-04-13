@@ -21,8 +21,8 @@ public abstract class InputStream extends InputStream
 * [InputStream()](/Java/InputStream-org-omg-CORBA_2_3-portable/InputStream/)
 
 ## Métodos
-* [read_abstract_interface()](/Java/InputStream-org-omg-CORBA_2_3-portable/read_abstract_interface)
-* [read_value()](/Java/InputStream-org-omg-CORBA_2_3-portable/read_value)
+* [read_abstract_interface()](/Java/InputStream-org-omg-CORBA_2_3-portable/read_abstract_interface/)
+* [read_value()](/Java/InputStream-org-omg-CORBA_2_3-portable/read_value/)
 
 ## Ejemplo
 ~~~java

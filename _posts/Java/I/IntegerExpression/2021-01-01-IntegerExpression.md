@@ -21,8 +21,8 @@ public abstract class IntegerExpression extends NumberExpressionBase implements 
 * [IntegerExpression()](/Java/IntegerExpression/IntegerExpression/)
 
 ## Métodos
-* [asObject()](/Java/IntegerExpression/asObject)
-* [integerExpression()](/Java/IntegerExpression/integerExpression)
+* [asObject()](/Java/IntegerExpression/asObject/)
+* [integerExpression()](/Java/IntegerExpression/integerExpression/)
 
 ## Ejemplo
 ~~~java

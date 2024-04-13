@@ -18,10 +18,10 @@ public interface ClassDeclarationTree extends StatementTree
 ~~~
 
 ## Métodos
-* [getClassElements()](/Java/ClassDeclarationTree/getClassElements)
-* [getClassHeritage()](/Java/ClassDeclarationTree/getClassHeritage)
-* [getConstructor()](/Java/ClassDeclarationTree/getConstructor)
-* [getName()](/Java/ClassDeclarationTree/getName)
+* [getClassElements()](/Java/ClassDeclarationTree/getClassElements/)
+* [getClassHeritage()](/Java/ClassDeclarationTree/getClassHeritage/)
+* [getConstructor()](/Java/ClassDeclarationTree/getConstructor/)
+* [getName()](/Java/ClassDeclarationTree/getName/)
 
 ## Ejemplo
 ~~~java

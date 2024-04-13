@@ -18,10 +18,10 @@ public interface LoaderDelegate
 ~~~
 
 ## Métodos
-* [addToClasspath()](/Java/LoaderDelegate/addToClasspath)
-* [classesRedefined()](/Java/LoaderDelegate/classesRedefined)
-* [findClass()](/Java/LoaderDelegate/findClass)
-* [load()](/Java/LoaderDelegate/load)
+* [addToClasspath()](/Java/LoaderDelegate/addToClasspath/)
+* [classesRedefined()](/Java/LoaderDelegate/classesRedefined/)
+* [findClass()](/Java/LoaderDelegate/findClass/)
+* [load()](/Java/LoaderDelegate/load/)
 
 ## Ejemplo
 ~~~java

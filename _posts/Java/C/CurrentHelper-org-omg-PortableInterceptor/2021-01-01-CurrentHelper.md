@@ -21,14 +21,14 @@ public abstract class CurrentHelper extends Object
 * [CurrentHelper()](/Java/CurrentHelper-org-omg-PortableInterceptor/CurrentHelper/)
 
 ## Métodos
-* [extract()](/Java/CurrentHelper-org-omg-PortableInterceptor/extract)
-* [id()](/Java/CurrentHelper-org-omg-PortableInterceptor/id)
-* [insert()](/Java/CurrentHelper-org-omg-PortableInterceptor/insert)
-* [narrow()](/Java/CurrentHelper-org-omg-PortableInterceptor/narrow)
-* [read()](/Java/CurrentHelper-org-omg-PortableInterceptor/read)
-* [type()](/Java/CurrentHelper-org-omg-PortableInterceptor/type)
-* [unchecked_narrow()](/Java/CurrentHelper-org-omg-PortableInterceptor/unchecked_narrow)
-* [write()](/Java/CurrentHelper-org-omg-PortableInterceptor/write)
+* [extract()](/Java/CurrentHelper-org-omg-PortableInterceptor/extract/)
+* [id()](/Java/CurrentHelper-org-omg-PortableInterceptor/id/)
+* [insert()](/Java/CurrentHelper-org-omg-PortableInterceptor/insert/)
+* [narrow()](/Java/CurrentHelper-org-omg-PortableInterceptor/narrow/)
+* [read()](/Java/CurrentHelper-org-omg-PortableInterceptor/read/)
+* [type()](/Java/CurrentHelper-org-omg-PortableInterceptor/type/)
+* [unchecked_narrow()](/Java/CurrentHelper-org-omg-PortableInterceptor/unchecked_narrow/)
+* [write()](/Java/CurrentHelper-org-omg-PortableInterceptor/write/)
 
 ## Ejemplo
 ~~~java

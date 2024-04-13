@@ -21,9 +21,9 @@ public final class PrinterMoreInfoManufacturer extends URISyntax implements Prin
 * [PrinterMoreInfoManufacturer()](/Java/PrinterMoreInfoManufacturer/PrinterMoreInfoManufacturer/)
 
 ## Métodos
-* [equals()](/Java/PrinterMoreInfoManufacturer/equals)
-* [getCategory()](/Java/PrinterMoreInfoManufacturer/getCategory)
-* [getName()](/Java/PrinterMoreInfoManufacturer/getName)
+* [equals()](/Java/PrinterMoreInfoManufacturer/equals/)
+* [getCategory()](/Java/PrinterMoreInfoManufacturer/getCategory/)
+* [getName()](/Java/PrinterMoreInfoManufacturer/getName/)
 
 ## Ejemplo
 ~~~java

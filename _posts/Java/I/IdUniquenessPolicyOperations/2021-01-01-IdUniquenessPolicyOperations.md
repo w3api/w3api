@@ -18,7 +18,7 @@ public interface IdUniquenessPolicyOperations extends PolicyOperations
 ~~~
 
 ## Métodos
-* [value()](/Java/IdUniquenessPolicyOperations/value)
+* [value()](/Java/IdUniquenessPolicyOperations/value/)
 
 ## Ejemplo
 ~~~java

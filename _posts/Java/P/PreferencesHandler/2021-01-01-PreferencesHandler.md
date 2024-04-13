@@ -18,7 +18,7 @@ public interface PreferencesHandler
 ~~~
 
 ## Métodos
-* [handlePreferences()](/Java/PreferencesHandler/handlePreferences)
+* [handlePreferences()](/Java/PreferencesHandler/handlePreferences/)
 
 ## Ejemplo
 ~~~java

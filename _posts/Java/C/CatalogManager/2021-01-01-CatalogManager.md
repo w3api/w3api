@@ -18,8 +18,8 @@ public final class CatalogManager extends Object
 ~~~
 
 ## Métodos
-* [catalog()](/Java/CatalogManager/catalog)
-* [catalogResolver()](/Java/CatalogManager/catalogResolver)
+* [catalog()](/Java/CatalogManager/catalog/)
+* [catalogResolver()](/Java/CatalogManager/catalogResolver/)
 
 ## Ejemplo
 ~~~java

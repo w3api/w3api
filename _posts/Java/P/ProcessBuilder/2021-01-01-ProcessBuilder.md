@@ -21,16 +21,16 @@ public final class ProcessBuilder extends Object
 * [ProcessBuilder()](/Java/ProcessBuilder/ProcessBuilder/)
 
 ## Métodos
-* [command()](/Java/ProcessBuilder/command)
-* [directory()](/Java/ProcessBuilder/directory)
-* [environment()](/Java/ProcessBuilder/environment)
-* [inheritIO()](/Java/ProcessBuilder/inheritIO)
-* [redirectError()](/Java/ProcessBuilder/redirectError)
-* [redirectErrorStream()](/Java/ProcessBuilder/redirectErrorStream)
-* [redirectInput()](/Java/ProcessBuilder/redirectInput)
-* [redirectOutput()](/Java/ProcessBuilder/redirectOutput)
-* [start()](/Java/ProcessBuilder/start)
-* [startPipeline()](/Java/ProcessBuilder/startPipeline)
+* [command()](/Java/ProcessBuilder/command/)
+* [directory()](/Java/ProcessBuilder/directory/)
+* [environment()](/Java/ProcessBuilder/environment/)
+* [inheritIO()](/Java/ProcessBuilder/inheritIO/)
+* [redirectError()](/Java/ProcessBuilder/redirectError/)
+* [redirectErrorStream()](/Java/ProcessBuilder/redirectErrorStream/)
+* [redirectInput()](/Java/ProcessBuilder/redirectInput/)
+* [redirectOutput()](/Java/ProcessBuilder/redirectOutput/)
+* [start()](/Java/ProcessBuilder/start/)
+* [startPipeline()](/Java/ProcessBuilder/startPipeline/)
 
 ## Ejemplo
 ~~~java

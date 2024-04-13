@@ -18,8 +18,8 @@ public interface ComboBoxModel<E> extends ListModel<E>
 ~~~
 
 ## Métodos
-* [getSelectedItem()](/Java/ComboBoxModel/getSelectedItem)
-* [setSelectedItem()](/Java/ComboBoxModel/setSelectedItem)
+* [getSelectedItem()](/Java/ComboBoxModel/getSelectedItem/)
+* [setSelectedItem()](/Java/ComboBoxModel/setSelectedItem/)
 
 ## Ejemplo
 ~~~java

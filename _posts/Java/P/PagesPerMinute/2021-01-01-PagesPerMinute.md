@@ -21,9 +21,9 @@ public final class PagesPerMinute extends IntegerSyntax implements PrintServiceA
 * [PagesPerMinute()](/Java/PagesPerMinute/PagesPerMinute/)
 
 ## Métodos
-* [equals()](/Java/PagesPerMinute/equals)
-* [getCategory()](/Java/PagesPerMinute/getCategory)
-* [getName()](/Java/PagesPerMinute/getName)
+* [equals()](/Java/PagesPerMinute/equals/)
+* [getCategory()](/Java/PagesPerMinute/getCategory/)
+* [getName()](/Java/PagesPerMinute/getName/)
 
 ## Ejemplo
 ~~~java

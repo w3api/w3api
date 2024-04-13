@@ -21,14 +21,14 @@ public class BasicRadioButtonUI extends BasicToggleButtonUI
 * [BasicRadioButtonUI()](/Java/BasicRadioButtonUI/BasicRadioButtonUI/)
 
 ## Campos
-* [icon](/Java/BasicRadioButtonUI/icon)
+* [icon](/Java/BasicRadioButtonUI/icon/)
 
 ## Métodos
-* [createUI()](/Java/BasicRadioButtonUI/createUI)
-* [getDefaultIcon()](/Java/BasicRadioButtonUI/getDefaultIcon)
-* [getPreferredSize()](/Java/BasicRadioButtonUI/getPreferredSize)
-* [paint()](/Java/BasicRadioButtonUI/paint)
-* [paintFocus()](/Java/BasicRadioButtonUI/paintFocus)
+* [createUI()](/Java/BasicRadioButtonUI/createUI/)
+* [getDefaultIcon()](/Java/BasicRadioButtonUI/getDefaultIcon/)
+* [getPreferredSize()](/Java/BasicRadioButtonUI/getPreferredSize/)
+* [paint()](/Java/BasicRadioButtonUI/paint/)
+* [paintFocus()](/Java/BasicRadioButtonUI/paintFocus/)
 
 ## Ejemplo
 ~~~java

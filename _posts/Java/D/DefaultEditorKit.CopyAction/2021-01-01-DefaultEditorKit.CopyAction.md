@@ -21,7 +21,7 @@ public static class DefaultEditorKit.CopyAction extends TextAction
 * [DefaultEditorKit.CopyAction()](/Java/DefaultEditorKit/CopyAction/DefaultEditorKit/CopyAction/)
 
 ## Métodos
-* [actionPerformed()](/Java/DefaultEditorKit/CopyAction/actionPerformed)
+* [actionPerformed()](/Java/DefaultEditorKit/CopyAction/actionPerformed/)
 
 ## Ejemplo
 ~~~java

@@ -21,7 +21,7 @@ public static class DefaultEditorKit.BeepAction extends TextAction
 * [DefaultEditorKit.BeepAction()](/Java/DefaultEditorKit/BeepAction/DefaultEditorKit/BeepAction/)
 
 ## Métodos
-* [actionPerformed()](/Java/DefaultEditorKit/BeepAction/actionPerformed)
+* [actionPerformed()](/Java/DefaultEditorKit/BeepAction/actionPerformed/)
 
 ## Ejemplo
 ~~~java

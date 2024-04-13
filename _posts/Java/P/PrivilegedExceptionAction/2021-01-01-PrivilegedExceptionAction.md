@@ -18,7 +18,7 @@ public interface PrivilegedExceptionAction<T>
 ~~~
 
 ## Métodos
-* [run()](/Java/PrivilegedExceptionAction/run)
+* [run()](/Java/PrivilegedExceptionAction/run/)
 
 ## Ejemplo
 ~~~java

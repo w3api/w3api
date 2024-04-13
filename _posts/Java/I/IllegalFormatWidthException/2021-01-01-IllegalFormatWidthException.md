@@ -21,7 +21,7 @@ public class IllegalFormatWidthException extends IllegalFormatException
 * [IllegalFormatWidthException()](/Java/IllegalFormatWidthException/IllegalFormatWidthException/)
 
 ## Métodos
-* [getWidth()](/Java/IllegalFormatWidthException/getWidth)
+* [getWidth()](/Java/IllegalFormatWidthException/getWidth/)
 
 ## Ejemplo
 ~~~java

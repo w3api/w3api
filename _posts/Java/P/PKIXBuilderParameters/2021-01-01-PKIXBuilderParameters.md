@@ -21,9 +21,9 @@ public class PKIXBuilderParameters extends PKIXParameters
 * [PKIXBuilderParameters()](/Java/PKIXBuilderParameters/PKIXBuilderParameters/)
 
 ## Métodos
-* [getMaxPathLength()](/Java/PKIXBuilderParameters/getMaxPathLength)
-* [setMaxPathLength()](/Java/PKIXBuilderParameters/setMaxPathLength)
-* [toString()](/Java/PKIXBuilderParameters/toString)
+* [getMaxPathLength()](/Java/PKIXBuilderParameters/getMaxPathLength/)
+* [setMaxPathLength()](/Java/PKIXBuilderParameters/setMaxPathLength/)
+* [toString()](/Java/PKIXBuilderParameters/toString/)
 
 ## Ejemplo
 ~~~java

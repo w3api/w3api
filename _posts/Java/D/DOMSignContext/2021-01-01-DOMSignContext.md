@@ -21,10 +21,10 @@ public class DOMSignContext extends DOMCryptoContext implements XMLSignContext
 * [DOMSignContext()](/Java/DOMSignContext/DOMSignContext/)
 
 ## Métodos
-* [getNextSibling()](/Java/DOMSignContext/getNextSibling)
-* [getParent()](/Java/DOMSignContext/getParent)
-* [setNextSibling()](/Java/DOMSignContext/setNextSibling)
-* [setParent()](/Java/DOMSignContext/setParent)
+* [getNextSibling()](/Java/DOMSignContext/getNextSibling/)
+* [getParent()](/Java/DOMSignContext/getParent/)
+* [setNextSibling()](/Java/DOMSignContext/setNextSibling/)
+* [setParent()](/Java/DOMSignContext/setParent/)
 
 ## Ejemplo
 ~~~java

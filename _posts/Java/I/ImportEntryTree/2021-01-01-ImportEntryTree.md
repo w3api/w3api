@@ -18,9 +18,9 @@ public interface ImportEntryTree extends Tree
 ~~~
 
 ## Métodos
-* [getImportName()](/Java/ImportEntryTree/getImportName)
-* [getLocalName()](/Java/ImportEntryTree/getLocalName)
-* [getModuleRequest()](/Java/ImportEntryTree/getModuleRequest)
+* [getImportName()](/Java/ImportEntryTree/getImportName/)
+* [getLocalName()](/Java/ImportEntryTree/getLocalName/)
+* [getModuleRequest()](/Java/ImportEntryTree/getModuleRequest/)
 
 ## Ejemplo
 ~~~java

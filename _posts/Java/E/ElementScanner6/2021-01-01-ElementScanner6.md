@@ -21,15 +21,15 @@ sidebar:
 * [ElementScanner6()](/Java/ElementScanner6/ElementScanner6/)
 
 ## Campos
-* [DEFAULT_VALUE](/Java/ElementScanner6/DEFAULT_VALUE)
+* [DEFAULT_VALUE](/Java/ElementScanner6/DEFAULT_VALUE/)
 
 ## Métodos
-* [scan()](/Java/ElementScanner6/scan)
-* [visitExecutable()](/Java/ElementScanner6/visitExecutable)
-* [visitPackage()](/Java/ElementScanner6/visitPackage)
-* [visitType()](/Java/ElementScanner6/visitType)
-* [visitTypeParameter()](/Java/ElementScanner6/visitTypeParameter)
-* [visitVariable()](/Java/ElementScanner6/visitVariable)
+* [scan()](/Java/ElementScanner6/scan/)
+* [visitExecutable()](/Java/ElementScanner6/visitExecutable/)
+* [visitPackage()](/Java/ElementScanner6/visitPackage/)
+* [visitType()](/Java/ElementScanner6/visitType/)
+* [visitTypeParameter()](/Java/ElementScanner6/visitTypeParameter/)
+* [visitVariable()](/Java/ElementScanner6/visitVariable/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [invalidated()](/Java/InvalidationListener/invalidated)
+* [invalidated()](/Java/InvalidationListener/invalidated/)
 
 ## Ejemplo
 ~~~java

@@ -18,9 +18,9 @@ public interface Invocable
 ~~~
 
 ## Métodos
-* [getInterface()](/Java/Invocable/getInterface)
-* [invokeFunction()](/Java/Invocable/invokeFunction)
-* [invokeMethod()](/Java/Invocable/invokeMethod)
+* [getInterface()](/Java/Invocable/getInterface/)
+* [invokeFunction()](/Java/Invocable/invokeFunction/)
+* [invokeMethod()](/Java/Invocable/invokeMethod/)
 
 ## Ejemplo
 ~~~java

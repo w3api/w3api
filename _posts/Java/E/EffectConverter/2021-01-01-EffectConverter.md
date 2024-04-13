@@ -21,8 +21,8 @@ public class EffectConverter extends StyleConverter<ParsedValue[],Effect>
 * [EffectConverter()](/Java/EffectConverter/EffectConverter/)
 
 ## Métodos
-* [clearCache()](/Java/EffectConverter/clearCache)
-* [getInstance()](/Java/EffectConverter/getInstance)
+* [clearCache()](/Java/EffectConverter/clearCache/)
+* [getInstance()](/Java/EffectConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

@@ -21,7 +21,7 @@ public final class DirectoryIteratorException extends ConcurrentModificationExce
 * [DirectoryIteratorException()](/Java/DirectoryIteratorException/DirectoryIteratorException/)
 
 ## Métodos
-* [getCause()](/Java/DirectoryIteratorException/getCause)
+* [getCause()](/Java/DirectoryIteratorException/getCause/)
 
 ## Ejemplo
 ~~~java

@@ -18,11 +18,11 @@ public interface LinkRequest
 ~~~
 
 ## Métodos
-* [getArguments()](/Java/LinkRequest/getArguments)
-* [getCallSiteDescriptor()](/Java/LinkRequest/getCallSiteDescriptor)
-* [getReceiver()](/Java/LinkRequest/getReceiver)
-* [isCallSiteUnstable()](/Java/LinkRequest/isCallSiteUnstable)
-* [replaceArguments()](/Java/LinkRequest/replaceArguments)
+* [getArguments()](/Java/LinkRequest/getArguments/)
+* [getCallSiteDescriptor()](/Java/LinkRequest/getCallSiteDescriptor/)
+* [getReceiver()](/Java/LinkRequest/getReceiver/)
+* [isCallSiteUnstable()](/Java/LinkRequest/isCallSiteUnstable/)
+* [replaceArguments()](/Java/LinkRequest/replaceArguments/)
 
 ## Ejemplo
 ~~~java

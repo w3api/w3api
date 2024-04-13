@@ -21,8 +21,8 @@ public static class DirStateFactory.Result extends Object
 * [DirStateFactory.Result()](/Java/DirStateFactory/Result/DirStateFactory/Result/)
 
 ## Métodos
-* [getAttributes()](/Java/DirStateFactory/Result/getAttributes)
-* [getObject()](/Java/DirStateFactory/Result/getObject)
+* [getAttributes()](/Java/DirStateFactory/Result/getAttributes/)
+* [getObject()](/Java/DirStateFactory/Result/getObject/)
 
 ## Ejemplo
 ~~~java

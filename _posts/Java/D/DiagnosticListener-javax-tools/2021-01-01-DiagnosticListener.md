@@ -18,7 +18,7 @@ public interface DiagnosticListener<S>
 ~~~
 
 ## Métodos
-* [report()](/Java/DiagnosticListener-javax-tools/report)
+* [report()](/Java/DiagnosticListener-javax-tools/report/)
 
 ## Ejemplo
 ~~~java

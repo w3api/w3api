@@ -18,13 +18,13 @@ public static enum LineChart.SortingPolicy extends Enum<LineChart.SortingPolicy>
 ~~~
 
 ## Enumerados
-* [NONE](/Java/LineChart/SortingPolicy/NONE)
-* [X_AXIS](/Java/LineChart/SortingPolicy/X_AXIS)
-* [Y_AXIS](/Java/LineChart/SortingPolicy/Y_AXIS)
+* [NONE](/Java/LineChart/SortingPolicy/NONE/)
+* [X_AXIS](/Java/LineChart/SortingPolicy/X_AXIS/)
+* [Y_AXIS](/Java/LineChart/SortingPolicy/Y_AXIS/)
 
 ## Métodos
-* [valueOf()](/Java/LineChart/SortingPolicy/valueOf)
-* [values()](/Java/LineChart/SortingPolicy/values)
+* [valueOf()](/Java/LineChart/SortingPolicy/valueOf/)
+* [values()](/Java/LineChart/SortingPolicy/values/)
 
 ## Ejemplo
 ~~~java

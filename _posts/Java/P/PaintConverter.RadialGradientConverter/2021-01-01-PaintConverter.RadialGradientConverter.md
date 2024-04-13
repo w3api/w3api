@@ -18,7 +18,7 @@ public static final class PaintConverter.RadialGradientConverter extends StyleCo
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/PaintConverter/RadialGradientConverter/getInstance)
+* [getInstance()](/Java/PaintConverter/RadialGradientConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

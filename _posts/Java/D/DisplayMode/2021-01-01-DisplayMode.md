@@ -21,15 +21,15 @@ public final class DisplayMode extends Object
 * [DisplayMode()](/Java/DisplayMode/DisplayMode/)
 
 ## Campos
-* [BIT_DEPTH_MULTI](/Java/DisplayMode/BIT_DEPTH_MULTI)
-* [REFRESH_RATE_UNKNOWN](/Java/DisplayMode/REFRESH_RATE_UNKNOWN)
+* [BIT_DEPTH_MULTI](/Java/DisplayMode/BIT_DEPTH_MULTI/)
+* [REFRESH_RATE_UNKNOWN](/Java/DisplayMode/REFRESH_RATE_UNKNOWN/)
 
 ## Métodos
-* [equals()](/Java/DisplayMode/equals)
-* [getBitDepth()](/Java/DisplayMode/getBitDepth)
-* [getHeight()](/Java/DisplayMode/getHeight)
-* [getRefreshRate()](/Java/DisplayMode/getRefreshRate)
-* [getWidth()](/Java/DisplayMode/getWidth)
+* [equals()](/Java/DisplayMode/equals/)
+* [getBitDepth()](/Java/DisplayMode/getBitDepth/)
+* [getHeight()](/Java/DisplayMode/getHeight/)
+* [getRefreshRate()](/Java/DisplayMode/getRefreshRate/)
+* [getWidth()](/Java/DisplayMode/getWidth/)
 
 ## Ejemplo
 ~~~java

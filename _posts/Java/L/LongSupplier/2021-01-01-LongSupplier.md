@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [getAsLong()](/Java/LongSupplier/getAsLong)
+* [getAsLong()](/Java/LongSupplier/getAsLong/)
 
 ## Ejemplo
 ~~~java

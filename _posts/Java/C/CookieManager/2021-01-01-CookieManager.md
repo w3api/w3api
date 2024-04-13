@@ -21,8 +21,8 @@ public class CookieManager extends CookieHandler
 * [CookieManager()](/Java/CookieManager/CookieManager/)
 
 ## Métodos
-* [getCookieStore()](/Java/CookieManager/getCookieStore)
-* [setCookiePolicy()](/Java/CookieManager/setCookiePolicy)
+* [getCookieStore()](/Java/CookieManager/getCookieStore/)
+* [setCookiePolicy()](/Java/CookieManager/setCookiePolicy/)
 
 ## Ejemplo
 ~~~java

@@ -21,10 +21,10 @@ public abstract class BooleanPropertyBase extends BooleanProperty
 * [BooleanPropertyBase()](/Java/BooleanPropertyBase/BooleanPropertyBase/)
 
 ## Métodos
-* [bind()](/Java/BooleanPropertyBase/bind)
-* [fireValueChangedEvent()](/Java/BooleanPropertyBase/fireValueChangedEvent)
-* [invalidated()](/Java/BooleanPropertyBase/invalidated)
-* [toString()](/Java/BooleanPropertyBase/toString)
+* [bind()](/Java/BooleanPropertyBase/bind/)
+* [fireValueChangedEvent()](/Java/BooleanPropertyBase/fireValueChangedEvent/)
+* [invalidated()](/Java/BooleanPropertyBase/invalidated/)
+* [toString()](/Java/BooleanPropertyBase/toString/)
 
 ## Ejemplo
 ~~~java

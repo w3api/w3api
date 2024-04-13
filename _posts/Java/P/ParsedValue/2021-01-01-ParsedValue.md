@@ -21,15 +21,15 @@ public class ParsedValue<V,T> extends Object
 * [ParsedValue()](/Java/ParsedValue/ParsedValue/)
 
 ## Campos
-* [converter](/Java/ParsedValue/converter)
-* [value](/Java/ParsedValue/value)
+* [converter](/Java/ParsedValue/converter/)
+* [value](/Java/ParsedValue/value/)
 
 ## Métodos
-* [convert()](/Java/ParsedValue/convert)
-* [getConverter()](/Java/ParsedValue/getConverter)
-* [getValue()](/Java/ParsedValue/getValue)
-* [isContainsLookups()](/Java/ParsedValue/isContainsLookups)
-* [isLookup()](/Java/ParsedValue/isLookup)
+* [convert()](/Java/ParsedValue/convert/)
+* [getConverter()](/Java/ParsedValue/getConverter/)
+* [getValue()](/Java/ParsedValue/getValue/)
+* [isContainsLookups()](/Java/ParsedValue/isContainsLookups/)
+* [isLookup()](/Java/ParsedValue/isLookup/)
 
 ## Ejemplo
 ~~~java

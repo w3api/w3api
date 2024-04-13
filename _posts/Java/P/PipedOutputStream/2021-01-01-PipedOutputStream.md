@@ -21,10 +21,10 @@ public class PipedOutputStream extends OutputStream
 * [PipedOutputStream()](/Java/PipedOutputStream/PipedOutputStream/)
 
 ## Métodos
-* [close()](/Java/PipedOutputStream/close)
-* [connect()](/Java/PipedOutputStream/connect)
-* [flush()](/Java/PipedOutputStream/flush)
-* [write()](/Java/PipedOutputStream/write)
+* [close()](/Java/PipedOutputStream/close/)
+* [connect()](/Java/PipedOutputStream/connect/)
+* [flush()](/Java/PipedOutputStream/flush/)
+* [write()](/Java/PipedOutputStream/write/)
 
 ## Ejemplo
 ~~~java

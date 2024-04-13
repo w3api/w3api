@@ -21,12 +21,12 @@ public abstract class InvalidSlotHelper extends Object
 * [InvalidSlotHelper()](/Java/InvalidSlotHelper/InvalidSlotHelper/)
 
 ## Métodos
-* [extract()](/Java/InvalidSlotHelper/extract)
-* [id()](/Java/InvalidSlotHelper/id)
-* [insert()](/Java/InvalidSlotHelper/insert)
-* [read()](/Java/InvalidSlotHelper/read)
-* [type()](/Java/InvalidSlotHelper/type)
-* [write()](/Java/InvalidSlotHelper/write)
+* [extract()](/Java/InvalidSlotHelper/extract/)
+* [id()](/Java/InvalidSlotHelper/id/)
+* [insert()](/Java/InvalidSlotHelper/insert/)
+* [read()](/Java/InvalidSlotHelper/read/)
+* [type()](/Java/InvalidSlotHelper/type/)
+* [write()](/Java/InvalidSlotHelper/write/)
 
 ## Ejemplo
 ~~~java

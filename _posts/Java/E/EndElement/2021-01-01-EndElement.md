@@ -18,8 +18,8 @@ public interface EndElement extends XMLEvent
 ~~~
 
 ## Métodos
-* [getName()](/Java/EndElement/getName)
-* [getNamespaces()](/Java/EndElement/getNamespaces)
+* [getName()](/Java/EndElement/getName/)
+* [getNamespaces()](/Java/EndElement/getNamespaces/)
 
 ## Ejemplo
 ~~~java

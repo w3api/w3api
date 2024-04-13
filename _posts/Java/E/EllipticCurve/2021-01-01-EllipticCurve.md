@@ -21,12 +21,12 @@ public class EllipticCurve extends Object
 * [EllipticCurve()](/Java/EllipticCurve/EllipticCurve/)
 
 ## Métodos
-* [equals()](/Java/EllipticCurve/equals)
-* [getA()](/Java/EllipticCurve/getA)
-* [getB()](/Java/EllipticCurve/getB)
-* [getField()](/Java/EllipticCurve/getField)
-* [getSeed()](/Java/EllipticCurve/getSeed)
-* [hashCode()](/Java/EllipticCurve/hashCode)
+* [equals()](/Java/EllipticCurve/equals/)
+* [getA()](/Java/EllipticCurve/getA/)
+* [getB()](/Java/EllipticCurve/getB/)
+* [getField()](/Java/EllipticCurve/getField/)
+* [getSeed()](/Java/EllipticCurve/getSeed/)
+* [hashCode()](/Java/EllipticCurve/hashCode/)
 
 ## Ejemplo
 ~~~java

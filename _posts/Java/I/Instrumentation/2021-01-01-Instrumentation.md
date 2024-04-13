@@ -18,22 +18,22 @@ public interface Instrumentation
 ~~~
 
 ## Métodos
-* [addTransformer()](/Java/Instrumentation/addTransformer)
-* [appendToBootstrapClassLoaderSearch()](/Java/Instrumentation/appendToBootstrapClassLoaderSearch)
-* [appendToSystemClassLoaderSearch()](/Java/Instrumentation/appendToSystemClassLoaderSearch)
-* [getAllLoadedClasses()](/Java/Instrumentation/getAllLoadedClasses)
-* [getInitiatedClasses()](/Java/Instrumentation/getInitiatedClasses)
-* [getObjectSize()](/Java/Instrumentation/getObjectSize)
-* [isModifiableClass()](/Java/Instrumentation/isModifiableClass)
-* [isModifiableModule()](/Java/Instrumentation/isModifiableModule)
-* [isNativeMethodPrefixSupported()](/Java/Instrumentation/isNativeMethodPrefixSupported)
-* [isRedefineClassesSupported()](/Java/Instrumentation/isRedefineClassesSupported)
-* [isRetransformClassesSupported()](/Java/Instrumentation/isRetransformClassesSupported)
-* [redefineClasses()](/Java/Instrumentation/redefineClasses)
-* [redefineModule()](/Java/Instrumentation/redefineModule)
-* [removeTransformer()](/Java/Instrumentation/removeTransformer)
-* [retransformClasses()](/Java/Instrumentation/retransformClasses)
-* [setNativeMethodPrefix()](/Java/Instrumentation/setNativeMethodPrefix)
+* [addTransformer()](/Java/Instrumentation/addTransformer/)
+* [appendToBootstrapClassLoaderSearch()](/Java/Instrumentation/appendToBootstrapClassLoaderSearch/)
+* [appendToSystemClassLoaderSearch()](/Java/Instrumentation/appendToSystemClassLoaderSearch/)
+* [getAllLoadedClasses()](/Java/Instrumentation/getAllLoadedClasses/)
+* [getInitiatedClasses()](/Java/Instrumentation/getInitiatedClasses/)
+* [getObjectSize()](/Java/Instrumentation/getObjectSize/)
+* [isModifiableClass()](/Java/Instrumentation/isModifiableClass/)
+* [isModifiableModule()](/Java/Instrumentation/isModifiableModule/)
+* [isNativeMethodPrefixSupported()](/Java/Instrumentation/isNativeMethodPrefixSupported/)
+* [isRedefineClassesSupported()](/Java/Instrumentation/isRedefineClassesSupported/)
+* [isRetransformClassesSupported()](/Java/Instrumentation/isRetransformClassesSupported/)
+* [redefineClasses()](/Java/Instrumentation/redefineClasses/)
+* [redefineModule()](/Java/Instrumentation/redefineModule/)
+* [removeTransformer()](/Java/Instrumentation/removeTransformer/)
+* [retransformClasses()](/Java/Instrumentation/retransformClasses/)
+* [setNativeMethodPrefix()](/Java/Instrumentation/setNativeMethodPrefix/)
 
 ## Ejemplo
 ~~~java

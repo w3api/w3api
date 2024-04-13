@@ -21,8 +21,8 @@ public class BatchUpdateException extends SQLException
 * [BatchUpdateException()](/Java/BatchUpdateException/BatchUpdateException/)
 
 ## Métodos
-* [getLargeUpdateCounts()](/Java/BatchUpdateException/getLargeUpdateCounts)
-* [getUpdateCounts()](/Java/BatchUpdateException/getUpdateCounts)
+* [getLargeUpdateCounts()](/Java/BatchUpdateException/getLargeUpdateCounts/)
+* [getUpdateCounts()](/Java/BatchUpdateException/getUpdateCounts/)
 
 ## Ejemplo
 ~~~java

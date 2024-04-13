@@ -18,14 +18,14 @@ public enum PrintQuality extends Enum<PrintQuality>
 ~~~
 
 ## Enumerados
-* [DRAFT](/Java/PrintQuality-javafx-print/DRAFT)
-* [HIGH](/Java/PrintQuality-javafx-print/HIGH)
-* [LOW](/Java/PrintQuality-javafx-print/LOW)
-* [NORMAL](/Java/PrintQuality-javafx-print/NORMAL)
+* [DRAFT](/Java/PrintQuality-javafx-print/DRAFT/)
+* [HIGH](/Java/PrintQuality-javafx-print/HIGH/)
+* [LOW](/Java/PrintQuality-javafx-print/LOW/)
+* [NORMAL](/Java/PrintQuality-javafx-print/NORMAL/)
 
 ## Métodos
-* [valueOf()](/Java/PrintQuality-javafx-print/valueOf)
-* [values()](/Java/PrintQuality-javafx-print/values)
+* [valueOf()](/Java/PrintQuality-javafx-print/valueOf/)
+* [values()](/Java/PrintQuality-javafx-print/values/)
 
 ## Ejemplo
 ~~~java

@@ -21,12 +21,12 @@ public final class EventType<T extends Event> extends Object implements Serializ
 * [EventType()](/Java/EventType-javafx-event/EventType/)
 
 ## Campos
-* [ROOT](/Java/EventType-javafx-event/ROOT)
+* [ROOT](/Java/EventType-javafx-event/ROOT/)
 
 ## Métodos
-* [getName()](/Java/EventType-javafx-event/getName)
-* [getSuperType()](/Java/EventType-javafx-event/getSuperType)
-* [toString()](/Java/EventType-javafx-event/toString)
+* [getName()](/Java/EventType-javafx-event/getName/)
+* [getSuperType()](/Java/EventType-javafx-event/getSuperType/)
+* [toString()](/Java/EventType-javafx-event/toString/)
 
 ## Ejemplo
 ~~~java

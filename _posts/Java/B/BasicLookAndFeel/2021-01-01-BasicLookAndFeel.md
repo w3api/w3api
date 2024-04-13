@@ -21,14 +21,14 @@ public abstract class BasicLookAndFeel extends LookAndFeel implements Serializab
 * [BasicLookAndFeel()](/Java/BasicLookAndFeel/BasicLookAndFeel/)
 
 ## Métodos
-* [createAudioAction()](/Java/BasicLookAndFeel/createAudioAction)
-* [getAudioActionMap()](/Java/BasicLookAndFeel/getAudioActionMap)
-* [getDefaults()](/Java/BasicLookAndFeel/getDefaults)
-* [initClassDefaults()](/Java/BasicLookAndFeel/initClassDefaults)
-* [initComponentDefaults()](/Java/BasicLookAndFeel/initComponentDefaults)
-* [initSystemColorDefaults()](/Java/BasicLookAndFeel/initSystemColorDefaults)
-* [loadSystemColors()](/Java/BasicLookAndFeel/loadSystemColors)
-* [playSound()](/Java/BasicLookAndFeel/playSound)
+* [createAudioAction()](/Java/BasicLookAndFeel/createAudioAction/)
+* [getAudioActionMap()](/Java/BasicLookAndFeel/getAudioActionMap/)
+* [getDefaults()](/Java/BasicLookAndFeel/getDefaults/)
+* [initClassDefaults()](/Java/BasicLookAndFeel/initClassDefaults/)
+* [initComponentDefaults()](/Java/BasicLookAndFeel/initComponentDefaults/)
+* [initSystemColorDefaults()](/Java/BasicLookAndFeel/initSystemColorDefaults/)
+* [loadSystemColors()](/Java/BasicLookAndFeel/loadSystemColors/)
+* [playSound()](/Java/BasicLookAndFeel/playSound/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public class KeySelectorException extends Exception
 * [KeySelectorException()](/Java/KeySelectorException/KeySelectorException/)
 
 ## Métodos
-* [getCause()](/Java/KeySelectorException/getCause)
-* [printStackTrace()](/Java/KeySelectorException/printStackTrace)
+* [getCause()](/Java/KeySelectorException/getCause/)
+* [printStackTrace()](/Java/KeySelectorException/printStackTrace/)
 
 ## Ejemplo
 ~~~java

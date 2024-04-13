@@ -18,7 +18,7 @@ public interface LifespanPolicyOperations extends PolicyOperations
 ~~~
 
 ## Métodos
-* [value()](/Java/LifespanPolicyOperations/value)
+* [value()](/Java/LifespanPolicyOperations/value/)
 
 ## Ejemplo
 ~~~java

@@ -21,9 +21,9 @@ public final class DateTimeAtCompleted extends DateTimeSyntax implements PrintJo
 * [DateTimeAtCompleted()](/Java/DateTimeAtCompleted/DateTimeAtCompleted/)
 
 ## Métodos
-* [equals()](/Java/DateTimeAtCompleted/equals)
-* [getCategory()](/Java/DateTimeAtCompleted/getCategory)
-* [getName()](/Java/DateTimeAtCompleted/getName)
+* [equals()](/Java/DateTimeAtCompleted/equals/)
+* [getCategory()](/Java/DateTimeAtCompleted/getCategory/)
+* [getName()](/Java/DateTimeAtCompleted/getName/)
 
 ## Ejemplo
 ~~~java

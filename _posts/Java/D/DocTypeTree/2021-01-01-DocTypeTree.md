@@ -18,7 +18,7 @@ public interface DocTypeTree extends DocTree
 ~~~
 
 ## Métodos
-* [getText()](/Java/DocTypeTree/getText)
+* [getText()](/Java/DocTypeTree/getText/)
 
 ## Ejemplo
 ~~~java

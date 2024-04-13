@@ -18,20 +18,20 @@ public class CoderResult extends Object
 ~~~
 
 ## Campos
-* [OVERFLOW](/Java/CoderResult/OVERFLOW)
-* [UNDERFLOW](/Java/CoderResult/UNDERFLOW)
+* [OVERFLOW](/Java/CoderResult/OVERFLOW/)
+* [UNDERFLOW](/Java/CoderResult/UNDERFLOW/)
 
 ## Métodos
-* [isError()](/Java/CoderResult/isError)
-* [isMalformed()](/Java/CoderResult/isMalformed)
-* [isOverflow()](/Java/CoderResult/isOverflow)
-* [isUnderflow()](/Java/CoderResult/isUnderflow)
-* [isUnmappable()](/Java/CoderResult/isUnmappable)
-* [length()](/Java/CoderResult/length)
-* [malformedForLength()](/Java/CoderResult/malformedForLength)
-* [throwException()](/Java/CoderResult/throwException)
-* [toString()](/Java/CoderResult/toString)
-* [unmappableForLength()](/Java/CoderResult/unmappableForLength)
+* [isError()](/Java/CoderResult/isError/)
+* [isMalformed()](/Java/CoderResult/isMalformed/)
+* [isOverflow()](/Java/CoderResult/isOverflow/)
+* [isUnderflow()](/Java/CoderResult/isUnderflow/)
+* [isUnmappable()](/Java/CoderResult/isUnmappable/)
+* [length()](/Java/CoderResult/length/)
+* [malformedForLength()](/Java/CoderResult/malformedForLength/)
+* [throwException()](/Java/CoderResult/throwException/)
+* [toString()](/Java/CoderResult/toString/)
+* [unmappableForLength()](/Java/CoderResult/unmappableForLength/)
 
 ## Ejemplo
 ~~~java

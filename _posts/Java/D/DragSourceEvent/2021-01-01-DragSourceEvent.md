@@ -21,10 +21,10 @@ public class DragSourceEvent extends EventObject
 * [DragSourceEvent()](/Java/DragSourceEvent/DragSourceEvent/)
 
 ## Métodos
-* [getDragSourceContext()](/Java/DragSourceEvent/getDragSourceContext)
-* [getLocation()](/Java/DragSourceEvent/getLocation)
-* [getX()](/Java/DragSourceEvent/getX)
-* [getY()](/Java/DragSourceEvent/getY)
+* [getDragSourceContext()](/Java/DragSourceEvent/getDragSourceContext/)
+* [getLocation()](/Java/DragSourceEvent/getLocation/)
+* [getX()](/Java/DragSourceEvent/getX/)
+* [getY()](/Java/DragSourceEvent/getY/)
 
 ## Ejemplo
 ~~~java

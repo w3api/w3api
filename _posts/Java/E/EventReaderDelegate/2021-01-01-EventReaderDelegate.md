@@ -21,8 +21,8 @@ public class EventReaderDelegate extends Object implements XMLEventReader
 * [EventReaderDelegate()](/Java/EventReaderDelegate/EventReaderDelegate/)
 
 ## Métodos
-* [getParent()](/Java/EventReaderDelegate/getParent)
-* [setParent()](/Java/EventReaderDelegate/setParent)
+* [getParent()](/Java/EventReaderDelegate/getParent/)
+* [setParent()](/Java/EventReaderDelegate/setParent/)
 
 ## Ejemplo
 ~~~java

@@ -21,15 +21,15 @@ public class LongAccumulator extends Number implements Serializable
 * [LongAccumulator()](/Java/LongAccumulator/LongAccumulator/)
 
 ## Métodos
-* [accumulate()](/Java/LongAccumulator/accumulate)
-* [doubleValue()](/Java/LongAccumulator/doubleValue)
-* [floatValue()](/Java/LongAccumulator/floatValue)
-* [get()](/Java/LongAccumulator/get)
-* [getThenReset()](/Java/LongAccumulator/getThenReset)
-* [intValue()](/Java/LongAccumulator/intValue)
-* [longValue()](/Java/LongAccumulator/longValue)
-* [reset()](/Java/LongAccumulator/reset)
-* [toString()](/Java/LongAccumulator/toString)
+* [accumulate()](/Java/LongAccumulator/accumulate/)
+* [doubleValue()](/Java/LongAccumulator/doubleValue/)
+* [floatValue()](/Java/LongAccumulator/floatValue/)
+* [get()](/Java/LongAccumulator/get/)
+* [getThenReset()](/Java/LongAccumulator/getThenReset/)
+* [intValue()](/Java/LongAccumulator/intValue/)
+* [longValue()](/Java/LongAccumulator/longValue/)
+* [reset()](/Java/LongAccumulator/reset/)
+* [toString()](/Java/LongAccumulator/toString/)
 
 ## Ejemplo
 ~~~java

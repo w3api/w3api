@@ -21,14 +21,14 @@ public class InlineView extends LabelView
 * [InlineView()](/Java/InlineView/InlineView/)
 
 ## Métodos
-* [breakView()](/Java/InlineView/breakView)
-* [changedUpdate()](/Java/InlineView/changedUpdate)
-* [getAttributes()](/Java/InlineView/getAttributes)
-* [getBreakWeight()](/Java/InlineView/getBreakWeight)
-* [getStyleSheet()](/Java/InlineView/getStyleSheet)
-* [insertUpdate()](/Java/InlineView/insertUpdate)
-* [removeUpdate()](/Java/InlineView/removeUpdate)
-* [setPropertiesFromAttributes()](/Java/InlineView/setPropertiesFromAttributes)
+* [breakView()](/Java/InlineView/breakView/)
+* [changedUpdate()](/Java/InlineView/changedUpdate/)
+* [getAttributes()](/Java/InlineView/getAttributes/)
+* [getBreakWeight()](/Java/InlineView/getBreakWeight/)
+* [getStyleSheet()](/Java/InlineView/getStyleSheet/)
+* [insertUpdate()](/Java/InlineView/insertUpdate/)
+* [removeUpdate()](/Java/InlineView/removeUpdate/)
+* [setPropertiesFromAttributes()](/Java/InlineView/setPropertiesFromAttributes/)
 
 ## Ejemplo
 ~~~java

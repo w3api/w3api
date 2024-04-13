@@ -18,8 +18,8 @@ public static final class DrbgParameters.Reseed extends Object implements Secure
 ~~~
 
 ## Métodos
-* [getAdditionalInput()](/Java/DrbgParameters/Reseed/getAdditionalInput)
-* [getPredictionResistance()](/Java/DrbgParameters/Reseed/getPredictionResistance)
+* [getAdditionalInput()](/Java/DrbgParameters/Reseed/getAdditionalInput/)
+* [getPredictionResistance()](/Java/DrbgParameters/Reseed/getPredictionResistance/)
 
 ## Ejemplo
 ~~~java

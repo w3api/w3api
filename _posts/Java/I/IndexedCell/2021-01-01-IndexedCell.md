@@ -21,9 +21,9 @@ public class IndexedCell<T> extends Cell<T>
 * [IndexedCell()](/Java/IndexedCell/IndexedCell/)
 
 ## Métodos
-* [getIndex()](/Java/IndexedCell/getIndex)
-* [indexProperty()](/Java/IndexedCell/indexProperty)
-* [updateIndex()](/Java/IndexedCell/updateIndex)
+* [getIndex()](/Java/IndexedCell/getIndex/)
+* [indexProperty()](/Java/IndexedCell/indexProperty/)
+* [updateIndex()](/Java/IndexedCell/updateIndex/)
 
 ## Ejemplo
 ~~~java

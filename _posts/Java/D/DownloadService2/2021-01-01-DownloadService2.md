@@ -18,17 +18,17 @@ public interface DownloadService2
 ~~~
 
 ## Campos
-* [ALL](/Java/DownloadService2/ALL)
-* [APPLET](/Java/DownloadService2/APPLET)
-* [APPLICATION](/Java/DownloadService2/APPLICATION)
-* [CLASS](/Java/DownloadService2/CLASS)
-* [EXTENSION](/Java/DownloadService2/EXTENSION)
-* [IMAGE](/Java/DownloadService2/IMAGE)
-* [JAR](/Java/DownloadService2/JAR)
+* [ALL](/Java/DownloadService2/ALL/)
+* [APPLET](/Java/DownloadService2/APPLET/)
+* [APPLICATION](/Java/DownloadService2/APPLICATION/)
+* [CLASS](/Java/DownloadService2/CLASS/)
+* [EXTENSION](/Java/DownloadService2/EXTENSION/)
+* [IMAGE](/Java/DownloadService2/IMAGE/)
+* [JAR](/Java/DownloadService2/JAR/)
 
 ## Métodos
-* [getCachedResources()](/Java/DownloadService2/getCachedResources)
-* [getUpdateAvailableResources()](/Java/DownloadService2/getUpdateAvailableResources)
+* [getCachedResources()](/Java/DownloadService2/getCachedResources/)
+* [getUpdateAvailableResources()](/Java/DownloadService2/getUpdateAvailableResources/)
 
 ## Ejemplo
 ~~~java

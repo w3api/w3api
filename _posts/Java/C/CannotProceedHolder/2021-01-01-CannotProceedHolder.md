@@ -21,7 +21,7 @@ public final class CannotProceedHolder extends Object implements Streamable
 * [CannotProceedHolder()](/Java/CannotProceedHolder/CannotProceedHolder/)
 
 ## Campos
-* [value](/Java/CannotProceedHolder/value)
+* [value](/Java/CannotProceedHolder/value/)
 
 ## Ejemplo
 ~~~java

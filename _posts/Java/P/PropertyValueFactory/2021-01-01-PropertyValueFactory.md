@@ -21,7 +21,7 @@ public class PropertyValueFactory<S,T> extends Object implements Callback<TableC
 * [PropertyValueFactory()](/Java/PropertyValueFactory/PropertyValueFactory/)
 
 ## Métodos
-* [getProperty()](/Java/PropertyValueFactory/getProperty)
+* [getProperty()](/Java/PropertyValueFactory/getProperty/)
 
 ## Ejemplo
 ~~~java

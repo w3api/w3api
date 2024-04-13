@@ -18,13 +18,13 @@ public interface IdentifierTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getName()](/Java/IdentifierTree-jdk-nashorn-api-tree/getName)
-* [isDefault()](/Java/IdentifierTree-jdk-nashorn-api-tree/isDefault)
-* [isRestParameter()](/Java/IdentifierTree-jdk-nashorn-api-tree/isRestParameter)
-* [isStar()](/Java/IdentifierTree-jdk-nashorn-api-tree/isStar)
-* [isStarDefaultStar()](/Java/IdentifierTree-jdk-nashorn-api-tree/isStarDefaultStar)
-* [isSuper()](/Java/IdentifierTree-jdk-nashorn-api-tree/isSuper)
-* [isThis()](/Java/IdentifierTree-jdk-nashorn-api-tree/isThis)
+* [getName()](/Java/IdentifierTree-jdk-nashorn-api-tree/getName/)
+* [isDefault()](/Java/IdentifierTree-jdk-nashorn-api-tree/isDefault/)
+* [isRestParameter()](/Java/IdentifierTree-jdk-nashorn-api-tree/isRestParameter/)
+* [isStar()](/Java/IdentifierTree-jdk-nashorn-api-tree/isStar/)
+* [isStarDefaultStar()](/Java/IdentifierTree-jdk-nashorn-api-tree/isStarDefaultStar/)
+* [isSuper()](/Java/IdentifierTree-jdk-nashorn-api-tree/isSuper/)
+* [isThis()](/Java/IdentifierTree-jdk-nashorn-api-tree/isThis/)
 
 ## Ejemplo
 ~~~java

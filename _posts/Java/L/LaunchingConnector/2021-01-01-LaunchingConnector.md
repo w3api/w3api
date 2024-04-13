@@ -18,7 +18,7 @@ public interface LaunchingConnector extends Connector
 ~~~
 
 ## Métodos
-* [launch()](/Java/LaunchingConnector/launch)
+* [launch()](/Java/LaunchingConnector/launch/)
 
 ## Ejemplo
 ~~~java

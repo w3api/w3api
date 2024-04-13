@@ -21,13 +21,13 @@ public class ICC_ColorSpace extends ColorSpace
 * [ICC_ColorSpace()](/Java/ICC_ColorSpace/ICC_ColorSpace/)
 
 ## Métodos
-* [fromCIEXYZ()](/Java/ICC_ColorSpace/fromCIEXYZ)
-* [fromRGB()](/Java/ICC_ColorSpace/fromRGB)
-* [getMaxValue()](/Java/ICC_ColorSpace/getMaxValue)
-* [getMinValue()](/Java/ICC_ColorSpace/getMinValue)
-* [getProfile()](/Java/ICC_ColorSpace/getProfile)
-* [toCIEXYZ()](/Java/ICC_ColorSpace/toCIEXYZ)
-* [toRGB()](/Java/ICC_ColorSpace/toRGB)
+* [fromCIEXYZ()](/Java/ICC_ColorSpace/fromCIEXYZ/)
+* [fromRGB()](/Java/ICC_ColorSpace/fromRGB/)
+* [getMaxValue()](/Java/ICC_ColorSpace/getMaxValue/)
+* [getMinValue()](/Java/ICC_ColorSpace/getMinValue/)
+* [getProfile()](/Java/ICC_ColorSpace/getProfile/)
+* [toCIEXYZ()](/Java/ICC_ColorSpace/toCIEXYZ/)
+* [toRGB()](/Java/ICC_ColorSpace/toRGB/)
 
 ## Ejemplo
 ~~~java

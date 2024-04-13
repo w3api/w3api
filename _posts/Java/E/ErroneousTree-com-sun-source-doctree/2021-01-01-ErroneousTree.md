@@ -18,7 +18,7 @@ public interface ErroneousTree extends TextTree
 ~~~
 
 ## Métodos
-* [getDiagnostic()](/Java/ErroneousTree-com-sun-source-doctree/getDiagnostic)
+* [getDiagnostic()](/Java/ErroneousTree-com-sun-source-doctree/getDiagnostic/)
 
 ## Ejemplo
 ~~~java

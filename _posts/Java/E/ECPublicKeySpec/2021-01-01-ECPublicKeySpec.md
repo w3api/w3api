@@ -21,8 +21,8 @@ public class ECPublicKeySpec extends Object implements KeySpec
 * [ECPublicKeySpec()](/Java/ECPublicKeySpec/ECPublicKeySpec/)
 
 ## Métodos
-* [getParams()](/Java/ECPublicKeySpec/getParams)
-* [getW()](/Java/ECPublicKeySpec/getW)
+* [getParams()](/Java/ECPublicKeySpec/getParams/)
+* [getW()](/Java/ECPublicKeySpec/getW/)
 
 ## Ejemplo
 ~~~java

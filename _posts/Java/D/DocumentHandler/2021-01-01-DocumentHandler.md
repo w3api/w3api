@@ -18,14 +18,14 @@ sidebar:
 ~~~
 
 ## Métodos
-* [characters()](/Java/DocumentHandler/characters)
-* [endDocument()](/Java/DocumentHandler/endDocument)
-* [endElement()](/Java/DocumentHandler/endElement)
-* [ignorableWhitespace()](/Java/DocumentHandler/ignorableWhitespace)
-* [processingInstruction()](/Java/DocumentHandler/processingInstruction)
-* [setDocumentLocator()](/Java/DocumentHandler/setDocumentLocator)
-* [startDocument()](/Java/DocumentHandler/startDocument)
-* [startElement()](/Java/DocumentHandler/startElement)
+* [characters()](/Java/DocumentHandler/characters/)
+* [endDocument()](/Java/DocumentHandler/endDocument/)
+* [endElement()](/Java/DocumentHandler/endElement/)
+* [ignorableWhitespace()](/Java/DocumentHandler/ignorableWhitespace/)
+* [processingInstruction()](/Java/DocumentHandler/processingInstruction/)
+* [setDocumentLocator()](/Java/DocumentHandler/setDocumentLocator/)
+* [startDocument()](/Java/DocumentHandler/startDocument/)
+* [startElement()](/Java/DocumentHandler/startElement/)
 
 ## Ejemplo
 ~~~java

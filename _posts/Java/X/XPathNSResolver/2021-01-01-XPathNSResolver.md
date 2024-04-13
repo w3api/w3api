@@ -18,7 +18,7 @@ public interface XPathNSResolver
 ~~~
 
 ## Métodos
-* [lookupNamespaceURI()](/Java/XPathNSResolver/lookupNamespaceURI)
+* [lookupNamespaceURI()](/Java/XPathNSResolver/lookupNamespaceURI/)
 
 ## Ejemplo
 ~~~java

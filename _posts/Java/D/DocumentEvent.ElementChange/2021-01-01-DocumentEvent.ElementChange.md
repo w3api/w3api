@@ -18,10 +18,10 @@ public static interface DocumentEvent.ElementChange
 ~~~
 
 ## Métodos
-* [getChildrenAdded()](/Java/DocumentEvent/ElementChange/getChildrenAdded)
-* [getChildrenRemoved()](/Java/DocumentEvent/ElementChange/getChildrenRemoved)
-* [getElement()](/Java/DocumentEvent/ElementChange/getElement)
-* [getIndex()](/Java/DocumentEvent/ElementChange/getIndex)
+* [getChildrenAdded()](/Java/DocumentEvent/ElementChange/getChildrenAdded/)
+* [getChildrenRemoved()](/Java/DocumentEvent/ElementChange/getChildrenRemoved/)
+* [getElement()](/Java/DocumentEvent/ElementChange/getElement/)
+* [getIndex()](/Java/DocumentEvent/ElementChange/getIndex/)
 
 ## Ejemplo
 ~~~java

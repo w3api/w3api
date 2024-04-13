@@ -18,8 +18,8 @@ public interface ExceptionEvent extends LocatableEvent
 ~~~
 
 ## Métodos
-* [catchLocation()](/Java/ExceptionEvent/catchLocation)
-* [exception()](/Java/ExceptionEvent/exception)
+* [catchLocation()](/Java/ExceptionEvent/catchLocation/)
+* [exception()](/Java/ExceptionEvent/exception/)
 
 ## Ejemplo
 ~~~java

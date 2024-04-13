@@ -21,7 +21,7 @@ public class InputEvent extends Event
 * [InputEvent()](/Java/InputEvent-javafx-scene-input/InputEvent/)
 
 ## Campos
-* [ANY](/Java/InputEvent-javafx-scene-input/ANY)
+* [ANY](/Java/InputEvent-javafx-scene-input/ANY/)
 
 ## Ejemplo
 ~~~java

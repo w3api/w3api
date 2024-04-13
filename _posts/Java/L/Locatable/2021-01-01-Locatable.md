@@ -18,7 +18,7 @@ public interface Locatable
 ~~~
 
 ## Métodos
-* [location()](/Java/Locatable/location)
+* [location()](/Java/Locatable/location/)
 
 ## Ejemplo
 ~~~java

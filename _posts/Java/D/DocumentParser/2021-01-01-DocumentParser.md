@@ -21,11 +21,11 @@ public class DocumentParser extends Parser
 * [DocumentParser()](/Java/DocumentParser/DocumentParser/)
 
 ## Métodos
-* [handleEmptyTag()](/Java/DocumentParser/handleEmptyTag)
-* [handleEndTag()](/Java/DocumentParser/handleEndTag)
-* [handleStartTag()](/Java/DocumentParser/handleStartTag)
-* [handleText()](/Java/DocumentParser/handleText)
-* [parse()](/Java/DocumentParser/parse)
+* [handleEmptyTag()](/Java/DocumentParser/handleEmptyTag/)
+* [handleEndTag()](/Java/DocumentParser/handleEndTag/)
+* [handleStartTag()](/Java/DocumentParser/handleStartTag/)
+* [handleText()](/Java/DocumentParser/handleText/)
+* [parse()](/Java/DocumentParser/parse/)
 
 ## Ejemplo
 ~~~java

@@ -18,17 +18,17 @@ public abstract class PixelFormat<T extends Buffer> extends Object
 ~~~
 
 ## Métodos
-* [createByteIndexedInstance()](/Java/PixelFormat/createByteIndexedInstance)
-* [createByteIndexedPremultipliedInstance()](/Java/PixelFormat/createByteIndexedPremultipliedInstance)
-* [getArgb()](/Java/PixelFormat/getArgb)
-* [getByteBgraInstance()](/Java/PixelFormat/getByteBgraInstance)
-* [getByteBgraPreInstance()](/Java/PixelFormat/getByteBgraPreInstance)
-* [getByteRgbInstance()](/Java/PixelFormat/getByteRgbInstance)
-* [getIntArgbInstance()](/Java/PixelFormat/getIntArgbInstance)
-* [getIntArgbPreInstance()](/Java/PixelFormat/getIntArgbPreInstance)
-* [getType()](/Java/PixelFormat/getType)
-* [isPremultiplied()](/Java/PixelFormat/isPremultiplied)
-* [isWritable()](/Java/PixelFormat/isWritable)
+* [createByteIndexedInstance()](/Java/PixelFormat/createByteIndexedInstance/)
+* [createByteIndexedPremultipliedInstance()](/Java/PixelFormat/createByteIndexedPremultipliedInstance/)
+* [getArgb()](/Java/PixelFormat/getArgb/)
+* [getByteBgraInstance()](/Java/PixelFormat/getByteBgraInstance/)
+* [getByteBgraPreInstance()](/Java/PixelFormat/getByteBgraPreInstance/)
+* [getByteRgbInstance()](/Java/PixelFormat/getByteRgbInstance/)
+* [getIntArgbInstance()](/Java/PixelFormat/getIntArgbInstance/)
+* [getIntArgbPreInstance()](/Java/PixelFormat/getIntArgbPreInstance/)
+* [getType()](/Java/PixelFormat/getType/)
+* [isPremultiplied()](/Java/PixelFormat/isPremultiplied/)
+* [isWritable()](/Java/PixelFormat/isWritable/)
 
 ## Ejemplo
 ~~~java

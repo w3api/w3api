@@ -18,12 +18,12 @@ public interface PropertyTree extends Tree
 ~~~
 
 ## Métodos
-* [getGetter()](/Java/PropertyTree/getGetter)
-* [getKey()](/Java/PropertyTree/getKey)
-* [getSetter()](/Java/PropertyTree/getSetter)
-* [getValue()](/Java/PropertyTree/getValue)
-* [isComputed()](/Java/PropertyTree/isComputed)
-* [isStatic()](/Java/PropertyTree/isStatic)
+* [getGetter()](/Java/PropertyTree/getGetter/)
+* [getKey()](/Java/PropertyTree/getKey/)
+* [getSetter()](/Java/PropertyTree/getSetter/)
+* [getValue()](/Java/PropertyTree/getValue/)
+* [isComputed()](/Java/PropertyTree/isComputed/)
+* [isStatic()](/Java/PropertyTree/isStatic/)
 
 ## Ejemplo
 ~~~java

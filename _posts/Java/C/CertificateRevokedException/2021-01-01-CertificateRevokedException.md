@@ -21,11 +21,11 @@ public class CertificateRevokedException extends CertificateException
 * [CertificateRevokedException()](/Java/CertificateRevokedException/CertificateRevokedException/)
 
 ## Métodos
-* [getAuthorityName()](/Java/CertificateRevokedException/getAuthorityName)
-* [getExtensions()](/Java/CertificateRevokedException/getExtensions)
-* [getInvalidityDate()](/Java/CertificateRevokedException/getInvalidityDate)
-* [getRevocationDate()](/Java/CertificateRevokedException/getRevocationDate)
-* [getRevocationReason()](/Java/CertificateRevokedException/getRevocationReason)
+* [getAuthorityName()](/Java/CertificateRevokedException/getAuthorityName/)
+* [getExtensions()](/Java/CertificateRevokedException/getExtensions/)
+* [getInvalidityDate()](/Java/CertificateRevokedException/getInvalidityDate/)
+* [getRevocationDate()](/Java/CertificateRevokedException/getRevocationDate/)
+* [getRevocationReason()](/Java/CertificateRevokedException/getRevocationReason/)
 
 ## Ejemplo
 ~~~java

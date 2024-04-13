@@ -18,9 +18,9 @@ public interface WritableLongValue extends WritableNumberValue
 ~~~
 
 ## Métodos
-* [get()](/Java/WritableLongValue/get)
-* [set()](/Java/WritableLongValue/set)
-* [setValue()](/Java/WritableLongValue/setValue)
+* [get()](/Java/WritableLongValue/get/)
+* [set()](/Java/WritableLongValue/set/)
+* [setValue()](/Java/WritableLongValue/setValue/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public final class EnumConverter<E extends Enum<E>> extends StyleConverter<Strin
 * [EnumConverter()](/Java/EnumConverter/EnumConverter/)
 
 ## Métodos
-* [getInstance()](/Java/EnumConverter/getInstance)
-* [readBinary()](/Java/EnumConverter/readBinary)
+* [getInstance()](/Java/EnumConverter/getInstance/)
+* [readBinary()](/Java/EnumConverter/readBinary/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public static final class EffectConverter.DropShadowConverter extends EffectConv
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/EffectConverter/DropShadowConverter/getInstance)
+* [getInstance()](/Java/EffectConverter/DropShadowConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

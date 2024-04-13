@@ -21,10 +21,10 @@ public abstract class ContextList extends Object
 * [ContextList()](/Java/ContextList/ContextList/)
 
 ## Métodos
-* [add()](/Java/ContextList/add)
-* [count()](/Java/ContextList/count)
-* [item()](/Java/ContextList/item)
-* [remove()](/Java/ContextList/remove)
+* [add()](/Java/ContextList/add/)
+* [count()](/Java/ContextList/count/)
+* [item()](/Java/ContextList/item/)
+* [remove()](/Java/ContextList/remove/)
 
 ## Ejemplo
 ~~~java

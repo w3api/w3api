@@ -18,15 +18,15 @@ public static enum ProcessBuilder.Redirect.Type extends Enum<ProcessBuilder.Redi
 ~~~
 
 ## Enumerados
-* [APPEND](/Java/ProcessBuilder/Redirect/Type/APPEND)
-* [INHERIT](/Java/ProcessBuilder/Redirect/Type/INHERIT)
-* [PIPE](/Java/ProcessBuilder/Redirect/Type/PIPE)
-* [READ](/Java/ProcessBuilder/Redirect/Type/READ)
-* [WRITE](/Java/ProcessBuilder/Redirect/Type/WRITE)
+* [APPEND](/Java/ProcessBuilder/Redirect/Type/APPEND/)
+* [INHERIT](/Java/ProcessBuilder/Redirect/Type/INHERIT/)
+* [PIPE](/Java/ProcessBuilder/Redirect/Type/PIPE/)
+* [READ](/Java/ProcessBuilder/Redirect/Type/READ/)
+* [WRITE](/Java/ProcessBuilder/Redirect/Type/WRITE/)
 
 ## Métodos
-* [valueOf()](/Java/ProcessBuilder/Redirect/Type/valueOf)
-* [values()](/Java/ProcessBuilder/Redirect/Type/values)
+* [valueOf()](/Java/ProcessBuilder/Redirect/Type/valueOf/)
+* [values()](/Java/ProcessBuilder/Redirect/Type/values/)
 
 ## Ejemplo
 ~~~java

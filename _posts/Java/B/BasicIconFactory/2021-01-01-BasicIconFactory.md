@@ -21,14 +21,14 @@ public class BasicIconFactory extends Object implements Serializable
 * [BasicIconFactory()](/Java/BasicIconFactory/BasicIconFactory/)
 
 ## Métodos
-* [createEmptyFrameIcon()](/Java/BasicIconFactory/createEmptyFrameIcon)
-* [getCheckBoxIcon()](/Java/BasicIconFactory/getCheckBoxIcon)
-* [getCheckBoxMenuItemIcon()](/Java/BasicIconFactory/getCheckBoxMenuItemIcon)
-* [getMenuArrowIcon()](/Java/BasicIconFactory/getMenuArrowIcon)
-* [getMenuItemArrowIcon()](/Java/BasicIconFactory/getMenuItemArrowIcon)
-* [getMenuItemCheckIcon()](/Java/BasicIconFactory/getMenuItemCheckIcon)
-* [getRadioButtonIcon()](/Java/BasicIconFactory/getRadioButtonIcon)
-* [getRadioButtonMenuItemIcon()](/Java/BasicIconFactory/getRadioButtonMenuItemIcon)
+* [createEmptyFrameIcon()](/Java/BasicIconFactory/createEmptyFrameIcon/)
+* [getCheckBoxIcon()](/Java/BasicIconFactory/getCheckBoxIcon/)
+* [getCheckBoxMenuItemIcon()](/Java/BasicIconFactory/getCheckBoxMenuItemIcon/)
+* [getMenuArrowIcon()](/Java/BasicIconFactory/getMenuArrowIcon/)
+* [getMenuItemArrowIcon()](/Java/BasicIconFactory/getMenuItemArrowIcon/)
+* [getMenuItemCheckIcon()](/Java/BasicIconFactory/getMenuItemCheckIcon/)
+* [getRadioButtonIcon()](/Java/BasicIconFactory/getRadioButtonIcon/)
+* [getRadioButtonMenuItemIcon()](/Java/BasicIconFactory/getRadioButtonMenuItemIcon/)
 
 ## Ejemplo
 ~~~java

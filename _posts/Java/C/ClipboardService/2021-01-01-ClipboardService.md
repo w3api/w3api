@@ -18,8 +18,8 @@ public interface ClipboardService
 ~~~
 
 ## Métodos
-* [getContents()](/Java/ClipboardService/getContents)
-* [setContents()](/Java/ClipboardService/setContents)
+* [getContents()](/Java/ClipboardService/getContents/)
+* [setContents()](/Java/ClipboardService/setContents/)
 
 ## Ejemplo
 ~~~java

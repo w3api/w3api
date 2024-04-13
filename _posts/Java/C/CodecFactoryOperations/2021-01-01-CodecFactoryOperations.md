@@ -18,7 +18,7 @@ public interface CodecFactoryOperations
 ~~~
 
 ## Métodos
-* [create_codec()](/Java/CodecFactoryOperations/create_codec)
+* [create_codec()](/Java/CodecFactoryOperations/create_codec/)
 
 ## Ejemplo
 ~~~java

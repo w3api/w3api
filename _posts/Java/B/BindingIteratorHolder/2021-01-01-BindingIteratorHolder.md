@@ -21,7 +21,7 @@ public final class BindingIteratorHolder extends Object implements Streamable
 * [BindingIteratorHolder()](/Java/BindingIteratorHolder/BindingIteratorHolder/)
 
 ## Campos
-* [value](/Java/BindingIteratorHolder/value)
+* [value](/Java/BindingIteratorHolder/value/)
 
 ## Ejemplo
 ~~~java

@@ -21,11 +21,11 @@ public final class PagedResultsResponseControl extends BasicControl
 * [PagedResultsResponseControl()](/Java/PagedResultsResponseControl/PagedResultsResponseControl/)
 
 ## Campos
-* [OID](/Java/PagedResultsResponseControl/OID)
+* [OID](/Java/PagedResultsResponseControl/OID/)
 
 ## Métodos
-* [getCookie()](/Java/PagedResultsResponseControl/getCookie)
-* [getResultSize()](/Java/PagedResultsResponseControl/getResultSize)
+* [getCookie()](/Java/PagedResultsResponseControl/getCookie/)
+* [getResultSize()](/Java/PagedResultsResponseControl/getResultSize/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface DocSourcePositions extends SourcePositions
 ~~~
 
 ## Métodos
-* [getEndPosition()](/Java/DocSourcePositions/getEndPosition)
-* [getStartPosition()](/Java/DocSourcePositions/getStartPosition)
+* [getEndPosition()](/Java/DocSourcePositions/getEndPosition/)
+* [getStartPosition()](/Java/DocSourcePositions/getStartPosition/)
 
 ## Ejemplo
 ~~~java

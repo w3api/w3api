@@ -21,12 +21,12 @@ public class KeyAgreement extends Object
 * [KeyAgreement()](/Java/KeyAgreement/KeyAgreement/)
 
 ## Métodos
-* [doPhase()](/Java/KeyAgreement/doPhase)
-* [generateSecret()](/Java/KeyAgreement/generateSecret)
-* [getAlgorithm()](/Java/KeyAgreement/getAlgorithm)
-* [getInstance()](/Java/KeyAgreement/getInstance)
-* [getProvider()](/Java/KeyAgreement/getProvider)
-* [init()](/Java/KeyAgreement/init)
+* [doPhase()](/Java/KeyAgreement/doPhase/)
+* [generateSecret()](/Java/KeyAgreement/generateSecret/)
+* [getAlgorithm()](/Java/KeyAgreement/getAlgorithm/)
+* [getInstance()](/Java/KeyAgreement/getInstance/)
+* [getProvider()](/Java/KeyAgreement/getProvider/)
+* [init()](/Java/KeyAgreement/init/)
 
 ## Ejemplo
 ~~~java

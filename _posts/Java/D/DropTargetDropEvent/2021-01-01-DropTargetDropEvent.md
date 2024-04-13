@@ -21,17 +21,17 @@ public class DropTargetDropEvent extends DropTargetEvent
 * [DropTargetDropEvent()](/Java/DropTargetDropEvent/DropTargetDropEvent/)
 
 ## Métodos
-* [acceptDrop()](/Java/DropTargetDropEvent/acceptDrop)
-* [dropComplete()](/Java/DropTargetDropEvent/dropComplete)
-* [getCurrentDataFlavors()](/Java/DropTargetDropEvent/getCurrentDataFlavors)
-* [getCurrentDataFlavorsAsList()](/Java/DropTargetDropEvent/getCurrentDataFlavorsAsList)
-* [getDropAction()](/Java/DropTargetDropEvent/getDropAction)
-* [getLocation()](/Java/DropTargetDropEvent/getLocation)
-* [getSourceActions()](/Java/DropTargetDropEvent/getSourceActions)
-* [getTransferable()](/Java/DropTargetDropEvent/getTransferable)
-* [isDataFlavorSupported()](/Java/DropTargetDropEvent/isDataFlavorSupported)
-* [isLocalTransfer()](/Java/DropTargetDropEvent/isLocalTransfer)
-* [rejectDrop()](/Java/DropTargetDropEvent/rejectDrop)
+* [acceptDrop()](/Java/DropTargetDropEvent/acceptDrop/)
+* [dropComplete()](/Java/DropTargetDropEvent/dropComplete/)
+* [getCurrentDataFlavors()](/Java/DropTargetDropEvent/getCurrentDataFlavors/)
+* [getCurrentDataFlavorsAsList()](/Java/DropTargetDropEvent/getCurrentDataFlavorsAsList/)
+* [getDropAction()](/Java/DropTargetDropEvent/getDropAction/)
+* [getLocation()](/Java/DropTargetDropEvent/getLocation/)
+* [getSourceActions()](/Java/DropTargetDropEvent/getSourceActions/)
+* [getTransferable()](/Java/DropTargetDropEvent/getTransferable/)
+* [isDataFlavorSupported()](/Java/DropTargetDropEvent/isDataFlavorSupported/)
+* [isLocalTransfer()](/Java/DropTargetDropEvent/isLocalTransfer/)
+* [rejectDrop()](/Java/DropTargetDropEvent/rejectDrop/)
 
 ## Ejemplo
 ~~~java

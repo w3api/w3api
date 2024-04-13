@@ -18,7 +18,7 @@ public interface LiteralTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getValue()](/Java/LiteralTree-jdk-nashorn-api-tree/getValue)
+* [getValue()](/Java/LiteralTree-jdk-nashorn-api-tree/getValue/)
 
 ## Ejemplo
 ~~~java

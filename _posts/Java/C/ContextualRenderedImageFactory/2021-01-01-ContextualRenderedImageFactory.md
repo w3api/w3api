@@ -18,12 +18,12 @@ public interface ContextualRenderedImageFactory extends RenderedImageFactory
 ~~~
 
 ## Métodos
-* [create()](/Java/ContextualRenderedImageFactory/create)
-* [getBounds2D()](/Java/ContextualRenderedImageFactory/getBounds2D)
-* [getProperty()](/Java/ContextualRenderedImageFactory/getProperty)
-* [getPropertyNames()](/Java/ContextualRenderedImageFactory/getPropertyNames)
-* [isDynamic()](/Java/ContextualRenderedImageFactory/isDynamic)
-* [mapRenderContext()](/Java/ContextualRenderedImageFactory/mapRenderContext)
+* [create()](/Java/ContextualRenderedImageFactory/create/)
+* [getBounds2D()](/Java/ContextualRenderedImageFactory/getBounds2D/)
+* [getProperty()](/Java/ContextualRenderedImageFactory/getProperty/)
+* [getPropertyNames()](/Java/ContextualRenderedImageFactory/getPropertyNames/)
+* [isDynamic()](/Java/ContextualRenderedImageFactory/isDynamic/)
+* [mapRenderContext()](/Java/ContextualRenderedImageFactory/mapRenderContext/)
 
 ## Ejemplo
 ~~~java

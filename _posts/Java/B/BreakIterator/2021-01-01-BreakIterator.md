@@ -21,25 +21,25 @@ public abstract class BreakIterator extends Object implements Cloneable
 * [BreakIterator()](/Java/BreakIterator/BreakIterator/)
 
 ## Campos
-* [DONE](/Java/BreakIterator/DONE)
+* [DONE](/Java/BreakIterator/DONE/)
 
 ## Métodos
-* [clone()](/Java/BreakIterator/clone)
-* [current()](/Java/BreakIterator/current)
-* [first()](/Java/BreakIterator/first)
-* [following()](/Java/BreakIterator/following)
-* [getAvailableLocales()](/Java/BreakIterator/getAvailableLocales)
-* [getCharacterInstance()](/Java/BreakIterator/getCharacterInstance)
-* [getLineInstance()](/Java/BreakIterator/getLineInstance)
-* [getSentenceInstance()](/Java/BreakIterator/getSentenceInstance)
-* [getText()](/Java/BreakIterator/getText)
-* [getWordInstance()](/Java/BreakIterator/getWordInstance)
-* [isBoundary()](/Java/BreakIterator/isBoundary)
-* [last()](/Java/BreakIterator/last)
-* [next()](/Java/BreakIterator/next)
-* [preceding()](/Java/BreakIterator/preceding)
-* [previous()](/Java/BreakIterator/previous)
-* [setText()](/Java/BreakIterator/setText)
+* [clone()](/Java/BreakIterator/clone/)
+* [current()](/Java/BreakIterator/current/)
+* [first()](/Java/BreakIterator/first/)
+* [following()](/Java/BreakIterator/following/)
+* [getAvailableLocales()](/Java/BreakIterator/getAvailableLocales/)
+* [getCharacterInstance()](/Java/BreakIterator/getCharacterInstance/)
+* [getLineInstance()](/Java/BreakIterator/getLineInstance/)
+* [getSentenceInstance()](/Java/BreakIterator/getSentenceInstance/)
+* [getText()](/Java/BreakIterator/getText/)
+* [getWordInstance()](/Java/BreakIterator/getWordInstance/)
+* [isBoundary()](/Java/BreakIterator/isBoundary/)
+* [last()](/Java/BreakIterator/last/)
+* [next()](/Java/BreakIterator/next/)
+* [preceding()](/Java/BreakIterator/preceding/)
+* [previous()](/Java/BreakIterator/previous/)
+* [setText()](/Java/BreakIterator/setText/)
 
 ## Ejemplo
 ~~~java

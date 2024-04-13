@@ -21,13 +21,13 @@ public class CheckBoxTableCell<S,T> extends TableCell<S,T>
 * [CheckBoxTableCell()](/Java/CheckBoxTableCell/CheckBoxTableCell/)
 
 ## Métodos
-* [converterProperty()](/Java/CheckBoxTableCell/converterProperty)
-* [forTableColumn()](/Java/CheckBoxTableCell/forTableColumn)
-* [getConverter()](/Java/CheckBoxTableCell/getConverter)
-* [getSelectedStateCallback()](/Java/CheckBoxTableCell/getSelectedStateCallback)
-* [selectedStateCallbackProperty()](/Java/CheckBoxTableCell/selectedStateCallbackProperty)
-* [setConverter()](/Java/CheckBoxTableCell/setConverter)
-* [setSelectedStateCallback()](/Java/CheckBoxTableCell/setSelectedStateCallback)
+* [converterProperty()](/Java/CheckBoxTableCell/converterProperty/)
+* [forTableColumn()](/Java/CheckBoxTableCell/forTableColumn/)
+* [getConverter()](/Java/CheckBoxTableCell/getConverter/)
+* [getSelectedStateCallback()](/Java/CheckBoxTableCell/getSelectedStateCallback/)
+* [selectedStateCallbackProperty()](/Java/CheckBoxTableCell/selectedStateCallbackProperty/)
+* [setConverter()](/Java/CheckBoxTableCell/setConverter/)
+* [setSelectedStateCallback()](/Java/CheckBoxTableCell/setSelectedStateCallback/)
 
 ## Ejemplo
 ~~~java

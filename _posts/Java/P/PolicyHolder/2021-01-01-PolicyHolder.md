@@ -21,7 +21,7 @@ public final class PolicyHolder extends Object implements Streamable
 * [PolicyHolder()](/Java/PolicyHolder/PolicyHolder/)
 
 ## Campos
-* [value](/Java/PolicyHolder/value)
+* [value](/Java/PolicyHolder/value/)
 
 ## Ejemplo
 ~~~java

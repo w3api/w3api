@@ -18,7 +18,7 @@ public static final class InsetsConverter.SequenceConverter extends StyleConvert
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/InsetsConverter/SequenceConverter/getInstance)
+* [getInstance()](/Java/InsetsConverter/SequenceConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

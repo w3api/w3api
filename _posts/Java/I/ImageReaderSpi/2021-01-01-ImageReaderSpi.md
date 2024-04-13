@@ -21,16 +21,16 @@ public abstract class ImageReaderSpi extends ImageReaderWriterSpi
 * [ImageReaderSpi()](/Java/ImageReaderSpi/ImageReaderSpi/)
 
 ## Campos
-* [inputTypes](/Java/ImageReaderSpi/inputTypes)
-* [STANDARD_INPUT_TYPE](/Java/ImageReaderSpi/STANDARD_INPUT_TYPE)
-* [writerSpiNames](/Java/ImageReaderSpi/writerSpiNames)
+* [inputTypes](/Java/ImageReaderSpi/inputTypes/)
+* [STANDARD_INPUT_TYPE](/Java/ImageReaderSpi/STANDARD_INPUT_TYPE/)
+* [writerSpiNames](/Java/ImageReaderSpi/writerSpiNames/)
 
 ## Métodos
-* [canDecodeInput()](/Java/ImageReaderSpi/canDecodeInput)
-* [createReaderInstance()](/Java/ImageReaderSpi/createReaderInstance)
-* [getImageWriterSpiNames()](/Java/ImageReaderSpi/getImageWriterSpiNames)
-* [getInputTypes()](/Java/ImageReaderSpi/getInputTypes)
-* [isOwnReader()](/Java/ImageReaderSpi/isOwnReader)
+* [canDecodeInput()](/Java/ImageReaderSpi/canDecodeInput/)
+* [createReaderInstance()](/Java/ImageReaderSpi/createReaderInstance/)
+* [getImageWriterSpiNames()](/Java/ImageReaderSpi/getImageWriterSpiNames/)
+* [getInputTypes()](/Java/ImageReaderSpi/getInputTypes/)
+* [isOwnReader()](/Java/ImageReaderSpi/isOwnReader/)
 
 ## Ejemplo
 ~~~java

@@ -21,12 +21,12 @@ public abstract class DynAnySeqHelper extends Object
 * [DynAnySeqHelper()](/Java/DynAnySeqHelper/DynAnySeqHelper/)
 
 ## Métodos
-* [extract()](/Java/DynAnySeqHelper/extract)
-* [id()](/Java/DynAnySeqHelper/id)
-* [insert()](/Java/DynAnySeqHelper/insert)
-* [read()](/Java/DynAnySeqHelper/read)
-* [type()](/Java/DynAnySeqHelper/type)
-* [write()](/Java/DynAnySeqHelper/write)
+* [extract()](/Java/DynAnySeqHelper/extract/)
+* [id()](/Java/DynAnySeqHelper/id/)
+* [insert()](/Java/DynAnySeqHelper/insert/)
+* [read()](/Java/DynAnySeqHelper/read/)
+* [type()](/Java/DynAnySeqHelper/type/)
+* [write()](/Java/DynAnySeqHelper/write/)
 
 ## Ejemplo
 ~~~java

@@ -21,15 +21,15 @@ public class DefaultListCellRenderer extends JLabel implements ListCellRenderer<
 * [DefaultListCellRenderer()](/Java/DefaultListCellRenderer/DefaultListCellRenderer/)
 
 ## Campos
-* [noFocusBorder](/Java/DefaultListCellRenderer/noFocusBorder)
+* [noFocusBorder](/Java/DefaultListCellRenderer/noFocusBorder/)
 
 ## Métodos
-* [firePropertyChange()](/Java/DefaultListCellRenderer/firePropertyChange)
-* [invalidate()](/Java/DefaultListCellRenderer/invalidate)
-* [isOpaque()](/Java/DefaultListCellRenderer/isOpaque)
-* [repaint()](/Java/DefaultListCellRenderer/repaint)
-* [revalidate()](/Java/DefaultListCellRenderer/revalidate)
-* [validate()](/Java/DefaultListCellRenderer/validate)
+* [firePropertyChange()](/Java/DefaultListCellRenderer/firePropertyChange/)
+* [invalidate()](/Java/DefaultListCellRenderer/invalidate/)
+* [isOpaque()](/Java/DefaultListCellRenderer/isOpaque/)
+* [repaint()](/Java/DefaultListCellRenderer/repaint/)
+* [revalidate()](/Java/DefaultListCellRenderer/revalidate/)
+* [validate()](/Java/DefaultListCellRenderer/validate/)
 
 ## Ejemplo
 ~~~java

@@ -21,14 +21,14 @@ public abstract class DynValueHelper extends Object
 * [DynValueHelper()](/Java/DynValueHelper/DynValueHelper/)
 
 ## Métodos
-* [extract()](/Java/DynValueHelper/extract)
-* [id()](/Java/DynValueHelper/id)
-* [insert()](/Java/DynValueHelper/insert)
-* [narrow()](/Java/DynValueHelper/narrow)
-* [read()](/Java/DynValueHelper/read)
-* [type()](/Java/DynValueHelper/type)
-* [unchecked_narrow()](/Java/DynValueHelper/unchecked_narrow)
-* [write()](/Java/DynValueHelper/write)
+* [extract()](/Java/DynValueHelper/extract/)
+* [id()](/Java/DynValueHelper/id/)
+* [insert()](/Java/DynValueHelper/insert/)
+* [narrow()](/Java/DynValueHelper/narrow/)
+* [read()](/Java/DynValueHelper/read/)
+* [type()](/Java/DynValueHelper/type/)
+* [unchecked_narrow()](/Java/DynValueHelper/unchecked_narrow/)
+* [write()](/Java/DynValueHelper/write/)
 
 ## Ejemplo
 ~~~java

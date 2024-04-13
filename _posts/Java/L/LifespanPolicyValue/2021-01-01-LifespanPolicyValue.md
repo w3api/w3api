@@ -21,14 +21,14 @@ public class LifespanPolicyValue extends Object implements IDLEntity
 * [LifespanPolicyValue()](/Java/LifespanPolicyValue/LifespanPolicyValue/)
 
 ## Campos
-* [_PERSISTENT](/Java/LifespanPolicyValue/_PERSISTENT)
-* [_TRANSIENT](/Java/LifespanPolicyValue/_TRANSIENT)
-* [PERSISTENT](/Java/LifespanPolicyValue/PERSISTENT)
-* [TRANSIENT](/Java/LifespanPolicyValue/TRANSIENT)
+* [_PERSISTENT](/Java/LifespanPolicyValue/_PERSISTENT/)
+* [_TRANSIENT](/Java/LifespanPolicyValue/_TRANSIENT/)
+* [PERSISTENT](/Java/LifespanPolicyValue/PERSISTENT/)
+* [TRANSIENT](/Java/LifespanPolicyValue/TRANSIENT/)
 
 ## Métodos
-* [from_int()](/Java/LifespanPolicyValue/from_int)
-* [value()](/Java/LifespanPolicyValue/value)
+* [from_int()](/Java/LifespanPolicyValue/from_int/)
+* [value()](/Java/LifespanPolicyValue/value/)
 
 ## Ejemplo
 ~~~java

@@ -21,7 +21,7 @@ public final class BindingTypeHolder extends Object implements Streamable
 * [BindingTypeHolder()](/Java/BindingTypeHolder/BindingTypeHolder/)
 
 ## Campos
-* [value](/Java/BindingTypeHolder/value)
+* [value](/Java/BindingTypeHolder/value/)
 
 ## Ejemplo
 ~~~java

@@ -18,11 +18,11 @@ public interface InputMethodDescriptor
 ~~~
 
 ## Métodos
-* [createInputMethod()](/Java/InputMethodDescriptor/createInputMethod)
-* [getAvailableLocales()](/Java/InputMethodDescriptor/getAvailableLocales)
-* [getInputMethodDisplayName()](/Java/InputMethodDescriptor/getInputMethodDisplayName)
-* [getInputMethodIcon()](/Java/InputMethodDescriptor/getInputMethodIcon)
-* [hasDynamicLocaleList()](/Java/InputMethodDescriptor/hasDynamicLocaleList)
+* [createInputMethod()](/Java/InputMethodDescriptor/createInputMethod/)
+* [getAvailableLocales()](/Java/InputMethodDescriptor/getAvailableLocales/)
+* [getInputMethodDisplayName()](/Java/InputMethodDescriptor/getInputMethodDisplayName/)
+* [getInputMethodIcon()](/Java/InputMethodDescriptor/getInputMethodIcon/)
+* [hasDynamicLocaleList()](/Java/InputMethodDescriptor/hasDynamicLocaleList/)
 
 ## Ejemplo
 ~~~java

@@ -21,14 +21,14 @@ public class DoubleSummaryStatistics extends Object implements DoubleConsumer
 * [DoubleSummaryStatistics()](/Java/DoubleSummaryStatistics/DoubleSummaryStatistics/)
 
 ## Métodos
-* [accept()](/Java/DoubleSummaryStatistics/accept)
-* [combine()](/Java/DoubleSummaryStatistics/combine)
-* [getAverage()](/Java/DoubleSummaryStatistics/getAverage)
-* [getCount()](/Java/DoubleSummaryStatistics/getCount)
-* [getMax()](/Java/DoubleSummaryStatistics/getMax)
-* [getMin()](/Java/DoubleSummaryStatistics/getMin)
-* [getSum()](/Java/DoubleSummaryStatistics/getSum)
-* [toString()](/Java/DoubleSummaryStatistics/toString)
+* [accept()](/Java/DoubleSummaryStatistics/accept/)
+* [combine()](/Java/DoubleSummaryStatistics/combine/)
+* [getAverage()](/Java/DoubleSummaryStatistics/getAverage/)
+* [getCount()](/Java/DoubleSummaryStatistics/getCount/)
+* [getMax()](/Java/DoubleSummaryStatistics/getMax/)
+* [getMin()](/Java/DoubleSummaryStatistics/getMin/)
+* [getSum()](/Java/DoubleSummaryStatistics/getSum/)
+* [toString()](/Java/DoubleSummaryStatistics/toString/)
 
 ## Ejemplo
 ~~~java

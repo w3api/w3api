@@ -18,7 +18,7 @@ public interface DocumentStyle
 ~~~
 
 ## Métodos
-* [getStyleSheets()](/Java/DocumentStyle/getStyleSheets)
+* [getStyleSheets()](/Java/DocumentStyle/getStyleSheets/)
 
 ## Ejemplo
 ~~~java

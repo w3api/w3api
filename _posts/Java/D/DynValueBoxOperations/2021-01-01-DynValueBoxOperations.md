@@ -18,10 +18,10 @@ public interface DynValueBoxOperations extends DynValueCommonOperations
 ~~~
 
 ## Métodos
-* [get_boxed_value()](/Java/DynValueBoxOperations/get_boxed_value)
-* [get_boxed_value_as_dyn_any()](/Java/DynValueBoxOperations/get_boxed_value_as_dyn_any)
-* [set_boxed_value()](/Java/DynValueBoxOperations/set_boxed_value)
-* [set_boxed_value_as_dyn_any()](/Java/DynValueBoxOperations/set_boxed_value_as_dyn_any)
+* [get_boxed_value()](/Java/DynValueBoxOperations/get_boxed_value/)
+* [get_boxed_value_as_dyn_any()](/Java/DynValueBoxOperations/get_boxed_value_as_dyn_any/)
+* [set_boxed_value()](/Java/DynValueBoxOperations/set_boxed_value/)
+* [set_boxed_value_as_dyn_any()](/Java/DynValueBoxOperations/set_boxed_value_as_dyn_any/)
 
 ## Ejemplo
 ~~~java

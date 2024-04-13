@@ -18,8 +18,8 @@ public interface WhileLoopTree extends ConditionalLoopTree
 ~~~
 
 ## Métodos
-* [getCondition()](/Java/WhileLoopTree-jdk-nashorn-api-tree/getCondition)
-* [getStatement()](/Java/WhileLoopTree-jdk-nashorn-api-tree/getStatement)
+* [getCondition()](/Java/WhileLoopTree-jdk-nashorn-api-tree/getCondition/)
+* [getStatement()](/Java/WhileLoopTree-jdk-nashorn-api-tree/getStatement/)
 
 ## Ejemplo
 ~~~java

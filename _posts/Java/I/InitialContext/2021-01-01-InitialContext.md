@@ -21,16 +21,16 @@ public class InitialContext extends Object implements Context
 * [InitialContext()](/Java/InitialContext/InitialContext/)
 
 ## Campos
-* [defaultInitCtx](/Java/InitialContext/defaultInitCtx)
-* [gotDefault](/Java/InitialContext/gotDefault)
-* [myProps](/Java/InitialContext/myProps)
+* [defaultInitCtx](/Java/InitialContext/defaultInitCtx/)
+* [gotDefault](/Java/InitialContext/gotDefault/)
+* [myProps](/Java/InitialContext/myProps/)
 
 ## Métodos
-* [composeName()](/Java/InitialContext/composeName)
-* [doLookup()](/Java/InitialContext/doLookup)
-* [getDefaultInitCtx()](/Java/InitialContext/getDefaultInitCtx)
-* [getURLOrDefaultInitCtx()](/Java/InitialContext/getURLOrDefaultInitCtx)
-* [init()](/Java/InitialContext/init)
+* [composeName()](/Java/InitialContext/composeName/)
+* [doLookup()](/Java/InitialContext/doLookup/)
+* [getDefaultInitCtx()](/Java/InitialContext/getDefaultInitCtx/)
+* [getURLOrDefaultInitCtx()](/Java/InitialContext/getURLOrDefaultInitCtx/)
+* [init()](/Java/InitialContext/init/)
 
 ## Ejemplo
 ~~~java

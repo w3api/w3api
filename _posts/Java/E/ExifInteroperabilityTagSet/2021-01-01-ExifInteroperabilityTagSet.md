@@ -18,12 +18,12 @@ public final class ExifInteroperabilityTagSet extends TIFFTagSet
 ~~~
 
 ## Campos
-* [INTEROPERABILITY_INDEX_R98](/Java/ExifInteroperabilityTagSet/INTEROPERABILITY_INDEX_R98)
-* [INTEROPERABILITY_INDEX_THM](/Java/ExifInteroperabilityTagSet/INTEROPERABILITY_INDEX_THM)
-* [TAG_INTEROPERABILITY_INDEX](/Java/ExifInteroperabilityTagSet/TAG_INTEROPERABILITY_INDEX)
+* [INTEROPERABILITY_INDEX_R98](/Java/ExifInteroperabilityTagSet/INTEROPERABILITY_INDEX_R98/)
+* [INTEROPERABILITY_INDEX_THM](/Java/ExifInteroperabilityTagSet/INTEROPERABILITY_INDEX_THM/)
+* [TAG_INTEROPERABILITY_INDEX](/Java/ExifInteroperabilityTagSet/TAG_INTEROPERABILITY_INDEX/)
 
 ## Métodos
-* [getInstance()](/Java/ExifInteroperabilityTagSet/getInstance)
+* [getInstance()](/Java/ExifInteroperabilityTagSet/getInstance/)
 
 ## Ejemplo
 ~~~java

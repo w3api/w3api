@@ -18,11 +18,11 @@ public final class ExifParentTIFFTagSet extends TIFFTagSet
 ~~~
 
 ## Campos
-* [TAG_EXIF_IFD_POINTER](/Java/ExifParentTIFFTagSet/TAG_EXIF_IFD_POINTER)
-* [TAG_GPS_INFO_IFD_POINTER](/Java/ExifParentTIFFTagSet/TAG_GPS_INFO_IFD_POINTER)
+* [TAG_EXIF_IFD_POINTER](/Java/ExifParentTIFFTagSet/TAG_EXIF_IFD_POINTER/)
+* [TAG_GPS_INFO_IFD_POINTER](/Java/ExifParentTIFFTagSet/TAG_GPS_INFO_IFD_POINTER/)
 
 ## Métodos
-* [getInstance()](/Java/ExifParentTIFFTagSet/getInstance)
+* [getInstance()](/Java/ExifParentTIFFTagSet/getInstance/)
 
 ## Ejemplo
 ~~~java

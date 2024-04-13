@@ -18,7 +18,7 @@ public interface Initializable
 ~~~
 
 ## Métodos
-* [initialize()](/Java/Initializable/initialize)
+* [initialize()](/Java/Initializable/initialize/)
 
 ## Ejemplo
 ~~~java

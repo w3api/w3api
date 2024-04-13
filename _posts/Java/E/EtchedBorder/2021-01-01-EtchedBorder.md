@@ -21,19 +21,19 @@ public class EtchedBorder extends AbstractBorder
 * [EtchedBorder()](/Java/EtchedBorder/EtchedBorder/)
 
 ## Campos
-* [etchType](/Java/EtchedBorder/etchType)
-* [highlight](/Java/EtchedBorder/highlight)
-* [LOWERED](/Java/EtchedBorder/LOWERED)
-* [RAISED](/Java/EtchedBorder/RAISED)
-* [shadow](/Java/EtchedBorder/shadow)
+* [etchType](/Java/EtchedBorder/etchType/)
+* [highlight](/Java/EtchedBorder/highlight/)
+* [LOWERED](/Java/EtchedBorder/LOWERED/)
+* [RAISED](/Java/EtchedBorder/RAISED/)
+* [shadow](/Java/EtchedBorder/shadow/)
 
 ## Métodos
-* [getBorderInsets()](/Java/EtchedBorder/getBorderInsets)
-* [getEtchType()](/Java/EtchedBorder/getEtchType)
-* [getHighlightColor()](/Java/EtchedBorder/getHighlightColor)
-* [getShadowColor()](/Java/EtchedBorder/getShadowColor)
-* [isBorderOpaque()](/Java/EtchedBorder/isBorderOpaque)
-* [paintBorder()](/Java/EtchedBorder/paintBorder)
+* [getBorderInsets()](/Java/EtchedBorder/getBorderInsets/)
+* [getEtchType()](/Java/EtchedBorder/getEtchType/)
+* [getHighlightColor()](/Java/EtchedBorder/getHighlightColor/)
+* [getShadowColor()](/Java/EtchedBorder/getShadowColor/)
+* [isBorderOpaque()](/Java/EtchedBorder/isBorderOpaque/)
+* [paintBorder()](/Java/EtchedBorder/paintBorder/)
 
 ## Ejemplo
 ~~~java

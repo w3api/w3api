@@ -18,8 +18,8 @@ public interface LabeledStatementTree extends StatementTree
 ~~~
 
 ## Métodos
-* [getLabel()](/Java/LabeledStatementTree-com-sun-source-tree/getLabel)
-* [getStatement()](/Java/LabeledStatementTree-com-sun-source-tree/getStatement)
+* [getLabel()](/Java/LabeledStatementTree-com-sun-source-tree/getLabel/)
+* [getStatement()](/Java/LabeledStatementTree-com-sun-source-tree/getStatement/)
 
 ## Ejemplo
 ~~~java

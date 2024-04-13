@@ -21,8 +21,8 @@ public abstract class PopupMenuUI extends ComponentUI
 * [PopupMenuUI()](/Java/PopupMenuUI/PopupMenuUI/)
 
 ## Métodos
-* [getPopup()](/Java/PopupMenuUI/getPopup)
-* [isPopupTrigger()](/Java/PopupMenuUI/isPopupTrigger)
+* [getPopup()](/Java/PopupMenuUI/getPopup/)
+* [isPopupTrigger()](/Java/PopupMenuUI/isPopupTrigger/)
 
 ## Ejemplo
 ~~~java

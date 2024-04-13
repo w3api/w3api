@@ -18,7 +18,7 @@ public interface DocumentCSS extends DocumentStyle
 ~~~
 
 ## Métodos
-* [getOverrideStyle()](/Java/DocumentCSS/getOverrideStyle)
+* [getOverrideStyle()](/Java/DocumentCSS/getOverrideStyle/)
 
 ## Ejemplo
 ~~~java

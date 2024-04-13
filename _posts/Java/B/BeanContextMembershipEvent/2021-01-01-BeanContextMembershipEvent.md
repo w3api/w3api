@@ -21,13 +21,13 @@ public class BeanContextMembershipEvent extends BeanContextEvent
 * [BeanContextMembershipEvent()](/Java/BeanContextMembershipEvent/BeanContextMembershipEvent/)
 
 ## Campos
-* [children](/Java/BeanContextMembershipEvent/children)
+* [children](/Java/BeanContextMembershipEvent/children/)
 
 ## Métodos
-* [contains()](/Java/BeanContextMembershipEvent/contains)
-* [iterator()](/Java/BeanContextMembershipEvent/iterator)
-* [size()](/Java/BeanContextMembershipEvent/size)
-* [toArray()](/Java/BeanContextMembershipEvent/toArray)
+* [contains()](/Java/BeanContextMembershipEvent/contains/)
+* [iterator()](/Java/BeanContextMembershipEvent/iterator/)
+* [size()](/Java/BeanContextMembershipEvent/size/)
+* [toArray()](/Java/BeanContextMembershipEvent/toArray/)
 
 ## Ejemplo
 ~~~java

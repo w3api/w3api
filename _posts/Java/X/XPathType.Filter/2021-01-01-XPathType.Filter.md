@@ -18,12 +18,12 @@ public static class XPathType.Filter extends Object
 ~~~
 
 ## Campos
-* [INTERSECT](/Java/XPathType/Filter/INTERSECT)
-* [SUBTRACT](/Java/XPathType/Filter/SUBTRACT)
-* [UNION](/Java/XPathType/Filter/UNION)
+* [INTERSECT](/Java/XPathType/Filter/INTERSECT/)
+* [SUBTRACT](/Java/XPathType/Filter/SUBTRACT/)
+* [UNION](/Java/XPathType/Filter/UNION/)
 
 ## Métodos
-* [toString()](/Java/XPathType/Filter/toString)
+* [toString()](/Java/XPathType/Filter/toString/)
 
 ## Ejemplo
 ~~~java

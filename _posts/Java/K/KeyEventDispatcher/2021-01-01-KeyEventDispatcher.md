@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [dispatchKeyEvent()](/Java/KeyEventDispatcher/dispatchKeyEvent)
+* [dispatchKeyEvent()](/Java/KeyEventDispatcher/dispatchKeyEvent/)
 
 ## Ejemplo
 ~~~java

@@ -18,9 +18,9 @@ public interface ParameterizedType extends Type
 ~~~
 
 ## Métodos
-* [getActualTypeArguments()](/Java/ParameterizedType-java-lang-reflect/getActualTypeArguments)
-* [getOwnerType()](/Java/ParameterizedType-java-lang-reflect/getOwnerType)
-* [getRawType()](/Java/ParameterizedType-java-lang-reflect/getRawType)
+* [getActualTypeArguments()](/Java/ParameterizedType-java-lang-reflect/getActualTypeArguments/)
+* [getOwnerType()](/Java/ParameterizedType-java-lang-reflect/getOwnerType/)
+* [getRawType()](/Java/ParameterizedType-java-lang-reflect/getRawType/)
 
 ## Ejemplo
 ~~~java

@@ -18,12 +18,12 @@ public interface DocumentType extends Node
 ~~~
 
 ## Métodos
-* [getEntities()](/Java/DocumentType/getEntities)
-* [getInternalSubset()](/Java/DocumentType/getInternalSubset)
-* [getName()](/Java/DocumentType/getName)
-* [getNotations()](/Java/DocumentType/getNotations)
-* [getPublicId()](/Java/DocumentType/getPublicId)
-* [getSystemId()](/Java/DocumentType/getSystemId)
+* [getEntities()](/Java/DocumentType/getEntities/)
+* [getInternalSubset()](/Java/DocumentType/getInternalSubset/)
+* [getName()](/Java/DocumentType/getName/)
+* [getNotations()](/Java/DocumentType/getNotations/)
+* [getPublicId()](/Java/DocumentType/getPublicId/)
+* [getSystemId()](/Java/DocumentType/getSystemId/)
 
 ## Ejemplo
 ~~~java

@@ -21,10 +21,10 @@ public abstract class ExceptionList extends Object
 * [ExceptionList()](/Java/ExceptionList/ExceptionList/)
 
 ## Métodos
-* [add()](/Java/ExceptionList/add)
-* [count()](/Java/ExceptionList/count)
-* [item()](/Java/ExceptionList/item)
-* [remove()](/Java/ExceptionList/remove)
+* [add()](/Java/ExceptionList/add/)
+* [count()](/Java/ExceptionList/count/)
+* [item()](/Java/ExceptionList/item/)
+* [remove()](/Java/ExceptionList/remove/)
 
 ## Ejemplo
 ~~~java

@@ -18,9 +18,9 @@ public interface DSAParams
 ~~~
 
 ## Métodos
-* [getG()](/Java/DSAParams/getG)
-* [getP()](/Java/DSAParams/getP)
-* [getQ()](/Java/DSAParams/getQ)
+* [getG()](/Java/DSAParams/getG/)
+* [getP()](/Java/DSAParams/getP/)
+* [getQ()](/Java/DSAParams/getQ/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface CaretListener extends EventListener
 ~~~
 
 ## Métodos
-* [caretUpdate()](/Java/CaretListener/caretUpdate)
+* [caretUpdate()](/Java/CaretListener/caretUpdate/)
 
 ## Ejemplo
 ~~~java

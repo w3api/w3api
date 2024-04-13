@@ -21,12 +21,12 @@ public class CertPathValidator extends Object
 * [CertPathValidator()](/Java/CertPathValidator/CertPathValidator/)
 
 ## Métodos
-* [getAlgorithm()](/Java/CertPathValidator/getAlgorithm)
-* [getDefaultType()](/Java/CertPathValidator/getDefaultType)
-* [getInstance()](/Java/CertPathValidator/getInstance)
-* [getProvider()](/Java/CertPathValidator/getProvider)
-* [getRevocationChecker()](/Java/CertPathValidator/getRevocationChecker)
-* [validate()](/Java/CertPathValidator/validate)
+* [getAlgorithm()](/Java/CertPathValidator/getAlgorithm/)
+* [getDefaultType()](/Java/CertPathValidator/getDefaultType/)
+* [getInstance()](/Java/CertPathValidator/getInstance/)
+* [getProvider()](/Java/CertPathValidator/getProvider/)
+* [getRevocationChecker()](/Java/CertPathValidator/getRevocationChecker/)
+* [validate()](/Java/CertPathValidator/validate/)
 
 ## Ejemplo
 ~~~java

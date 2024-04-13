@@ -18,22 +18,22 @@ public interface InputMethod
 ~~~
 
 ## Métodos
-* [activate()](/Java/InputMethod/activate)
-* [deactivate()](/Java/InputMethod/deactivate)
-* [dispatchEvent()](/Java/InputMethod/dispatchEvent)
-* [dispose()](/Java/InputMethod/dispose)
-* [endComposition()](/Java/InputMethod/endComposition)
-* [getControlObject()](/Java/InputMethod/getControlObject)
-* [getLocale()](/Java/InputMethod/getLocale)
-* [hideWindows()](/Java/InputMethod/hideWindows)
-* [isCompositionEnabled()](/Java/InputMethod/isCompositionEnabled)
-* [notifyClientWindowChange()](/Java/InputMethod/notifyClientWindowChange)
-* [reconvert()](/Java/InputMethod/reconvert)
-* [removeNotify()](/Java/InputMethod/removeNotify)
-* [setCharacterSubsets()](/Java/InputMethod/setCharacterSubsets)
-* [setCompositionEnabled()](/Java/InputMethod/setCompositionEnabled)
-* [setInputMethodContext()](/Java/InputMethod/setInputMethodContext)
-* [setLocale()](/Java/InputMethod/setLocale)
+* [activate()](/Java/InputMethod/activate/)
+* [deactivate()](/Java/InputMethod/deactivate/)
+* [dispatchEvent()](/Java/InputMethod/dispatchEvent/)
+* [dispose()](/Java/InputMethod/dispose/)
+* [endComposition()](/Java/InputMethod/endComposition/)
+* [getControlObject()](/Java/InputMethod/getControlObject/)
+* [getLocale()](/Java/InputMethod/getLocale/)
+* [hideWindows()](/Java/InputMethod/hideWindows/)
+* [isCompositionEnabled()](/Java/InputMethod/isCompositionEnabled/)
+* [notifyClientWindowChange()](/Java/InputMethod/notifyClientWindowChange/)
+* [reconvert()](/Java/InputMethod/reconvert/)
+* [removeNotify()](/Java/InputMethod/removeNotify/)
+* [setCharacterSubsets()](/Java/InputMethod/setCharacterSubsets/)
+* [setCompositionEnabled()](/Java/InputMethod/setCompositionEnabled/)
+* [setInputMethodContext()](/Java/InputMethod/setInputMethodContext/)
+* [setLocale()](/Java/InputMethod/setLocale/)
 
 ## Ejemplo
 ~~~java

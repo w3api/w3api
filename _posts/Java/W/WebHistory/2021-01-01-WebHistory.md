@@ -18,13 +18,13 @@ public final class WebHistory extends Object
 ~~~
 
 ## Métodos
-* [currentIndexProperty()](/Java/WebHistory/currentIndexProperty)
-* [getCurrentIndex()](/Java/WebHistory/getCurrentIndex)
-* [getEntries()](/Java/WebHistory/getEntries)
-* [getMaxSize()](/Java/WebHistory/getMaxSize)
-* [go()](/Java/WebHistory/go)
-* [maxSizeProperty()](/Java/WebHistory/maxSizeProperty)
-* [setMaxSize()](/Java/WebHistory/setMaxSize)
+* [currentIndexProperty()](/Java/WebHistory/currentIndexProperty/)
+* [getCurrentIndex()](/Java/WebHistory/getCurrentIndex/)
+* [getEntries()](/Java/WebHistory/getEntries/)
+* [getMaxSize()](/Java/WebHistory/getMaxSize/)
+* [go()](/Java/WebHistory/go/)
+* [maxSizeProperty()](/Java/WebHistory/maxSizeProperty/)
+* [setMaxSize()](/Java/WebHistory/setMaxSize/)
 
 ## Ejemplo
 ~~~java

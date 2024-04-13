@@ -21,20 +21,20 @@ public class DefaultTableCellRenderer extends JLabel implements TableCellRendere
 * [DefaultTableCellRenderer()](/Java/DefaultTableCellRenderer/DefaultTableCellRenderer/)
 
 ## Campos
-* [noFocusBorder](/Java/DefaultTableCellRenderer/noFocusBorder)
+* [noFocusBorder](/Java/DefaultTableCellRenderer/noFocusBorder/)
 
 ## Métodos
-* [firePropertyChange()](/Java/DefaultTableCellRenderer/firePropertyChange)
-* [getTableCellRendererComponent()](/Java/DefaultTableCellRenderer/getTableCellRendererComponent)
-* [invalidate()](/Java/DefaultTableCellRenderer/invalidate)
-* [isOpaque()](/Java/DefaultTableCellRenderer/isOpaque)
-* [repaint()](/Java/DefaultTableCellRenderer/repaint)
-* [revalidate()](/Java/DefaultTableCellRenderer/revalidate)
-* [setBackground()](/Java/DefaultTableCellRenderer/setBackground)
-* [setForeground()](/Java/DefaultTableCellRenderer/setForeground)
-* [setValue()](/Java/DefaultTableCellRenderer/setValue)
-* [updateUI()](/Java/DefaultTableCellRenderer/updateUI)
-* [validate()](/Java/DefaultTableCellRenderer/validate)
+* [firePropertyChange()](/Java/DefaultTableCellRenderer/firePropertyChange/)
+* [getTableCellRendererComponent()](/Java/DefaultTableCellRenderer/getTableCellRendererComponent/)
+* [invalidate()](/Java/DefaultTableCellRenderer/invalidate/)
+* [isOpaque()](/Java/DefaultTableCellRenderer/isOpaque/)
+* [repaint()](/Java/DefaultTableCellRenderer/repaint/)
+* [revalidate()](/Java/DefaultTableCellRenderer/revalidate/)
+* [setBackground()](/Java/DefaultTableCellRenderer/setBackground/)
+* [setForeground()](/Java/DefaultTableCellRenderer/setForeground/)
+* [setValue()](/Java/DefaultTableCellRenderer/setValue/)
+* [updateUI()](/Java/DefaultTableCellRenderer/updateUI/)
+* [validate()](/Java/DefaultTableCellRenderer/validate/)
 
 ## Ejemplo
 ~~~java

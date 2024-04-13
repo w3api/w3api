@@ -18,18 +18,18 @@ public final class PrinterJob extends Object
 ~~~
 
 ## Métodos
-* [cancelJob()](/Java/PrinterJob-javafx-print/cancelJob)
-* [createPrinterJob()](/Java/PrinterJob-javafx-print/createPrinterJob)
-* [endJob()](/Java/PrinterJob-javafx-print/endJob)
-* [getJobSettings()](/Java/PrinterJob-javafx-print/getJobSettings)
-* [getJobStatus()](/Java/PrinterJob-javafx-print/getJobStatus)
-* [getPrinter()](/Java/PrinterJob-javafx-print/getPrinter)
-* [jobStatusProperty()](/Java/PrinterJob-javafx-print/jobStatusProperty)
-* [printerProperty()](/Java/PrinterJob-javafx-print/printerProperty)
-* [printPage()](/Java/PrinterJob-javafx-print/printPage)
-* [setPrinter()](/Java/PrinterJob-javafx-print/setPrinter)
-* [showPageSetupDialog()](/Java/PrinterJob-javafx-print/showPageSetupDialog)
-* [showPrintDialog()](/Java/PrinterJob-javafx-print/showPrintDialog)
+* [cancelJob()](/Java/PrinterJob-javafx-print/cancelJob/)
+* [createPrinterJob()](/Java/PrinterJob-javafx-print/createPrinterJob/)
+* [endJob()](/Java/PrinterJob-javafx-print/endJob/)
+* [getJobSettings()](/Java/PrinterJob-javafx-print/getJobSettings/)
+* [getJobStatus()](/Java/PrinterJob-javafx-print/getJobStatus/)
+* [getPrinter()](/Java/PrinterJob-javafx-print/getPrinter/)
+* [jobStatusProperty()](/Java/PrinterJob-javafx-print/jobStatusProperty/)
+* [printerProperty()](/Java/PrinterJob-javafx-print/printerProperty/)
+* [printPage()](/Java/PrinterJob-javafx-print/printPage/)
+* [setPrinter()](/Java/PrinterJob-javafx-print/setPrinter/)
+* [showPageSetupDialog()](/Java/PrinterJob-javafx-print/showPageSetupDialog/)
+* [showPrintDialog()](/Java/PrinterJob-javafx-print/showPrintDialog/)
 
 ## Ejemplo
 ~~~java

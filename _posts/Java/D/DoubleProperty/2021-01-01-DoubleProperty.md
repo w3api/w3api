@@ -21,9 +21,9 @@ public abstract class DoubleProperty extends ReadOnlyDoubleProperty implements P
 * [DoubleProperty()](/Java/DoubleProperty/DoubleProperty/)
 
 ## Métodos
-* [asObject()](/Java/DoubleProperty/asObject)
-* [doubleProperty()](/Java/DoubleProperty/doubleProperty)
-* [toString()](/Java/DoubleProperty/toString)
+* [asObject()](/Java/DoubleProperty/asObject/)
+* [doubleProperty()](/Java/DoubleProperty/doubleProperty/)
+* [toString()](/Java/DoubleProperty/toString/)
 
 ## Ejemplo
 ~~~java

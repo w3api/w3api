@@ -18,10 +18,10 @@ public interface WindowConstants
 ~~~
 
 ## Campos
-* [DISPOSE_ON_CLOSE](/Java/WindowConstants/DISPOSE_ON_CLOSE)
-* [DO_NOTHING_ON_CLOSE](/Java/WindowConstants/DO_NOTHING_ON_CLOSE)
-* [EXIT_ON_CLOSE](/Java/WindowConstants/EXIT_ON_CLOSE)
-* [HIDE_ON_CLOSE](/Java/WindowConstants/HIDE_ON_CLOSE)
+* [DISPOSE_ON_CLOSE](/Java/WindowConstants/DISPOSE_ON_CLOSE/)
+* [DO_NOTHING_ON_CLOSE](/Java/WindowConstants/DO_NOTHING_ON_CLOSE/)
+* [EXIT_ON_CLOSE](/Java/WindowConstants/EXIT_ON_CLOSE/)
+* [HIDE_ON_CLOSE](/Java/WindowConstants/HIDE_ON_CLOSE/)
 
 ## Ejemplo
 ~~~java

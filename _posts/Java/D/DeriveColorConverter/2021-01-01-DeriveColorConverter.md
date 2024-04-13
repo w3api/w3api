@@ -18,7 +18,7 @@ public final class DeriveColorConverter extends StyleConverter<ParsedValue[],Col
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/DeriveColorConverter/getInstance)
+* [getInstance()](/Java/DeriveColorConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

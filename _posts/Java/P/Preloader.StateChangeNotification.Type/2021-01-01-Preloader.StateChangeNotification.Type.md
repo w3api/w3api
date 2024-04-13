@@ -18,13 +18,13 @@ public static enum Preloader.StateChangeNotification.Type extends Enum<Preloader
 ~~~
 
 ## Enumerados
-* [BEFORE_INIT](/Java/Preloader/StateChangeNotification/Type/BEFORE_INIT)
-* [BEFORE_LOAD](/Java/Preloader/StateChangeNotification/Type/BEFORE_LOAD)
-* [BEFORE_START](/Java/Preloader/StateChangeNotification/Type/BEFORE_START)
+* [BEFORE_INIT](/Java/Preloader/StateChangeNotification/Type/BEFORE_INIT/)
+* [BEFORE_LOAD](/Java/Preloader/StateChangeNotification/Type/BEFORE_LOAD/)
+* [BEFORE_START](/Java/Preloader/StateChangeNotification/Type/BEFORE_START/)
 
 ## Métodos
-* [valueOf()](/Java/Preloader/StateChangeNotification/Type/valueOf)
-* [values()](/Java/Preloader/StateChangeNotification/Type/values)
+* [valueOf()](/Java/Preloader/StateChangeNotification/Type/valueOf/)
+* [values()](/Java/Preloader/StateChangeNotification/Type/values/)
 
 ## Ejemplo
 ~~~java

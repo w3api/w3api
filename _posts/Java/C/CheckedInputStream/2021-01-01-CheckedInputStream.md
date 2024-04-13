@@ -21,9 +21,9 @@ public class CheckedInputStream extends FilterInputStream
 * [CheckedInputStream()](/Java/CheckedInputStream/CheckedInputStream/)
 
 ## Métodos
-* [getChecksum()](/Java/CheckedInputStream/getChecksum)
-* [read()](/Java/CheckedInputStream/read)
-* [skip()](/Java/CheckedInputStream/skip)
+* [getChecksum()](/Java/CheckedInputStream/getChecksum/)
+* [read()](/Java/CheckedInputStream/read/)
+* [skip()](/Java/CheckedInputStream/skip/)
 
 ## Ejemplo
 ~~~java

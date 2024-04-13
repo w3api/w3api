@@ -18,8 +18,8 @@ sidebar:
 ~~~
 
 ## Métodos
-* [equals()](/Java/Permission-java-security-acl/equals)
-* [toString()](/Java/Permission-java-security-acl/toString)
+* [equals()](/Java/Permission-java-security-acl/equals/)
+* [toString()](/Java/Permission-java-security-acl/toString/)
 
 ## Ejemplo
 ~~~java

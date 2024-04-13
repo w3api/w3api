@@ -21,18 +21,18 @@ public class BasicGraphicsUtils extends Object
 * [BasicGraphicsUtils()](/Java/BasicGraphicsUtils/BasicGraphicsUtils/)
 
 ## Métodos
-* [drawBezel()](/Java/BasicGraphicsUtils/drawBezel)
-* [drawDashedRect()](/Java/BasicGraphicsUtils/drawDashedRect)
-* [drawEtchedRect()](/Java/BasicGraphicsUtils/drawEtchedRect)
-* [drawGroove()](/Java/BasicGraphicsUtils/drawGroove)
-* [drawLoweredBezel()](/Java/BasicGraphicsUtils/drawLoweredBezel)
-* [drawString()](/Java/BasicGraphicsUtils/drawString)
-* [drawStringUnderlineCharAt()](/Java/BasicGraphicsUtils/drawStringUnderlineCharAt)
-* [getClippedString()](/Java/BasicGraphicsUtils/getClippedString)
-* [getEtchedInsets()](/Java/BasicGraphicsUtils/getEtchedInsets)
-* [getGrooveInsets()](/Java/BasicGraphicsUtils/getGrooveInsets)
-* [getPreferredButtonSize()](/Java/BasicGraphicsUtils/getPreferredButtonSize)
-* [getStringWidth()](/Java/BasicGraphicsUtils/getStringWidth)
+* [drawBezel()](/Java/BasicGraphicsUtils/drawBezel/)
+* [drawDashedRect()](/Java/BasicGraphicsUtils/drawDashedRect/)
+* [drawEtchedRect()](/Java/BasicGraphicsUtils/drawEtchedRect/)
+* [drawGroove()](/Java/BasicGraphicsUtils/drawGroove/)
+* [drawLoweredBezel()](/Java/BasicGraphicsUtils/drawLoweredBezel/)
+* [drawString()](/Java/BasicGraphicsUtils/drawString/)
+* [drawStringUnderlineCharAt()](/Java/BasicGraphicsUtils/drawStringUnderlineCharAt/)
+* [getClippedString()](/Java/BasicGraphicsUtils/getClippedString/)
+* [getEtchedInsets()](/Java/BasicGraphicsUtils/getEtchedInsets/)
+* [getGrooveInsets()](/Java/BasicGraphicsUtils/getGrooveInsets/)
+* [getPreferredButtonSize()](/Java/BasicGraphicsUtils/getPreferredButtonSize/)
+* [getStringWidth()](/Java/BasicGraphicsUtils/getStringWidth/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public class ChangedCharSetException extends IOException
 * [ChangedCharSetException()](/Java/ChangedCharSetException/ChangedCharSetException/)
 
 ## Métodos
-* [getCharSetSpec()](/Java/ChangedCharSetException/getCharSetSpec)
-* [keyEqualsCharSet()](/Java/ChangedCharSetException/keyEqualsCharSet)
+* [getCharSetSpec()](/Java/ChangedCharSetException/getCharSetSpec/)
+* [keyEqualsCharSet()](/Java/ChangedCharSetException/keyEqualsCharSet/)
 
 ## Ejemplo
 ~~~java

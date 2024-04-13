@@ -18,7 +18,7 @@ public interface ParenthesizedTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getExpression()](/Java/ParenthesizedTree-jdk-nashorn-api-tree/getExpression)
+* [getExpression()](/Java/ParenthesizedTree-jdk-nashorn-api-tree/getExpression/)
 
 ## Ejemplo
 ~~~java

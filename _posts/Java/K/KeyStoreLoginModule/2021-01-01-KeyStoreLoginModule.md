@@ -21,11 +21,11 @@ public class KeyStoreLoginModule extends Object implements LoginModule
 * [KeyStoreLoginModule()](/Java/KeyStoreLoginModule/KeyStoreLoginModule/)
 
 ## Métodos
-* [abort()](/Java/KeyStoreLoginModule/abort)
-* [commit()](/Java/KeyStoreLoginModule/commit)
-* [initialize()](/Java/KeyStoreLoginModule/initialize)
-* [login()](/Java/KeyStoreLoginModule/login)
-* [logout()](/Java/KeyStoreLoginModule/logout)
+* [abort()](/Java/KeyStoreLoginModule/abort/)
+* [commit()](/Java/KeyStoreLoginModule/commit/)
+* [initialize()](/Java/KeyStoreLoginModule/initialize/)
+* [login()](/Java/KeyStoreLoginModule/login/)
+* [logout()](/Java/KeyStoreLoginModule/logout/)
 
 ## Ejemplo
 ~~~java

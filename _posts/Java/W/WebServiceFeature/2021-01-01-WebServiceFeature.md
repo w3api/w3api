@@ -21,11 +21,11 @@ public abstract class WebServiceFeature extends Object
 * [WebServiceFeature()](/Java/WebServiceFeature/WebServiceFeature/)
 
 ## Campos
-* [enabled](/Java/WebServiceFeature/enabled)
+* [enabled](/Java/WebServiceFeature/enabled/)
 
 ## Métodos
-* [getID()](/Java/WebServiceFeature/getID)
-* [isEnabled()](/Java/WebServiceFeature/isEnabled)
+* [getID()](/Java/WebServiceFeature/getID/)
+* [isEnabled()](/Java/WebServiceFeature/isEnabled/)
 
 ## Ejemplo
 ~~~java

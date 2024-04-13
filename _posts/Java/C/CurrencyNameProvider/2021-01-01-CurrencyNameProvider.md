@@ -21,8 +21,8 @@ public abstract class CurrencyNameProvider extends LocaleServiceProvider
 * [CurrencyNameProvider()](/Java/CurrencyNameProvider/CurrencyNameProvider/)
 
 ## Métodos
-* [getDisplayName()](/Java/CurrencyNameProvider/getDisplayName)
-* [getSymbol()](/Java/CurrencyNameProvider/getSymbol)
+* [getDisplayName()](/Java/CurrencyNameProvider/getDisplayName/)
+* [getSymbol()](/Java/CurrencyNameProvider/getSymbol/)
 
 ## Ejemplo
 ~~~java

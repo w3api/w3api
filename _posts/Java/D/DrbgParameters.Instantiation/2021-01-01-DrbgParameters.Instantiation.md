@@ -18,10 +18,10 @@ public static final class DrbgParameters.Instantiation extends Object implements
 ~~~
 
 ## Métodos
-* [getCapability()](/Java/DrbgParameters/Instantiation/getCapability)
-* [getPersonalizationString()](/Java/DrbgParameters/Instantiation/getPersonalizationString)
-* [getStrength()](/Java/DrbgParameters/Instantiation/getStrength)
-* [toString()](/Java/DrbgParameters/Instantiation/toString)
+* [getCapability()](/Java/DrbgParameters/Instantiation/getCapability/)
+* [getPersonalizationString()](/Java/DrbgParameters/Instantiation/getPersonalizationString/)
+* [getStrength()](/Java/DrbgParameters/Instantiation/getStrength/)
+* [toString()](/Java/DrbgParameters/Instantiation/toString/)
 
 ## Ejemplo
 ~~~java

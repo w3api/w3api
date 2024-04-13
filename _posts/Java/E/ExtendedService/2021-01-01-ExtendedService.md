@@ -18,8 +18,8 @@ public interface ExtendedService
 ~~~
 
 ## Métodos
-* [openFile()](/Java/ExtendedService/openFile)
-* [openFiles()](/Java/ExtendedService/openFiles)
+* [openFile()](/Java/ExtendedService/openFile/)
+* [openFiles()](/Java/ExtendedService/openFiles/)
 
 ## Ejemplo
 ~~~java

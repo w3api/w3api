@@ -18,7 +18,7 @@ public final class CursorConverter extends StyleConverter<String,Cursor>
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/CursorConverter/getInstance)
+* [getInstance()](/Java/CursorConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

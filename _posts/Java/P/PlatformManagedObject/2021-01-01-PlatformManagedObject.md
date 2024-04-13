@@ -18,7 +18,7 @@ public interface PlatformManagedObject
 ~~~
 
 ## Métodos
-* [getObjectName()](/Java/PlatformManagedObject/getObjectName)
+* [getObjectName()](/Java/PlatformManagedObject/getObjectName/)
 
 ## Ejemplo
 ~~~java

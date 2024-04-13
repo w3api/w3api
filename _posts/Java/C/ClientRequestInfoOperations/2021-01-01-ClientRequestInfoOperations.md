@@ -18,15 +18,15 @@ public interface ClientRequestInfoOperations extends RequestInfoOperations
 ~~~
 
 ## Métodos
-* [add_request_service_context()](/Java/ClientRequestInfoOperations/add_request_service_context)
-* [effective_profile()](/Java/ClientRequestInfoOperations/effective_profile)
-* [effective_target()](/Java/ClientRequestInfoOperations/effective_target)
-* [get_effective_component()](/Java/ClientRequestInfoOperations/get_effective_component)
-* [get_effective_components()](/Java/ClientRequestInfoOperations/get_effective_components)
-* [get_request_policy()](/Java/ClientRequestInfoOperations/get_request_policy)
-* [received_exception()](/Java/ClientRequestInfoOperations/received_exception)
-* [received_exception_id()](/Java/ClientRequestInfoOperations/received_exception_id)
-* [target()](/Java/ClientRequestInfoOperations/target)
+* [add_request_service_context()](/Java/ClientRequestInfoOperations/add_request_service_context/)
+* [effective_profile()](/Java/ClientRequestInfoOperations/effective_profile/)
+* [effective_target()](/Java/ClientRequestInfoOperations/effective_target/)
+* [get_effective_component()](/Java/ClientRequestInfoOperations/get_effective_component/)
+* [get_effective_components()](/Java/ClientRequestInfoOperations/get_effective_components/)
+* [get_request_policy()](/Java/ClientRequestInfoOperations/get_request_policy/)
+* [received_exception()](/Java/ClientRequestInfoOperations/received_exception/)
+* [received_exception_id()](/Java/ClientRequestInfoOperations/received_exception_id/)
+* [target()](/Java/ClientRequestInfoOperations/target/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public final class ClassDefinition extends Object
 * [ClassDefinition()](/Java/ClassDefinition/ClassDefinition/)
 
 ## Métodos
-* [getDefinitionClass()](/Java/ClassDefinition/getDefinitionClass)
-* [getDefinitionClassFile()](/Java/ClassDefinition/getDefinitionClassFile)
+* [getDefinitionClass()](/Java/ClassDefinition/getDefinitionClass/)
+* [getDefinitionClassFile()](/Java/ClassDefinition/getDefinitionClassFile/)
 
 ## Ejemplo
 ~~~java

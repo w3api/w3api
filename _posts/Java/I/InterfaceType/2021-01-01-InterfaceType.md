@@ -18,10 +18,10 @@ public interface InterfaceType extends ReferenceType
 ~~~
 
 ## Métodos
-* [implementors()](/Java/InterfaceType/implementors)
-* [invokeMethod()](/Java/InterfaceType/invokeMethod)
-* [subinterfaces()](/Java/InterfaceType/subinterfaces)
-* [superinterfaces()](/Java/InterfaceType/superinterfaces)
+* [implementors()](/Java/InterfaceType/implementors/)
+* [invokeMethod()](/Java/InterfaceType/invokeMethod/)
+* [subinterfaces()](/Java/InterfaceType/subinterfaces/)
+* [superinterfaces()](/Java/InterfaceType/superinterfaces/)
 
 ## Ejemplo
 ~~~java

@@ -21,10 +21,10 @@ public class PatternSyntaxException extends IllegalArgumentException
 * [PatternSyntaxException()](/Java/PatternSyntaxException/PatternSyntaxException/)
 
 ## Métodos
-* [getDescription()](/Java/PatternSyntaxException/getDescription)
-* [getIndex()](/Java/PatternSyntaxException/getIndex)
-* [getMessage()](/Java/PatternSyntaxException/getMessage)
-* [getPattern()](/Java/PatternSyntaxException/getPattern)
+* [getDescription()](/Java/PatternSyntaxException/getDescription/)
+* [getIndex()](/Java/PatternSyntaxException/getIndex/)
+* [getMessage()](/Java/PatternSyntaxException/getMessage/)
+* [getPattern()](/Java/PatternSyntaxException/getPattern/)
 
 ## Ejemplo
 ~~~java

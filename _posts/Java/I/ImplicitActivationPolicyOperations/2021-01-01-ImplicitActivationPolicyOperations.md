@@ -18,7 +18,7 @@ public interface ImplicitActivationPolicyOperations extends PolicyOperations
 ~~~
 
 ## Métodos
-* [value()](/Java/ImplicitActivationPolicyOperations/value)
+* [value()](/Java/ImplicitActivationPolicyOperations/value/)
 
 ## Ejemplo
 ~~~java

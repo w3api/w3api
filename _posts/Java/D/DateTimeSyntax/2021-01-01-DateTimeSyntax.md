@@ -21,10 +21,10 @@ public abstract class DateTimeSyntax extends Object implements Serializable, Clo
 * [DateTimeSyntax()](/Java/DateTimeSyntax/DateTimeSyntax/)
 
 ## Métodos
-* [equals()](/Java/DateTimeSyntax/equals)
-* [getValue()](/Java/DateTimeSyntax/getValue)
-* [hashCode()](/Java/DateTimeSyntax/hashCode)
-* [toString()](/Java/DateTimeSyntax/toString)
+* [equals()](/Java/DateTimeSyntax/equals/)
+* [getValue()](/Java/DateTimeSyntax/getValue/)
+* [hashCode()](/Java/DateTimeSyntax/hashCode/)
+* [toString()](/Java/DateTimeSyntax/toString/)
 
 ## Ejemplo
 ~~~java

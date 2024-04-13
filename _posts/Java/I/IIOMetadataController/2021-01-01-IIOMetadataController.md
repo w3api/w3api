@@ -18,7 +18,7 @@ public interface IIOMetadataController
 ~~~
 
 ## Métodos
-* [activate()](/Java/IIOMetadataController/activate)
+* [activate()](/Java/IIOMetadataController/activate/)
 
 ## Ejemplo
 ~~~java

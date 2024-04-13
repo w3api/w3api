@@ -18,15 +18,15 @@ public interface ExecutionControl extends AutoCloseable
 ~~~
 
 ## Métodos
-* [addToClasspath()](/Java/ExecutionControl/addToClasspath)
-* [close()](/Java/ExecutionControl/close)
-* [extensionCommand()](/Java/ExecutionControl/extensionCommand)
-* [generate()](/Java/ExecutionControl/generate)
-* [invoke()](/Java/ExecutionControl/invoke)
-* [load()](/Java/ExecutionControl/load)
-* [redefine()](/Java/ExecutionControl/redefine)
-* [stop()](/Java/ExecutionControl/stop)
-* [varValue()](/Java/ExecutionControl/varValue)
+* [addToClasspath()](/Java/ExecutionControl/addToClasspath/)
+* [close()](/Java/ExecutionControl/close/)
+* [extensionCommand()](/Java/ExecutionControl/extensionCommand/)
+* [generate()](/Java/ExecutionControl/generate/)
+* [invoke()](/Java/ExecutionControl/invoke/)
+* [load()](/Java/ExecutionControl/load/)
+* [redefine()](/Java/ExecutionControl/redefine/)
+* [stop()](/Java/ExecutionControl/stop/)
+* [varValue()](/Java/ExecutionControl/varValue/)
 
 ## Ejemplo
 ~~~java

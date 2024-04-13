@@ -18,9 +18,9 @@ public interface BindingIteratorOperations
 ~~~
 
 ## Métodos
-* [destroy()](/Java/BindingIteratorOperations/destroy)
-* [next_n()](/Java/BindingIteratorOperations/next_n)
-* [next_one()](/Java/BindingIteratorOperations/next_one)
+* [destroy()](/Java/BindingIteratorOperations/destroy/)
+* [next_n()](/Java/BindingIteratorOperations/next_n/)
+* [next_one()](/Java/BindingIteratorOperations/next_one/)
 
 ## Ejemplo
 ~~~java

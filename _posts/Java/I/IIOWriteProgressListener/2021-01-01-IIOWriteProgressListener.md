@@ -18,13 +18,13 @@ public interface IIOWriteProgressListener extends EventListener
 ~~~
 
 ## Métodos
-* [imageComplete()](/Java/IIOWriteProgressListener/imageComplete)
-* [imageProgress()](/Java/IIOWriteProgressListener/imageProgress)
-* [imageStarted()](/Java/IIOWriteProgressListener/imageStarted)
-* [thumbnailComplete()](/Java/IIOWriteProgressListener/thumbnailComplete)
-* [thumbnailProgress()](/Java/IIOWriteProgressListener/thumbnailProgress)
-* [thumbnailStarted()](/Java/IIOWriteProgressListener/thumbnailStarted)
-* [writeAborted()](/Java/IIOWriteProgressListener/writeAborted)
+* [imageComplete()](/Java/IIOWriteProgressListener/imageComplete/)
+* [imageProgress()](/Java/IIOWriteProgressListener/imageProgress/)
+* [imageStarted()](/Java/IIOWriteProgressListener/imageStarted/)
+* [thumbnailComplete()](/Java/IIOWriteProgressListener/thumbnailComplete/)
+* [thumbnailProgress()](/Java/IIOWriteProgressListener/thumbnailProgress/)
+* [thumbnailStarted()](/Java/IIOWriteProgressListener/thumbnailStarted/)
+* [writeAborted()](/Java/IIOWriteProgressListener/writeAborted/)
 
 ## Ejemplo
 ~~~java

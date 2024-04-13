@@ -18,7 +18,7 @@ public abstract class WritablePixelFormat<T extends Buffer> extends PixelFormat<
 ~~~
 
 ## Métodos
-* [setArgb()](/Java/WritablePixelFormat/setArgb)
+* [setArgb()](/Java/WritablePixelFormat/setArgb/)
 
 ## Ejemplo
 ~~~java

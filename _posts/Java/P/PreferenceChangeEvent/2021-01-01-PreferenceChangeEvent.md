@@ -21,9 +21,9 @@ public class PreferenceChangeEvent extends EventObject
 * [PreferenceChangeEvent()](/Java/PreferenceChangeEvent/PreferenceChangeEvent/)
 
 ## Métodos
-* [getKey()](/Java/PreferenceChangeEvent/getKey)
-* [getNewValue()](/Java/PreferenceChangeEvent/getNewValue)
-* [getNode()](/Java/PreferenceChangeEvent/getNode)
+* [getKey()](/Java/PreferenceChangeEvent/getKey/)
+* [getNewValue()](/Java/PreferenceChangeEvent/getNewValue/)
+* [getNode()](/Java/PreferenceChangeEvent/getNode/)
 
 ## Ejemplo
 ~~~java

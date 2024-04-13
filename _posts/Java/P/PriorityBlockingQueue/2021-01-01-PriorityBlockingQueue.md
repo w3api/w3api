@@ -21,18 +21,18 @@ public class PriorityBlockingQueue<E> extends AbstractQueue<E> implements Blocki
 * [PriorityBlockingQueue()](/Java/PriorityBlockingQueue/PriorityBlockingQueue/)
 
 ## Métodos
-* [add()](/Java/PriorityBlockingQueue/add)
-* [clear()](/Java/PriorityBlockingQueue/clear)
-* [comparator()](/Java/PriorityBlockingQueue/comparator)
-* [contains()](/Java/PriorityBlockingQueue/contains)
-* [drainTo()](/Java/PriorityBlockingQueue/drainTo)
-* [iterator()](/Java/PriorityBlockingQueue/iterator)
-* [offer()](/Java/PriorityBlockingQueue/offer)
-* [put()](/Java/PriorityBlockingQueue/put)
-* [remainingCapacity()](/Java/PriorityBlockingQueue/remainingCapacity)
-* [remove()](/Java/PriorityBlockingQueue/remove)
-* [spliterator()](/Java/PriorityBlockingQueue/spliterator)
-* [toArray()](/Java/PriorityBlockingQueue/toArray)
+* [add()](/Java/PriorityBlockingQueue/add/)
+* [clear()](/Java/PriorityBlockingQueue/clear/)
+* [comparator()](/Java/PriorityBlockingQueue/comparator/)
+* [contains()](/Java/PriorityBlockingQueue/contains/)
+* [drainTo()](/Java/PriorityBlockingQueue/drainTo/)
+* [iterator()](/Java/PriorityBlockingQueue/iterator/)
+* [offer()](/Java/PriorityBlockingQueue/offer/)
+* [put()](/Java/PriorityBlockingQueue/put/)
+* [remainingCapacity()](/Java/PriorityBlockingQueue/remainingCapacity/)
+* [remove()](/Java/PriorityBlockingQueue/remove/)
+* [spliterator()](/Java/PriorityBlockingQueue/spliterator/)
+* [toArray()](/Java/PriorityBlockingQueue/toArray/)
 
 ## Ejemplo
 ~~~java

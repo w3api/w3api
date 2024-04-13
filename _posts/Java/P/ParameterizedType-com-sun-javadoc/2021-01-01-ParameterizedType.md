@@ -18,11 +18,11 @@ sidebar:
 ~~~
 
 ## Métodos
-* [asClassDoc()](/Java/ParameterizedType-com-sun-javadoc/asClassDoc)
-* [containingType()](/Java/ParameterizedType-com-sun-javadoc/containingType)
-* [interfaceTypes()](/Java/ParameterizedType-com-sun-javadoc/interfaceTypes)
-* [superclassType()](/Java/ParameterizedType-com-sun-javadoc/superclassType)
-* [typeArguments()](/Java/ParameterizedType-com-sun-javadoc/typeArguments)
+* [asClassDoc()](/Java/ParameterizedType-com-sun-javadoc/asClassDoc/)
+* [containingType()](/Java/ParameterizedType-com-sun-javadoc/containingType/)
+* [interfaceTypes()](/Java/ParameterizedType-com-sun-javadoc/interfaceTypes/)
+* [superclassType()](/Java/ParameterizedType-com-sun-javadoc/superclassType/)
+* [typeArguments()](/Java/ParameterizedType-com-sun-javadoc/typeArguments/)
 
 ## Ejemplo
 ~~~java

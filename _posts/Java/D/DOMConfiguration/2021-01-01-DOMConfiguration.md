@@ -18,10 +18,10 @@ public interface DOMConfiguration
 ~~~
 
 ## Métodos
-* [canSetParameter()](/Java/DOMConfiguration/canSetParameter)
-* [getParameter()](/Java/DOMConfiguration/getParameter)
-* [getParameterNames()](/Java/DOMConfiguration/getParameterNames)
-* [setParameter()](/Java/DOMConfiguration/setParameter)
+* [canSetParameter()](/Java/DOMConfiguration/canSetParameter/)
+* [getParameter()](/Java/DOMConfiguration/getParameter/)
+* [getParameterNames()](/Java/DOMConfiguration/getParameterNames/)
+* [setParameter()](/Java/DOMConfiguration/setParameter/)
 
 ## Ejemplo
 ~~~java

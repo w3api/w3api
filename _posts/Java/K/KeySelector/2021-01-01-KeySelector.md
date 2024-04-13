@@ -21,8 +21,8 @@ public abstract class KeySelector extends Object
 * [KeySelector()](/Java/KeySelector/KeySelector/)
 
 ## Métodos
-* [select()](/Java/KeySelector/select)
-* [singletonKeySelector()](/Java/KeySelector/singletonKeySelector)
+* [select()](/Java/KeySelector/select/)
+* [singletonKeySelector()](/Java/KeySelector/singletonKeySelector/)
 
 ## Ejemplo
 ~~~java

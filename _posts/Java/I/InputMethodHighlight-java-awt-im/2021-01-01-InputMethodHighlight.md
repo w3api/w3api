@@ -21,18 +21,18 @@ public class InputMethodHighlight extends Object
 * [InputMethodHighlight()](/Java/InputMethodHighlight-java-awt-im/InputMethodHighlight/)
 
 ## Campos
-* [CONVERTED_TEXT](/Java/InputMethodHighlight-java-awt-im/CONVERTED_TEXT)
-* [RAW_TEXT](/Java/InputMethodHighlight-java-awt-im/RAW_TEXT)
-* [SELECTED_CONVERTED_TEXT_HIGHLIGHT](/Java/InputMethodHighlight-java-awt-im/SELECTED_CONVERTED_TEXT_HIGHLIGHT)
-* [SELECTED_RAW_TEXT_HIGHLIGHT](/Java/InputMethodHighlight-java-awt-im/SELECTED_RAW_TEXT_HIGHLIGHT)
-* [UNSELECTED_CONVERTED_TEXT_HIGHLIGHT](/Java/InputMethodHighlight-java-awt-im/UNSELECTED_CONVERTED_TEXT_HIGHLIGHT)
-* [UNSELECTED_RAW_TEXT_HIGHLIGHT](/Java/InputMethodHighlight-java-awt-im/UNSELECTED_RAW_TEXT_HIGHLIGHT)
+* [CONVERTED_TEXT](/Java/InputMethodHighlight-java-awt-im/CONVERTED_TEXT/)
+* [RAW_TEXT](/Java/InputMethodHighlight-java-awt-im/RAW_TEXT/)
+* [SELECTED_CONVERTED_TEXT_HIGHLIGHT](/Java/InputMethodHighlight-java-awt-im/SELECTED_CONVERTED_TEXT_HIGHLIGHT/)
+* [SELECTED_RAW_TEXT_HIGHLIGHT](/Java/InputMethodHighlight-java-awt-im/SELECTED_RAW_TEXT_HIGHLIGHT/)
+* [UNSELECTED_CONVERTED_TEXT_HIGHLIGHT](/Java/InputMethodHighlight-java-awt-im/UNSELECTED_CONVERTED_TEXT_HIGHLIGHT/)
+* [UNSELECTED_RAW_TEXT_HIGHLIGHT](/Java/InputMethodHighlight-java-awt-im/UNSELECTED_RAW_TEXT_HIGHLIGHT/)
 
 ## Métodos
-* [getState()](/Java/InputMethodHighlight-java-awt-im/getState)
-* [getStyle()](/Java/InputMethodHighlight-java-awt-im/getStyle)
-* [getVariation()](/Java/InputMethodHighlight-java-awt-im/getVariation)
-* [isSelected()](/Java/InputMethodHighlight-java-awt-im/isSelected)
+* [getState()](/Java/InputMethodHighlight-java-awt-im/getState/)
+* [getStyle()](/Java/InputMethodHighlight-java-awt-im/getStyle/)
+* [getVariation()](/Java/InputMethodHighlight-java-awt-im/getVariation/)
+* [isSelected()](/Java/InputMethodHighlight-java-awt-im/isSelected/)
 
 ## Ejemplo
 ~~~java

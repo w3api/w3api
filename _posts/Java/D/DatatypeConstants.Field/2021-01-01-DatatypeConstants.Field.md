@@ -18,8 +18,8 @@ public static final class DatatypeConstants.Field extends Object
 ~~~
 
 ## Métodos
-* [getId()](/Java/DatatypeConstants/Field/getId)
-* [toString()](/Java/DatatypeConstants/Field/toString)
+* [getId()](/Java/DatatypeConstants/Field/getId/)
+* [toString()](/Java/DatatypeConstants/Field/toString/)
 
 ## Ejemplo
 ~~~java

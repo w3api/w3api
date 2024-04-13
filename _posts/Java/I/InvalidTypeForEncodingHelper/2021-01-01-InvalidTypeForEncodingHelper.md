@@ -21,12 +21,12 @@ public abstract class InvalidTypeForEncodingHelper extends Object
 * [InvalidTypeForEncodingHelper()](/Java/InvalidTypeForEncodingHelper/InvalidTypeForEncodingHelper/)
 
 ## Métodos
-* [extract()](/Java/InvalidTypeForEncodingHelper/extract)
-* [id()](/Java/InvalidTypeForEncodingHelper/id)
-* [insert()](/Java/InvalidTypeForEncodingHelper/insert)
-* [read()](/Java/InvalidTypeForEncodingHelper/read)
-* [type()](/Java/InvalidTypeForEncodingHelper/type)
-* [write()](/Java/InvalidTypeForEncodingHelper/write)
+* [extract()](/Java/InvalidTypeForEncodingHelper/extract/)
+* [id()](/Java/InvalidTypeForEncodingHelper/id/)
+* [insert()](/Java/InvalidTypeForEncodingHelper/insert/)
+* [read()](/Java/InvalidTypeForEncodingHelper/read/)
+* [type()](/Java/InvalidTypeForEncodingHelper/type/)
+* [write()](/Java/InvalidTypeForEncodingHelper/write/)
 
 ## Ejemplo
 ~~~java

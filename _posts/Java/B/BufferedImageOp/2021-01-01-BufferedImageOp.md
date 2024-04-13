@@ -18,11 +18,11 @@ public interface BufferedImageOp
 ~~~
 
 ## Métodos
-* [createCompatibleDestImage()](/Java/BufferedImageOp/createCompatibleDestImage)
-* [filter()](/Java/BufferedImageOp/filter)
-* [getBounds2D()](/Java/BufferedImageOp/getBounds2D)
-* [getPoint2D()](/Java/BufferedImageOp/getPoint2D)
-* [getRenderingHints()](/Java/BufferedImageOp/getRenderingHints)
+* [createCompatibleDestImage()](/Java/BufferedImageOp/createCompatibleDestImage/)
+* [filter()](/Java/BufferedImageOp/filter/)
+* [getBounds2D()](/Java/BufferedImageOp/getBounds2D/)
+* [getPoint2D()](/Java/BufferedImageOp/getPoint2D/)
+* [getRenderingHints()](/Java/BufferedImageOp/getRenderingHints/)
 
 ## Ejemplo
 ~~~java

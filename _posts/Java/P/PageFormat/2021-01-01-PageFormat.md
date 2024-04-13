@@ -21,23 +21,23 @@ public class PageFormat extends Object implements Cloneable
 * [PageFormat()](/Java/PageFormat/PageFormat/)
 
 ## Campos
-* [LANDSCAPE](/Java/PageFormat/LANDSCAPE)
-* [PORTRAIT](/Java/PageFormat/PORTRAIT)
-* [REVERSE_LANDSCAPE](/Java/PageFormat/REVERSE_LANDSCAPE)
+* [LANDSCAPE](/Java/PageFormat/LANDSCAPE/)
+* [PORTRAIT](/Java/PageFormat/PORTRAIT/)
+* [REVERSE_LANDSCAPE](/Java/PageFormat/REVERSE_LANDSCAPE/)
 
 ## Métodos
-* [clone()](/Java/PageFormat/clone)
-* [getHeight()](/Java/PageFormat/getHeight)
-* [getImageableHeight()](/Java/PageFormat/getImageableHeight)
-* [getImageableWidth()](/Java/PageFormat/getImageableWidth)
-* [getImageableX()](/Java/PageFormat/getImageableX)
-* [getImageableY()](/Java/PageFormat/getImageableY)
-* [getMatrix()](/Java/PageFormat/getMatrix)
-* [getOrientation()](/Java/PageFormat/getOrientation)
-* [getPaper()](/Java/PageFormat/getPaper)
-* [getWidth()](/Java/PageFormat/getWidth)
-* [setOrientation()](/Java/PageFormat/setOrientation)
-* [setPaper()](/Java/PageFormat/setPaper)
+* [clone()](/Java/PageFormat/clone/)
+* [getHeight()](/Java/PageFormat/getHeight/)
+* [getImageableHeight()](/Java/PageFormat/getImageableHeight/)
+* [getImageableWidth()](/Java/PageFormat/getImageableWidth/)
+* [getImageableX()](/Java/PageFormat/getImageableX/)
+* [getImageableY()](/Java/PageFormat/getImageableY/)
+* [getMatrix()](/Java/PageFormat/getMatrix/)
+* [getOrientation()](/Java/PageFormat/getOrientation/)
+* [getPaper()](/Java/PageFormat/getPaper/)
+* [getWidth()](/Java/PageFormat/getWidth/)
+* [setOrientation()](/Java/PageFormat/setOrientation/)
+* [setPaper()](/Java/PageFormat/setPaper/)
 
 ## Ejemplo
 ~~~java

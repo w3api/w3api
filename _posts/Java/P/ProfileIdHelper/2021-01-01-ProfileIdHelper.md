@@ -21,12 +21,12 @@ public abstract class ProfileIdHelper extends Object
 * [ProfileIdHelper()](/Java/ProfileIdHelper/ProfileIdHelper/)
 
 ## Métodos
-* [extract()](/Java/ProfileIdHelper/extract)
-* [id()](/Java/ProfileIdHelper/id)
-* [insert()](/Java/ProfileIdHelper/insert)
-* [read()](/Java/ProfileIdHelper/read)
-* [type()](/Java/ProfileIdHelper/type)
-* [write()](/Java/ProfileIdHelper/write)
+* [extract()](/Java/ProfileIdHelper/extract/)
+* [id()](/Java/ProfileIdHelper/id/)
+* [insert()](/Java/ProfileIdHelper/insert/)
+* [read()](/Java/ProfileIdHelper/read/)
+* [type()](/Java/ProfileIdHelper/type/)
+* [write()](/Java/ProfileIdHelper/write/)
 
 ## Ejemplo
 ~~~java

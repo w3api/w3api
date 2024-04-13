@@ -18,8 +18,8 @@ public interface WildcardType extends TypeMirror
 ~~~
 
 ## Métodos
-* [getExtendsBound()](/Java/WildcardType-javax-lang-model-type/getExtendsBound)
-* [getSuperBound()](/Java/WildcardType-javax-lang-model-type/getSuperBound)
+* [getExtendsBound()](/Java/WildcardType-javax-lang-model-type/getExtendsBound/)
+* [getSuperBound()](/Java/WildcardType-javax-lang-model-type/getSuperBound/)
 
 ## Ejemplo
 ~~~java

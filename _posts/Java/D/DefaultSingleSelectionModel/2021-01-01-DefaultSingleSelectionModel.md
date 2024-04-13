@@ -21,15 +21,15 @@ public class DefaultSingleSelectionModel extends Object implements SingleSelecti
 * [DefaultSingleSelectionModel()](/Java/DefaultSingleSelectionModel/DefaultSingleSelectionModel/)
 
 ## Campos
-* [changeEvent](/Java/DefaultSingleSelectionModel/changeEvent)
-* [listenerList](/Java/DefaultSingleSelectionModel/listenerList)
+* [changeEvent](/Java/DefaultSingleSelectionModel/changeEvent/)
+* [listenerList](/Java/DefaultSingleSelectionModel/listenerList/)
 
 ## Métodos
-* [addChangeListener()](/Java/DefaultSingleSelectionModel/addChangeListener)
-* [fireStateChanged()](/Java/DefaultSingleSelectionModel/fireStateChanged)
-* [getChangeListeners()](/Java/DefaultSingleSelectionModel/getChangeListeners)
-* [getListeners()](/Java/DefaultSingleSelectionModel/getListeners)
-* [removeChangeListener()](/Java/DefaultSingleSelectionModel/removeChangeListener)
+* [addChangeListener()](/Java/DefaultSingleSelectionModel/addChangeListener/)
+* [fireStateChanged()](/Java/DefaultSingleSelectionModel/fireStateChanged/)
+* [getChangeListeners()](/Java/DefaultSingleSelectionModel/getChangeListeners/)
+* [getListeners()](/Java/DefaultSingleSelectionModel/getListeners/)
+* [removeChangeListener()](/Java/DefaultSingleSelectionModel/removeChangeListener/)
 
 ## Ejemplo
 ~~~java

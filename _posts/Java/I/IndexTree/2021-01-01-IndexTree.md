@@ -18,8 +18,8 @@ public interface IndexTree extends InlineTagTree
 ~~~
 
 ## Métodos
-* [getDescription()](/Java/IndexTree/getDescription)
-* [getSearchTerm()](/Java/IndexTree/getSearchTerm)
+* [getDescription()](/Java/IndexTree/getDescription/)
+* [getSearchTerm()](/Java/IndexTree/getSearchTerm/)
 
 ## Ejemplo
 ~~~java

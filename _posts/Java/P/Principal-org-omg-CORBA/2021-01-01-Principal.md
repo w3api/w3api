@@ -21,7 +21,7 @@ sidebar:
 * [Principal()](/Java/Principal-org-omg-CORBA/Principal/)
 
 ## Métodos
-* [name()](/Java/Principal-org-omg-CORBA/name)
+* [name()](/Java/Principal-org-omg-CORBA/name/)
 
 ## Ejemplo
 ~~~java

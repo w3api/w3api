@@ -21,15 +21,15 @@ public class ListDataEvent extends EventObject
 * [ListDataEvent()](/Java/ListDataEvent/ListDataEvent/)
 
 ## Campos
-* [CONTENTS_CHANGED](/Java/ListDataEvent/CONTENTS_CHANGED)
-* [INTERVAL_ADDED](/Java/ListDataEvent/INTERVAL_ADDED)
-* [INTERVAL_REMOVED](/Java/ListDataEvent/INTERVAL_REMOVED)
+* [CONTENTS_CHANGED](/Java/ListDataEvent/CONTENTS_CHANGED/)
+* [INTERVAL_ADDED](/Java/ListDataEvent/INTERVAL_ADDED/)
+* [INTERVAL_REMOVED](/Java/ListDataEvent/INTERVAL_REMOVED/)
 
 ## Métodos
-* [getIndex0()](/Java/ListDataEvent/getIndex0)
-* [getIndex1()](/Java/ListDataEvent/getIndex1)
-* [getType()](/Java/ListDataEvent/getType)
-* [toString()](/Java/ListDataEvent/toString)
+* [getIndex0()](/Java/ListDataEvent/getIndex0/)
+* [getIndex1()](/Java/ListDataEvent/getIndex1/)
+* [getType()](/Java/ListDataEvent/getType/)
+* [toString()](/Java/ListDataEvent/toString/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public abstract class PersistentSnippet extends Snippet
 ~~~
 
 ## Métodos
-* [name()](/Java/PersistentSnippet/name)
+* [name()](/Java/PersistentSnippet/name/)
 
 ## Ejemplo
 ~~~java

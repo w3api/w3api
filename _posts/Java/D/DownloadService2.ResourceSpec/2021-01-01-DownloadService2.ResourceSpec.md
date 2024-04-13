@@ -21,12 +21,12 @@ public static class DownloadService2.ResourceSpec extends Object
 * [DownloadService2.ResourceSpec()](/Java/DownloadService2/ResourceSpec/DownloadService2/ResourceSpec/)
 
 ## Métodos
-* [getExpirationDate()](/Java/DownloadService2/ResourceSpec/getExpirationDate)
-* [getLastModified()](/Java/DownloadService2/ResourceSpec/getLastModified)
-* [getSize()](/Java/DownloadService2/ResourceSpec/getSize)
-* [getType()](/Java/DownloadService2/ResourceSpec/getType)
-* [getUrl()](/Java/DownloadService2/ResourceSpec/getUrl)
-* [getVersion()](/Java/DownloadService2/ResourceSpec/getVersion)
+* [getExpirationDate()](/Java/DownloadService2/ResourceSpec/getExpirationDate/)
+* [getLastModified()](/Java/DownloadService2/ResourceSpec/getLastModified/)
+* [getSize()](/Java/DownloadService2/ResourceSpec/getSize/)
+* [getType()](/Java/DownloadService2/ResourceSpec/getType/)
+* [getUrl()](/Java/DownloadService2/ResourceSpec/getUrl/)
+* [getVersion()](/Java/DownloadService2/ResourceSpec/getVersion/)
 
 ## Ejemplo
 ~~~java

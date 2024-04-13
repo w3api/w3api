@@ -21,11 +21,11 @@ public class ColorPicker extends ComboBoxBase<Color>
 * [ColorPicker()](/Java/ColorPicker/ColorPicker/)
 
 ## Campos
-* [STYLE_CLASS_BUTTON](/Java/ColorPicker/STYLE_CLASS_BUTTON)
-* [STYLE_CLASS_SPLIT_BUTTON](/Java/ColorPicker/STYLE_CLASS_SPLIT_BUTTON)
+* [STYLE_CLASS_BUTTON](/Java/ColorPicker/STYLE_CLASS_BUTTON/)
+* [STYLE_CLASS_SPLIT_BUTTON](/Java/ColorPicker/STYLE_CLASS_SPLIT_BUTTON/)
 
 ## Métodos
-* [getCustomColors()](/Java/ColorPicker/getCustomColors)
+* [getCustomColors()](/Java/ColorPicker/getCustomColors/)
 
 ## Ejemplo
 ~~~java

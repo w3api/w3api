@@ -21,9 +21,9 @@ public final class PageRanges extends SetOfIntegerSyntax implements DocAttribute
 * [PageRanges()](/Java/PageRanges/PageRanges/)
 
 ## Métodos
-* [equals()](/Java/PageRanges/equals)
-* [getCategory()](/Java/PageRanges/getCategory)
-* [getName()](/Java/PageRanges/getName)
+* [equals()](/Java/PageRanges/equals/)
+* [getCategory()](/Java/PageRanges/getCategory/)
+* [getName()](/Java/PageRanges/getName/)
 
 ## Ejemplo
 ~~~java

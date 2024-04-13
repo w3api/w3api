@@ -18,7 +18,7 @@ public interface DeprecatedTree extends BlockTagTree
 ~~~
 
 ## Métodos
-* [getBody()](/Java/DeprecatedTree/getBody)
+* [getBody()](/Java/DeprecatedTree/getBody/)
 
 ## Ejemplo
 ~~~java

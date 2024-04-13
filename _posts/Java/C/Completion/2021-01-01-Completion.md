@@ -18,8 +18,8 @@ public interface Completion
 ~~~
 
 ## Métodos
-* [getMessage()](/Java/Completion/getMessage)
-* [getValue()](/Java/Completion/getValue)
+* [getMessage()](/Java/Completion/getMessage/)
+* [getValue()](/Java/Completion/getValue/)
 
 ## Ejemplo
 ~~~java

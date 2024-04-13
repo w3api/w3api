@@ -21,12 +21,12 @@ public class ElementIterator extends Object implements Cloneable
 * [ElementIterator()](/Java/ElementIterator/ElementIterator/)
 
 ## Métodos
-* [clone()](/Java/ElementIterator/clone)
-* [current()](/Java/ElementIterator/current)
-* [depth()](/Java/ElementIterator/depth)
-* [first()](/Java/ElementIterator/first)
-* [next()](/Java/ElementIterator/next)
-* [previous()](/Java/ElementIterator/previous)
+* [clone()](/Java/ElementIterator/clone/)
+* [current()](/Java/ElementIterator/current/)
+* [depth()](/Java/ElementIterator/depth/)
+* [first()](/Java/ElementIterator/first/)
+* [next()](/Java/ElementIterator/next/)
+* [previous()](/Java/ElementIterator/previous/)
 
 ## Ejemplo
 ~~~java

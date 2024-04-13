@@ -18,10 +18,10 @@ sidebar:
 ~~~
 
 ## Métodos
-* [and()](/Java/LongPredicate/and)
-* [negate()](/Java/LongPredicate/negate)
-* [or()](/Java/LongPredicate/or)
-* [test()](/Java/LongPredicate/test)
+* [and()](/Java/LongPredicate/and/)
+* [negate()](/Java/LongPredicate/negate/)
+* [or()](/Java/LongPredicate/or/)
+* [test()](/Java/LongPredicate/test/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface BinaryTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getLeftOperand()](/Java/BinaryTree-jdk-nashorn-api-tree/getLeftOperand)
-* [getRightOperand()](/Java/BinaryTree-jdk-nashorn-api-tree/getRightOperand)
+* [getLeftOperand()](/Java/BinaryTree-jdk-nashorn-api-tree/getLeftOperand/)
+* [getRightOperand()](/Java/BinaryTree-jdk-nashorn-api-tree/getRightOperand/)
 
 ## Ejemplo
 ~~~java

@@ -21,9 +21,9 @@ public abstract class LongPropertyBase extends LongProperty
 * [LongPropertyBase()](/Java/LongPropertyBase/LongPropertyBase/)
 
 ## Métodos
-* [fireValueChangedEvent()](/Java/LongPropertyBase/fireValueChangedEvent)
-* [invalidated()](/Java/LongPropertyBase/invalidated)
-* [toString()](/Java/LongPropertyBase/toString)
+* [fireValueChangedEvent()](/Java/LongPropertyBase/fireValueChangedEvent/)
+* [invalidated()](/Java/LongPropertyBase/invalidated/)
+* [toString()](/Java/LongPropertyBase/toString/)
 
 ## Ejemplo
 ~~~java

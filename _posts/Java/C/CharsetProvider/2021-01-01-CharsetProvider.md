@@ -21,8 +21,8 @@ public abstract class CharsetProvider extends Object
 * [CharsetProvider()](/Java/CharsetProvider/CharsetProvider/)
 
 ## Métodos
-* [charsetForName()](/Java/CharsetProvider/charsetForName)
-* [charsets()](/Java/CharsetProvider/charsets)
+* [charsetForName()](/Java/CharsetProvider/charsetForName/)
+* [charsets()](/Java/CharsetProvider/charsets/)
 
 ## Ejemplo
 ~~~java

@@ -18,13 +18,13 @@ public interface WindowListener extends EventListener
 ~~~
 
 ## Métodos
-* [windowActivated()](/Java/WindowListener/windowActivated)
-* [windowClosed()](/Java/WindowListener/windowClosed)
-* [windowClosing()](/Java/WindowListener/windowClosing)
-* [windowDeactivated()](/Java/WindowListener/windowDeactivated)
-* [windowDeiconified()](/Java/WindowListener/windowDeiconified)
-* [windowIconified()](/Java/WindowListener/windowIconified)
-* [windowOpened()](/Java/WindowListener/windowOpened)
+* [windowActivated()](/Java/WindowListener/windowActivated/)
+* [windowClosed()](/Java/WindowListener/windowClosed/)
+* [windowClosing()](/Java/WindowListener/windowClosing/)
+* [windowDeactivated()](/Java/WindowListener/windowDeactivated/)
+* [windowDeiconified()](/Java/WindowListener/windowDeiconified/)
+* [windowIconified()](/Java/WindowListener/windowIconified/)
+* [windowOpened()](/Java/WindowListener/windowOpened/)
 
 ## Ejemplo
 ~~~java

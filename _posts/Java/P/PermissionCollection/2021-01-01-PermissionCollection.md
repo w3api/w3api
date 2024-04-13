@@ -21,13 +21,13 @@ public abstract class PermissionCollection extends Object implements Serializabl
 * [PermissionCollection()](/Java/PermissionCollection/PermissionCollection/)
 
 ## Métodos
-* [add()](/Java/PermissionCollection/add)
-* [elements()](/Java/PermissionCollection/elements)
-* [elementsAsStream()](/Java/PermissionCollection/elementsAsStream)
-* [implies()](/Java/PermissionCollection/implies)
-* [isReadOnly()](/Java/PermissionCollection/isReadOnly)
-* [setReadOnly()](/Java/PermissionCollection/setReadOnly)
-* [toString()](/Java/PermissionCollection/toString)
+* [add()](/Java/PermissionCollection/add/)
+* [elements()](/Java/PermissionCollection/elements/)
+* [elementsAsStream()](/Java/PermissionCollection/elementsAsStream/)
+* [implies()](/Java/PermissionCollection/implies/)
+* [isReadOnly()](/Java/PermissionCollection/isReadOnly/)
+* [setReadOnly()](/Java/PermissionCollection/setReadOnly/)
+* [toString()](/Java/PermissionCollection/toString/)
 
 ## Ejemplo
 ~~~java

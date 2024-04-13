@@ -18,10 +18,10 @@ public interface DynArrayOperations extends DynAnyOperations
 ~~~
 
 ## Métodos
-* [get_elements()](/Java/DynArrayOperations/get_elements)
-* [get_elements_as_dyn_any()](/Java/DynArrayOperations/get_elements_as_dyn_any)
-* [set_elements()](/Java/DynArrayOperations/set_elements)
-* [set_elements_as_dyn_any()](/Java/DynArrayOperations/set_elements_as_dyn_any)
+* [get_elements()](/Java/DynArrayOperations/get_elements/)
+* [get_elements_as_dyn_any()](/Java/DynArrayOperations/get_elements_as_dyn_any/)
+* [set_elements()](/Java/DynArrayOperations/set_elements/)
+* [set_elements_as_dyn_any()](/Java/DynArrayOperations/set_elements_as_dyn_any/)
 
 ## Ejemplo
 ~~~java

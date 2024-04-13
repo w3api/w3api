@@ -21,14 +21,14 @@ public abstract class PrintServiceLookup extends Object
 * [PrintServiceLookup()](/Java/PrintServiceLookup/PrintServiceLookup/)
 
 ## Métodos
-* [getDefaultPrintService()](/Java/PrintServiceLookup/getDefaultPrintService)
-* [getMultiDocPrintServices()](/Java/PrintServiceLookup/getMultiDocPrintServices)
-* [getPrintServices()](/Java/PrintServiceLookup/getPrintServices)
-* [lookupDefaultPrintService()](/Java/PrintServiceLookup/lookupDefaultPrintService)
-* [lookupMultiDocPrintServices()](/Java/PrintServiceLookup/lookupMultiDocPrintServices)
-* [lookupPrintServices()](/Java/PrintServiceLookup/lookupPrintServices)
-* [registerService()](/Java/PrintServiceLookup/registerService)
-* [registerServiceProvider()](/Java/PrintServiceLookup/registerServiceProvider)
+* [getDefaultPrintService()](/Java/PrintServiceLookup/getDefaultPrintService/)
+* [getMultiDocPrintServices()](/Java/PrintServiceLookup/getMultiDocPrintServices/)
+* [getPrintServices()](/Java/PrintServiceLookup/getPrintServices/)
+* [lookupDefaultPrintService()](/Java/PrintServiceLookup/lookupDefaultPrintService/)
+* [lookupMultiDocPrintServices()](/Java/PrintServiceLookup/lookupMultiDocPrintServices/)
+* [lookupPrintServices()](/Java/PrintServiceLookup/lookupPrintServices/)
+* [registerService()](/Java/PrintServiceLookup/registerService/)
+* [registerServiceProvider()](/Java/PrintServiceLookup/registerServiceProvider/)
 
 ## Ejemplo
 ~~~java

@@ -21,10 +21,10 @@ public class BoundingBox extends Bounds
 * [BoundingBox()](/Java/BoundingBox/BoundingBox/)
 
 ## Métodos
-* [contains()](/Java/BoundingBox/contains)
-* [equals()](/Java/BoundingBox/equals)
-* [hashCode()](/Java/BoundingBox/hashCode)
-* [toString()](/Java/BoundingBox/toString)
+* [contains()](/Java/BoundingBox/contains/)
+* [equals()](/Java/BoundingBox/equals/)
+* [hashCode()](/Java/BoundingBox/hashCode/)
+* [toString()](/Java/BoundingBox/toString/)
 
 ## Ejemplo
 ~~~java

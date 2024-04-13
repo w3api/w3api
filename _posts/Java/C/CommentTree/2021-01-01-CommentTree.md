@@ -18,7 +18,7 @@ public interface CommentTree extends DocTree
 ~~~
 
 ## Métodos
-* [getBody()](/Java/CommentTree/getBody)
+* [getBody()](/Java/CommentTree/getBody/)
 
 ## Ejemplo
 ~~~java

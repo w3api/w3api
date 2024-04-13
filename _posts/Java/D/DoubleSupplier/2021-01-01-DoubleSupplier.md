@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [getAsDouble()](/Java/DoubleSupplier/getAsDouble)
+* [getAsDouble()](/Java/DoubleSupplier/getAsDouble/)
 
 ## Ejemplo
 ~~~java

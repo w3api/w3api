@@ -18,12 +18,12 @@ sidebar:
 ~~~
 
 ## Elementos
-* [lookup](/Java/WebServiceRef/lookup)
-* [mappedName](/Java/WebServiceRef/mappedName)
-* [name](/Java/WebServiceRef/name)
-* [type](/Java/WebServiceRef/type)
-* [value](/Java/WebServiceRef/value)
-* [wsdlLocation](/Java/WebServiceRef/wsdlLocation)
+* [lookup](/Java/WebServiceRef/lookup/)
+* [mappedName](/Java/WebServiceRef/mappedName/)
+* [name](/Java/WebServiceRef/name/)
+* [type](/Java/WebServiceRef/type/)
+* [value](/Java/WebServiceRef/value/)
+* [wsdlLocation](/Java/WebServiceRef/wsdlLocation/)
 
 ## Ejemplo
 ~~~java

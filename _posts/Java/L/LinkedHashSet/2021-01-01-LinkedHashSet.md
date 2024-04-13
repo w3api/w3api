@@ -21,7 +21,7 @@ public class LinkedHashSet<E> extends HashSet<E> implements Set<E>, Cloneable, S
 * [LinkedHashSet()](/Java/LinkedHashSet/LinkedHashSet/)
 
 ## Métodos
-* [spliterator()](/Java/LinkedHashSet/spliterator)
+* [spliterator()](/Java/LinkedHashSet/spliterator/)
 
 ## Ejemplo
 ~~~java

@@ -21,9 +21,9 @@ public class BufferedWriter extends Writer
 * [BufferedWriter()](/Java/BufferedWriter/BufferedWriter/)
 
 ## Métodos
-* [flush()](/Java/BufferedWriter/flush)
-* [newLine()](/Java/BufferedWriter/newLine)
-* [write()](/Java/BufferedWriter/write)
+* [flush()](/Java/BufferedWriter/flush/)
+* [newLine()](/Java/BufferedWriter/newLine/)
+* [write()](/Java/BufferedWriter/write/)
 
 ## Ejemplo
 ~~~java

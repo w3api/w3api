@@ -21,14 +21,14 @@ public class PaintEvent extends ComponentEvent
 * [PaintEvent()](/Java/PaintEvent/PaintEvent/)
 
 ## Campos
-* [PAINT](/Java/PaintEvent/PAINT)
-* [PAINT_FIRST](/Java/PaintEvent/PAINT_FIRST)
-* [PAINT_LAST](/Java/PaintEvent/PAINT_LAST)
-* [UPDATE](/Java/PaintEvent/UPDATE)
+* [PAINT](/Java/PaintEvent/PAINT/)
+* [PAINT_FIRST](/Java/PaintEvent/PAINT_FIRST/)
+* [PAINT_LAST](/Java/PaintEvent/PAINT_LAST/)
+* [UPDATE](/Java/PaintEvent/UPDATE/)
 
 ## Métodos
-* [getUpdateRect()](/Java/PaintEvent/getUpdateRect)
-* [setUpdateRect()](/Java/PaintEvent/setUpdateRect)
+* [getUpdateRect()](/Java/PaintEvent/getUpdateRect/)
+* [setUpdateRect()](/Java/PaintEvent/setUpdateRect/)
 
 ## Ejemplo
 ~~~java

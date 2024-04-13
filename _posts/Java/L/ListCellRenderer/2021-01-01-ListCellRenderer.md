@@ -18,7 +18,7 @@ public interface ListCellRenderer<E>
 ~~~
 
 ## Métodos
-* [getListCellRendererComponent()](/Java/ListCellRenderer/getListCellRendererComponent)
+* [getListCellRendererComponent()](/Java/ListCellRenderer/getListCellRendererComponent/)
 
 ## Ejemplo
 ~~~java

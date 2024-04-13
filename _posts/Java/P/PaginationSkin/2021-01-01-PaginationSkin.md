@@ -21,7 +21,7 @@ public class PaginationSkin extends SkinBase<Pagination>
 * [PaginationSkin()](/Java/PaginationSkin/PaginationSkin/)
 
 ## Métodos
-* [getClassCssMetaData()](/Java/PaginationSkin/getClassCssMetaData)
+* [getClassCssMetaData()](/Java/PaginationSkin/getClassCssMetaData/)
 
 ## Ejemplo
 ~~~java

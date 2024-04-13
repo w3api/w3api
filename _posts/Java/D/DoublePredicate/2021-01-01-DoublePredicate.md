@@ -18,10 +18,10 @@ sidebar:
 ~~~
 
 ## Métodos
-* [and()](/Java/DoublePredicate/and)
-* [negate()](/Java/DoublePredicate/negate)
-* [or()](/Java/DoublePredicate/or)
-* [test()](/Java/DoublePredicate/test)
+* [and()](/Java/DoublePredicate/and/)
+* [negate()](/Java/DoublePredicate/negate/)
+* [or()](/Java/DoublePredicate/or/)
+* [test()](/Java/DoublePredicate/test/)
 
 ## Ejemplo
 ~~~java

@@ -18,10 +18,10 @@ sidebar:
 ~~~
 
 ## Métodos
-* [andThen()](/Java/DoubleUnaryOperator/andThen)
-* [applyAsDouble()](/Java/DoubleUnaryOperator/applyAsDouble)
-* [compose()](/Java/DoubleUnaryOperator/compose)
-* [identity()](/Java/DoubleUnaryOperator/identity)
+* [andThen()](/Java/DoubleUnaryOperator/andThen/)
+* [applyAsDouble()](/Java/DoubleUnaryOperator/applyAsDouble/)
+* [compose()](/Java/DoubleUnaryOperator/compose/)
+* [identity()](/Java/DoubleUnaryOperator/identity/)
 
 ## Ejemplo
 ~~~java

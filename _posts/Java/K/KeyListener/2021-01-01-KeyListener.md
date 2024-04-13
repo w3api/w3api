@@ -18,9 +18,9 @@ public interface KeyListener extends EventListener
 ~~~
 
 ## Métodos
-* [keyPressed()](/Java/KeyListener/keyPressed)
-* [keyReleased()](/Java/KeyListener/keyReleased)
-* [keyTyped()](/Java/KeyListener/keyTyped)
+* [keyPressed()](/Java/KeyListener/keyPressed/)
+* [keyReleased()](/Java/KeyListener/keyReleased/)
+* [keyTyped()](/Java/KeyListener/keyTyped/)
 
 ## Ejemplo
 ~~~java

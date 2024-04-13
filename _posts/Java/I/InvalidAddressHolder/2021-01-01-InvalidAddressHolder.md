@@ -21,7 +21,7 @@ public final class InvalidAddressHolder extends Object implements Streamable
 * [InvalidAddressHolder()](/Java/InvalidAddressHolder/InvalidAddressHolder/)
 
 ## Campos
-* [value](/Java/InvalidAddressHolder/value)
+* [value](/Java/InvalidAddressHolder/value/)
 
 ## Ejemplo
 ~~~java

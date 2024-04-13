@@ -21,12 +21,12 @@ public abstract class LongLongSeqHelper extends Object
 * [LongLongSeqHelper()](/Java/LongLongSeqHelper/LongLongSeqHelper/)
 
 ## Métodos
-* [extract()](/Java/LongLongSeqHelper/extract)
-* [id()](/Java/LongLongSeqHelper/id)
-* [insert()](/Java/LongLongSeqHelper/insert)
-* [read()](/Java/LongLongSeqHelper/read)
-* [type()](/Java/LongLongSeqHelper/type)
-* [write()](/Java/LongLongSeqHelper/write)
+* [extract()](/Java/LongLongSeqHelper/extract/)
+* [id()](/Java/LongLongSeqHelper/id/)
+* [insert()](/Java/LongLongSeqHelper/insert/)
+* [read()](/Java/LongLongSeqHelper/read/)
+* [type()](/Java/LongLongSeqHelper/type/)
+* [write()](/Java/LongLongSeqHelper/write/)
 
 ## Ejemplo
 ~~~java

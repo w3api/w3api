@@ -18,19 +18,19 @@ public interface CharacterIterator extends Cloneable
 ~~~
 
 ## Campos
-* [DONE](/Java/CharacterIterator/DONE)
+* [DONE](/Java/CharacterIterator/DONE/)
 
 ## Métodos
-* [clone()](/Java/CharacterIterator/clone)
-* [current()](/Java/CharacterIterator/current)
-* [first()](/Java/CharacterIterator/first)
-* [getBeginIndex()](/Java/CharacterIterator/getBeginIndex)
-* [getEndIndex()](/Java/CharacterIterator/getEndIndex)
-* [getIndex()](/Java/CharacterIterator/getIndex)
-* [last()](/Java/CharacterIterator/last)
-* [next()](/Java/CharacterIterator/next)
-* [previous()](/Java/CharacterIterator/previous)
-* [setIndex()](/Java/CharacterIterator/setIndex)
+* [clone()](/Java/CharacterIterator/clone/)
+* [current()](/Java/CharacterIterator/current/)
+* [first()](/Java/CharacterIterator/first/)
+* [getBeginIndex()](/Java/CharacterIterator/getBeginIndex/)
+* [getEndIndex()](/Java/CharacterIterator/getEndIndex/)
+* [getIndex()](/Java/CharacterIterator/getIndex/)
+* [last()](/Java/CharacterIterator/last/)
+* [next()](/Java/CharacterIterator/next/)
+* [previous()](/Java/CharacterIterator/previous/)
+* [setIndex()](/Java/CharacterIterator/setIndex/)
 
 ## Ejemplo
 ~~~java

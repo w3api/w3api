@@ -18,7 +18,7 @@ public interface LIFESPAN_POLICY_ID
 ~~~
 
 ## Campos
-* [value](/Java/LIFESPAN_POLICY_ID/value)
+* [value](/Java/LIFESPAN_POLICY_ID/value/)
 
 ## Ejemplo
 ~~~java

@@ -21,7 +21,7 @@ public abstract class CollatorProvider extends LocaleServiceProvider
 * [CollatorProvider()](/Java/CollatorProvider/CollatorProvider/)
 
 ## Métodos
-* [getInstance()](/Java/CollatorProvider/getInstance)
+* [getInstance()](/Java/CollatorProvider/getInstance/)
 
 ## Ejemplo
 ~~~java

@@ -18,14 +18,14 @@ public final class ConfigurationInfo extends Object
 ~~~
 
 ## Métodos
-* [from()](/Java/ConfigurationInfo/from)
-* [getContents()](/Java/ConfigurationInfo/getContents)
-* [getDescription()](/Java/ConfigurationInfo/getDescription)
-* [getLabel()](/Java/ConfigurationInfo/getLabel)
-* [getName()](/Java/ConfigurationInfo/getName)
-* [getProvider()](/Java/ConfigurationInfo/getProvider)
-* [getSettings()](/Java/ConfigurationInfo/getSettings)
-* [toString()](/Java/ConfigurationInfo/toString)
+* [from()](/Java/ConfigurationInfo/from/)
+* [getContents()](/Java/ConfigurationInfo/getContents/)
+* [getDescription()](/Java/ConfigurationInfo/getDescription/)
+* [getLabel()](/Java/ConfigurationInfo/getLabel/)
+* [getName()](/Java/ConfigurationInfo/getName/)
+* [getProvider()](/Java/ConfigurationInfo/getProvider/)
+* [getSettings()](/Java/ConfigurationInfo/getSettings/)
+* [toString()](/Java/ConfigurationInfo/toString/)
 
 ## Ejemplo
 ~~~java

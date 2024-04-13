@@ -18,10 +18,10 @@ public interface ECPublicKey extends PublicKey, ECKey
 ~~~
 
 ## Campos
-* [serialVersionUID](/Java/ECPublicKey/serialVersionUID)
+* [serialVersionUID](/Java/ECPublicKey/serialVersionUID/)
 
 ## Métodos
-* [getW()](/Java/ECPublicKey/getW)
+* [getW()](/Java/ECPublicKey/getW/)
 
 ## Ejemplo
 ~~~java

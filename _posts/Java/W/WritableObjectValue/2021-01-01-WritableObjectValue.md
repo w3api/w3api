@@ -18,8 +18,8 @@ public interface WritableObjectValue<T> extends WritableValue<T>
 ~~~
 
 ## Métodos
-* [get()](/Java/WritableObjectValue/get)
-* [set()](/Java/WritableObjectValue/set)
+* [get()](/Java/WritableObjectValue/get/)
+* [set()](/Java/WritableObjectValue/set/)
 
 ## Ejemplo
 ~~~java

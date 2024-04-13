@@ -21,14 +21,14 @@ public abstract class DynAnyFactoryHelper extends Object
 * [DynAnyFactoryHelper()](/Java/DynAnyFactoryHelper/DynAnyFactoryHelper/)
 
 ## Métodos
-* [extract()](/Java/DynAnyFactoryHelper/extract)
-* [id()](/Java/DynAnyFactoryHelper/id)
-* [insert()](/Java/DynAnyFactoryHelper/insert)
-* [narrow()](/Java/DynAnyFactoryHelper/narrow)
-* [read()](/Java/DynAnyFactoryHelper/read)
-* [type()](/Java/DynAnyFactoryHelper/type)
-* [unchecked_narrow()](/Java/DynAnyFactoryHelper/unchecked_narrow)
-* [write()](/Java/DynAnyFactoryHelper/write)
+* [extract()](/Java/DynAnyFactoryHelper/extract/)
+* [id()](/Java/DynAnyFactoryHelper/id/)
+* [insert()](/Java/DynAnyFactoryHelper/insert/)
+* [narrow()](/Java/DynAnyFactoryHelper/narrow/)
+* [read()](/Java/DynAnyFactoryHelper/read/)
+* [type()](/Java/DynAnyFactoryHelper/type/)
+* [unchecked_narrow()](/Java/DynAnyFactoryHelper/unchecked_narrow/)
+* [write()](/Java/DynAnyFactoryHelper/write/)
 
 ## Ejemplo
 ~~~java

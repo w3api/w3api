@@ -18,9 +18,9 @@ public class ICC_ProfileGray extends ICC_Profile
 ~~~
 
 ## Métodos
-* [getGamma()](/Java/ICC_ProfileGray/getGamma)
-* [getMediaWhitePoint()](/Java/ICC_ProfileGray/getMediaWhitePoint)
-* [getTRC()](/Java/ICC_ProfileGray/getTRC)
+* [getGamma()](/Java/ICC_ProfileGray/getGamma/)
+* [getMediaWhitePoint()](/Java/ICC_ProfileGray/getMediaWhitePoint/)
+* [getTRC()](/Java/ICC_ProfileGray/getTRC/)
 
 ## Ejemplo
 ~~~java

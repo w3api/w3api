@@ -18,7 +18,7 @@ public interface ErroneousTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getErrorTrees()](/Java/ErroneousTree-com-sun-source-tree/getErrorTrees)
+* [getErrorTrees()](/Java/ErroneousTree-com-sun-source-tree/getErrorTrees/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface PrintGraphics
 ~~~
 
 ## Métodos
-* [getPrintJob()](/Java/PrintGraphics/getPrintJob)
+* [getPrintJob()](/Java/PrintGraphics/getPrintJob/)
 
 ## Ejemplo
 ~~~java

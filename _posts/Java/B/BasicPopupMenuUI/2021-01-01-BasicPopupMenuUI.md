@@ -21,16 +21,16 @@ public class BasicPopupMenuUI extends PopupMenuUI
 * [BasicPopupMenuUI()](/Java/BasicPopupMenuUI/BasicPopupMenuUI/)
 
 ## Campos
-* [popupMenu](/Java/BasicPopupMenuUI/popupMenu)
+* [popupMenu](/Java/BasicPopupMenuUI/popupMenu/)
 
 ## Métodos
-* [createUI()](/Java/BasicPopupMenuUI/createUI)
-* [installDefaults()](/Java/BasicPopupMenuUI/installDefaults)
-* [installKeyboardActions()](/Java/BasicPopupMenuUI/installKeyboardActions)
-* [installListeners()](/Java/BasicPopupMenuUI/installListeners)
-* [uninstallDefaults()](/Java/BasicPopupMenuUI/uninstallDefaults)
-* [uninstallKeyboardActions()](/Java/BasicPopupMenuUI/uninstallKeyboardActions)
-* [uninstallListeners()](/Java/BasicPopupMenuUI/uninstallListeners)
+* [createUI()](/Java/BasicPopupMenuUI/createUI/)
+* [installDefaults()](/Java/BasicPopupMenuUI/installDefaults/)
+* [installKeyboardActions()](/Java/BasicPopupMenuUI/installKeyboardActions/)
+* [installListeners()](/Java/BasicPopupMenuUI/installListeners/)
+* [uninstallDefaults()](/Java/BasicPopupMenuUI/uninstallDefaults/)
+* [uninstallKeyboardActions()](/Java/BasicPopupMenuUI/uninstallKeyboardActions/)
+* [uninstallListeners()](/Java/BasicPopupMenuUI/uninstallListeners/)
 
 ## Ejemplo
 ~~~java

@@ -21,17 +21,17 @@ public final class DatagramPacket extends Object
 * [DatagramPacket()](/Java/DatagramPacket/DatagramPacket/)
 
 ## Métodos
-* [getAddress()](/Java/DatagramPacket/getAddress)
-* [getData()](/Java/DatagramPacket/getData)
-* [getLength()](/Java/DatagramPacket/getLength)
-* [getOffset()](/Java/DatagramPacket/getOffset)
-* [getPort()](/Java/DatagramPacket/getPort)
-* [getSocketAddress()](/Java/DatagramPacket/getSocketAddress)
-* [setAddress()](/Java/DatagramPacket/setAddress)
-* [setData()](/Java/DatagramPacket/setData)
-* [setLength()](/Java/DatagramPacket/setLength)
-* [setPort()](/Java/DatagramPacket/setPort)
-* [setSocketAddress()](/Java/DatagramPacket/setSocketAddress)
+* [getAddress()](/Java/DatagramPacket/getAddress/)
+* [getData()](/Java/DatagramPacket/getData/)
+* [getLength()](/Java/DatagramPacket/getLength/)
+* [getOffset()](/Java/DatagramPacket/getOffset/)
+* [getPort()](/Java/DatagramPacket/getPort/)
+* [getSocketAddress()](/Java/DatagramPacket/getSocketAddress/)
+* [setAddress()](/Java/DatagramPacket/setAddress/)
+* [setData()](/Java/DatagramPacket/setData/)
+* [setLength()](/Java/DatagramPacket/setLength/)
+* [setPort()](/Java/DatagramPacket/setPort/)
+* [setSocketAddress()](/Java/DatagramPacket/setSocketAddress/)
 
 ## Ejemplo
 ~~~java

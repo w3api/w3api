@@ -21,9 +21,9 @@ public final class CssParser extends Object
 * [CssParser()](/Java/CssParser/CssParser/)
 
 ## Métodos
-* [errorsProperty()](/Java/CssParser/errorsProperty)
-* [parse()](/Java/CssParser/parse)
-* [parseInlineStyle()](/Java/CssParser/parseInlineStyle)
+* [errorsProperty()](/Java/CssParser/errorsProperty/)
+* [parse()](/Java/CssParser/parse/)
+* [parseInlineStyle()](/Java/CssParser/parseInlineStyle/)
 
 ## Ejemplo
 ~~~java

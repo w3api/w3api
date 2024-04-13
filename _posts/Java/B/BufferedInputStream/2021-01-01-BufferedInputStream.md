@@ -21,20 +21,20 @@ public class BufferedInputStream extends FilterInputStream
 * [BufferedInputStream()](/Java/BufferedInputStream/BufferedInputStream/)
 
 ## Campos
-* [buf](/Java/BufferedInputStream/buf)
-* [count](/Java/BufferedInputStream/count)
-* [marklimit](/Java/BufferedInputStream/marklimit)
-* [markpos](/Java/BufferedInputStream/markpos)
-* [pos](/Java/BufferedInputStream/pos)
+* [buf](/Java/BufferedInputStream/buf/)
+* [count](/Java/BufferedInputStream/count/)
+* [marklimit](/Java/BufferedInputStream/marklimit/)
+* [markpos](/Java/BufferedInputStream/markpos/)
+* [pos](/Java/BufferedInputStream/pos/)
 
 ## Métodos
-* [available()](/Java/BufferedInputStream/available)
-* [close()](/Java/BufferedInputStream/close)
-* [mark()](/Java/BufferedInputStream/mark)
-* [markSupported()](/Java/BufferedInputStream/markSupported)
-* [read()](/Java/BufferedInputStream/read)
-* [reset()](/Java/BufferedInputStream/reset)
-* [skip()](/Java/BufferedInputStream/skip)
+* [available()](/Java/BufferedInputStream/available/)
+* [close()](/Java/BufferedInputStream/close/)
+* [mark()](/Java/BufferedInputStream/mark/)
+* [markSupported()](/Java/BufferedInputStream/markSupported/)
+* [read()](/Java/BufferedInputStream/read/)
+* [reset()](/Java/BufferedInputStream/reset/)
+* [skip()](/Java/BufferedInputStream/skip/)
 
 ## Ejemplo
 ~~~java

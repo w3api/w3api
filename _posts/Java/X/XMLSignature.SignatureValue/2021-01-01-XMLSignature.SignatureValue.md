@@ -18,9 +18,9 @@ public static interface XMLSignature.SignatureValue extends XMLStructure
 ~~~
 
 ## Métodos
-* [getId()](/Java/XMLSignature/SignatureValue/getId)
-* [getValue()](/Java/XMLSignature/SignatureValue/getValue)
-* [validate()](/Java/XMLSignature/SignatureValue/validate)
+* [getId()](/Java/XMLSignature/SignatureValue/getId/)
+* [getValue()](/Java/XMLSignature/SignatureValue/getValue/)
+* [validate()](/Java/XMLSignature/SignatureValue/validate/)
 
 ## Ejemplo
 ~~~java

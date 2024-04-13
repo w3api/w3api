@@ -18,7 +18,7 @@ public static final class PaintConverter.ImagePatternConverter extends StyleConv
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/PaintConverter/ImagePatternConverter/getInstance)
+* [getInstance()](/Java/PaintConverter/ImagePatternConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

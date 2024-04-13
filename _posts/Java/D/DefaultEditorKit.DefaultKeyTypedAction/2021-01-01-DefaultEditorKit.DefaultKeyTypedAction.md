@@ -21,7 +21,7 @@ public static class DefaultEditorKit.DefaultKeyTypedAction extends TextAction
 * [DefaultEditorKit.DefaultKeyTypedAction()](/Java/DefaultEditorKit/DefaultKeyTypedAction/DefaultEditorKit/DefaultKeyTypedAction/)
 
 ## Métodos
-* [actionPerformed()](/Java/DefaultEditorKit/DefaultKeyTypedAction/actionPerformed)
+* [actionPerformed()](/Java/DefaultEditorKit/DefaultKeyTypedAction/actionPerformed/)
 
 ## Ejemplo
 ~~~java

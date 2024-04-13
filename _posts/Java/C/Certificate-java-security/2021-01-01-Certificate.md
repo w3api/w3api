@@ -18,13 +18,13 @@ sidebar:
 ~~~
 
 ## Métodos
-* [decode()](/Java/Certificate-java-security/decode)
-* [encode()](/Java/Certificate-java-security/encode)
-* [getFormat()](/Java/Certificate-java-security/getFormat)
-* [getGuarantor()](/Java/Certificate-java-security/getGuarantor)
-* [getPrincipal()](/Java/Certificate-java-security/getPrincipal)
-* [getPublicKey()](/Java/Certificate-java-security/getPublicKey)
-* [toString()](/Java/Certificate-java-security/toString)
+* [decode()](/Java/Certificate-java-security/decode/)
+* [encode()](/Java/Certificate-java-security/encode/)
+* [getFormat()](/Java/Certificate-java-security/getFormat/)
+* [getGuarantor()](/Java/Certificate-java-security/getGuarantor/)
+* [getPrincipal()](/Java/Certificate-java-security/getPrincipal/)
+* [getPublicKey()](/Java/Certificate-java-security/getPublicKey/)
+* [toString()](/Java/Certificate-java-security/toString/)
 
 ## Ejemplo
 ~~~java

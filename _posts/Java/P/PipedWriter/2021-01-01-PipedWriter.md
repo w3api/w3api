@@ -21,10 +21,10 @@ public class PipedWriter extends Writer
 * [PipedWriter()](/Java/PipedWriter/PipedWriter/)
 
 ## Métodos
-* [close()](/Java/PipedWriter/close)
-* [connect()](/Java/PipedWriter/connect)
-* [flush()](/Java/PipedWriter/flush)
-* [write()](/Java/PipedWriter/write)
+* [close()](/Java/PipedWriter/close/)
+* [connect()](/Java/PipedWriter/connect/)
+* [flush()](/Java/PipedWriter/flush/)
+* [write()](/Java/PipedWriter/write/)
 
 ## Ejemplo
 ~~~java

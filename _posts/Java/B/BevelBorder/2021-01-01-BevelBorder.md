@@ -21,25 +21,25 @@ public class BevelBorder extends AbstractBorder
 * [BevelBorder()](/Java/BevelBorder/BevelBorder/)
 
 ## Campos
-* [bevelType](/Java/BevelBorder/bevelType)
-* [highlightInner](/Java/BevelBorder/highlightInner)
-* [highlightOuter](/Java/BevelBorder/highlightOuter)
-* [LOWERED](/Java/BevelBorder/LOWERED)
-* [RAISED](/Java/BevelBorder/RAISED)
-* [shadowInner](/Java/BevelBorder/shadowInner)
-* [shadowOuter](/Java/BevelBorder/shadowOuter)
+* [bevelType](/Java/BevelBorder/bevelType/)
+* [highlightInner](/Java/BevelBorder/highlightInner/)
+* [highlightOuter](/Java/BevelBorder/highlightOuter/)
+* [LOWERED](/Java/BevelBorder/LOWERED/)
+* [RAISED](/Java/BevelBorder/RAISED/)
+* [shadowInner](/Java/BevelBorder/shadowInner/)
+* [shadowOuter](/Java/BevelBorder/shadowOuter/)
 
 ## Métodos
-* [getBevelType()](/Java/BevelBorder/getBevelType)
-* [getBorderInsets()](/Java/BevelBorder/getBorderInsets)
-* [getHighlightInnerColor()](/Java/BevelBorder/getHighlightInnerColor)
-* [getHighlightOuterColor()](/Java/BevelBorder/getHighlightOuterColor)
-* [getShadowInnerColor()](/Java/BevelBorder/getShadowInnerColor)
-* [getShadowOuterColor()](/Java/BevelBorder/getShadowOuterColor)
-* [isBorderOpaque()](/Java/BevelBorder/isBorderOpaque)
-* [paintBorder()](/Java/BevelBorder/paintBorder)
-* [paintLoweredBevel()](/Java/BevelBorder/paintLoweredBevel)
-* [paintRaisedBevel()](/Java/BevelBorder/paintRaisedBevel)
+* [getBevelType()](/Java/BevelBorder/getBevelType/)
+* [getBorderInsets()](/Java/BevelBorder/getBorderInsets/)
+* [getHighlightInnerColor()](/Java/BevelBorder/getHighlightInnerColor/)
+* [getHighlightOuterColor()](/Java/BevelBorder/getHighlightOuterColor/)
+* [getShadowInnerColor()](/Java/BevelBorder/getShadowInnerColor/)
+* [getShadowOuterColor()](/Java/BevelBorder/getShadowOuterColor/)
+* [isBorderOpaque()](/Java/BevelBorder/isBorderOpaque/)
+* [paintBorder()](/Java/BevelBorder/paintBorder/)
+* [paintLoweredBevel()](/Java/BevelBorder/paintLoweredBevel/)
+* [paintRaisedBevel()](/Java/BevelBorder/paintRaisedBevel/)
 
 ## Ejemplo
 ~~~java

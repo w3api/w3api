@@ -18,7 +18,7 @@ public interface LocatableEvent extends Event, Locatable
 ~~~
 
 ## Métodos
-* [thread()](/Java/LocatableEvent/thread)
+* [thread()](/Java/LocatableEvent/thread/)
 
 ## Ejemplo
 ~~~java

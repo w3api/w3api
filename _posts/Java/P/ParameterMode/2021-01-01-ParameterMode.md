@@ -21,16 +21,16 @@ public class ParameterMode extends Object implements IDLEntity
 * [ParameterMode()](/Java/ParameterMode/ParameterMode/)
 
 ## Campos
-* [_PARAM_IN](/Java/ParameterMode/_PARAM_IN)
-* [_PARAM_INOUT](/Java/ParameterMode/_PARAM_INOUT)
-* [_PARAM_OUT](/Java/ParameterMode/_PARAM_OUT)
-* [PARAM_IN](/Java/ParameterMode/PARAM_IN)
-* [PARAM_INOUT](/Java/ParameterMode/PARAM_INOUT)
-* [PARAM_OUT](/Java/ParameterMode/PARAM_OUT)
+* [_PARAM_IN](/Java/ParameterMode/_PARAM_IN/)
+* [_PARAM_INOUT](/Java/ParameterMode/_PARAM_INOUT/)
+* [_PARAM_OUT](/Java/ParameterMode/_PARAM_OUT/)
+* [PARAM_IN](/Java/ParameterMode/PARAM_IN/)
+* [PARAM_INOUT](/Java/ParameterMode/PARAM_INOUT/)
+* [PARAM_OUT](/Java/ParameterMode/PARAM_OUT/)
 
 ## Métodos
-* [from_int()](/Java/ParameterMode/from_int)
-* [value()](/Java/ParameterMode/value)
+* [from_int()](/Java/ParameterMode/from_int/)
+* [value()](/Java/ParameterMode/value/)
 
 ## Ejemplo
 ~~~java

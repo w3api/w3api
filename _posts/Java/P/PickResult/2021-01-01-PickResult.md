@@ -21,15 +21,15 @@ public class PickResult extends Object
 * [PickResult()](/Java/PickResult/PickResult/)
 
 ## Campos
-* [FACE_UNDEFINED](/Java/PickResult/FACE_UNDEFINED)
+* [FACE_UNDEFINED](/Java/PickResult/FACE_UNDEFINED/)
 
 ## Métodos
-* [getIntersectedDistance()](/Java/PickResult/getIntersectedDistance)
-* [getIntersectedFace()](/Java/PickResult/getIntersectedFace)
-* [getIntersectedNode()](/Java/PickResult/getIntersectedNode)
-* [getIntersectedNormal()](/Java/PickResult/getIntersectedNormal)
-* [getIntersectedPoint()](/Java/PickResult/getIntersectedPoint)
-* [getIntersectedTexCoord()](/Java/PickResult/getIntersectedTexCoord)
+* [getIntersectedDistance()](/Java/PickResult/getIntersectedDistance/)
+* [getIntersectedFace()](/Java/PickResult/getIntersectedFace/)
+* [getIntersectedNode()](/Java/PickResult/getIntersectedNode/)
+* [getIntersectedNormal()](/Java/PickResult/getIntersectedNormal/)
+* [getIntersectedPoint()](/Java/PickResult/getIntersectedPoint/)
+* [getIntersectedTexCoord()](/Java/PickResult/getIntersectedTexCoord/)
 
 ## Ejemplo
 ~~~java

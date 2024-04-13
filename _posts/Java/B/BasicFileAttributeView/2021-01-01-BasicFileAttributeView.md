@@ -18,9 +18,9 @@ public interface BasicFileAttributeView extends FileAttributeView
 ~~~
 
 ## Métodos
-* [name()](/Java/BasicFileAttributeView/name)
-* [readAttributes()](/Java/BasicFileAttributeView/readAttributes)
-* [setTimes()](/Java/BasicFileAttributeView/setTimes)
+* [name()](/Java/BasicFileAttributeView/name/)
+* [readAttributes()](/Java/BasicFileAttributeView/readAttributes/)
+* [setTimes()](/Java/BasicFileAttributeView/setTimes/)
 
 ## Ejemplo
 ~~~java

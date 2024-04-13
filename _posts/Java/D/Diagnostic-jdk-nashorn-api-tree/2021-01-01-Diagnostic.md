@@ -18,16 +18,16 @@ public interface Diagnostic
 ~~~
 
 ## Campos
-* [NOPOS](/Java/Diagnostic-jdk-nashorn-api-tree/NOPOS)
+* [NOPOS](/Java/Diagnostic-jdk-nashorn-api-tree/NOPOS/)
 
 ## Métodos
-* [getCode()](/Java/Diagnostic-jdk-nashorn-api-tree/getCode)
-* [getColumnNumber()](/Java/Diagnostic-jdk-nashorn-api-tree/getColumnNumber)
-* [getFileName()](/Java/Diagnostic-jdk-nashorn-api-tree/getFileName)
-* [getKind()](/Java/Diagnostic-jdk-nashorn-api-tree/getKind)
-* [getLineNumber()](/Java/Diagnostic-jdk-nashorn-api-tree/getLineNumber)
-* [getMessage()](/Java/Diagnostic-jdk-nashorn-api-tree/getMessage)
-* [getPosition()](/Java/Diagnostic-jdk-nashorn-api-tree/getPosition)
+* [getCode()](/Java/Diagnostic-jdk-nashorn-api-tree/getCode/)
+* [getColumnNumber()](/Java/Diagnostic-jdk-nashorn-api-tree/getColumnNumber/)
+* [getFileName()](/Java/Diagnostic-jdk-nashorn-api-tree/getFileName/)
+* [getKind()](/Java/Diagnostic-jdk-nashorn-api-tree/getKind/)
+* [getLineNumber()](/Java/Diagnostic-jdk-nashorn-api-tree/getLineNumber/)
+* [getMessage()](/Java/Diagnostic-jdk-nashorn-api-tree/getMessage/)
+* [getPosition()](/Java/Diagnostic-jdk-nashorn-api-tree/getPosition/)
 
 ## Ejemplo
 ~~~java

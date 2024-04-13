@@ -21,11 +21,11 @@ public class ChoiceBoxTableCell<S,T> extends TableCell<S,T>
 * [ChoiceBoxTableCell()](/Java/ChoiceBoxTableCell/ChoiceBoxTableCell/)
 
 ## Métodos
-* [converterProperty()](/Java/ChoiceBoxTableCell/converterProperty)
-* [forTableColumn()](/Java/ChoiceBoxTableCell/forTableColumn)
-* [getConverter()](/Java/ChoiceBoxTableCell/getConverter)
-* [getItems()](/Java/ChoiceBoxTableCell/getItems)
-* [setConverter()](/Java/ChoiceBoxTableCell/setConverter)
+* [converterProperty()](/Java/ChoiceBoxTableCell/converterProperty/)
+* [forTableColumn()](/Java/ChoiceBoxTableCell/forTableColumn/)
+* [getConverter()](/Java/ChoiceBoxTableCell/getConverter/)
+* [getItems()](/Java/ChoiceBoxTableCell/getItems/)
+* [setConverter()](/Java/ChoiceBoxTableCell/setConverter/)
 
 ## Ejemplo
 ~~~java

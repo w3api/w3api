@@ -21,7 +21,7 @@ public abstract class LdapReferralException extends ReferralException
 * [LdapReferralException()](/Java/LdapReferralException/LdapReferralException/)
 
 ## Métodos
-* [getReferralContext()](/Java/LdapReferralException/getReferralContext)
+* [getReferralContext()](/Java/LdapReferralException/getReferralContext/)
 
 ## Ejemplo
 ~~~java

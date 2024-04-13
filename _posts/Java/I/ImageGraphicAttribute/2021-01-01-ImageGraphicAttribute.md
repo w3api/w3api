@@ -21,12 +21,12 @@ public final class ImageGraphicAttribute extends GraphicAttribute
 * [ImageGraphicAttribute()](/Java/ImageGraphicAttribute/ImageGraphicAttribute/)
 
 ## Métodos
-* [equals()](/Java/ImageGraphicAttribute/equals)
-* [getAdvance()](/Java/ImageGraphicAttribute/getAdvance)
-* [getAscent()](/Java/ImageGraphicAttribute/getAscent)
-* [getBounds()](/Java/ImageGraphicAttribute/getBounds)
-* [getDescent()](/Java/ImageGraphicAttribute/getDescent)
-* [hashCode()](/Java/ImageGraphicAttribute/hashCode)
+* [equals()](/Java/ImageGraphicAttribute/equals/)
+* [getAdvance()](/Java/ImageGraphicAttribute/getAdvance/)
+* [getAscent()](/Java/ImageGraphicAttribute/getAscent/)
+* [getBounds()](/Java/ImageGraphicAttribute/getBounds/)
+* [getDescent()](/Java/ImageGraphicAttribute/getDescent/)
+* [hashCode()](/Java/ImageGraphicAttribute/hashCode/)
 
 ## Ejemplo
 ~~~java

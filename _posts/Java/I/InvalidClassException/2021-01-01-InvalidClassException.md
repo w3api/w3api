@@ -21,10 +21,10 @@ public class InvalidClassException extends ObjectStreamException
 * [InvalidClassException()](/Java/InvalidClassException/InvalidClassException/)
 
 ## Campos
-* [classname](/Java/InvalidClassException/classname)
+* [classname](/Java/InvalidClassException/classname/)
 
 ## Métodos
-* [getMessage()](/Java/InvalidClassException/getMessage)
+* [getMessage()](/Java/InvalidClassException/getMessage/)
 
 ## Ejemplo
 ~~~java

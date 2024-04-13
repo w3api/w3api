@@ -18,15 +18,15 @@ public interface CompositeData
 ~~~
 
 ## Métodos
-* [containsKey()](/Java/CompositeData/containsKey)
-* [containsValue()](/Java/CompositeData/containsValue)
-* [equals()](/Java/CompositeData/equals)
-* [get()](/Java/CompositeData/get)
-* [getAll()](/Java/CompositeData/getAll)
-* [getCompositeType()](/Java/CompositeData/getCompositeType)
-* [hashCode()](/Java/CompositeData/hashCode)
-* [toString()](/Java/CompositeData/toString)
-* [values()](/Java/CompositeData/values)
+* [containsKey()](/Java/CompositeData/containsKey/)
+* [containsValue()](/Java/CompositeData/containsValue/)
+* [equals()](/Java/CompositeData/equals/)
+* [get()](/Java/CompositeData/get/)
+* [getAll()](/Java/CompositeData/getAll/)
+* [getCompositeType()](/Java/CompositeData/getCompositeType/)
+* [hashCode()](/Java/CompositeData/hashCode/)
+* [toString()](/Java/CompositeData/toString/)
+* [values()](/Java/CompositeData/values/)
 
 ## Ejemplo
 ~~~java

@@ -18,22 +18,22 @@ public final class WeekFields extends Object implements Serializable
 ~~~
 
 ## Campos
-* [ISO](/Java/WeekFields/ISO)
-* [SUNDAY_START](/Java/WeekFields/SUNDAY_START)
-* [WEEK_BASED_YEARS](/Java/WeekFields/WEEK_BASED_YEARS)
+* [ISO](/Java/WeekFields/ISO/)
+* [SUNDAY_START](/Java/WeekFields/SUNDAY_START/)
+* [WEEK_BASED_YEARS](/Java/WeekFields/WEEK_BASED_YEARS/)
 
 ## Métodos
-* [dayOfWeek()](/Java/WeekFields/dayOfWeek)
-* [equals()](/Java/WeekFields/equals)
-* [getFirstDayOfWeek()](/Java/WeekFields/getFirstDayOfWeek)
-* [getMinimalDaysInFirstWeek()](/Java/WeekFields/getMinimalDaysInFirstWeek)
-* [hashCode()](/Java/WeekFields/hashCode)
-* [of()](/Java/WeekFields/of)
-* [toString()](/Java/WeekFields/toString)
-* [weekBasedYear()](/Java/WeekFields/weekBasedYear)
-* [weekOfMonth()](/Java/WeekFields/weekOfMonth)
-* [weekOfWeekBasedYear()](/Java/WeekFields/weekOfWeekBasedYear)
-* [weekOfYear()](/Java/WeekFields/weekOfYear)
+* [dayOfWeek()](/Java/WeekFields/dayOfWeek/)
+* [equals()](/Java/WeekFields/equals/)
+* [getFirstDayOfWeek()](/Java/WeekFields/getFirstDayOfWeek/)
+* [getMinimalDaysInFirstWeek()](/Java/WeekFields/getMinimalDaysInFirstWeek/)
+* [hashCode()](/Java/WeekFields/hashCode/)
+* [of()](/Java/WeekFields/of/)
+* [toString()](/Java/WeekFields/toString/)
+* [weekBasedYear()](/Java/WeekFields/weekBasedYear/)
+* [weekOfMonth()](/Java/WeekFields/weekOfMonth/)
+* [weekOfWeekBasedYear()](/Java/WeekFields/weekOfWeekBasedYear/)
+* [weekOfYear()](/Java/WeekFields/weekOfYear/)
 
 ## Ejemplo
 ~~~java

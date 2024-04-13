@@ -18,7 +18,7 @@ public interface ClassObjectReference extends ObjectReference
 ~~~
 
 ## Métodos
-* [reflectedType()](/Java/ClassObjectReference/reflectedType)
+* [reflectedType()](/Java/ClassObjectReference/reflectedType/)
 
 ## Ejemplo
 ~~~java

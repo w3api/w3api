@@ -21,11 +21,11 @@ public class KeyGenerator extends Object
 * [KeyGenerator()](/Java/KeyGenerator/KeyGenerator/)
 
 ## Métodos
-* [generateKey()](/Java/KeyGenerator/generateKey)
-* [getAlgorithm()](/Java/KeyGenerator/getAlgorithm)
-* [getInstance()](/Java/KeyGenerator/getInstance)
-* [getProvider()](/Java/KeyGenerator/getProvider)
-* [init()](/Java/KeyGenerator/init)
+* [generateKey()](/Java/KeyGenerator/generateKey/)
+* [getAlgorithm()](/Java/KeyGenerator/getAlgorithm/)
+* [getInstance()](/Java/KeyGenerator/getInstance/)
+* [getProvider()](/Java/KeyGenerator/getProvider/)
+* [init()](/Java/KeyGenerator/init/)
 
 ## Ejemplo
 ~~~java

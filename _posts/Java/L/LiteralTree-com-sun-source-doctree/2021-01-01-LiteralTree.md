@@ -18,7 +18,7 @@ public interface LiteralTree extends InlineTagTree
 ~~~
 
 ## Métodos
-* [getBody()](/Java/LiteralTree-com-sun-source-doctree/getBody)
+* [getBody()](/Java/LiteralTree-com-sun-source-doctree/getBody/)
 
 ## Ejemplo
 ~~~java

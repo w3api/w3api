@@ -18,15 +18,15 @@ public static enum DrbgParameters.Capability extends Enum<DrbgParameters.Capabil
 ~~~
 
 ## Enumerados
-* [NONE](/Java/DrbgParameters/Capability/NONE)
-* [PR_AND_RESEED](/Java/DrbgParameters/Capability/PR_AND_RESEED)
-* [RESEED_ONLY](/Java/DrbgParameters/Capability/RESEED_ONLY)
+* [NONE](/Java/DrbgParameters/Capability/NONE/)
+* [PR_AND_RESEED](/Java/DrbgParameters/Capability/PR_AND_RESEED/)
+* [RESEED_ONLY](/Java/DrbgParameters/Capability/RESEED_ONLY/)
 
 ## Métodos
-* [supportsPredictionResistance()](/Java/DrbgParameters/Capability/supportsPredictionResistance)
-* [supportsReseeding()](/Java/DrbgParameters/Capability/supportsReseeding)
-* [valueOf()](/Java/DrbgParameters/Capability/valueOf)
-* [values()](/Java/DrbgParameters/Capability/values)
+* [supportsPredictionResistance()](/Java/DrbgParameters/Capability/supportsPredictionResistance/)
+* [supportsReseeding()](/Java/DrbgParameters/Capability/supportsReseeding/)
+* [valueOf()](/Java/DrbgParameters/Capability/valueOf/)
+* [values()](/Java/DrbgParameters/Capability/values/)
 
 ## Ejemplo
 ~~~java

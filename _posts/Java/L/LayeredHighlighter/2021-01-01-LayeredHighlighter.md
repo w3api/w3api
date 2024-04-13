@@ -21,7 +21,7 @@ public abstract class LayeredHighlighter extends Object implements Highlighter
 * [LayeredHighlighter()](/Java/LayeredHighlighter/LayeredHighlighter/)
 
 ## Métodos
-* [paintLayeredHighlights()](/Java/LayeredHighlighter/paintLayeredHighlights)
+* [paintLayeredHighlights()](/Java/LayeredHighlighter/paintLayeredHighlights/)
 
 ## Ejemplo
 ~~~java

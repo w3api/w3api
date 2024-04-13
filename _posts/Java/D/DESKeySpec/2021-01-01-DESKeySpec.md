@@ -21,12 +21,12 @@ public class DESKeySpec extends Object implements KeySpec
 * [DESKeySpec()](/Java/DESKeySpec/DESKeySpec/)
 
 ## Campos
-* [DES_KEY_LEN](/Java/DESKeySpec/DES_KEY_LEN)
+* [DES_KEY_LEN](/Java/DESKeySpec/DES_KEY_LEN/)
 
 ## Métodos
-* [getKey()](/Java/DESKeySpec/getKey)
-* [isParityAdjusted()](/Java/DESKeySpec/isParityAdjusted)
-* [isWeak()](/Java/DESKeySpec/isWeak)
+* [getKey()](/Java/DESKeySpec/getKey/)
+* [isParityAdjusted()](/Java/DESKeySpec/isParityAdjusted/)
+* [isWeak()](/Java/DESKeySpec/isWeak/)
 
 ## Ejemplo
 ~~~java

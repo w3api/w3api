@@ -18,8 +18,8 @@ public interface PackageTree extends Tree
 ~~~
 
 ## Métodos
-* [getAnnotations()](/Java/PackageTree/getAnnotations)
-* [getPackageName()](/Java/PackageTree/getPackageName)
+* [getAnnotations()](/Java/PackageTree/getAnnotations/)
+* [getPackageName()](/Java/PackageTree/getPackageName/)
 
 ## Ejemplo
 ~~~java

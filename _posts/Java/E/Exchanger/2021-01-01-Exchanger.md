@@ -21,7 +21,7 @@ public class Exchanger<V> extends Object
 * [Exchanger()](/Java/Exchanger/Exchanger/)
 
 ## Métodos
-* [exchange()](/Java/Exchanger/exchange)
+* [exchange()](/Java/Exchanger/exchange/)
 
 ## Ejemplo
 ~~~java

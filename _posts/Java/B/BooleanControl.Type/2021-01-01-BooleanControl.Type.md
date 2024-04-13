@@ -21,8 +21,8 @@ public static class BooleanControl.Type extends Control.Type
 * [BooleanControl.Type()](/Java/BooleanControl/Type/BooleanControl/Type/)
 
 ## Campos
-* [APPLY_REVERB](/Java/BooleanControl/Type/APPLY_REVERB)
-* [MUTE](/Java/BooleanControl/Type/MUTE)
+* [APPLY_REVERB](/Java/BooleanControl/Type/APPLY_REVERB/)
+* [MUTE](/Java/BooleanControl/Type/MUTE/)
 
 ## Ejemplo
 ~~~java

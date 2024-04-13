@@ -18,7 +18,7 @@ public interface DragGestureListener extends EventListener
 ~~~
 
 ## Métodos
-* [dragGestureRecognized()](/Java/DragGestureListener/dragGestureRecognized)
+* [dragGestureRecognized()](/Java/DragGestureListener/dragGestureRecognized/)
 
 ## Ejemplo
 ~~~java

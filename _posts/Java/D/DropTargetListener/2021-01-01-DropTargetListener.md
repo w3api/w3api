@@ -18,11 +18,11 @@ public interface DropTargetListener extends EventListener
 ~~~
 
 ## Métodos
-* [dragEnter()](/Java/DropTargetListener/dragEnter)
-* [dragExit()](/Java/DropTargetListener/dragExit)
-* [dragOver()](/Java/DropTargetListener/dragOver)
-* [drop()](/Java/DropTargetListener/drop)
-* [dropActionChanged()](/Java/DropTargetListener/dropActionChanged)
+* [dragEnter()](/Java/DropTargetListener/dragEnter/)
+* [dragExit()](/Java/DropTargetListener/dragExit/)
+* [dragOver()](/Java/DropTargetListener/dragOver/)
+* [drop()](/Java/DropTargetListener/drop/)
+* [dropActionChanged()](/Java/DropTargetListener/dropActionChanged/)
 
 ## Ejemplo
 ~~~java

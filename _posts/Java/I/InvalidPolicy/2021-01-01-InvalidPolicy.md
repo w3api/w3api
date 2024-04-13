@@ -21,7 +21,7 @@ public final class InvalidPolicy extends UserException
 * [InvalidPolicy()](/Java/InvalidPolicy/InvalidPolicy/)
 
 ## Campos
-* [index](/Java/InvalidPolicy/index)
+* [index](/Java/InvalidPolicy/index/)
 
 ## Ejemplo
 ~~~java

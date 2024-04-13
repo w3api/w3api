@@ -18,11 +18,11 @@ public interface Printable
 ~~~
 
 ## Campos
-* [NO_SUCH_PAGE](/Java/Printable/NO_SUCH_PAGE)
-* [PAGE_EXISTS](/Java/Printable/PAGE_EXISTS)
+* [NO_SUCH_PAGE](/Java/Printable/NO_SUCH_PAGE/)
+* [PAGE_EXISTS](/Java/Printable/PAGE_EXISTS/)
 
 ## Métodos
-* [print()](/Java/Printable/print)
+* [print()](/Java/Printable/print/)
 
 ## Ejemplo
 ~~~java

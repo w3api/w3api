@@ -18,17 +18,17 @@ public enum ContentDisplay extends Enum<ContentDisplay>
 ~~~
 
 ## Enumerados
-* [BOTTOM](/Java/ContentDisplay/BOTTOM)
-* [CENTER](/Java/ContentDisplay/CENTER)
-* [GRAPHIC_ONLY](/Java/ContentDisplay/GRAPHIC_ONLY)
-* [LEFT](/Java/ContentDisplay/LEFT)
-* [RIGHT](/Java/ContentDisplay/RIGHT)
-* [TEXT_ONLY](/Java/ContentDisplay/TEXT_ONLY)
-* [TOP](/Java/ContentDisplay/TOP)
+* [BOTTOM](/Java/ContentDisplay/BOTTOM/)
+* [CENTER](/Java/ContentDisplay/CENTER/)
+* [GRAPHIC_ONLY](/Java/ContentDisplay/GRAPHIC_ONLY/)
+* [LEFT](/Java/ContentDisplay/LEFT/)
+* [RIGHT](/Java/ContentDisplay/RIGHT/)
+* [TEXT_ONLY](/Java/ContentDisplay/TEXT_ONLY/)
+* [TOP](/Java/ContentDisplay/TOP/)
 
 ## Métodos
-* [valueOf()](/Java/ContentDisplay/valueOf)
-* [values()](/Java/ContentDisplay/values)
+* [valueOf()](/Java/ContentDisplay/valueOf/)
+* [values()](/Java/ContentDisplay/values/)
 
 ## Ejemplo
 ~~~java

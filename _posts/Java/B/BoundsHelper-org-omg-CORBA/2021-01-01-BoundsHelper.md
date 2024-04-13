@@ -21,12 +21,12 @@ public abstract class BoundsHelper extends Object
 * [BoundsHelper()](/Java/BoundsHelper-org-omg-CORBA/BoundsHelper/)
 
 ## Métodos
-* [extract()](/Java/BoundsHelper-org-omg-CORBA/extract)
-* [id()](/Java/BoundsHelper-org-omg-CORBA/id)
-* [insert()](/Java/BoundsHelper-org-omg-CORBA/insert)
-* [read()](/Java/BoundsHelper-org-omg-CORBA/read)
-* [type()](/Java/BoundsHelper-org-omg-CORBA/type)
-* [write()](/Java/BoundsHelper-org-omg-CORBA/write)
+* [extract()](/Java/BoundsHelper-org-omg-CORBA/extract/)
+* [id()](/Java/BoundsHelper-org-omg-CORBA/id/)
+* [insert()](/Java/BoundsHelper-org-omg-CORBA/insert/)
+* [read()](/Java/BoundsHelper-org-omg-CORBA/read/)
+* [type()](/Java/BoundsHelper-org-omg-CORBA/type/)
+* [write()](/Java/BoundsHelper-org-omg-CORBA/write/)
 
 ## Ejemplo
 ~~~java

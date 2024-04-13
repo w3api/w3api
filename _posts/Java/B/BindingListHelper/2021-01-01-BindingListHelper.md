@@ -21,12 +21,12 @@ public abstract class BindingListHelper extends Object
 * [BindingListHelper()](/Java/BindingListHelper/BindingListHelper/)
 
 ## Métodos
-* [extract()](/Java/BindingListHelper/extract)
-* [id()](/Java/BindingListHelper/id)
-* [insert()](/Java/BindingListHelper/insert)
-* [read()](/Java/BindingListHelper/read)
-* [type()](/Java/BindingListHelper/type)
-* [write()](/Java/BindingListHelper/write)
+* [extract()](/Java/BindingListHelper/extract/)
+* [id()](/Java/BindingListHelper/id/)
+* [insert()](/Java/BindingListHelper/insert/)
+* [read()](/Java/BindingListHelper/read/)
+* [type()](/Java/BindingListHelper/type/)
+* [write()](/Java/BindingListHelper/write/)
 
 ## Ejemplo
 ~~~java

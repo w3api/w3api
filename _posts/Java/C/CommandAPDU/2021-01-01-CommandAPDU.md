@@ -21,17 +21,17 @@ public final class CommandAPDU extends Object implements Serializable
 * [CommandAPDU()](/Java/CommandAPDU/CommandAPDU/)
 
 ## Métodos
-* [equals()](/Java/CommandAPDU/equals)
-* [getBytes()](/Java/CommandAPDU/getBytes)
-* [getCLA()](/Java/CommandAPDU/getCLA)
-* [getData()](/Java/CommandAPDU/getData)
-* [getINS()](/Java/CommandAPDU/getINS)
-* [getNc()](/Java/CommandAPDU/getNc)
-* [getNe()](/Java/CommandAPDU/getNe)
-* [getP1()](/Java/CommandAPDU/getP1)
-* [getP2()](/Java/CommandAPDU/getP2)
-* [hashCode()](/Java/CommandAPDU/hashCode)
-* [toString()](/Java/CommandAPDU/toString)
+* [equals()](/Java/CommandAPDU/equals/)
+* [getBytes()](/Java/CommandAPDU/getBytes/)
+* [getCLA()](/Java/CommandAPDU/getCLA/)
+* [getData()](/Java/CommandAPDU/getData/)
+* [getINS()](/Java/CommandAPDU/getINS/)
+* [getNc()](/Java/CommandAPDU/getNc/)
+* [getNe()](/Java/CommandAPDU/getNe/)
+* [getP1()](/Java/CommandAPDU/getP1/)
+* [getP2()](/Java/CommandAPDU/getP2/)
+* [hashCode()](/Java/CommandAPDU/hashCode/)
+* [toString()](/Java/CommandAPDU/toString/)
 
 ## Ejemplo
 ~~~java

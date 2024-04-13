@@ -21,7 +21,7 @@ sidebar:
 * [DynamicImplementation()](/Java/DynamicImplementation-org-omg-CORBA/DynamicImplementation/)
 
 ## Métodos
-* [invoke()](/Java/DynamicImplementation-org-omg-CORBA/invoke)
+* [invoke()](/Java/DynamicImplementation-org-omg-CORBA/invoke/)
 
 ## Ejemplo
 ~~~java

@@ -18,18 +18,18 @@ public interface BindingProvider
 ~~~
 
 ## Campos
-* [ENDPOINT_ADDRESS_PROPERTY](/Java/BindingProvider/ENDPOINT_ADDRESS_PROPERTY)
-* [PASSWORD_PROPERTY](/Java/BindingProvider/PASSWORD_PROPERTY)
-* [SESSION_MAINTAIN_PROPERTY](/Java/BindingProvider/SESSION_MAINTAIN_PROPERTY)
-* [SOAPACTION_URI_PROPERTY](/Java/BindingProvider/SOAPACTION_URI_PROPERTY)
-* [SOAPACTION_USE_PROPERTY](/Java/BindingProvider/SOAPACTION_USE_PROPERTY)
-* [USERNAME_PROPERTY](/Java/BindingProvider/USERNAME_PROPERTY)
+* [ENDPOINT_ADDRESS_PROPERTY](/Java/BindingProvider/ENDPOINT_ADDRESS_PROPERTY/)
+* [PASSWORD_PROPERTY](/Java/BindingProvider/PASSWORD_PROPERTY/)
+* [SESSION_MAINTAIN_PROPERTY](/Java/BindingProvider/SESSION_MAINTAIN_PROPERTY/)
+* [SOAPACTION_URI_PROPERTY](/Java/BindingProvider/SOAPACTION_URI_PROPERTY/)
+* [SOAPACTION_USE_PROPERTY](/Java/BindingProvider/SOAPACTION_USE_PROPERTY/)
+* [USERNAME_PROPERTY](/Java/BindingProvider/USERNAME_PROPERTY/)
 
 ## Métodos
-* [getBinding()](/Java/BindingProvider/getBinding)
-* [getEndpointReference()](/Java/BindingProvider/getEndpointReference)
-* [getRequestContext()](/Java/BindingProvider/getRequestContext)
-* [getResponseContext()](/Java/BindingProvider/getResponseContext)
+* [getBinding()](/Java/BindingProvider/getBinding/)
+* [getEndpointReference()](/Java/BindingProvider/getEndpointReference/)
+* [getRequestContext()](/Java/BindingProvider/getRequestContext/)
+* [getResponseContext()](/Java/BindingProvider/getResponseContext/)
 
 ## Ejemplo
 ~~~java

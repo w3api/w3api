@@ -21,17 +21,17 @@ public final class DynamicLinkerFactory extends Object
 * [DynamicLinkerFactory()](/Java/DynamicLinkerFactory/DynamicLinkerFactory/)
 
 ## Métodos
-* [createLinker()](/Java/DynamicLinkerFactory/createLinker)
-* [getAutoLoadingErrors()](/Java/DynamicLinkerFactory/getAutoLoadingErrors)
-* [setAutoConversionStrategy()](/Java/DynamicLinkerFactory/setAutoConversionStrategy)
-* [setClassLoader()](/Java/DynamicLinkerFactory/setClassLoader)
-* [setFallbackLinkers()](/Java/DynamicLinkerFactory/setFallbackLinkers)
-* [setInternalObjectsFilter()](/Java/DynamicLinkerFactory/setInternalObjectsFilter)
-* [setPrelinkTransformer()](/Java/DynamicLinkerFactory/setPrelinkTransformer)
-* [setPrioritizedLinker()](/Java/DynamicLinkerFactory/setPrioritizedLinker)
-* [setPrioritizedLinkers()](/Java/DynamicLinkerFactory/setPrioritizedLinkers)
-* [setSyncOnRelink()](/Java/DynamicLinkerFactory/setSyncOnRelink)
-* [setUnstableRelinkThreshold()](/Java/DynamicLinkerFactory/setUnstableRelinkThreshold)
+* [createLinker()](/Java/DynamicLinkerFactory/createLinker/)
+* [getAutoLoadingErrors()](/Java/DynamicLinkerFactory/getAutoLoadingErrors/)
+* [setAutoConversionStrategy()](/Java/DynamicLinkerFactory/setAutoConversionStrategy/)
+* [setClassLoader()](/Java/DynamicLinkerFactory/setClassLoader/)
+* [setFallbackLinkers()](/Java/DynamicLinkerFactory/setFallbackLinkers/)
+* [setInternalObjectsFilter()](/Java/DynamicLinkerFactory/setInternalObjectsFilter/)
+* [setPrelinkTransformer()](/Java/DynamicLinkerFactory/setPrelinkTransformer/)
+* [setPrioritizedLinker()](/Java/DynamicLinkerFactory/setPrioritizedLinker/)
+* [setPrioritizedLinkers()](/Java/DynamicLinkerFactory/setPrioritizedLinkers/)
+* [setSyncOnRelink()](/Java/DynamicLinkerFactory/setSyncOnRelink/)
+* [setUnstableRelinkThreshold()](/Java/DynamicLinkerFactory/setUnstableRelinkThreshold/)
 
 ## Ejemplo
 ~~~java

@@ -21,11 +21,11 @@ public class ChoiceBoxTreeTableCell<S,T> extends TreeTableCell<S,T>
 * [ChoiceBoxTreeTableCell()](/Java/ChoiceBoxTreeTableCell/ChoiceBoxTreeTableCell/)
 
 ## Métodos
-* [converterProperty()](/Java/ChoiceBoxTreeTableCell/converterProperty)
-* [forTreeTableColumn()](/Java/ChoiceBoxTreeTableCell/forTreeTableColumn)
-* [getConverter()](/Java/ChoiceBoxTreeTableCell/getConverter)
-* [getItems()](/Java/ChoiceBoxTreeTableCell/getItems)
-* [setConverter()](/Java/ChoiceBoxTreeTableCell/setConverter)
+* [converterProperty()](/Java/ChoiceBoxTreeTableCell/converterProperty/)
+* [forTreeTableColumn()](/Java/ChoiceBoxTreeTableCell/forTreeTableColumn/)
+* [getConverter()](/Java/ChoiceBoxTreeTableCell/getConverter/)
+* [getItems()](/Java/ChoiceBoxTreeTableCell/getItems/)
+* [setConverter()](/Java/ChoiceBoxTreeTableCell/setConverter/)
 
 ## Ejemplo
 ~~~java

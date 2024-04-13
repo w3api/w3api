@@ -21,23 +21,23 @@ public class ProgressMonitor extends Object implements Accessible
 * [ProgressMonitor()](/Java/ProgressMonitor/ProgressMonitor/)
 
 ## Campos
-* [accessibleContext](/Java/ProgressMonitor/accessibleContext)
+* [accessibleContext](/Java/ProgressMonitor/accessibleContext/)
 
 ## Métodos
-* [close()](/Java/ProgressMonitor/close)
-* [getAccessibleContext()](/Java/ProgressMonitor/getAccessibleContext)
-* [getMaximum()](/Java/ProgressMonitor/getMaximum)
-* [getMillisToDecideToPopup()](/Java/ProgressMonitor/getMillisToDecideToPopup)
-* [getMillisToPopup()](/Java/ProgressMonitor/getMillisToPopup)
-* [getMinimum()](/Java/ProgressMonitor/getMinimum)
-* [getNote()](/Java/ProgressMonitor/getNote)
-* [isCanceled()](/Java/ProgressMonitor/isCanceled)
-* [setMaximum()](/Java/ProgressMonitor/setMaximum)
-* [setMillisToDecideToPopup()](/Java/ProgressMonitor/setMillisToDecideToPopup)
-* [setMillisToPopup()](/Java/ProgressMonitor/setMillisToPopup)
-* [setMinimum()](/Java/ProgressMonitor/setMinimum)
-* [setNote()](/Java/ProgressMonitor/setNote)
-* [setProgress()](/Java/ProgressMonitor/setProgress)
+* [close()](/Java/ProgressMonitor/close/)
+* [getAccessibleContext()](/Java/ProgressMonitor/getAccessibleContext/)
+* [getMaximum()](/Java/ProgressMonitor/getMaximum/)
+* [getMillisToDecideToPopup()](/Java/ProgressMonitor/getMillisToDecideToPopup/)
+* [getMillisToPopup()](/Java/ProgressMonitor/getMillisToPopup/)
+* [getMinimum()](/Java/ProgressMonitor/getMinimum/)
+* [getNote()](/Java/ProgressMonitor/getNote/)
+* [isCanceled()](/Java/ProgressMonitor/isCanceled/)
+* [setMaximum()](/Java/ProgressMonitor/setMaximum/)
+* [setMillisToDecideToPopup()](/Java/ProgressMonitor/setMillisToDecideToPopup/)
+* [setMillisToPopup()](/Java/ProgressMonitor/setMillisToPopup/)
+* [setMinimum()](/Java/ProgressMonitor/setMinimum/)
+* [setNote()](/Java/ProgressMonitor/setNote/)
+* [setProgress()](/Java/ProgressMonitor/setProgress/)
 
 ## Ejemplo
 ~~~java

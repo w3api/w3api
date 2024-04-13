@@ -18,10 +18,10 @@ public interface ListModel<E>
 ~~~
 
 ## Métodos
-* [addListDataListener()](/Java/ListModel/addListDataListener)
-* [getElementAt()](/Java/ListModel/getElementAt)
-* [getSize()](/Java/ListModel/getSize)
-* [removeListDataListener()](/Java/ListModel/removeListDataListener)
+* [addListDataListener()](/Java/ListModel/addListDataListener/)
+* [getElementAt()](/Java/ListModel/getElementAt/)
+* [getSize()](/Java/ListModel/getSize/)
+* [removeListDataListener()](/Java/ListModel/removeListDataListener/)
 
 ## Ejemplo
 ~~~java

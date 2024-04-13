@@ -21,12 +21,12 @@ public abstract class InvalidNameHelper extends Object
 * [InvalidNameHelper()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/InvalidNameHelper/)
 
 ## Métodos
-* [extract()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/extract)
-* [id()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/id)
-* [insert()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/insert)
-* [read()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/read)
-* [type()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/type)
-* [write()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/write)
+* [extract()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/extract/)
+* [id()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/id/)
+* [insert()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/insert/)
+* [read()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/read/)
+* [type()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/type/)
+* [write()](/Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/write/)
 
 ## Ejemplo
 ~~~java

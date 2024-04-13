@@ -18,12 +18,12 @@ public interface DynStructOperations extends DynAnyOperations
 ~~~
 
 ## Métodos
-* [current_member_kind()](/Java/DynStructOperations/current_member_kind)
-* [current_member_name()](/Java/DynStructOperations/current_member_name)
-* [get_members()](/Java/DynStructOperations/get_members)
-* [get_members_as_dyn_any()](/Java/DynStructOperations/get_members_as_dyn_any)
-* [set_members()](/Java/DynStructOperations/set_members)
-* [set_members_as_dyn_any()](/Java/DynStructOperations/set_members_as_dyn_any)
+* [current_member_kind()](/Java/DynStructOperations/current_member_kind/)
+* [current_member_name()](/Java/DynStructOperations/current_member_name/)
+* [get_members()](/Java/DynStructOperations/get_members/)
+* [get_members_as_dyn_any()](/Java/DynStructOperations/get_members_as_dyn_any/)
+* [set_members()](/Java/DynStructOperations/set_members/)
+* [set_members_as_dyn_any()](/Java/DynStructOperations/set_members_as_dyn_any/)
 
 ## Ejemplo
 ~~~java

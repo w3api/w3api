@@ -18,7 +18,7 @@ public interface ExtendedGSSCredential extends GSSCredential
 ~~~
 
 ## Métodos
-* [impersonate()](/Java/ExtendedGSSCredential/impersonate)
+* [impersonate()](/Java/ExtendedGSSCredential/impersonate/)
 
 ## Ejemplo
 ~~~java

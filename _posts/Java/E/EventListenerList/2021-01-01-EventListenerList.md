@@ -21,15 +21,15 @@ public class EventListenerList extends Object implements Serializable
 * [EventListenerList()](/Java/EventListenerList/EventListenerList/)
 
 ## Campos
-* [listenerList](/Java/EventListenerList/listenerList)
+* [listenerList](/Java/EventListenerList/listenerList/)
 
 ## Métodos
-* [add()](/Java/EventListenerList/add)
-* [getListenerCount()](/Java/EventListenerList/getListenerCount)
-* [getListenerList()](/Java/EventListenerList/getListenerList)
-* [getListeners()](/Java/EventListenerList/getListeners)
-* [remove()](/Java/EventListenerList/remove)
-* [toString()](/Java/EventListenerList/toString)
+* [add()](/Java/EventListenerList/add/)
+* [getListenerCount()](/Java/EventListenerList/getListenerCount/)
+* [getListenerList()](/Java/EventListenerList/getListenerList/)
+* [getListeners()](/Java/EventListenerList/getListeners/)
+* [remove()](/Java/EventListenerList/remove/)
+* [toString()](/Java/EventListenerList/toString/)
 
 ## Ejemplo
 ~~~java

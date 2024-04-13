@@ -18,7 +18,7 @@ public interface PrintFilesHandler
 ~~~
 
 ## Métodos
-* [printFiles()](/Java/PrintFilesHandler/printFiles)
+* [printFiles()](/Java/PrintFilesHandler/printFiles/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public abstract class KeyManagerFactorySpi extends Object
 * [KeyManagerFactorySpi()](/Java/KeyManagerFactorySpi/KeyManagerFactorySpi/)
 
 ## Métodos
-* [engineGetKeyManagers()](/Java/KeyManagerFactorySpi/engineGetKeyManagers)
-* [engineInit()](/Java/KeyManagerFactorySpi/engineInit)
+* [engineGetKeyManagers()](/Java/KeyManagerFactorySpi/engineGetKeyManagers/)
+* [engineInit()](/Java/KeyManagerFactorySpi/engineInit/)
 
 ## Ejemplo
 ~~~java

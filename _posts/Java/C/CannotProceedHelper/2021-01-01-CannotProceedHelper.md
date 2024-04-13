@@ -21,12 +21,12 @@ public abstract class CannotProceedHelper extends Object
 * [CannotProceedHelper()](/Java/CannotProceedHelper/CannotProceedHelper/)
 
 ## Métodos
-* [extract()](/Java/CannotProceedHelper/extract)
-* [id()](/Java/CannotProceedHelper/id)
-* [insert()](/Java/CannotProceedHelper/insert)
-* [read()](/Java/CannotProceedHelper/read)
-* [type()](/Java/CannotProceedHelper/type)
-* [write()](/Java/CannotProceedHelper/write)
+* [extract()](/Java/CannotProceedHelper/extract/)
+* [id()](/Java/CannotProceedHelper/id/)
+* [insert()](/Java/CannotProceedHelper/insert/)
+* [read()](/Java/CannotProceedHelper/read/)
+* [type()](/Java/CannotProceedHelper/type/)
+* [write()](/Java/CannotProceedHelper/write/)
 
 ## Ejemplo
 ~~~java

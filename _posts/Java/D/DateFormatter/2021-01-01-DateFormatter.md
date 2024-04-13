@@ -21,7 +21,7 @@ public class DateFormatter extends InternationalFormatter
 * [DateFormatter()](/Java/DateFormatter/DateFormatter/)
 
 ## Métodos
-* [setFormat()](/Java/DateFormatter/setFormat)
+* [setFormat()](/Java/DateFormatter/setFormat/)
 
 ## Ejemplo
 ~~~java

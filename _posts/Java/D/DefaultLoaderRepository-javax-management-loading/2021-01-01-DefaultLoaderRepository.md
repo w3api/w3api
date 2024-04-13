@@ -21,8 +21,8 @@ sidebar:
 * [DefaultLoaderRepository()](/Java/DefaultLoaderRepository-javax-management-loading/DefaultLoaderRepository/)
 
 ## Métodos
-* [loadClass()](/Java/DefaultLoaderRepository-javax-management-loading/loadClass)
-* [loadClassWithout()](/Java/DefaultLoaderRepository-javax-management-loading/loadClassWithout)
+* [loadClass()](/Java/DefaultLoaderRepository-javax-management-loading/loadClass/)
+* [loadClassWithout()](/Java/DefaultLoaderRepository-javax-management-loading/loadClassWithout/)
 
 ## Ejemplo
 ~~~java

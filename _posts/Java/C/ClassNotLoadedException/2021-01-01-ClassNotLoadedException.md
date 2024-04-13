@@ -21,7 +21,7 @@ public class ClassNotLoadedException extends Exception
 * [ClassNotLoadedException()](/Java/ClassNotLoadedException/ClassNotLoadedException/)
 
 ## Métodos
-* [className()](/Java/ClassNotLoadedException/className)
+* [className()](/Java/ClassNotLoadedException/className/)
 
 ## Ejemplo
 ~~~java

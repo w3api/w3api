@@ -21,11 +21,11 @@ public class Krb5LoginModule extends Object implements LoginModule
 * [Krb5LoginModule()](/Java/Krb5LoginModule/Krb5LoginModule/)
 
 ## Métodos
-* [abort()](/Java/Krb5LoginModule/abort)
-* [commit()](/Java/Krb5LoginModule/commit)
-* [initialize()](/Java/Krb5LoginModule/initialize)
-* [login()](/Java/Krb5LoginModule/login)
-* [logout()](/Java/Krb5LoginModule/logout)
+* [abort()](/Java/Krb5LoginModule/abort/)
+* [commit()](/Java/Krb5LoginModule/commit/)
+* [initialize()](/Java/Krb5LoginModule/initialize/)
+* [login()](/Java/Krb5LoginModule/login/)
+* [logout()](/Java/Krb5LoginModule/logout/)
 
 ## Ejemplo
 ~~~java

@@ -21,10 +21,10 @@ public final class ExcC14NParameterSpec extends Object implements C14NMethodPara
 * [ExcC14NParameterSpec()](/Java/ExcC14NParameterSpec/ExcC14NParameterSpec/)
 
 ## Campos
-* [DEFAULT](/Java/ExcC14NParameterSpec/DEFAULT)
+* [DEFAULT](/Java/ExcC14NParameterSpec/DEFAULT/)
 
 ## Métodos
-* [getPrefixList()](/Java/ExcC14NParameterSpec/getPrefixList)
+* [getPrefixList()](/Java/ExcC14NParameterSpec/getPrefixList/)
 
 ## Ejemplo
 ~~~java

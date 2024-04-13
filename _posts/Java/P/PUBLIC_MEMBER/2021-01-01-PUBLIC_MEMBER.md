@@ -18,7 +18,7 @@ public interface PUBLIC_MEMBER
 ~~~
 
 ## Campos
-* [value](/Java/PUBLIC_MEMBER/value)
+* [value](/Java/PUBLIC_MEMBER/value/)
 
 ## Ejemplo
 ~~~java

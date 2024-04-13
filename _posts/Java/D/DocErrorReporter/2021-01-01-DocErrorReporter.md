@@ -18,9 +18,9 @@ sidebar:
 ~~~
 
 ## Métodos
-* [printError()](/Java/DocErrorReporter/printError)
-* [printNotice()](/Java/DocErrorReporter/printNotice)
-* [printWarning()](/Java/DocErrorReporter/printWarning)
+* [printError()](/Java/DocErrorReporter/printError/)
+* [printNotice()](/Java/DocErrorReporter/printNotice/)
+* [printWarning()](/Java/DocErrorReporter/printWarning/)
 
 ## Ejemplo
 ~~~java

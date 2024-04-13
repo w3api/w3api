@@ -21,12 +21,12 @@ public final class IntHolder extends Object implements Streamable
 * [IntHolder()](/Java/IntHolder/IntHolder/)
 
 ## Campos
-* [value](/Java/IntHolder/value)
+* [value](/Java/IntHolder/value/)
 
 ## Métodos
-* [_read()](/Java/IntHolder/_read)
-* [_type()](/Java/IntHolder/_type)
-* [_write()](/Java/IntHolder/_write)
+* [_read()](/Java/IntHolder/_read/)
+* [_type()](/Java/IntHolder/_type/)
+* [_write()](/Java/IntHolder/_write/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public abstract class CaretEvent extends EventObject
 * [CaretEvent()](/Java/CaretEvent/CaretEvent/)
 
 ## Métodos
-* [getDot()](/Java/CaretEvent/getDot)
-* [getMark()](/Java/CaretEvent/getMark)
+* [getDot()](/Java/CaretEvent/getDot/)
+* [getMark()](/Java/CaretEvent/getMark/)
 
 ## Ejemplo
 ~~~java

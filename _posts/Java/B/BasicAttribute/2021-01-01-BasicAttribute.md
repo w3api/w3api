@@ -21,21 +21,21 @@ public class BasicAttribute extends Object implements Attribute
 * [BasicAttribute()](/Java/BasicAttribute/BasicAttribute/)
 
 ## Campos
-* [attrID](/Java/BasicAttribute/attrID)
-* [ordered](/Java/BasicAttribute/ordered)
-* [values](/Java/BasicAttribute/values)
+* [attrID](/Java/BasicAttribute/attrID/)
+* [ordered](/Java/BasicAttribute/ordered/)
+* [values](/Java/BasicAttribute/values/)
 
 ## Métodos
-* [add()](/Java/BasicAttribute/add)
-* [contains()](/Java/BasicAttribute/contains)
-* [equals()](/Java/BasicAttribute/equals)
-* [get()](/Java/BasicAttribute/get)
-* [getAll()](/Java/BasicAttribute/getAll)
-* [getAttributeDefinition()](/Java/BasicAttribute/getAttributeDefinition)
-* [getAttributeSyntaxDefinition()](/Java/BasicAttribute/getAttributeSyntaxDefinition)
-* [hashCode()](/Java/BasicAttribute/hashCode)
-* [remove()](/Java/BasicAttribute/remove)
-* [toString()](/Java/BasicAttribute/toString)
+* [add()](/Java/BasicAttribute/add/)
+* [contains()](/Java/BasicAttribute/contains/)
+* [equals()](/Java/BasicAttribute/equals/)
+* [get()](/Java/BasicAttribute/get/)
+* [getAll()](/Java/BasicAttribute/getAll/)
+* [getAttributeDefinition()](/Java/BasicAttribute/getAttributeDefinition/)
+* [getAttributeSyntaxDefinition()](/Java/BasicAttribute/getAttributeSyntaxDefinition/)
+* [hashCode()](/Java/BasicAttribute/hashCode/)
+* [remove()](/Java/BasicAttribute/remove/)
+* [toString()](/Java/BasicAttribute/toString/)
 
 ## Ejemplo
 ~~~java

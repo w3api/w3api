@@ -21,14 +21,14 @@ public class LocatorImpl extends Object implements Locator
 * [LocatorImpl()](/Java/LocatorImpl/LocatorImpl/)
 
 ## Métodos
-* [getColumnNumber()](/Java/LocatorImpl/getColumnNumber)
-* [getLineNumber()](/Java/LocatorImpl/getLineNumber)
-* [getPublicId()](/Java/LocatorImpl/getPublicId)
-* [getSystemId()](/Java/LocatorImpl/getSystemId)
-* [setColumnNumber()](/Java/LocatorImpl/setColumnNumber)
-* [setLineNumber()](/Java/LocatorImpl/setLineNumber)
-* [setPublicId()](/Java/LocatorImpl/setPublicId)
-* [setSystemId()](/Java/LocatorImpl/setSystemId)
+* [getColumnNumber()](/Java/LocatorImpl/getColumnNumber/)
+* [getLineNumber()](/Java/LocatorImpl/getLineNumber/)
+* [getPublicId()](/Java/LocatorImpl/getPublicId/)
+* [getSystemId()](/Java/LocatorImpl/getSystemId/)
+* [setColumnNumber()](/Java/LocatorImpl/setColumnNumber/)
+* [setLineNumber()](/Java/LocatorImpl/setLineNumber/)
+* [setPublicId()](/Java/LocatorImpl/setPublicId/)
+* [setSystemId()](/Java/LocatorImpl/setSystemId/)
 
 ## Ejemplo
 ~~~java

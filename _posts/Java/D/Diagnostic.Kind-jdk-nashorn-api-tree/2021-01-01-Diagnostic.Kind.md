@@ -18,15 +18,15 @@ public static enum Diagnostic.Kind extends Enum<Diagnostic.Kind>
 ~~~
 
 ## Enumerados
-* [ERROR](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/ERROR)
-* [MANDATORY_WARNING](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/MANDATORY_WARNING)
-* [NOTE](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/NOTE)
-* [OTHER](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/OTHER)
-* [WARNING](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/WARNING)
+* [ERROR](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/ERROR/)
+* [MANDATORY_WARNING](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/MANDATORY_WARNING/)
+* [NOTE](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/NOTE/)
+* [OTHER](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/OTHER/)
+* [WARNING](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/WARNING/)
 
 ## Métodos
-* [valueOf()](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/valueOf)
-* [values()](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/values)
+* [valueOf()](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/valueOf/)
+* [values()](/Java/Diagnostic/Kind-jdk-nashorn-api-tree/values/)
 
 ## Ejemplo
 ~~~java

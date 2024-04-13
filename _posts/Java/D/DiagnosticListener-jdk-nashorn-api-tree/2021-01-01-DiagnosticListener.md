@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [report()](/Java/DiagnosticListener-jdk-nashorn-api-tree/report)
+* [report()](/Java/DiagnosticListener-jdk-nashorn-api-tree/report/)
 
 ## Ejemplo
 ~~~java

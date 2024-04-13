@@ -18,9 +18,9 @@ public interface ExecutionControlProvider
 ~~~
 
 ## Métodos
-* [defaultParameters()](/Java/ExecutionControlProvider/defaultParameters)
-* [generate()](/Java/ExecutionControlProvider/generate)
-* [name()](/Java/ExecutionControlProvider/name)
+* [defaultParameters()](/Java/ExecutionControlProvider/defaultParameters/)
+* [generate()](/Java/ExecutionControlProvider/generate/)
+* [name()](/Java/ExecutionControlProvider/name/)
 
 ## Ejemplo
 ~~~java

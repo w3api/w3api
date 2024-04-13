@@ -18,8 +18,8 @@ sidebar:
 ~~~
 
 ## Métodos
-* [maxBy()](/Java/BinaryOperator/maxBy)
-* [minBy()](/Java/BinaryOperator/minBy)
+* [maxBy()](/Java/BinaryOperator/maxBy/)
+* [minBy()](/Java/BinaryOperator/minBy/)
 
 ## Ejemplo
 ~~~java

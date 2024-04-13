@@ -18,9 +18,9 @@ public interface BeanContextServiceProvider
 ~~~
 
 ## Métodos
-* [getCurrentServiceSelectors()](/Java/BeanContextServiceProvider/getCurrentServiceSelectors)
-* [getService()](/Java/BeanContextServiceProvider/getService)
-* [releaseService()](/Java/BeanContextServiceProvider/releaseService)
+* [getCurrentServiceSelectors()](/Java/BeanContextServiceProvider/getCurrentServiceSelectors/)
+* [getService()](/Java/BeanContextServiceProvider/getService/)
+* [releaseService()](/Java/BeanContextServiceProvider/releaseService/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface CRLSelector extends Cloneable
 ~~~
 
 ## Métodos
-* [clone()](/Java/CRLSelector/clone)
-* [match()](/Java/CRLSelector/match)
+* [clone()](/Java/CRLSelector/clone/)
+* [match()](/Java/CRLSelector/match/)
 
 ## Ejemplo
 ~~~java

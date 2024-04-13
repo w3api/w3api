@@ -21,16 +21,16 @@ public class BackgroundPosition extends Object
 * [BackgroundPosition()](/Java/BackgroundPosition/BackgroundPosition/)
 
 ## Campos
-* [CENTER](/Java/BackgroundPosition/CENTER)
-* [DEFAULT](/Java/BackgroundPosition/DEFAULT)
+* [CENTER](/Java/BackgroundPosition/CENTER/)
+* [DEFAULT](/Java/BackgroundPosition/DEFAULT/)
 
 ## Métodos
-* [getHorizontalPosition()](/Java/BackgroundPosition/getHorizontalPosition)
-* [getHorizontalSide()](/Java/BackgroundPosition/getHorizontalSide)
-* [getVerticalPosition()](/Java/BackgroundPosition/getVerticalPosition)
-* [getVerticalSide()](/Java/BackgroundPosition/getVerticalSide)
-* [isHorizontalAsPercentage()](/Java/BackgroundPosition/isHorizontalAsPercentage)
-* [isVerticalAsPercentage()](/Java/BackgroundPosition/isVerticalAsPercentage)
+* [getHorizontalPosition()](/Java/BackgroundPosition/getHorizontalPosition/)
+* [getHorizontalSide()](/Java/BackgroundPosition/getHorizontalSide/)
+* [getVerticalPosition()](/Java/BackgroundPosition/getVerticalPosition/)
+* [getVerticalSide()](/Java/BackgroundPosition/getVerticalSide/)
+* [isHorizontalAsPercentage()](/Java/BackgroundPosition/isHorizontalAsPercentage/)
+* [isVerticalAsPercentage()](/Java/BackgroundPosition/isVerticalAsPercentage/)
 
 ## Ejemplo
 ~~~java

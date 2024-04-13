@@ -18,20 +18,20 @@ public interface CounterMonitorMBean extends MonitorMBean
 ~~~
 
 ## Métodos
-* [getDerivedGauge()](/Java/CounterMonitorMBean/getDerivedGauge)
-* [getDerivedGaugeTimeStamp()](/Java/CounterMonitorMBean/getDerivedGaugeTimeStamp)
-* [getDifferenceMode()](/Java/CounterMonitorMBean/getDifferenceMode)
-* [getInitThreshold()](/Java/CounterMonitorMBean/getInitThreshold)
-* [getModulus()](/Java/CounterMonitorMBean/getModulus)
-* [getNotify()](/Java/CounterMonitorMBean/getNotify)
-* [getOffset()](/Java/CounterMonitorMBean/getOffset)
-* [getThreshold()](/Java/CounterMonitorMBean/getThreshold)
-* [setDifferenceMode()](/Java/CounterMonitorMBean/setDifferenceMode)
-* [setInitThreshold()](/Java/CounterMonitorMBean/setInitThreshold)
-* [setModulus()](/Java/CounterMonitorMBean/setModulus)
-* [setNotify()](/Java/CounterMonitorMBean/setNotify)
-* [setOffset()](/Java/CounterMonitorMBean/setOffset)
-* [setThreshold()](/Java/CounterMonitorMBean/setThreshold)
+* [getDerivedGauge()](/Java/CounterMonitorMBean/getDerivedGauge/)
+* [getDerivedGaugeTimeStamp()](/Java/CounterMonitorMBean/getDerivedGaugeTimeStamp/)
+* [getDifferenceMode()](/Java/CounterMonitorMBean/getDifferenceMode/)
+* [getInitThreshold()](/Java/CounterMonitorMBean/getInitThreshold/)
+* [getModulus()](/Java/CounterMonitorMBean/getModulus/)
+* [getNotify()](/Java/CounterMonitorMBean/getNotify/)
+* [getOffset()](/Java/CounterMonitorMBean/getOffset/)
+* [getThreshold()](/Java/CounterMonitorMBean/getThreshold/)
+* [setDifferenceMode()](/Java/CounterMonitorMBean/setDifferenceMode/)
+* [setInitThreshold()](/Java/CounterMonitorMBean/setInitThreshold/)
+* [setModulus()](/Java/CounterMonitorMBean/setModulus/)
+* [setNotify()](/Java/CounterMonitorMBean/setNotify/)
+* [setOffset()](/Java/CounterMonitorMBean/setOffset/)
+* [setThreshold()](/Java/CounterMonitorMBean/setThreshold/)
 
 ## Ejemplo
 ~~~java

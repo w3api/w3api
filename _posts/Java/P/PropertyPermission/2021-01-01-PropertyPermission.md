@@ -21,11 +21,11 @@ public final class PropertyPermission extends BasicPermission
 * [PropertyPermission()](/Java/PropertyPermission/PropertyPermission/)
 
 ## Métodos
-* [equals()](/Java/PropertyPermission/equals)
-* [getActions()](/Java/PropertyPermission/getActions)
-* [hashCode()](/Java/PropertyPermission/hashCode)
-* [implies()](/Java/PropertyPermission/implies)
-* [newPermissionCollection()](/Java/PropertyPermission/newPermissionCollection)
+* [equals()](/Java/PropertyPermission/equals/)
+* [getActions()](/Java/PropertyPermission/getActions/)
+* [hashCode()](/Java/PropertyPermission/hashCode/)
+* [implies()](/Java/PropertyPermission/implies/)
+* [newPermissionCollection()](/Java/PropertyPermission/newPermissionCollection/)
 
 ## Ejemplo
 ~~~java

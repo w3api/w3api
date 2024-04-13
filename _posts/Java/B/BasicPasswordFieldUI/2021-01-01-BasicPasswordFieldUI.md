@@ -21,10 +21,10 @@ public class BasicPasswordFieldUI extends BasicTextFieldUI
 * [BasicPasswordFieldUI()](/Java/BasicPasswordFieldUI/BasicPasswordFieldUI/)
 
 ## Métodos
-* [create()](/Java/BasicPasswordFieldUI/create)
-* [createUI()](/Java/BasicPasswordFieldUI/createUI)
-* [getPropertyPrefix()](/Java/BasicPasswordFieldUI/getPropertyPrefix)
-* [installDefaults()](/Java/BasicPasswordFieldUI/installDefaults)
+* [create()](/Java/BasicPasswordFieldUI/create/)
+* [createUI()](/Java/BasicPasswordFieldUI/createUI/)
+* [getPropertyPrefix()](/Java/BasicPasswordFieldUI/getPropertyPrefix/)
+* [installDefaults()](/Java/BasicPasswordFieldUI/installDefaults/)
 
 ## Ejemplo
 ~~~java

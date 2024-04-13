@@ -18,13 +18,13 @@ public interface ProcessingEnvironment
 ~~~
 
 ## Métodos
-* [getElementUtils()](/Java/ProcessingEnvironment/getElementUtils)
-* [getFiler()](/Java/ProcessingEnvironment/getFiler)
-* [getLocale()](/Java/ProcessingEnvironment/getLocale)
-* [getMessager()](/Java/ProcessingEnvironment/getMessager)
-* [getOptions()](/Java/ProcessingEnvironment/getOptions)
-* [getSourceVersion()](/Java/ProcessingEnvironment/getSourceVersion)
-* [getTypeUtils()](/Java/ProcessingEnvironment/getTypeUtils)
+* [getElementUtils()](/Java/ProcessingEnvironment/getElementUtils/)
+* [getFiler()](/Java/ProcessingEnvironment/getFiler/)
+* [getLocale()](/Java/ProcessingEnvironment/getLocale/)
+* [getMessager()](/Java/ProcessingEnvironment/getMessager/)
+* [getOptions()](/Java/ProcessingEnvironment/getOptions/)
+* [getSourceVersion()](/Java/ProcessingEnvironment/getSourceVersion/)
+* [getTypeUtils()](/Java/ProcessingEnvironment/getTypeUtils/)
 
 ## Ejemplo
 ~~~java

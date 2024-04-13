@@ -21,8 +21,8 @@ public class InvocationTargetException extends ReflectiveOperationException
 * [InvocationTargetException()](/Java/InvocationTargetException/InvocationTargetException/)
 
 ## Métodos
-* [getCause()](/Java/InvocationTargetException/getCause)
-* [getTargetException()](/Java/InvocationTargetException/getTargetException)
+* [getCause()](/Java/InvocationTargetException/getCause/)
+* [getTargetException()](/Java/InvocationTargetException/getTargetException/)
 
 ## Ejemplo
 ~~~java

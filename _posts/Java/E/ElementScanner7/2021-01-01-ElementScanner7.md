@@ -21,7 +21,7 @@ sidebar:
 * [ElementScanner7()](/Java/ElementScanner7/ElementScanner7/)
 
 ## Métodos
-* [visitVariable()](/Java/ElementScanner7/visitVariable)
+* [visitVariable()](/Java/ElementScanner7/visitVariable/)
 
 ## Ejemplo
 ~~~java

@@ -21,11 +21,11 @@ public class PasswordCallback extends Object implements Callback, Serializable
 * [PasswordCallback()](/Java/PasswordCallback/PasswordCallback/)
 
 ## Métodos
-* [clearPassword()](/Java/PasswordCallback/clearPassword)
-* [getPassword()](/Java/PasswordCallback/getPassword)
-* [getPrompt()](/Java/PasswordCallback/getPrompt)
-* [isEchoOn()](/Java/PasswordCallback/isEchoOn)
-* [setPassword()](/Java/PasswordCallback/setPassword)
+* [clearPassword()](/Java/PasswordCallback/clearPassword/)
+* [getPassword()](/Java/PasswordCallback/getPassword/)
+* [getPrompt()](/Java/PasswordCallback/getPrompt/)
+* [isEchoOn()](/Java/PasswordCallback/isEchoOn/)
+* [setPassword()](/Java/PasswordCallback/setPassword/)
 
 ## Ejemplo
 ~~~java

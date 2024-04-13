@@ -21,9 +21,9 @@ public class CertPathValidatorException extends GeneralSecurityException
 * [CertPathValidatorException()](/Java/CertPathValidatorException/CertPathValidatorException/)
 
 ## Métodos
-* [getCertPath()](/Java/CertPathValidatorException/getCertPath)
-* [getIndex()](/Java/CertPathValidatorException/getIndex)
-* [getReason()](/Java/CertPathValidatorException/getReason)
+* [getCertPath()](/Java/CertPathValidatorException/getCertPath/)
+* [getIndex()](/Java/CertPathValidatorException/getIndex/)
+* [getReason()](/Java/CertPathValidatorException/getReason/)
 
 ## Ejemplo
 ~~~java

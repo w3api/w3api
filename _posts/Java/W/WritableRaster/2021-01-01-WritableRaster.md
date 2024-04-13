@@ -21,15 +21,15 @@ public class WritableRaster extends Raster
 * [WritableRaster()](/Java/WritableRaster/WritableRaster/)
 
 ## Métodos
-* [createWritableChild()](/Java/WritableRaster/createWritableChild)
-* [createWritableTranslatedChild()](/Java/WritableRaster/createWritableTranslatedChild)
-* [getWritableParent()](/Java/WritableRaster/getWritableParent)
-* [setDataElements()](/Java/WritableRaster/setDataElements)
-* [setPixel()](/Java/WritableRaster/setPixel)
-* [setPixels()](/Java/WritableRaster/setPixels)
-* [setRect()](/Java/WritableRaster/setRect)
-* [setSample()](/Java/WritableRaster/setSample)
-* [setSamples()](/Java/WritableRaster/setSamples)
+* [createWritableChild()](/Java/WritableRaster/createWritableChild/)
+* [createWritableTranslatedChild()](/Java/WritableRaster/createWritableTranslatedChild/)
+* [getWritableParent()](/Java/WritableRaster/getWritableParent/)
+* [setDataElements()](/Java/WritableRaster/setDataElements/)
+* [setPixel()](/Java/WritableRaster/setPixel/)
+* [setPixels()](/Java/WritableRaster/setPixels/)
+* [setRect()](/Java/WritableRaster/setRect/)
+* [setSample()](/Java/WritableRaster/setSample/)
+* [setSamples()](/Java/WritableRaster/setSamples/)
 
 ## Ejemplo
 ~~~java

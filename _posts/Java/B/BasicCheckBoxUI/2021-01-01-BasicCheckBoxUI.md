@@ -21,7 +21,7 @@ public class BasicCheckBoxUI extends BasicRadioButtonUI
 * [BasicCheckBoxUI()](/Java/BasicCheckBoxUI/BasicCheckBoxUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicCheckBoxUI/createUI)
+* [createUI()](/Java/BasicCheckBoxUI/createUI/)
 
 ## Ejemplo
 ~~~java

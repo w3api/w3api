@@ -18,8 +18,8 @@ public interface ClassUnloadEvent extends Event
 ~~~
 
 ## Métodos
-* [className()](/Java/ClassUnloadEvent/className)
-* [classSignature()](/Java/ClassUnloadEvent/classSignature)
+* [className()](/Java/ClassUnloadEvent/className/)
+* [classSignature()](/Java/ClassUnloadEvent/classSignature/)
 
 ## Ejemplo
 ~~~java

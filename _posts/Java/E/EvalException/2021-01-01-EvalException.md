@@ -18,7 +18,7 @@ public class EvalException extends JShellException
 ~~~
 
 ## Métodos
-* [getExceptionClassName()](/Java/EvalException/getExceptionClassName)
+* [getExceptionClassName()](/Java/EvalException/getExceptionClassName/)
 
 ## Ejemplo
 ~~~java

@@ -21,15 +21,15 @@ public class ProgressIndicator extends Control
 * [ProgressIndicator()](/Java/ProgressIndicator/ProgressIndicator/)
 
 ## Campos
-* [INDETERMINATE_PROGRESS](/Java/ProgressIndicator/INDETERMINATE_PROGRESS)
+* [INDETERMINATE_PROGRESS](/Java/ProgressIndicator/INDETERMINATE_PROGRESS/)
 
 ## Métodos
-* [getInitialFocusTraversable()](/Java/ProgressIndicator/getInitialFocusTraversable)
-* [getProgress()](/Java/ProgressIndicator/getProgress)
-* [indeterminateProperty()](/Java/ProgressIndicator/indeterminateProperty)
-* [isIndeterminate()](/Java/ProgressIndicator/isIndeterminate)
-* [progressProperty()](/Java/ProgressIndicator/progressProperty)
-* [setProgress()](/Java/ProgressIndicator/setProgress)
+* [getInitialFocusTraversable()](/Java/ProgressIndicator/getInitialFocusTraversable/)
+* [getProgress()](/Java/ProgressIndicator/getProgress/)
+* [indeterminateProperty()](/Java/ProgressIndicator/indeterminateProperty/)
+* [isIndeterminate()](/Java/ProgressIndicator/isIndeterminate/)
+* [progressProperty()](/Java/ProgressIndicator/progressProperty/)
+* [setProgress()](/Java/ProgressIndicator/setProgress/)
 
 ## Ejemplo
 ~~~java

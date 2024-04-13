@@ -21,10 +21,10 @@ public static class BasicBorders.FieldBorder extends AbstractBorder implements U
 * [BasicBorders.FieldBorder()](/Java/BasicBorders/FieldBorder/BasicBorders/FieldBorder/)
 
 ## Campos
-* [darkShadow](/Java/BasicBorders/FieldBorder/darkShadow)
-* [highlight](/Java/BasicBorders/FieldBorder/highlight)
-* [lightHighlight](/Java/BasicBorders/FieldBorder/lightHighlight)
-* [shadow](/Java/BasicBorders/FieldBorder/shadow)
+* [darkShadow](/Java/BasicBorders/FieldBorder/darkShadow/)
+* [highlight](/Java/BasicBorders/FieldBorder/highlight/)
+* [lightHighlight](/Java/BasicBorders/FieldBorder/lightHighlight/)
+* [shadow](/Java/BasicBorders/FieldBorder/shadow/)
 
 ## Ejemplo
 ~~~java

@@ -18,12 +18,12 @@ public interface DOMLocator
 ~~~
 
 ## Métodos
-* [getByteOffset()](/Java/DOMLocator-org-w3c-dom/getByteOffset)
-* [getColumnNumber()](/Java/DOMLocator-org-w3c-dom/getColumnNumber)
-* [getLineNumber()](/Java/DOMLocator-org-w3c-dom/getLineNumber)
-* [getRelatedNode()](/Java/DOMLocator-org-w3c-dom/getRelatedNode)
-* [getUri()](/Java/DOMLocator-org-w3c-dom/getUri)
-* [getUtf16Offset()](/Java/DOMLocator-org-w3c-dom/getUtf16Offset)
+* [getByteOffset()](/Java/DOMLocator-org-w3c-dom/getByteOffset/)
+* [getColumnNumber()](/Java/DOMLocator-org-w3c-dom/getColumnNumber/)
+* [getLineNumber()](/Java/DOMLocator-org-w3c-dom/getLineNumber/)
+* [getRelatedNode()](/Java/DOMLocator-org-w3c-dom/getRelatedNode/)
+* [getUri()](/Java/DOMLocator-org-w3c-dom/getUri/)
+* [getUtf16Offset()](/Java/DOMLocator-org-w3c-dom/getUtf16Offset/)
 
 ## Ejemplo
 ~~~java

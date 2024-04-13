@@ -21,7 +21,7 @@ public final class WrongTransactionHolder extends Object implements Streamable
 * [WrongTransactionHolder()](/Java/WrongTransactionHolder/WrongTransactionHolder/)
 
 ## Campos
-* [value](/Java/WrongTransactionHolder/value)
+* [value](/Java/WrongTransactionHolder/value/)
 
 ## Ejemplo
 ~~~java

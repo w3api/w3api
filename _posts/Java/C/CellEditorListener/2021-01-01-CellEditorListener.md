@@ -18,8 +18,8 @@ public interface CellEditorListener extends EventListener
 ~~~
 
 ## Métodos
-* [editingCanceled()](/Java/CellEditorListener/editingCanceled)
-* [editingStopped()](/Java/CellEditorListener/editingStopped)
+* [editingCanceled()](/Java/CellEditorListener/editingCanceled/)
+* [editingStopped()](/Java/CellEditorListener/editingStopped/)
 
 ## Ejemplo
 ~~~java

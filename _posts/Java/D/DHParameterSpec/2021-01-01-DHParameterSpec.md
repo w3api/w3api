@@ -21,9 +21,9 @@ public class DHParameterSpec extends Object implements AlgorithmParameterSpec
 * [DHParameterSpec()](/Java/DHParameterSpec/DHParameterSpec/)
 
 ## Métodos
-* [getG()](/Java/DHParameterSpec/getG)
-* [getL()](/Java/DHParameterSpec/getL)
-* [getP()](/Java/DHParameterSpec/getP)
+* [getG()](/Java/DHParameterSpec/getG/)
+* [getL()](/Java/DHParameterSpec/getL/)
+* [getP()](/Java/DHParameterSpec/getP/)
 
 ## Ejemplo
 ~~~java

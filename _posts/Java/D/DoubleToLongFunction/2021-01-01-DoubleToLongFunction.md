@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [applyAsLong()](/Java/DoubleToLongFunction/applyAsLong)
+* [applyAsLong()](/Java/DoubleToLongFunction/applyAsLong/)
 
 ## Ejemplo
 ~~~java

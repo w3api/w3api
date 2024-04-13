@@ -18,13 +18,13 @@ public interface CellEditor
 ~~~
 
 ## Métodos
-* [addCellEditorListener()](/Java/CellEditor/addCellEditorListener)
-* [cancelCellEditing()](/Java/CellEditor/cancelCellEditing)
-* [getCellEditorValue()](/Java/CellEditor/getCellEditorValue)
-* [isCellEditable()](/Java/CellEditor/isCellEditable)
-* [removeCellEditorListener()](/Java/CellEditor/removeCellEditorListener)
-* [shouldSelectCell()](/Java/CellEditor/shouldSelectCell)
-* [stopCellEditing()](/Java/CellEditor/stopCellEditing)
+* [addCellEditorListener()](/Java/CellEditor/addCellEditorListener/)
+* [cancelCellEditing()](/Java/CellEditor/cancelCellEditing/)
+* [getCellEditorValue()](/Java/CellEditor/getCellEditorValue/)
+* [isCellEditable()](/Java/CellEditor/isCellEditable/)
+* [removeCellEditorListener()](/Java/CellEditor/removeCellEditorListener/)
+* [shouldSelectCell()](/Java/CellEditor/shouldSelectCell/)
+* [stopCellEditing()](/Java/CellEditor/stopCellEditing/)
 
 ## Ejemplo
 ~~~java

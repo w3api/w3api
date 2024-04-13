@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Elementos
-* [value](/Java/DataAmount/value)
+* [value](/Java/DataAmount/value/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface WildcardTree extends Tree
 ~~~
 
 ## Métodos
-* [getBound()](/Java/WildcardTree/getBound)
+* [getBound()](/Java/WildcardTree/getBound/)
 
 ## Ejemplo
 ~~~java

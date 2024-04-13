@@ -21,8 +21,8 @@ public static class Preloader.StateChangeNotification extends Object implements 
 * [Preloader.StateChangeNotification()](/Java/Preloader/StateChangeNotification/Preloader/StateChangeNotification/)
 
 ## Métodos
-* [getApplication()](/Java/Preloader/StateChangeNotification/getApplication)
-* [getType()](/Java/Preloader/StateChangeNotification/getType)
+* [getApplication()](/Java/Preloader/StateChangeNotification/getApplication/)
+* [getType()](/Java/Preloader/StateChangeNotification/getType/)
 
 ## Ejemplo
 ~~~java

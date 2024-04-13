@@ -18,10 +18,10 @@ public interface InputMethodRequests
 ~~~
 
 ## Métodos
-* [cancelLatestCommittedText()](/Java/InputMethodRequests-javafx-scene-input/cancelLatestCommittedText)
-* [getLocationOffset()](/Java/InputMethodRequests-javafx-scene-input/getLocationOffset)
-* [getSelectedText()](/Java/InputMethodRequests-javafx-scene-input/getSelectedText)
-* [getTextLocation()](/Java/InputMethodRequests-javafx-scene-input/getTextLocation)
+* [cancelLatestCommittedText()](/Java/InputMethodRequests-javafx-scene-input/cancelLatestCommittedText/)
+* [getLocationOffset()](/Java/InputMethodRequests-javafx-scene-input/getLocationOffset/)
+* [getSelectedText()](/Java/InputMethodRequests-javafx-scene-input/getSelectedText/)
+* [getTextLocation()](/Java/InputMethodRequests-javafx-scene-input/getTextLocation/)
 
 ## Ejemplo
 ~~~java

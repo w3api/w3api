@@ -18,8 +18,8 @@ public final class PrintResolution extends Object
 ~~~
 
 ## Métodos
-* [getCrossFeedResolution()](/Java/PrintResolution/getCrossFeedResolution)
-* [getFeedResolution()](/Java/PrintResolution/getFeedResolution)
+* [getCrossFeedResolution()](/Java/PrintResolution/getCrossFeedResolution/)
+* [getFeedResolution()](/Java/PrintResolution/getFeedResolution/)
 
 ## Ejemplo
 ~~~java

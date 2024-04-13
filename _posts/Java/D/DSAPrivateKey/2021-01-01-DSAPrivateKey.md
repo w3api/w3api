@@ -18,10 +18,10 @@ public interface DSAPrivateKey extends DSAKey, PrivateKey
 ~~~
 
 ## Campos
-* [serialVersionUID](/Java/DSAPrivateKey/serialVersionUID)
+* [serialVersionUID](/Java/DSAPrivateKey/serialVersionUID/)
 
 ## Métodos
-* [getX()](/Java/DSAPrivateKey/getX)
+* [getX()](/Java/DSAPrivateKey/getX/)
 
 ## Ejemplo
 ~~~java

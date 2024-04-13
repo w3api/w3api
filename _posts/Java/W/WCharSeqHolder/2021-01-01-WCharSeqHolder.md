@@ -21,7 +21,7 @@ public final class WCharSeqHolder extends Object implements Streamable
 * [WCharSeqHolder()](/Java/WCharSeqHolder/WCharSeqHolder/)
 
 ## Campos
-* [value](/Java/WCharSeqHolder/value)
+* [value](/Java/WCharSeqHolder/value/)
 
 ## Ejemplo
 ~~~java

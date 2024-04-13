@@ -21,7 +21,7 @@ public final class IORHolder extends Object implements Streamable
 * [IORHolder()](/Java/IORHolder/IORHolder/)
 
 ## Campos
-* [value](/Java/IORHolder/value)
+* [value](/Java/IORHolder/value/)
 
 ## Ejemplo
 ~~~java

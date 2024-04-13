@@ -21,18 +21,18 @@ public class ImageFilter extends Object implements ImageConsumer, Cloneable
 * [ImageFilter()](/Java/ImageFilter/ImageFilter/)
 
 ## Campos
-* [consumer](/Java/ImageFilter/consumer)
+* [consumer](/Java/ImageFilter/consumer/)
 
 ## Métodos
-* [clone()](/Java/ImageFilter/clone)
-* [getFilterInstance()](/Java/ImageFilter/getFilterInstance)
-* [imageComplete()](/Java/ImageFilter/imageComplete)
-* [resendTopDownLeftRight()](/Java/ImageFilter/resendTopDownLeftRight)
-* [setColorModel()](/Java/ImageFilter/setColorModel)
-* [setDimensions()](/Java/ImageFilter/setDimensions)
-* [setHints()](/Java/ImageFilter/setHints)
-* [setPixels()](/Java/ImageFilter/setPixels)
-* [setProperties()](/Java/ImageFilter/setProperties)
+* [clone()](/Java/ImageFilter/clone/)
+* [getFilterInstance()](/Java/ImageFilter/getFilterInstance/)
+* [imageComplete()](/Java/ImageFilter/imageComplete/)
+* [resendTopDownLeftRight()](/Java/ImageFilter/resendTopDownLeftRight/)
+* [setColorModel()](/Java/ImageFilter/setColorModel/)
+* [setDimensions()](/Java/ImageFilter/setDimensions/)
+* [setHints()](/Java/ImageFilter/setHints/)
+* [setPixels()](/Java/ImageFilter/setPixels/)
+* [setProperties()](/Java/ImageFilter/setProperties/)
 
 ## Ejemplo
 ~~~java

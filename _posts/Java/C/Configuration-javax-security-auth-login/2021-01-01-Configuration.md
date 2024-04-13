@@ -21,14 +21,14 @@ public abstract class Configuration extends Object
 * [Configuration()](/Java/Configuration-javax-security-auth-login/Configuration/)
 
 ## Métodos
-* [getAppConfigurationEntry()](/Java/Configuration-javax-security-auth-login/getAppConfigurationEntry)
-* [getConfiguration()](/Java/Configuration-javax-security-auth-login/getConfiguration)
-* [getInstance()](/Java/Configuration-javax-security-auth-login/getInstance)
-* [getParameters()](/Java/Configuration-javax-security-auth-login/getParameters)
-* [getProvider()](/Java/Configuration-javax-security-auth-login/getProvider)
-* [getType()](/Java/Configuration-javax-security-auth-login/getType)
-* [refresh()](/Java/Configuration-javax-security-auth-login/refresh)
-* [setConfiguration()](/Java/Configuration-javax-security-auth-login/setConfiguration)
+* [getAppConfigurationEntry()](/Java/Configuration-javax-security-auth-login/getAppConfigurationEntry/)
+* [getConfiguration()](/Java/Configuration-javax-security-auth-login/getConfiguration/)
+* [getInstance()](/Java/Configuration-javax-security-auth-login/getInstance/)
+* [getParameters()](/Java/Configuration-javax-security-auth-login/getParameters/)
+* [getProvider()](/Java/Configuration-javax-security-auth-login/getProvider/)
+* [getType()](/Java/Configuration-javax-security-auth-login/getType/)
+* [refresh()](/Java/Configuration-javax-security-auth-login/refresh/)
+* [setConfiguration()](/Java/Configuration-javax-security-auth-login/setConfiguration/)
 
 ## Ejemplo
 ~~~java

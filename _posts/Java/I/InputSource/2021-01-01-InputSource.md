@@ -21,17 +21,17 @@ public class InputSource extends Object
 * [InputSource()](/Java/InputSource/InputSource/)
 
 ## Métodos
-* [getByteStream()](/Java/InputSource/getByteStream)
-* [getCharacterStream()](/Java/InputSource/getCharacterStream)
-* [getEncoding()](/Java/InputSource/getEncoding)
-* [getPublicId()](/Java/InputSource/getPublicId)
-* [getSystemId()](/Java/InputSource/getSystemId)
-* [isEmpty()](/Java/InputSource/isEmpty)
-* [setByteStream()](/Java/InputSource/setByteStream)
-* [setCharacterStream()](/Java/InputSource/setCharacterStream)
-* [setEncoding()](/Java/InputSource/setEncoding)
-* [setPublicId()](/Java/InputSource/setPublicId)
-* [setSystemId()](/Java/InputSource/setSystemId)
+* [getByteStream()](/Java/InputSource/getByteStream/)
+* [getCharacterStream()](/Java/InputSource/getCharacterStream/)
+* [getEncoding()](/Java/InputSource/getEncoding/)
+* [getPublicId()](/Java/InputSource/getPublicId/)
+* [getSystemId()](/Java/InputSource/getSystemId/)
+* [isEmpty()](/Java/InputSource/isEmpty/)
+* [setByteStream()](/Java/InputSource/setByteStream/)
+* [setCharacterStream()](/Java/InputSource/setCharacterStream/)
+* [setEncoding()](/Java/InputSource/setEncoding/)
+* [setPublicId()](/Java/InputSource/setPublicId/)
+* [setSystemId()](/Java/InputSource/setSystemId/)
 
 ## Ejemplo
 ~~~java

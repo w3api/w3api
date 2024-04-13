@@ -18,7 +18,7 @@ public interface BeanContextContainerProxy
 ~~~
 
 ## Métodos
-* [getContainer()](/Java/BeanContextContainerProxy/getContainer)
+* [getContainer()](/Java/BeanContextContainerProxy/getContainer/)
 
 ## Ejemplo
 ~~~java

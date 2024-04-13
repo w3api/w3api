@@ -21,20 +21,20 @@ public class CannotProceedException extends NamingException
 * [CannotProceedException()](/Java/CannotProceedException/CannotProceedException/)
 
 ## Campos
-* [altName](/Java/CannotProceedException/altName)
-* [altNameCtx](/Java/CannotProceedException/altNameCtx)
-* [environment](/Java/CannotProceedException/environment)
-* [remainingNewName](/Java/CannotProceedException/remainingNewName)
+* [altName](/Java/CannotProceedException/altName/)
+* [altNameCtx](/Java/CannotProceedException/altNameCtx/)
+* [environment](/Java/CannotProceedException/environment/)
+* [remainingNewName](/Java/CannotProceedException/remainingNewName/)
 
 ## Métodos
-* [getAltName()](/Java/CannotProceedException/getAltName)
-* [getAltNameCtx()](/Java/CannotProceedException/getAltNameCtx)
-* [getEnvironment()](/Java/CannotProceedException/getEnvironment)
-* [getRemainingNewName()](/Java/CannotProceedException/getRemainingNewName)
-* [setAltName()](/Java/CannotProceedException/setAltName)
-* [setAltNameCtx()](/Java/CannotProceedException/setAltNameCtx)
-* [setEnvironment()](/Java/CannotProceedException/setEnvironment)
-* [setRemainingNewName()](/Java/CannotProceedException/setRemainingNewName)
+* [getAltName()](/Java/CannotProceedException/getAltName/)
+* [getAltNameCtx()](/Java/CannotProceedException/getAltNameCtx/)
+* [getEnvironment()](/Java/CannotProceedException/getEnvironment/)
+* [getRemainingNewName()](/Java/CannotProceedException/getRemainingNewName/)
+* [setAltName()](/Java/CannotProceedException/setAltName/)
+* [setAltNameCtx()](/Java/CannotProceedException/setAltNameCtx/)
+* [setEnvironment()](/Java/CannotProceedException/setEnvironment/)
+* [setRemainingNewName()](/Java/CannotProceedException/setRemainingNewName/)
 
 ## Ejemplo
 ~~~java

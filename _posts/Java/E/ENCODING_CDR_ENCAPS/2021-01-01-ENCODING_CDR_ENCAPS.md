@@ -18,7 +18,7 @@ public interface ENCODING_CDR_ENCAPS
 ~~~
 
 ## Campos
-* [value](/Java/ENCODING_CDR_ENCAPS/value)
+* [value](/Java/ENCODING_CDR_ENCAPS/value/)
 
 ## Ejemplo
 ~~~java

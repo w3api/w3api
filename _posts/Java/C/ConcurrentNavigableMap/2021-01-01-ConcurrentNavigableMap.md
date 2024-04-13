@@ -18,13 +18,13 @@ public interface ConcurrentNavigableMap<K,V> extends ConcurrentMap<K,V>, Navigab
 ~~~
 
 ## Métodos
-* [descendingKeySet()](/Java/ConcurrentNavigableMap/descendingKeySet)
-* [descendingMap()](/Java/ConcurrentNavigableMap/descendingMap)
-* [headMap()](/Java/ConcurrentNavigableMap/headMap)
-* [keySet()](/Java/ConcurrentNavigableMap/keySet)
-* [navigableKeySet()](/Java/ConcurrentNavigableMap/navigableKeySet)
-* [subMap()](/Java/ConcurrentNavigableMap/subMap)
-* [tailMap()](/Java/ConcurrentNavigableMap/tailMap)
+* [descendingKeySet()](/Java/ConcurrentNavigableMap/descendingKeySet/)
+* [descendingMap()](/Java/ConcurrentNavigableMap/descendingMap/)
+* [headMap()](/Java/ConcurrentNavigableMap/headMap/)
+* [keySet()](/Java/ConcurrentNavigableMap/keySet/)
+* [navigableKeySet()](/Java/ConcurrentNavigableMap/navigableKeySet/)
+* [subMap()](/Java/ConcurrentNavigableMap/subMap/)
+* [tailMap()](/Java/ConcurrentNavigableMap/tailMap/)
 
 ## Ejemplo
 ~~~java

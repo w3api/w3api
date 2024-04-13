@@ -21,10 +21,10 @@ public class CountDownLatch extends Object
 * [CountDownLatch()](/Java/CountDownLatch/CountDownLatch/)
 
 ## Métodos
-* [await()](/Java/CountDownLatch/await)
-* [countDown()](/Java/CountDownLatch/countDown)
-* [getCount()](/Java/CountDownLatch/getCount)
-* [toString()](/Java/CountDownLatch/toString)
+* [await()](/Java/CountDownLatch/await/)
+* [countDown()](/Java/CountDownLatch/countDown/)
+* [getCount()](/Java/CountDownLatch/getCount/)
+* [toString()](/Java/CountDownLatch/toString/)
 
 ## Ejemplo
 ~~~java

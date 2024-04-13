@@ -21,17 +21,17 @@ public final class IndexRange extends Object
 * [IndexRange()](/Java/IndexRange/IndexRange/)
 
 ## Campos
-* [VALUE_DELIMITER](/Java/IndexRange/VALUE_DELIMITER)
+* [VALUE_DELIMITER](/Java/IndexRange/VALUE_DELIMITER/)
 
 ## Métodos
-* [equals()](/Java/IndexRange/equals)
-* [getEnd()](/Java/IndexRange/getEnd)
-* [getLength()](/Java/IndexRange/getLength)
-* [getStart()](/Java/IndexRange/getStart)
-* [hashCode()](/Java/IndexRange/hashCode)
-* [normalize()](/Java/IndexRange/normalize)
-* [toString()](/Java/IndexRange/toString)
-* [valueOf()](/Java/IndexRange/valueOf)
+* [equals()](/Java/IndexRange/equals/)
+* [getEnd()](/Java/IndexRange/getEnd/)
+* [getLength()](/Java/IndexRange/getLength/)
+* [getStart()](/Java/IndexRange/getStart/)
+* [hashCode()](/Java/IndexRange/hashCode/)
+* [normalize()](/Java/IndexRange/normalize/)
+* [toString()](/Java/IndexRange/toString/)
+* [valueOf()](/Java/IndexRange/valueOf/)
 
 ## Ejemplo
 ~~~java

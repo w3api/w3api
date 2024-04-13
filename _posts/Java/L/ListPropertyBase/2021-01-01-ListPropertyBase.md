@@ -21,9 +21,9 @@ public abstract class ListPropertyBase<E> extends ListProperty<E>
 * [ListPropertyBase()](/Java/ListPropertyBase/ListPropertyBase/)
 
 ## Métodos
-* [fireValueChangedEvent()](/Java/ListPropertyBase/fireValueChangedEvent)
-* [invalidated()](/Java/ListPropertyBase/invalidated)
-* [toString()](/Java/ListPropertyBase/toString)
+* [fireValueChangedEvent()](/Java/ListPropertyBase/fireValueChangedEvent/)
+* [invalidated()](/Java/ListPropertyBase/invalidated/)
+* [toString()](/Java/ListPropertyBase/toString/)
 
 ## Ejemplo
 ~~~java

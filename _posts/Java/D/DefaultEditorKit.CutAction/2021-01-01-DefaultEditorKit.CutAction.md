@@ -21,7 +21,7 @@ public static class DefaultEditorKit.CutAction extends TextAction
 * [DefaultEditorKit.CutAction()](/Java/DefaultEditorKit/CutAction/DefaultEditorKit/CutAction/)
 
 ## Métodos
-* [actionPerformed()](/Java/DefaultEditorKit/CutAction/actionPerformed)
+* [actionPerformed()](/Java/DefaultEditorKit/CutAction/actionPerformed/)
 
 ## Ejemplo
 ~~~java

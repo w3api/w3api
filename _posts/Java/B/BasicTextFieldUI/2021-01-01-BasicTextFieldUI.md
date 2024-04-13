@@ -21,11 +21,11 @@ public class BasicTextFieldUI extends BasicTextUI
 * [BasicTextFieldUI()](/Java/BasicTextFieldUI/BasicTextFieldUI/)
 
 ## Métodos
-* [create()](/Java/BasicTextFieldUI/create)
-* [createUI()](/Java/BasicTextFieldUI/createUI)
-* [getBaseline()](/Java/BasicTextFieldUI/getBaseline)
-* [getBaselineResizeBehavior()](/Java/BasicTextFieldUI/getBaselineResizeBehavior)
-* [getPropertyPrefix()](/Java/BasicTextFieldUI/getPropertyPrefix)
+* [create()](/Java/BasicTextFieldUI/create/)
+* [createUI()](/Java/BasicTextFieldUI/createUI/)
+* [getBaseline()](/Java/BasicTextFieldUI/getBaseline/)
+* [getBaselineResizeBehavior()](/Java/BasicTextFieldUI/getBaselineResizeBehavior/)
+* [getPropertyPrefix()](/Java/BasicTextFieldUI/getPropertyPrefix/)
 
 ## Ejemplo
 ~~~java

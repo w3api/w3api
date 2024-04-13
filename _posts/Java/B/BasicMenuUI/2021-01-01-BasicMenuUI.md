@@ -21,14 +21,14 @@ public class BasicMenuUI extends BasicMenuItemUI
 * [BasicMenuUI()](/Java/BasicMenuUI/BasicMenuUI/)
 
 ## Campos
-* [changeListener](/Java/BasicMenuUI/changeListener)
-* [menuListener](/Java/BasicMenuUI/menuListener)
+* [changeListener](/Java/BasicMenuUI/changeListener/)
+* [menuListener](/Java/BasicMenuUI/menuListener/)
 
 ## Métodos
-* [createChangeListener()](/Java/BasicMenuUI/createChangeListener)
-* [createMenuListener()](/Java/BasicMenuUI/createMenuListener)
-* [createUI()](/Java/BasicMenuUI/createUI)
-* [setupPostTimer()](/Java/BasicMenuUI/setupPostTimer)
+* [createChangeListener()](/Java/BasicMenuUI/createChangeListener/)
+* [createMenuListener()](/Java/BasicMenuUI/createMenuListener/)
+* [createUI()](/Java/BasicMenuUI/createUI/)
+* [setupPostTimer()](/Java/BasicMenuUI/setupPostTimer/)
 
 ## Ejemplo
 ~~~java

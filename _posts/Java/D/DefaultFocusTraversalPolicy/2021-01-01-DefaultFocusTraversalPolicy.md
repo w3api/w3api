@@ -21,7 +21,7 @@ public class DefaultFocusTraversalPolicy extends ContainerOrderFocusTraversalPol
 * [DefaultFocusTraversalPolicy()](/Java/DefaultFocusTraversalPolicy/DefaultFocusTraversalPolicy/)
 
 ## Métodos
-* [accept()](/Java/DefaultFocusTraversalPolicy/accept)
+* [accept()](/Java/DefaultFocusTraversalPolicy/accept/)
 
 ## Ejemplo
 ~~~java

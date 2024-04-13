@@ -21,12 +21,12 @@ public class ChoiceBoxTreeCell<T> extends TreeCell<T>
 * [ChoiceBoxTreeCell()](/Java/ChoiceBoxTreeCell/ChoiceBoxTreeCell/)
 
 ## Métodos
-* [converterProperty()](/Java/ChoiceBoxTreeCell/converterProperty)
-* [forTreeView()](/Java/ChoiceBoxTreeCell/forTreeView)
-* [getConverter()](/Java/ChoiceBoxTreeCell/getConverter)
-* [getItems()](/Java/ChoiceBoxTreeCell/getItems)
-* [setConverter()](/Java/ChoiceBoxTreeCell/setConverter)
-* [updateItem()](/Java/ChoiceBoxTreeCell/updateItem)
+* [converterProperty()](/Java/ChoiceBoxTreeCell/converterProperty/)
+* [forTreeView()](/Java/ChoiceBoxTreeCell/forTreeView/)
+* [getConverter()](/Java/ChoiceBoxTreeCell/getConverter/)
+* [getItems()](/Java/ChoiceBoxTreeCell/getItems/)
+* [setConverter()](/Java/ChoiceBoxTreeCell/setConverter/)
+* [updateItem()](/Java/ChoiceBoxTreeCell/updateItem/)
 
 ## Ejemplo
 ~~~java

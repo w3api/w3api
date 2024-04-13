@@ -18,7 +18,7 @@ public static final class PaintConverter.LinearGradientConverter extends StyleCo
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/PaintConverter/LinearGradientConverter/getInstance)
+* [getInstance()](/Java/PaintConverter/LinearGradientConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

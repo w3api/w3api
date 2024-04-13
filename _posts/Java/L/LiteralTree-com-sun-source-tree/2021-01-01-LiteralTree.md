@@ -18,7 +18,7 @@ public interface LiteralTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getValue()](/Java/LiteralTree-com-sun-source-tree/getValue)
+* [getValue()](/Java/LiteralTree-com-sun-source-tree/getValue/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ sidebar:
 ~~~
 
 ## Métodos
-* [andThen()](/Java/BiFunction/andThen)
-* [apply()](/Java/BiFunction/apply)
+* [andThen()](/Java/BiFunction/andThen/)
+* [apply()](/Java/BiFunction/apply/)
 
 ## Ejemplo
 ~~~java

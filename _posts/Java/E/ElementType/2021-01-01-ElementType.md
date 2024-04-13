@@ -18,21 +18,21 @@ public enum ElementType extends Enum<ElementType>
 ~~~
 
 ## Enumerados
-* [ANNOTATION_TYPE](/Java/ElementType/ANNOTATION_TYPE)
-* [CONSTRUCTOR](/Java/ElementType/CONSTRUCTOR)
-* [FIELD](/Java/ElementType/FIELD)
-* [LOCAL_VARIABLE](/Java/ElementType/LOCAL_VARIABLE)
-* [METHOD](/Java/ElementType/METHOD)
-* [MODULE](/Java/ElementType/MODULE)
-* [PACKAGE](/Java/ElementType/PACKAGE)
-* [PARAMETER](/Java/ElementType/PARAMETER)
-* [TYPE](/Java/ElementType/TYPE)
-* [TYPE_PARAMETER](/Java/ElementType/TYPE_PARAMETER)
-* [TYPE_USE](/Java/ElementType/TYPE_USE)
+* [ANNOTATION_TYPE](/Java/ElementType/ANNOTATION_TYPE/)
+* [CONSTRUCTOR](/Java/ElementType/CONSTRUCTOR/)
+* [FIELD](/Java/ElementType/FIELD/)
+* [LOCAL_VARIABLE](/Java/ElementType/LOCAL_VARIABLE/)
+* [METHOD](/Java/ElementType/METHOD/)
+* [MODULE](/Java/ElementType/MODULE/)
+* [PACKAGE](/Java/ElementType/PACKAGE/)
+* [PARAMETER](/Java/ElementType/PARAMETER/)
+* [TYPE](/Java/ElementType/TYPE/)
+* [TYPE_PARAMETER](/Java/ElementType/TYPE_PARAMETER/)
+* [TYPE_USE](/Java/ElementType/TYPE_USE/)
 
 ## Métodos
-* [valueOf()](/Java/ElementType/valueOf)
-* [values()](/Java/ElementType/values)
+* [valueOf()](/Java/ElementType/valueOf/)
+* [values()](/Java/ElementType/values/)
 
 ## Ejemplo
 ~~~java

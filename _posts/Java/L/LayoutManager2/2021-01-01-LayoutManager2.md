@@ -18,11 +18,11 @@ public interface LayoutManager2 extends LayoutManager
 ~~~
 
 ## Métodos
-* [addLayoutComponent()](/Java/LayoutManager2/addLayoutComponent)
-* [getLayoutAlignmentX()](/Java/LayoutManager2/getLayoutAlignmentX)
-* [getLayoutAlignmentY()](/Java/LayoutManager2/getLayoutAlignmentY)
-* [invalidateLayout()](/Java/LayoutManager2/invalidateLayout)
-* [maximumLayoutSize()](/Java/LayoutManager2/maximumLayoutSize)
+* [addLayoutComponent()](/Java/LayoutManager2/addLayoutComponent/)
+* [getLayoutAlignmentX()](/Java/LayoutManager2/getLayoutAlignmentX/)
+* [getLayoutAlignmentY()](/Java/LayoutManager2/getLayoutAlignmentY/)
+* [invalidateLayout()](/Java/LayoutManager2/invalidateLayout/)
+* [maximumLayoutSize()](/Java/LayoutManager2/maximumLayoutSize/)
 
 ## Ejemplo
 ~~~java

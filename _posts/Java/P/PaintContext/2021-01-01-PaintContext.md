@@ -18,9 +18,9 @@ public interface PaintContext
 ~~~
 
 ## Métodos
-* [dispose()](/Java/PaintContext/dispose)
-* [getColorModel()](/Java/PaintContext/getColorModel)
-* [getRaster()](/Java/PaintContext/getRaster)
+* [dispose()](/Java/PaintContext/dispose/)
+* [getColorModel()](/Java/PaintContext/getColorModel/)
+* [getRaster()](/Java/PaintContext/getRaster/)
 
 ## Ejemplo
 ~~~java

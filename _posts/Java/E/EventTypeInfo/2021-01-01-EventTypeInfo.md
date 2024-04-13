@@ -18,14 +18,14 @@ public final class EventTypeInfo extends Object
 ~~~
 
 ## Métodos
-* [from()](/Java/EventTypeInfo/from)
-* [getCategoryNames()](/Java/EventTypeInfo/getCategoryNames)
-* [getDescription()](/Java/EventTypeInfo/getDescription)
-* [getId()](/Java/EventTypeInfo/getId)
-* [getLabel()](/Java/EventTypeInfo/getLabel)
-* [getName()](/Java/EventTypeInfo/getName)
-* [getSettingDescriptors()](/Java/EventTypeInfo/getSettingDescriptors)
-* [toString()](/Java/EventTypeInfo/toString)
+* [from()](/Java/EventTypeInfo/from/)
+* [getCategoryNames()](/Java/EventTypeInfo/getCategoryNames/)
+* [getDescription()](/Java/EventTypeInfo/getDescription/)
+* [getId()](/Java/EventTypeInfo/getId/)
+* [getLabel()](/Java/EventTypeInfo/getLabel/)
+* [getName()](/Java/EventTypeInfo/getName/)
+* [getSettingDescriptors()](/Java/EventTypeInfo/getSettingDescriptors/)
+* [toString()](/Java/EventTypeInfo/toString/)
 
 ## Ejemplo
 ~~~java

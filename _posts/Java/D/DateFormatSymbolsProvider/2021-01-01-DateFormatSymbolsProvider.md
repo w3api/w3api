@@ -21,7 +21,7 @@ public abstract class DateFormatSymbolsProvider extends LocaleServiceProvider
 * [DateFormatSymbolsProvider()](/Java/DateFormatSymbolsProvider/DateFormatSymbolsProvider/)
 
 ## Métodos
-* [getInstance()](/Java/DateFormatSymbolsProvider/getInstance)
+* [getInstance()](/Java/DateFormatSymbolsProvider/getInstance/)
 
 ## Ejemplo
 ~~~java

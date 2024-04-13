@@ -21,11 +21,11 @@ public class EventObject extends Object implements Serializable
 * [EventObject()](/Java/EventObject/EventObject/)
 
 ## Campos
-* [source](/Java/EventObject/source)
+* [source](/Java/EventObject/source/)
 
 ## Métodos
-* [getSource()](/Java/EventObject/getSource)
-* [toString()](/Java/EventObject/toString)
+* [getSource()](/Java/EventObject/getSource/)
+* [toString()](/Java/EventObject/toString/)
 
 ## Ejemplo
 ~~~java

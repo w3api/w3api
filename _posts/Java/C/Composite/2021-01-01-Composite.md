@@ -18,7 +18,7 @@ public interface Composite
 ~~~
 
 ## Métodos
-* [createContext()](/Java/Composite/createContext)
+* [createContext()](/Java/Composite/createContext/)
 
 ## Ejemplo
 ~~~java

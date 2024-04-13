@@ -21,10 +21,10 @@ public static class Preloader.ErrorNotification extends Object implements Preloa
 * [Preloader.ErrorNotification()](/Java/Preloader/ErrorNotification/Preloader/ErrorNotification/)
 
 ## Métodos
-* [getCause()](/Java/Preloader/ErrorNotification/getCause)
-* [getDetails()](/Java/Preloader/ErrorNotification/getDetails)
-* [getLocation()](/Java/Preloader/ErrorNotification/getLocation)
-* [toString()](/Java/Preloader/ErrorNotification/toString)
+* [getCause()](/Java/Preloader/ErrorNotification/getCause/)
+* [getDetails()](/Java/Preloader/ErrorNotification/getDetails/)
+* [getLocation()](/Java/Preloader/ErrorNotification/getLocation/)
+* [toString()](/Java/Preloader/ErrorNotification/toString/)
 
 ## Ejemplo
 ~~~java

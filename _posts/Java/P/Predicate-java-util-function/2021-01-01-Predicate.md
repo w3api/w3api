@@ -18,11 +18,11 @@ sidebar:
 ~~~
 
 ## Métodos
-* [and()](/Java/Predicate-java-util-function/and)
-* [isEqual()](/Java/Predicate-java-util-function/isEqual)
-* [negate()](/Java/Predicate-java-util-function/negate)
-* [or()](/Java/Predicate-java-util-function/or)
-* [test()](/Java/Predicate-java-util-function/test)
+* [and()](/Java/Predicate-java-util-function/and/)
+* [isEqual()](/Java/Predicate-java-util-function/isEqual/)
+* [negate()](/Java/Predicate-java-util-function/negate/)
+* [or()](/Java/Predicate-java-util-function/or/)
+* [test()](/Java/Predicate-java-util-function/test/)
 
 ## Ejemplo
 ~~~java

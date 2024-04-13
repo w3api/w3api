@@ -21,10 +21,10 @@ public class BorderUIResource extends Object implements Border, UIResource, Seri
 * [BorderUIResource()](/Java/BorderUIResource/BorderUIResource/)
 
 ## Métodos
-* [getBlackLineBorderUIResource()](/Java/BorderUIResource/getBlackLineBorderUIResource)
-* [getEtchedBorderUIResource()](/Java/BorderUIResource/getEtchedBorderUIResource)
-* [getLoweredBevelBorderUIResource()](/Java/BorderUIResource/getLoweredBevelBorderUIResource)
-* [getRaisedBevelBorderUIResource()](/Java/BorderUIResource/getRaisedBevelBorderUIResource)
+* [getBlackLineBorderUIResource()](/Java/BorderUIResource/getBlackLineBorderUIResource/)
+* [getEtchedBorderUIResource()](/Java/BorderUIResource/getEtchedBorderUIResource/)
+* [getLoweredBevelBorderUIResource()](/Java/BorderUIResource/getLoweredBevelBorderUIResource/)
+* [getRaisedBevelBorderUIResource()](/Java/BorderUIResource/getRaisedBevelBorderUIResource/)
 
 ## Ejemplo
 ~~~java

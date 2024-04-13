@@ -21,7 +21,7 @@ public final class IORInterceptor_3_0Holder extends Object implements Streamable
 * [IORInterceptor_3_0Holder()](/Java/IORInterceptor_3_0Holder/IORInterceptor_3_0Holder/)
 
 ## Campos
-* [value](/Java/IORInterceptor_3_0Holder/value)
+* [value](/Java/IORInterceptor_3_0Holder/value/)
 
 ## Ejemplo
 ~~~java

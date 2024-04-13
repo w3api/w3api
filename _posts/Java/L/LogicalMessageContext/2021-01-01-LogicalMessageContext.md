@@ -18,7 +18,7 @@ public interface LogicalMessageContext extends MessageContext
 ~~~
 
 ## Métodos
-* [getMessage()](/Java/LogicalMessageContext/getMessage)
+* [getMessage()](/Java/LogicalMessageContext/getMessage/)
 
 ## Ejemplo
 ~~~java

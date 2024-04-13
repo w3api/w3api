@@ -18,8 +18,8 @@ public interface ImportTree extends Tree
 ~~~
 
 ## Métodos
-* [getQualifiedIdentifier()](/Java/ImportTree/getQualifiedIdentifier)
-* [isStatic()](/Java/ImportTree/isStatic)
+* [getQualifiedIdentifier()](/Java/ImportTree/getQualifiedIdentifier/)
+* [isStatic()](/Java/ImportTree/isStatic/)
 
 ## Ejemplo
 ~~~java

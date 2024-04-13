@@ -21,16 +21,16 @@ public abstract class WindowAdapter extends Object implements WindowListener, Wi
 * [WindowAdapter()](/Java/WindowAdapter/WindowAdapter/)
 
 ## Métodos
-* [windowActivated()](/Java/WindowAdapter/windowActivated)
-* [windowClosed()](/Java/WindowAdapter/windowClosed)
-* [windowClosing()](/Java/WindowAdapter/windowClosing)
-* [windowDeactivated()](/Java/WindowAdapter/windowDeactivated)
-* [windowDeiconified()](/Java/WindowAdapter/windowDeiconified)
-* [windowGainedFocus()](/Java/WindowAdapter/windowGainedFocus)
-* [windowIconified()](/Java/WindowAdapter/windowIconified)
-* [windowLostFocus()](/Java/WindowAdapter/windowLostFocus)
-* [windowOpened()](/Java/WindowAdapter/windowOpened)
-* [windowStateChanged()](/Java/WindowAdapter/windowStateChanged)
+* [windowActivated()](/Java/WindowAdapter/windowActivated/)
+* [windowClosed()](/Java/WindowAdapter/windowClosed/)
+* [windowClosing()](/Java/WindowAdapter/windowClosing/)
+* [windowDeactivated()](/Java/WindowAdapter/windowDeactivated/)
+* [windowDeiconified()](/Java/WindowAdapter/windowDeiconified/)
+* [windowGainedFocus()](/Java/WindowAdapter/windowGainedFocus/)
+* [windowIconified()](/Java/WindowAdapter/windowIconified/)
+* [windowLostFocus()](/Java/WindowAdapter/windowLostFocus/)
+* [windowOpened()](/Java/WindowAdapter/windowOpened/)
+* [windowStateChanged()](/Java/WindowAdapter/windowStateChanged/)
 
 ## Ejemplo
 ~~~java

@@ -21,9 +21,9 @@ public abstract class PathElement extends Object
 * [PathElement()](/Java/PathElement/PathElement/)
 
 ## Métodos
-* [absoluteProperty()](/Java/PathElement/absoluteProperty)
-* [isAbsolute()](/Java/PathElement/isAbsolute)
-* [setAbsolute()](/Java/PathElement/setAbsolute)
+* [absoluteProperty()](/Java/PathElement/absoluteProperty/)
+* [isAbsolute()](/Java/PathElement/isAbsolute/)
+* [setAbsolute()](/Java/PathElement/setAbsolute/)
 
 ## Ejemplo
 ~~~java

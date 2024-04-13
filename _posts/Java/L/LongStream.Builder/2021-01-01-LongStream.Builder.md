@@ -18,9 +18,9 @@ public static interface LongStream.Builder extends LongConsumer
 ~~~
 
 ## Métodos
-* [accept()](/Java/LongStream/Builder/accept)
-* [add()](/Java/LongStream/Builder/add)
-* [build()](/Java/LongStream/Builder/build)
+* [accept()](/Java/LongStream/Builder/accept/)
+* [add()](/Java/LongStream/Builder/add/)
+* [build()](/Java/LongStream/Builder/build/)
 
 ## Ejemplo
 ~~~java

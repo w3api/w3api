@@ -21,8 +21,8 @@ public abstract class CalendarDataProvider extends LocaleServiceProvider
 * [CalendarDataProvider()](/Java/CalendarDataProvider/CalendarDataProvider/)
 
 ## Métodos
-* [getFirstDayOfWeek()](/Java/CalendarDataProvider/getFirstDayOfWeek)
-* [getMinimalDaysInFirstWeek()](/Java/CalendarDataProvider/getMinimalDaysInFirstWeek)
+* [getFirstDayOfWeek()](/Java/CalendarDataProvider/getFirstDayOfWeek/)
+* [getMinimalDaysInFirstWeek()](/Java/CalendarDataProvider/getMinimalDaysInFirstWeek/)
 
 ## Ejemplo
 ~~~java

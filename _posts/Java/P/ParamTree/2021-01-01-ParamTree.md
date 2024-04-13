@@ -18,9 +18,9 @@ public interface ParamTree extends BlockTagTree
 ~~~
 
 ## Métodos
-* [getDescription()](/Java/ParamTree/getDescription)
-* [getName()](/Java/ParamTree/getName)
-* [isTypeParameter()](/Java/ParamTree/isTypeParameter)
+* [getDescription()](/Java/ParamTree/getDescription/)
+* [getName()](/Java/ParamTree/getName/)
+* [isTypeParameter()](/Java/ParamTree/isTypeParameter/)
 
 ## Ejemplo
 ~~~java

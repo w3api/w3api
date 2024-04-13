@@ -18,14 +18,14 @@ public interface DOMImplementationLS
 ~~~
 
 ## Campos
-* [MODE_ASYNCHRONOUS](/Java/DOMImplementationLS/MODE_ASYNCHRONOUS)
-* [MODE_SYNCHRONOUS](/Java/DOMImplementationLS/MODE_SYNCHRONOUS)
+* [MODE_ASYNCHRONOUS](/Java/DOMImplementationLS/MODE_ASYNCHRONOUS/)
+* [MODE_SYNCHRONOUS](/Java/DOMImplementationLS/MODE_SYNCHRONOUS/)
 
 ## Métodos
-* [createLSInput()](/Java/DOMImplementationLS/createLSInput)
-* [createLSOutput()](/Java/DOMImplementationLS/createLSOutput)
-* [createLSParser()](/Java/DOMImplementationLS/createLSParser)
-* [createLSSerializer()](/Java/DOMImplementationLS/createLSSerializer)
+* [createLSInput()](/Java/DOMImplementationLS/createLSInput/)
+* [createLSOutput()](/Java/DOMImplementationLS/createLSOutput/)
+* [createLSParser()](/Java/DOMImplementationLS/createLSParser/)
+* [createLSSerializer()](/Java/DOMImplementationLS/createLSSerializer/)
 
 ## Ejemplo
 ~~~java

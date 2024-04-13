@@ -21,12 +21,12 @@ public abstract class BooleanSeqHelper extends Object
 * [BooleanSeqHelper()](/Java/BooleanSeqHelper/BooleanSeqHelper/)
 
 ## Métodos
-* [extract()](/Java/BooleanSeqHelper/extract)
-* [id()](/Java/BooleanSeqHelper/id)
-* [insert()](/Java/BooleanSeqHelper/insert)
-* [read()](/Java/BooleanSeqHelper/read)
-* [type()](/Java/BooleanSeqHelper/type)
-* [write()](/Java/BooleanSeqHelper/write)
+* [extract()](/Java/BooleanSeqHelper/extract/)
+* [id()](/Java/BooleanSeqHelper/id/)
+* [insert()](/Java/BooleanSeqHelper/insert/)
+* [read()](/Java/BooleanSeqHelper/read/)
+* [type()](/Java/BooleanSeqHelper/type/)
+* [write()](/Java/BooleanSeqHelper/write/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface ContainerListener extends EventListener
 ~~~
 
 ## Métodos
-* [componentAdded()](/Java/ContainerListener/componentAdded)
-* [componentRemoved()](/Java/ContainerListener/componentRemoved)
+* [componentAdded()](/Java/ContainerListener/componentAdded/)
+* [componentRemoved()](/Java/ContainerListener/componentRemoved/)
 
 ## Ejemplo
 ~~~java

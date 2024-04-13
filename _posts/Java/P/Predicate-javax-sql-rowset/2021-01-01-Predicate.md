@@ -18,7 +18,7 @@ public interface Predicate
 ~~~
 
 ## Métodos
-* [evaluate()](/Java/Predicate-javax-sql-rowset/evaluate)
+* [evaluate()](/Java/Predicate-javax-sql-rowset/evaluate/)
 
 ## Ejemplo
 ~~~java

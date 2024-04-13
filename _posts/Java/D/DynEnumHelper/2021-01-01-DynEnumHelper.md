@@ -21,14 +21,14 @@ public abstract class DynEnumHelper extends Object
 * [DynEnumHelper()](/Java/DynEnumHelper/DynEnumHelper/)
 
 ## Métodos
-* [extract()](/Java/DynEnumHelper/extract)
-* [id()](/Java/DynEnumHelper/id)
-* [insert()](/Java/DynEnumHelper/insert)
-* [narrow()](/Java/DynEnumHelper/narrow)
-* [read()](/Java/DynEnumHelper/read)
-* [type()](/Java/DynEnumHelper/type)
-* [unchecked_narrow()](/Java/DynEnumHelper/unchecked_narrow)
-* [write()](/Java/DynEnumHelper/write)
+* [extract()](/Java/DynEnumHelper/extract/)
+* [id()](/Java/DynEnumHelper/id/)
+* [insert()](/Java/DynEnumHelper/insert/)
+* [narrow()](/Java/DynEnumHelper/narrow/)
+* [read()](/Java/DynEnumHelper/read/)
+* [type()](/Java/DynEnumHelper/type/)
+* [unchecked_narrow()](/Java/DynEnumHelper/unchecked_narrow/)
+* [write()](/Java/DynEnumHelper/write/)
 
 ## Ejemplo
 ~~~java

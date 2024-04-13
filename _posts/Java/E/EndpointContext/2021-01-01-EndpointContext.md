@@ -21,7 +21,7 @@ public abstract class EndpointContext extends Object
 * [EndpointContext()](/Java/EndpointContext/EndpointContext/)
 
 ## Métodos
-* [getEndpoints()](/Java/EndpointContext/getEndpoints)
+* [getEndpoints()](/Java/EndpointContext/getEndpoints/)
 
 ## Ejemplo
 ~~~java

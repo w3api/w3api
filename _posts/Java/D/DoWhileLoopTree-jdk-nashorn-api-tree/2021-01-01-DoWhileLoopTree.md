@@ -18,8 +18,8 @@ public interface DoWhileLoopTree extends ConditionalLoopTree
 ~~~
 
 ## Métodos
-* [getCondition()](/Java/DoWhileLoopTree-jdk-nashorn-api-tree/getCondition)
-* [getStatement()](/Java/DoWhileLoopTree-jdk-nashorn-api-tree/getStatement)
+* [getCondition()](/Java/DoWhileLoopTree-jdk-nashorn-api-tree/getCondition/)
+* [getStatement()](/Java/DoWhileLoopTree-jdk-nashorn-api-tree/getStatement/)
 
 ## Ejemplo
 ~~~java

@@ -18,11 +18,11 @@ public enum LinkOption extends Enum<LinkOption> implements OpenOption, CopyOptio
 ~~~
 
 ## Enumerados
-* [NOFOLLOW_LINKS](/Java/LinkOption/NOFOLLOW_LINKS)
+* [NOFOLLOW_LINKS](/Java/LinkOption/NOFOLLOW_LINKS/)
 
 ## Métodos
-* [valueOf()](/Java/LinkOption/valueOf)
-* [values()](/Java/LinkOption/values)
+* [valueOf()](/Java/LinkOption/valueOf/)
+* [values()](/Java/LinkOption/values/)
 
 ## Ejemplo
 ~~~java

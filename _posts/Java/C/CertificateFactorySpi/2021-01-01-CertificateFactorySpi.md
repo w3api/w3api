@@ -21,12 +21,12 @@ public abstract class CertificateFactorySpi extends Object
 * [CertificateFactorySpi()](/Java/CertificateFactorySpi/CertificateFactorySpi/)
 
 ## Métodos
-* [engineGenerateCertificate()](/Java/CertificateFactorySpi/engineGenerateCertificate)
-* [engineGenerateCertificates()](/Java/CertificateFactorySpi/engineGenerateCertificates)
-* [engineGenerateCertPath()](/Java/CertificateFactorySpi/engineGenerateCertPath)
-* [engineGenerateCRL()](/Java/CertificateFactorySpi/engineGenerateCRL)
-* [engineGenerateCRLs()](/Java/CertificateFactorySpi/engineGenerateCRLs)
-* [engineGetCertPathEncodings()](/Java/CertificateFactorySpi/engineGetCertPathEncodings)
+* [engineGenerateCertificate()](/Java/CertificateFactorySpi/engineGenerateCertificate/)
+* [engineGenerateCertificates()](/Java/CertificateFactorySpi/engineGenerateCertificates/)
+* [engineGenerateCertPath()](/Java/CertificateFactorySpi/engineGenerateCertPath/)
+* [engineGenerateCRL()](/Java/CertificateFactorySpi/engineGenerateCRL/)
+* [engineGenerateCRLs()](/Java/CertificateFactorySpi/engineGenerateCRLs/)
+* [engineGetCertPathEncodings()](/Java/CertificateFactorySpi/engineGetCertPathEncodings/)
 
 ## Ejemplo
 ~~~java

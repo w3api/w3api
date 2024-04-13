@@ -18,13 +18,13 @@ public static enum LayoutStyle.ComponentPlacement extends Enum<LayoutStyle.Compo
 ~~~
 
 ## Enumerados
-* [INDENT](/Java/LayoutStyle/ComponentPlacement/INDENT)
-* [RELATED](/Java/LayoutStyle/ComponentPlacement/RELATED)
-* [UNRELATED](/Java/LayoutStyle/ComponentPlacement/UNRELATED)
+* [INDENT](/Java/LayoutStyle/ComponentPlacement/INDENT/)
+* [RELATED](/Java/LayoutStyle/ComponentPlacement/RELATED/)
+* [UNRELATED](/Java/LayoutStyle/ComponentPlacement/UNRELATED/)
 
 ## Métodos
-* [valueOf()](/Java/LayoutStyle/ComponentPlacement/valueOf)
-* [values()](/Java/LayoutStyle/ComponentPlacement/values)
+* [valueOf()](/Java/LayoutStyle/ComponentPlacement/valueOf/)
+* [values()](/Java/LayoutStyle/ComponentPlacement/values/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface ClassLoaderReference extends ObjectReference
 ~~~
 
 ## Métodos
-* [definedClasses()](/Java/ClassLoaderReference/definedClasses)
-* [visibleClasses()](/Java/ClassLoaderReference/visibleClasses)
+* [definedClasses()](/Java/ClassLoaderReference/definedClasses/)
+* [visibleClasses()](/Java/ClassLoaderReference/visibleClasses/)
 
 ## Ejemplo
 ~~~java

@@ -21,12 +21,12 @@ public abstract class WStringSeqHelper extends Object
 * [WStringSeqHelper()](/Java/WStringSeqHelper/WStringSeqHelper/)
 
 ## Métodos
-* [extract()](/Java/WStringSeqHelper/extract)
-* [id()](/Java/WStringSeqHelper/id)
-* [insert()](/Java/WStringSeqHelper/insert)
-* [read()](/Java/WStringSeqHelper/read)
-* [type()](/Java/WStringSeqHelper/type)
-* [write()](/Java/WStringSeqHelper/write)
+* [extract()](/Java/WStringSeqHelper/extract/)
+* [id()](/Java/WStringSeqHelper/id/)
+* [insert()](/Java/WStringSeqHelper/insert/)
+* [read()](/Java/WStringSeqHelper/read/)
+* [type()](/Java/WStringSeqHelper/type/)
+* [write()](/Java/WStringSeqHelper/write/)
 
 ## Ejemplo
 ~~~java

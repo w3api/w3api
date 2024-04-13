@@ -21,19 +21,19 @@ public class DataFormat extends Object
 * [DataFormat()](/Java/DataFormat/DataFormat/)
 
 ## Campos
-* [FILES](/Java/DataFormat/FILES)
-* [HTML](/Java/DataFormat/HTML)
-* [IMAGE](/Java/DataFormat/IMAGE)
-* [PLAIN_TEXT](/Java/DataFormat/PLAIN_TEXT)
-* [RTF](/Java/DataFormat/RTF)
-* [URL](/Java/DataFormat/URL)
+* [FILES](/Java/DataFormat/FILES/)
+* [HTML](/Java/DataFormat/HTML/)
+* [IMAGE](/Java/DataFormat/IMAGE/)
+* [PLAIN_TEXT](/Java/DataFormat/PLAIN_TEXT/)
+* [RTF](/Java/DataFormat/RTF/)
+* [URL](/Java/DataFormat/URL/)
 
 ## Métodos
-* [equals()](/Java/DataFormat/equals)
-* [getIdentifiers()](/Java/DataFormat/getIdentifiers)
-* [hashCode()](/Java/DataFormat/hashCode)
-* [lookupMimeType()](/Java/DataFormat/lookupMimeType)
-* [toString()](/Java/DataFormat/toString)
+* [equals()](/Java/DataFormat/equals/)
+* [getIdentifiers()](/Java/DataFormat/getIdentifiers/)
+* [hashCode()](/Java/DataFormat/hashCode/)
+* [lookupMimeType()](/Java/DataFormat/lookupMimeType/)
+* [toString()](/Java/DataFormat/toString/)
 
 ## Ejemplo
 ~~~java

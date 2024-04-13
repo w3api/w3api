@@ -18,19 +18,19 @@ public interface PathIterator
 ~~~
 
 ## Campos
-* [SEG_CLOSE](/Java/PathIterator/SEG_CLOSE)
-* [SEG_CUBICTO](/Java/PathIterator/SEG_CUBICTO)
-* [SEG_LINETO](/Java/PathIterator/SEG_LINETO)
-* [SEG_MOVETO](/Java/PathIterator/SEG_MOVETO)
-* [SEG_QUADTO](/Java/PathIterator/SEG_QUADTO)
-* [WIND_EVEN_ODD](/Java/PathIterator/WIND_EVEN_ODD)
-* [WIND_NON_ZERO](/Java/PathIterator/WIND_NON_ZERO)
+* [SEG_CLOSE](/Java/PathIterator/SEG_CLOSE/)
+* [SEG_CUBICTO](/Java/PathIterator/SEG_CUBICTO/)
+* [SEG_LINETO](/Java/PathIterator/SEG_LINETO/)
+* [SEG_MOVETO](/Java/PathIterator/SEG_MOVETO/)
+* [SEG_QUADTO](/Java/PathIterator/SEG_QUADTO/)
+* [WIND_EVEN_ODD](/Java/PathIterator/WIND_EVEN_ODD/)
+* [WIND_NON_ZERO](/Java/PathIterator/WIND_NON_ZERO/)
 
 ## Métodos
-* [currentSegment()](/Java/PathIterator/currentSegment)
-* [getWindingRule()](/Java/PathIterator/getWindingRule)
-* [isDone()](/Java/PathIterator/isDone)
-* [next()](/Java/PathIterator/next)
+* [currentSegment()](/Java/PathIterator/currentSegment/)
+* [getWindingRule()](/Java/PathIterator/getWindingRule/)
+* [isDone()](/Java/PathIterator/isDone/)
+* [next()](/Java/PathIterator/next/)
 
 ## Ejemplo
 ~~~java

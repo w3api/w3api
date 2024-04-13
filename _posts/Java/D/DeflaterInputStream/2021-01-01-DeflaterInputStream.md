@@ -21,17 +21,17 @@ public class DeflaterInputStream extends FilterInputStream
 * [DeflaterInputStream()](/Java/DeflaterInputStream/DeflaterInputStream/)
 
 ## Campos
-* [buf](/Java/DeflaterInputStream/buf)
-* [def](/Java/DeflaterInputStream/def)
+* [buf](/Java/DeflaterInputStream/buf/)
+* [def](/Java/DeflaterInputStream/def/)
 
 ## Métodos
-* [available()](/Java/DeflaterInputStream/available)
-* [close()](/Java/DeflaterInputStream/close)
-* [mark()](/Java/DeflaterInputStream/mark)
-* [markSupported()](/Java/DeflaterInputStream/markSupported)
-* [read()](/Java/DeflaterInputStream/read)
-* [reset()](/Java/DeflaterInputStream/reset)
-* [skip()](/Java/DeflaterInputStream/skip)
+* [available()](/Java/DeflaterInputStream/available/)
+* [close()](/Java/DeflaterInputStream/close/)
+* [mark()](/Java/DeflaterInputStream/mark/)
+* [markSupported()](/Java/DeflaterInputStream/markSupported/)
+* [read()](/Java/DeflaterInputStream/read/)
+* [reset()](/Java/DeflaterInputStream/reset/)
+* [skip()](/Java/DeflaterInputStream/skip/)
 
 ## Ejemplo
 ~~~java

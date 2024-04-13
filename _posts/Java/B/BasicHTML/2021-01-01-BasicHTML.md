@@ -21,14 +21,14 @@ public class BasicHTML extends Object
 * [BasicHTML()](/Java/BasicHTML/BasicHTML/)
 
 ## Campos
-* [documentBaseKey](/Java/BasicHTML/documentBaseKey)
-* [propertyKey](/Java/BasicHTML/propertyKey)
+* [documentBaseKey](/Java/BasicHTML/documentBaseKey/)
+* [propertyKey](/Java/BasicHTML/propertyKey/)
 
 ## Métodos
-* [createHTMLView()](/Java/BasicHTML/createHTMLView)
-* [getHTMLBaseline()](/Java/BasicHTML/getHTMLBaseline)
-* [isHTMLString()](/Java/BasicHTML/isHTMLString)
-* [updateRenderer()](/Java/BasicHTML/updateRenderer)
+* [createHTMLView()](/Java/BasicHTML/createHTMLView/)
+* [getHTMLBaseline()](/Java/BasicHTML/getHTMLBaseline/)
+* [isHTMLString()](/Java/BasicHTML/isHTMLString/)
+* [updateRenderer()](/Java/BasicHTML/updateRenderer/)
 
 ## Ejemplo
 ~~~java

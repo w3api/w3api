@@ -18,14 +18,14 @@ public static enum PKIXRevocationChecker.Option extends Enum<PKIXRevocationCheck
 ~~~
 
 ## Enumerados
-* [NO_FALLBACK](/Java/PKIXRevocationChecker/Option/NO_FALLBACK)
-* [ONLY_END_ENTITY](/Java/PKIXRevocationChecker/Option/ONLY_END_ENTITY)
-* [PREFER_CRLS](/Java/PKIXRevocationChecker/Option/PREFER_CRLS)
-* [SOFT_FAIL](/Java/PKIXRevocationChecker/Option/SOFT_FAIL)
+* [NO_FALLBACK](/Java/PKIXRevocationChecker/Option/NO_FALLBACK/)
+* [ONLY_END_ENTITY](/Java/PKIXRevocationChecker/Option/ONLY_END_ENTITY/)
+* [PREFER_CRLS](/Java/PKIXRevocationChecker/Option/PREFER_CRLS/)
+* [SOFT_FAIL](/Java/PKIXRevocationChecker/Option/SOFT_FAIL/)
 
 ## Métodos
-* [valueOf()](/Java/PKIXRevocationChecker/Option/valueOf)
-* [values()](/Java/PKIXRevocationChecker/Option/values)
+* [valueOf()](/Java/PKIXRevocationChecker/Option/valueOf/)
+* [values()](/Java/PKIXRevocationChecker/Option/values/)
 
 ## Ejemplo
 ~~~java

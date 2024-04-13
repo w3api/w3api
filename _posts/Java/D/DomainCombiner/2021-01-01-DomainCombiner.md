@@ -18,7 +18,7 @@ public interface DomainCombiner
 ~~~
 
 ## Métodos
-* [combine()](/Java/DomainCombiner/combine)
+* [combine()](/Java/DomainCombiner/combine/)
 
 ## Ejemplo
 ~~~java

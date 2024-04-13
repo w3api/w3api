@@ -21,8 +21,8 @@ public class DateTimeParseException extends DateTimeException
 * [DateTimeParseException()](/Java/DateTimeParseException/DateTimeParseException/)
 
 ## Métodos
-* [getErrorIndex()](/Java/DateTimeParseException/getErrorIndex)
-* [getParsedString()](/Java/DateTimeParseException/getParsedString)
+* [getErrorIndex()](/Java/DateTimeParseException/getErrorIndex/)
+* [getParsedString()](/Java/DateTimeParseException/getParsedString/)
 
 ## Ejemplo
 ~~~java

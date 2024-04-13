@@ -18,7 +18,7 @@ public interface ExpressionStatementTree extends StatementTree
 ~~~
 
 ## Métodos
-* [getExpression()](/Java/ExpressionStatementTree-com-sun-source-tree/getExpression)
+* [getExpression()](/Java/ExpressionStatementTree-com-sun-source-tree/getExpression/)
 
 ## Ejemplo
 ~~~java

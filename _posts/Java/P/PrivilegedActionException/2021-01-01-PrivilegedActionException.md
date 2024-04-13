@@ -21,8 +21,8 @@ public class PrivilegedActionException extends Exception
 * [PrivilegedActionException()](/Java/PrivilegedActionException/PrivilegedActionException/)
 
 ## Métodos
-* [getCause()](/Java/PrivilegedActionException/getCause)
-* [getException()](/Java/PrivilegedActionException/getException)
+* [getCause()](/Java/PrivilegedActionException/getCause/)
+* [getException()](/Java/PrivilegedActionException/getException/)
 
 ## Ejemplo
 ~~~java

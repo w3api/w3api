@@ -18,13 +18,13 @@ public interface ExceptionRequest extends EventRequest
 ~~~
 
 ## Métodos
-* [addClassExclusionFilter()](/Java/ExceptionRequest/addClassExclusionFilter)
-* [addClassFilter()](/Java/ExceptionRequest/addClassFilter)
-* [addInstanceFilter()](/Java/ExceptionRequest/addInstanceFilter)
-* [addThreadFilter()](/Java/ExceptionRequest/addThreadFilter)
-* [exception()](/Java/ExceptionRequest/exception)
-* [notifyCaught()](/Java/ExceptionRequest/notifyCaught)
-* [notifyUncaught()](/Java/ExceptionRequest/notifyUncaught)
+* [addClassExclusionFilter()](/Java/ExceptionRequest/addClassExclusionFilter/)
+* [addClassFilter()](/Java/ExceptionRequest/addClassFilter/)
+* [addInstanceFilter()](/Java/ExceptionRequest/addInstanceFilter/)
+* [addThreadFilter()](/Java/ExceptionRequest/addThreadFilter/)
+* [exception()](/Java/ExceptionRequest/exception/)
+* [notifyCaught()](/Java/ExceptionRequest/notifyCaught/)
+* [notifyUncaught()](/Java/ExceptionRequest/notifyUncaught/)
 
 ## Ejemplo
 ~~~java

@@ -18,13 +18,13 @@ public enum PrintSides extends Enum<PrintSides>
 ~~~
 
 ## Enumerados
-* [DUPLEX](/Java/PrintSides/DUPLEX)
-* [ONE_SIDED](/Java/PrintSides/ONE_SIDED)
-* [TUMBLE](/Java/PrintSides/TUMBLE)
+* [DUPLEX](/Java/PrintSides/DUPLEX/)
+* [ONE_SIDED](/Java/PrintSides/ONE_SIDED/)
+* [TUMBLE](/Java/PrintSides/TUMBLE/)
 
 ## Métodos
-* [valueOf()](/Java/PrintSides/valueOf)
-* [values()](/Java/PrintSides/values)
+* [valueOf()](/Java/PrintSides/valueOf/)
+* [values()](/Java/PrintSides/values/)
 
 ## Ejemplo
 ~~~java

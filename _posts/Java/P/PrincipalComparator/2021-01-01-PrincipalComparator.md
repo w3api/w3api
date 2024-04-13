@@ -18,7 +18,7 @@ public interface PrincipalComparator
 ~~~
 
 ## Métodos
-* [implies()](/Java/PrincipalComparator/implies)
+* [implies()](/Java/PrincipalComparator/implies/)
 
 ## Ejemplo
 ~~~java

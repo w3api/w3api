@@ -21,15 +21,15 @@ public class DeflaterOutputStream extends FilterOutputStream
 * [DeflaterOutputStream()](/Java/DeflaterOutputStream/DeflaterOutputStream/)
 
 ## Campos
-* [buf](/Java/DeflaterOutputStream/buf)
-* [def](/Java/DeflaterOutputStream/def)
+* [buf](/Java/DeflaterOutputStream/buf/)
+* [def](/Java/DeflaterOutputStream/def/)
 
 ## Métodos
-* [close()](/Java/DeflaterOutputStream/close)
-* [deflate()](/Java/DeflaterOutputStream/deflate)
-* [finish()](/Java/DeflaterOutputStream/finish)
-* [flush()](/Java/DeflaterOutputStream/flush)
-* [write()](/Java/DeflaterOutputStream/write)
+* [close()](/Java/DeflaterOutputStream/close/)
+* [deflate()](/Java/DeflaterOutputStream/deflate/)
+* [finish()](/Java/DeflaterOutputStream/finish/)
+* [flush()](/Java/DeflaterOutputStream/flush/)
+* [write()](/Java/DeflaterOutputStream/write/)
 
 ## Ejemplo
 ~~~java

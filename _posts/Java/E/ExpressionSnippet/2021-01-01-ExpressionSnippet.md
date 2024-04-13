@@ -18,8 +18,8 @@ public class ExpressionSnippet extends Snippet
 ~~~
 
 ## Métodos
-* [name()](/Java/ExpressionSnippet/name)
-* [typeName()](/Java/ExpressionSnippet/typeName)
+* [name()](/Java/ExpressionSnippet/name/)
+* [typeName()](/Java/ExpressionSnippet/typeName/)
 
 ## Ejemplo
 ~~~java

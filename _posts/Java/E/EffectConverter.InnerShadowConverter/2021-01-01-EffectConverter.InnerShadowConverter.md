@@ -18,7 +18,7 @@ public static final class EffectConverter.InnerShadowConverter extends EffectCon
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/EffectConverter/InnerShadowConverter/getInstance)
+* [getInstance()](/Java/EffectConverter/InnerShadowConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface DocumentView
 ~~~
 
 ## Métodos
-* [getDefaultView()](/Java/DocumentView/getDefaultView)
+* [getDefaultView()](/Java/DocumentView/getDefaultView/)
 
 ## Ejemplo
 ~~~java

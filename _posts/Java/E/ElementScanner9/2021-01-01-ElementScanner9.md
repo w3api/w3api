@@ -21,7 +21,7 @@ sidebar:
 * [ElementScanner9()](/Java/ElementScanner9/ElementScanner9/)
 
 ## Métodos
-* [visitModule()](/Java/ElementScanner9/visitModule)
+* [visitModule()](/Java/ElementScanner9/visitModule/)
 
 ## Ejemplo
 ~~~java

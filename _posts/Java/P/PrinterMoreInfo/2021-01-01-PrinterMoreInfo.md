@@ -21,9 +21,9 @@ public final class PrinterMoreInfo extends URISyntax implements PrintServiceAttr
 * [PrinterMoreInfo()](/Java/PrinterMoreInfo/PrinterMoreInfo/)
 
 ## Métodos
-* [equals()](/Java/PrinterMoreInfo/equals)
-* [getCategory()](/Java/PrinterMoreInfo/getCategory)
-* [getName()](/Java/PrinterMoreInfo/getName)
+* [equals()](/Java/PrinterMoreInfo/equals/)
+* [getCategory()](/Java/PrinterMoreInfo/getCategory/)
+* [getName()](/Java/PrinterMoreInfo/getName/)
 
 ## Ejemplo
 ~~~java

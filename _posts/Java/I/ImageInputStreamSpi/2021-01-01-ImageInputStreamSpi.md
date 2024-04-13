@@ -21,13 +21,13 @@ public abstract class ImageInputStreamSpi extends IIOServiceProvider
 * [ImageInputStreamSpi()](/Java/ImageInputStreamSpi/ImageInputStreamSpi/)
 
 ## Campos
-* [inputClass](/Java/ImageInputStreamSpi/inputClass)
+* [inputClass](/Java/ImageInputStreamSpi/inputClass/)
 
 ## Métodos
-* [canUseCacheFile()](/Java/ImageInputStreamSpi/canUseCacheFile)
-* [createInputStreamInstance()](/Java/ImageInputStreamSpi/createInputStreamInstance)
-* [getInputClass()](/Java/ImageInputStreamSpi/getInputClass)
-* [needsCacheFile()](/Java/ImageInputStreamSpi/needsCacheFile)
+* [canUseCacheFile()](/Java/ImageInputStreamSpi/canUseCacheFile/)
+* [createInputStreamInstance()](/Java/ImageInputStreamSpi/createInputStreamInstance/)
+* [getInputClass()](/Java/ImageInputStreamSpi/getInputClass/)
+* [needsCacheFile()](/Java/ImageInputStreamSpi/needsCacheFile/)
 
 ## Ejemplo
 ~~~java

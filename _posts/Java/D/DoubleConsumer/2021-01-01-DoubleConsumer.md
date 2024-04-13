@@ -18,8 +18,8 @@ sidebar:
 ~~~
 
 ## Métodos
-* [accept()](/Java/DoubleConsumer/accept)
-* [andThen()](/Java/DoubleConsumer/andThen)
+* [accept()](/Java/DoubleConsumer/accept/)
+* [andThen()](/Java/DoubleConsumer/andThen/)
 
 ## Ejemplo
 ~~~java

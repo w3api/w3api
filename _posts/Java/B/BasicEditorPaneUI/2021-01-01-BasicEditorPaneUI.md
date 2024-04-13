@@ -21,12 +21,12 @@ public class BasicEditorPaneUI extends BasicTextUI
 * [BasicEditorPaneUI()](/Java/BasicEditorPaneUI/BasicEditorPaneUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicEditorPaneUI/createUI)
-* [getEditorKit()](/Java/BasicEditorPaneUI/getEditorKit)
-* [getPropertyPrefix()](/Java/BasicEditorPaneUI/getPropertyPrefix)
-* [installUI()](/Java/BasicEditorPaneUI/installUI)
-* [propertyChange()](/Java/BasicEditorPaneUI/propertyChange)
-* [uninstallUI()](/Java/BasicEditorPaneUI/uninstallUI)
+* [createUI()](/Java/BasicEditorPaneUI/createUI/)
+* [getEditorKit()](/Java/BasicEditorPaneUI/getEditorKit/)
+* [getPropertyPrefix()](/Java/BasicEditorPaneUI/getPropertyPrefix/)
+* [installUI()](/Java/BasicEditorPaneUI/installUI/)
+* [propertyChange()](/Java/BasicEditorPaneUI/propertyChange/)
+* [uninstallUI()](/Java/BasicEditorPaneUI/uninstallUI/)
 
 ## Ejemplo
 ~~~java

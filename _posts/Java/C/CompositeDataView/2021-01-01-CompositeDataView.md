@@ -18,7 +18,7 @@ public interface CompositeDataView
 ~~~
 
 ## Métodos
-* [toCompositeData()](/Java/CompositeDataView/toCompositeData)
+* [toCompositeData()](/Java/CompositeDataView/toCompositeData/)
 
 ## Ejemplo
 ~~~java

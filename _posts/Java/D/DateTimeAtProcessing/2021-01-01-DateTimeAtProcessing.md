@@ -21,9 +21,9 @@ public final class DateTimeAtProcessing extends DateTimeSyntax implements PrintJ
 * [DateTimeAtProcessing()](/Java/DateTimeAtProcessing/DateTimeAtProcessing/)
 
 ## Métodos
-* [equals()](/Java/DateTimeAtProcessing/equals)
-* [getCategory()](/Java/DateTimeAtProcessing/getCategory)
-* [getName()](/Java/DateTimeAtProcessing/getName)
+* [equals()](/Java/DateTimeAtProcessing/equals/)
+* [getCategory()](/Java/DateTimeAtProcessing/getCategory/)
+* [getName()](/Java/DateTimeAtProcessing/getName/)
 
 ## Ejemplo
 ~~~java

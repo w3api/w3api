@@ -21,10 +21,10 @@ public abstract class ComponentAdapter extends Object implements ComponentListen
 * [ComponentAdapter()](/Java/ComponentAdapter/ComponentAdapter/)
 
 ## Métodos
-* [componentHidden()](/Java/ComponentAdapter/componentHidden)
-* [componentMoved()](/Java/ComponentAdapter/componentMoved)
-* [componentResized()](/Java/ComponentAdapter/componentResized)
-* [componentShown()](/Java/ComponentAdapter/componentShown)
+* [componentHidden()](/Java/ComponentAdapter/componentHidden/)
+* [componentMoved()](/Java/ComponentAdapter/componentMoved/)
+* [componentResized()](/Java/ComponentAdapter/componentResized/)
+* [componentShown()](/Java/ComponentAdapter/componentShown/)
 
 ## Ejemplo
 ~~~java

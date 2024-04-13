@@ -18,10 +18,10 @@ public interface CodecOperations
 ~~~
 
 ## Métodos
-* [decode()](/Java/CodecOperations/decode)
-* [decode_value()](/Java/CodecOperations/decode_value)
-* [encode()](/Java/CodecOperations/encode)
-* [encode_value()](/Java/CodecOperations/encode_value)
+* [decode()](/Java/CodecOperations/decode/)
+* [decode_value()](/Java/CodecOperations/decode_value/)
+* [encode()](/Java/CodecOperations/encode/)
+* [encode_value()](/Java/CodecOperations/encode_value/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface ItemListener extends EventListener
 ~~~
 
 ## Métodos
-* [itemStateChanged()](/Java/ItemListener/itemStateChanged)
+* [itemStateChanged()](/Java/ItemListener/itemStateChanged/)
 
 ## Ejemplo
 ~~~java

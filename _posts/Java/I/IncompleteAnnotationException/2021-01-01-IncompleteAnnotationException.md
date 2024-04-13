@@ -21,8 +21,8 @@ public class IncompleteAnnotationException extends RuntimeException
 * [IncompleteAnnotationException()](/Java/IncompleteAnnotationException/IncompleteAnnotationException/)
 
 ## Métodos
-* [annotationType()](/Java/IncompleteAnnotationException/annotationType)
-* [elementName()](/Java/IncompleteAnnotationException/elementName)
+* [annotationType()](/Java/IncompleteAnnotationException/annotationType/)
+* [elementName()](/Java/IncompleteAnnotationException/elementName/)
 
 ## Ejemplo
 ~~~java

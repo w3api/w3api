@@ -21,9 +21,9 @@ public abstract class DoublePropertyBase extends DoubleProperty
 * [DoublePropertyBase()](/Java/DoublePropertyBase/DoublePropertyBase/)
 
 ## Métodos
-* [fireValueChangedEvent()](/Java/DoublePropertyBase/fireValueChangedEvent)
-* [invalidated()](/Java/DoublePropertyBase/invalidated)
-* [toString()](/Java/DoublePropertyBase/toString)
+* [fireValueChangedEvent()](/Java/DoublePropertyBase/fireValueChangedEvent/)
+* [invalidated()](/Java/DoublePropertyBase/invalidated/)
+* [toString()](/Java/DoublePropertyBase/toString/)
 
 ## Ejemplo
 ~~~java

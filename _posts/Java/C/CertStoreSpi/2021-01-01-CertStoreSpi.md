@@ -21,8 +21,8 @@ public abstract class CertStoreSpi extends Object
 * [CertStoreSpi()](/Java/CertStoreSpi/CertStoreSpi/)
 
 ## Métodos
-* [engineGetCertificates()](/Java/CertStoreSpi/engineGetCertificates)
-* [engineGetCRLs()](/Java/CertStoreSpi/engineGetCRLs)
+* [engineGetCertificates()](/Java/CertStoreSpi/engineGetCertificates/)
+* [engineGetCRLs()](/Java/CertStoreSpi/engineGetCRLs/)
 
 ## Ejemplo
 ~~~java

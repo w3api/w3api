@@ -21,7 +21,7 @@ public class KeyStoreBuilderParameters extends Object implements ManagerFactoryP
 * [KeyStoreBuilderParameters()](/Java/KeyStoreBuilderParameters/KeyStoreBuilderParameters/)
 
 ## Métodos
-* [getParameters()](/Java/KeyStoreBuilderParameters/getParameters)
+* [getParameters()](/Java/KeyStoreBuilderParameters/getParameters/)
 
 ## Ejemplo
 ~~~java

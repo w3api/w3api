@@ -21,7 +21,7 @@ public abstract class EventListenerProxy<T extends EventListener> extends Object
 * [EventListenerProxy()](/Java/EventListenerProxy/EventListenerProxy/)
 
 ## Métodos
-* [getListener()](/Java/EventListenerProxy/getListener)
+* [getListener()](/Java/EventListenerProxy/getListener/)
 
 ## Ejemplo
 ~~~java

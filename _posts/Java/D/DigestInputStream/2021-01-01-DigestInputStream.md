@@ -21,14 +21,14 @@ public class DigestInputStream extends FilterInputStream
 * [DigestInputStream()](/Java/DigestInputStream/DigestInputStream/)
 
 ## Campos
-* [digest](/Java/DigestInputStream/digest)
+* [digest](/Java/DigestInputStream/digest/)
 
 ## Métodos
-* [getMessageDigest()](/Java/DigestInputStream/getMessageDigest)
-* [on()](/Java/DigestInputStream/on)
-* [read()](/Java/DigestInputStream/read)
-* [setMessageDigest()](/Java/DigestInputStream/setMessageDigest)
-* [toString()](/Java/DigestInputStream/toString)
+* [getMessageDigest()](/Java/DigestInputStream/getMessageDigest/)
+* [on()](/Java/DigestInputStream/on/)
+* [read()](/Java/DigestInputStream/read/)
+* [setMessageDigest()](/Java/DigestInputStream/setMessageDigest/)
+* [toString()](/Java/DigestInputStream/toString/)
 
 ## Ejemplo
 ~~~java

@@ -21,19 +21,19 @@ public class InflaterInputStream extends FilterInputStream
 * [InflaterInputStream()](/Java/InflaterInputStream/InflaterInputStream/)
 
 ## Campos
-* [buf](/Java/InflaterInputStream/buf)
-* [inf](/Java/InflaterInputStream/inf)
-* [len](/Java/InflaterInputStream/len)
+* [buf](/Java/InflaterInputStream/buf/)
+* [inf](/Java/InflaterInputStream/inf/)
+* [len](/Java/InflaterInputStream/len/)
 
 ## Métodos
-* [available()](/Java/InflaterInputStream/available)
-* [close()](/Java/InflaterInputStream/close)
-* [fill()](/Java/InflaterInputStream/fill)
-* [mark()](/Java/InflaterInputStream/mark)
-* [markSupported()](/Java/InflaterInputStream/markSupported)
-* [read()](/Java/InflaterInputStream/read)
-* [reset()](/Java/InflaterInputStream/reset)
-* [skip()](/Java/InflaterInputStream/skip)
+* [available()](/Java/InflaterInputStream/available/)
+* [close()](/Java/InflaterInputStream/close/)
+* [fill()](/Java/InflaterInputStream/fill/)
+* [mark()](/Java/InflaterInputStream/mark/)
+* [markSupported()](/Java/InflaterInputStream/markSupported/)
+* [read()](/Java/InflaterInputStream/read/)
+* [reset()](/Java/InflaterInputStream/reset/)
+* [skip()](/Java/InflaterInputStream/skip/)
 
 ## Ejemplo
 ~~~java

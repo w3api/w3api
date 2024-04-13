@@ -18,9 +18,9 @@ public interface ErrorListener
 ~~~
 
 ## Métodos
-* [error()](/Java/ErrorListener/error)
-* [fatalError()](/Java/ErrorListener/fatalError)
-* [warning()](/Java/ErrorListener/warning)
+* [error()](/Java/ErrorListener/error/)
+* [fatalError()](/Java/ErrorListener/fatalError/)
+* [warning()](/Java/ErrorListener/warning/)
 
 ## Ejemplo
 ~~~java

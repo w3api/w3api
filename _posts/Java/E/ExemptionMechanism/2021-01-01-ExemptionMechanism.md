@@ -21,13 +21,13 @@ public class ExemptionMechanism extends Object
 * [ExemptionMechanism()](/Java/ExemptionMechanism/ExemptionMechanism/)
 
 ## Métodos
-* [genExemptionBlob()](/Java/ExemptionMechanism/genExemptionBlob)
-* [getInstance()](/Java/ExemptionMechanism/getInstance)
-* [getName()](/Java/ExemptionMechanism/getName)
-* [getOutputSize()](/Java/ExemptionMechanism/getOutputSize)
-* [getProvider()](/Java/ExemptionMechanism/getProvider)
-* [init()](/Java/ExemptionMechanism/init)
-* [isCryptoAllowed()](/Java/ExemptionMechanism/isCryptoAllowed)
+* [genExemptionBlob()](/Java/ExemptionMechanism/genExemptionBlob/)
+* [getInstance()](/Java/ExemptionMechanism/getInstance/)
+* [getName()](/Java/ExemptionMechanism/getName/)
+* [getOutputSize()](/Java/ExemptionMechanism/getOutputSize/)
+* [getProvider()](/Java/ExemptionMechanism/getProvider/)
+* [init()](/Java/ExemptionMechanism/init/)
+* [isCryptoAllowed()](/Java/ExemptionMechanism/isCryptoAllowed/)
 
 ## Ejemplo
 ~~~java

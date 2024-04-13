@@ -18,13 +18,13 @@ public static enum KeyCombination.ModifierValue extends Enum<KeyCombination.Modi
 ~~~
 
 ## Enumerados
-* [ANY](/Java/KeyCombination/ModifierValue/ANY)
-* [DOWN](/Java/KeyCombination/ModifierValue/DOWN)
-* [UP](/Java/KeyCombination/ModifierValue/UP)
+* [ANY](/Java/KeyCombination/ModifierValue/ANY/)
+* [DOWN](/Java/KeyCombination/ModifierValue/DOWN/)
+* [UP](/Java/KeyCombination/ModifierValue/UP/)
 
 ## Métodos
-* [valueOf()](/Java/KeyCombination/ModifierValue/valueOf)
-* [values()](/Java/KeyCombination/ModifierValue/values)
+* [valueOf()](/Java/KeyCombination/ModifierValue/valueOf/)
+* [values()](/Java/KeyCombination/ModifierValue/values/)
 
 ## Ejemplo
 ~~~java

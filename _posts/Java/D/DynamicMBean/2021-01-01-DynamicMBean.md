@@ -18,12 +18,12 @@ public interface DynamicMBean
 ~~~
 
 ## Métodos
-* [getAttribute()](/Java/DynamicMBean/getAttribute)
-* [getAttributes()](/Java/DynamicMBean/getAttributes)
-* [getMBeanInfo()](/Java/DynamicMBean/getMBeanInfo)
-* [invoke()](/Java/DynamicMBean/invoke)
-* [setAttribute()](/Java/DynamicMBean/setAttribute)
-* [setAttributes()](/Java/DynamicMBean/setAttributes)
+* [getAttribute()](/Java/DynamicMBean/getAttribute/)
+* [getAttributes()](/Java/DynamicMBean/getAttributes/)
+* [getMBeanInfo()](/Java/DynamicMBean/getMBeanInfo/)
+* [invoke()](/Java/DynamicMBean/invoke/)
+* [setAttribute()](/Java/DynamicMBean/setAttribute/)
+* [setAttributes()](/Java/DynamicMBean/setAttributes/)
 
 ## Ejemplo
 ~~~java

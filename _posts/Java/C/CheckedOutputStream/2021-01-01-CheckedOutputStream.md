@@ -21,8 +21,8 @@ public class CheckedOutputStream extends FilterOutputStream
 * [CheckedOutputStream()](/Java/CheckedOutputStream/CheckedOutputStream/)
 
 ## Métodos
-* [getChecksum()](/Java/CheckedOutputStream/getChecksum)
-* [write()](/Java/CheckedOutputStream/write)
+* [getChecksum()](/Java/CheckedOutputStream/getChecksum/)
+* [write()](/Java/CheckedOutputStream/write/)
 
 ## Ejemplo
 ~~~java

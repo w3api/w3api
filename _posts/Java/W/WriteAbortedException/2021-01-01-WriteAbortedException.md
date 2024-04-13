@@ -21,11 +21,11 @@ public class WriteAbortedException extends ObjectStreamException
 * [WriteAbortedException()](/Java/WriteAbortedException/WriteAbortedException/)
 
 ## Campos
-* [detail](/Java/WriteAbortedException/detail)
+* [detail](/Java/WriteAbortedException/detail/)
 
 ## Métodos
-* [getCause()](/Java/WriteAbortedException/getCause)
-* [getMessage()](/Java/WriteAbortedException/getMessage)
+* [getCause()](/Java/WriteAbortedException/getCause/)
+* [getMessage()](/Java/WriteAbortedException/getMessage/)
 
 ## Ejemplo
 ~~~java

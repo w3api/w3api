@@ -18,10 +18,10 @@ public interface DeclHandler
 ~~~
 
 ## Métodos
-* [attributeDecl()](/Java/DeclHandler/attributeDecl)
-* [elementDecl()](/Java/DeclHandler/elementDecl)
-* [externalEntityDecl()](/Java/DeclHandler/externalEntityDecl)
-* [internalEntityDecl()](/Java/DeclHandler/internalEntityDecl)
+* [attributeDecl()](/Java/DeclHandler/attributeDecl/)
+* [elementDecl()](/Java/DeclHandler/elementDecl/)
+* [externalEntityDecl()](/Java/DeclHandler/externalEntityDecl/)
+* [internalEntityDecl()](/Java/DeclHandler/internalEntityDecl/)
 
 ## Ejemplo
 ~~~java

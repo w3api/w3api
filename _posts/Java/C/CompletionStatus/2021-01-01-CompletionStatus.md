@@ -18,16 +18,16 @@ public final class CompletionStatus extends Object implements IDLEntity
 ~~~
 
 ## Campos
-* [_COMPLETED_MAYBE](/Java/CompletionStatus/_COMPLETED_MAYBE)
-* [_COMPLETED_NO](/Java/CompletionStatus/_COMPLETED_NO)
-* [_COMPLETED_YES](/Java/CompletionStatus/_COMPLETED_YES)
-* [COMPLETED_MAYBE](/Java/CompletionStatus/COMPLETED_MAYBE)
-* [COMPLETED_NO](/Java/CompletionStatus/COMPLETED_NO)
-* [COMPLETED_YES](/Java/CompletionStatus/COMPLETED_YES)
+* [_COMPLETED_MAYBE](/Java/CompletionStatus/_COMPLETED_MAYBE/)
+* [_COMPLETED_NO](/Java/CompletionStatus/_COMPLETED_NO/)
+* [_COMPLETED_YES](/Java/CompletionStatus/_COMPLETED_YES/)
+* [COMPLETED_MAYBE](/Java/CompletionStatus/COMPLETED_MAYBE/)
+* [COMPLETED_NO](/Java/CompletionStatus/COMPLETED_NO/)
+* [COMPLETED_YES](/Java/CompletionStatus/COMPLETED_YES/)
 
 ## Métodos
-* [from_int()](/Java/CompletionStatus/from_int)
-* [value()](/Java/CompletionStatus/value)
+* [from_int()](/Java/CompletionStatus/from_int/)
+* [value()](/Java/CompletionStatus/value/)
 
 ## Ejemplo
 ~~~java

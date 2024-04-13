@@ -21,18 +21,18 @@ public class InternationalFormatter extends DefaultFormatter
 * [InternationalFormatter()](/Java/InternationalFormatter/InternationalFormatter/)
 
 ## Métodos
-* [clone()](/Java/InternationalFormatter/clone)
-* [getActions()](/Java/InternationalFormatter/getActions)
-* [getFields()](/Java/InternationalFormatter/getFields)
-* [getFormat()](/Java/InternationalFormatter/getFormat)
-* [getMaximum()](/Java/InternationalFormatter/getMaximum)
-* [getMinimum()](/Java/InternationalFormatter/getMinimum)
-* [install()](/Java/InternationalFormatter/install)
-* [setFormat()](/Java/InternationalFormatter/setFormat)
-* [setMaximum()](/Java/InternationalFormatter/setMaximum)
-* [setMinimum()](/Java/InternationalFormatter/setMinimum)
-* [stringToValue()](/Java/InternationalFormatter/stringToValue)
-* [valueToString()](/Java/InternationalFormatter/valueToString)
+* [clone()](/Java/InternationalFormatter/clone/)
+* [getActions()](/Java/InternationalFormatter/getActions/)
+* [getFields()](/Java/InternationalFormatter/getFields/)
+* [getFormat()](/Java/InternationalFormatter/getFormat/)
+* [getMaximum()](/Java/InternationalFormatter/getMaximum/)
+* [getMinimum()](/Java/InternationalFormatter/getMinimum/)
+* [install()](/Java/InternationalFormatter/install/)
+* [setFormat()](/Java/InternationalFormatter/setFormat/)
+* [setMaximum()](/Java/InternationalFormatter/setMaximum/)
+* [setMinimum()](/Java/InternationalFormatter/setMinimum/)
+* [stringToValue()](/Java/InternationalFormatter/stringToValue/)
+* [valueToString()](/Java/InternationalFormatter/valueToString/)
 
 ## Ejemplo
 ~~~java

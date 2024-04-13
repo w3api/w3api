@@ -18,12 +18,12 @@ public interface PooledConnection
 ~~~
 
 ## Métodos
-* [addConnectionEventListener()](/Java/PooledConnection/addConnectionEventListener)
-* [addStatementEventListener()](/Java/PooledConnection/addStatementEventListener)
-* [close()](/Java/PooledConnection/close)
-* [getConnection()](/Java/PooledConnection/getConnection)
-* [removeConnectionEventListener()](/Java/PooledConnection/removeConnectionEventListener)
-* [removeStatementEventListener()](/Java/PooledConnection/removeStatementEventListener)
+* [addConnectionEventListener()](/Java/PooledConnection/addConnectionEventListener/)
+* [addStatementEventListener()](/Java/PooledConnection/addStatementEventListener/)
+* [close()](/Java/PooledConnection/close/)
+* [getConnection()](/Java/PooledConnection/getConnection/)
+* [removeConnectionEventListener()](/Java/PooledConnection/removeConnectionEventListener/)
+* [removeStatementEventListener()](/Java/PooledConnection/removeStatementEventListener/)
 
 ## Ejemplo
 ~~~java

@@ -21,14 +21,14 @@ public abstract class CodecFactoryHelper extends Object
 * [CodecFactoryHelper()](/Java/CodecFactoryHelper/CodecFactoryHelper/)
 
 ## Métodos
-* [extract()](/Java/CodecFactoryHelper/extract)
-* [id()](/Java/CodecFactoryHelper/id)
-* [insert()](/Java/CodecFactoryHelper/insert)
-* [narrow()](/Java/CodecFactoryHelper/narrow)
-* [read()](/Java/CodecFactoryHelper/read)
-* [type()](/Java/CodecFactoryHelper/type)
-* [unchecked_narrow()](/Java/CodecFactoryHelper/unchecked_narrow)
-* [write()](/Java/CodecFactoryHelper/write)
+* [extract()](/Java/CodecFactoryHelper/extract/)
+* [id()](/Java/CodecFactoryHelper/id/)
+* [insert()](/Java/CodecFactoryHelper/insert/)
+* [narrow()](/Java/CodecFactoryHelper/narrow/)
+* [read()](/Java/CodecFactoryHelper/read/)
+* [type()](/Java/CodecFactoryHelper/type/)
+* [unchecked_narrow()](/Java/CodecFactoryHelper/unchecked_narrow/)
+* [write()](/Java/CodecFactoryHelper/write/)
 
 ## Ejemplo
 ~~~java

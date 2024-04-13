@@ -18,7 +18,7 @@ public interface EventDispatcher
 ~~~
 
 ## Métodos
-* [dispatchEvent()](/Java/EventDispatcher/dispatchEvent)
+* [dispatchEvent()](/Java/EventDispatcher/dispatchEvent/)
 
 ## Ejemplo
 ~~~java

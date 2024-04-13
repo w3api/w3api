@@ -21,7 +21,7 @@ public class ProgressBar extends ProgressIndicator
 * [ProgressBar()](/Java/ProgressBar/ProgressBar/)
 
 ## Métodos
-* [getInitialFocusTraversable()](/Java/ProgressBar/getInitialFocusTraversable)
+* [getInitialFocusTraversable()](/Java/ProgressBar/getInitialFocusTraversable/)
 
 ## Ejemplo
 ~~~java

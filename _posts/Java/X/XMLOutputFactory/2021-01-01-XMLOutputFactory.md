@@ -21,17 +21,17 @@ public abstract class XMLOutputFactory extends Object
 * [XMLOutputFactory()](/Java/XMLOutputFactory/XMLOutputFactory/)
 
 ## Campos
-* [IS_REPAIRING_NAMESPACES](/Java/XMLOutputFactory/IS_REPAIRING_NAMESPACES)
+* [IS_REPAIRING_NAMESPACES](/Java/XMLOutputFactory/IS_REPAIRING_NAMESPACES/)
 
 ## Métodos
-* [createXMLEventWriter()](/Java/XMLOutputFactory/createXMLEventWriter)
-* [createXMLStreamWriter()](/Java/XMLOutputFactory/createXMLStreamWriter)
-* [getProperty()](/Java/XMLOutputFactory/getProperty)
-* [isPropertySupported()](/Java/XMLOutputFactory/isPropertySupported)
-* [newDefaultFactory()](/Java/XMLOutputFactory/newDefaultFactory)
-* [newFactory()](/Java/XMLOutputFactory/newFactory)
-* [newInstance()](/Java/XMLOutputFactory/newInstance)
-* [setProperty()](/Java/XMLOutputFactory/setProperty)
+* [createXMLEventWriter()](/Java/XMLOutputFactory/createXMLEventWriter/)
+* [createXMLStreamWriter()](/Java/XMLOutputFactory/createXMLStreamWriter/)
+* [getProperty()](/Java/XMLOutputFactory/getProperty/)
+* [isPropertySupported()](/Java/XMLOutputFactory/isPropertySupported/)
+* [newDefaultFactory()](/Java/XMLOutputFactory/newDefaultFactory/)
+* [newFactory()](/Java/XMLOutputFactory/newFactory/)
+* [newInstance()](/Java/XMLOutputFactory/newInstance/)
+* [setProperty()](/Java/XMLOutputFactory/setProperty/)
 
 ## Ejemplo
 ~~~java

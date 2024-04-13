@@ -18,15 +18,15 @@ public class ICC_ProfileRGB extends ICC_Profile
 ~~~
 
 ## Campos
-* [BLUECOMPONENT](/Java/ICC_ProfileRGB/BLUECOMPONENT)
-* [GREENCOMPONENT](/Java/ICC_ProfileRGB/GREENCOMPONENT)
-* [REDCOMPONENT](/Java/ICC_ProfileRGB/REDCOMPONENT)
+* [BLUECOMPONENT](/Java/ICC_ProfileRGB/BLUECOMPONENT/)
+* [GREENCOMPONENT](/Java/ICC_ProfileRGB/GREENCOMPONENT/)
+* [REDCOMPONENT](/Java/ICC_ProfileRGB/REDCOMPONENT/)
 
 ## Métodos
-* [getGamma()](/Java/ICC_ProfileRGB/getGamma)
-* [getMatrix()](/Java/ICC_ProfileRGB/getMatrix)
-* [getMediaWhitePoint()](/Java/ICC_ProfileRGB/getMediaWhitePoint)
-* [getTRC()](/Java/ICC_ProfileRGB/getTRC)
+* [getGamma()](/Java/ICC_ProfileRGB/getGamma/)
+* [getMatrix()](/Java/ICC_ProfileRGB/getMatrix/)
+* [getMediaWhitePoint()](/Java/ICC_ProfileRGB/getMediaWhitePoint/)
+* [getTRC()](/Java/ICC_ProfileRGB/getTRC/)
 
 ## Ejemplo
 ~~~java

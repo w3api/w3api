@@ -21,14 +21,14 @@ public abstract class Permission extends Object implements Guard, Serializable
 * [Permission()](/Java/Permission-java-security/Permission/)
 
 ## Métodos
-* [checkGuard()](/Java/Permission-java-security/checkGuard)
-* [equals()](/Java/Permission-java-security/equals)
-* [getActions()](/Java/Permission-java-security/getActions)
-* [getName()](/Java/Permission-java-security/getName)
-* [hashCode()](/Java/Permission-java-security/hashCode)
-* [implies()](/Java/Permission-java-security/implies)
-* [newPermissionCollection()](/Java/Permission-java-security/newPermissionCollection)
-* [toString()](/Java/Permission-java-security/toString)
+* [checkGuard()](/Java/Permission-java-security/checkGuard/)
+* [equals()](/Java/Permission-java-security/equals/)
+* [getActions()](/Java/Permission-java-security/getActions/)
+* [getName()](/Java/Permission-java-security/getName/)
+* [hashCode()](/Java/Permission-java-security/hashCode/)
+* [implies()](/Java/Permission-java-security/implies/)
+* [newPermissionCollection()](/Java/Permission-java-security/newPermissionCollection/)
+* [toString()](/Java/Permission-java-security/toString/)
 
 ## Ejemplo
 ~~~java

@@ -18,10 +18,10 @@ sidebar:
 ~~~
 
 ## Métodos
-* [current_member_kind()](/Java/DynStruct-org-omg-CORBA/current_member_kind)
-* [current_member_name()](/Java/DynStruct-org-omg-CORBA/current_member_name)
-* [get_members()](/Java/DynStruct-org-omg-CORBA/get_members)
-* [set_members()](/Java/DynStruct-org-omg-CORBA/set_members)
+* [current_member_kind()](/Java/DynStruct-org-omg-CORBA/current_member_kind/)
+* [current_member_name()](/Java/DynStruct-org-omg-CORBA/current_member_name/)
+* [get_members()](/Java/DynStruct-org-omg-CORBA/get_members/)
+* [set_members()](/Java/DynStruct-org-omg-CORBA/set_members/)
 
 ## Ejemplo
 ~~~java

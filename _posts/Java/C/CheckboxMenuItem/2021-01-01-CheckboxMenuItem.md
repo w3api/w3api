@@ -21,18 +21,18 @@ public class CheckboxMenuItem extends MenuItem implements ItemSelectable, Access
 * [CheckboxMenuItem()](/Java/CheckboxMenuItem/CheckboxMenuItem/)
 
 ## Métodos
-* [addItemListener()](/Java/CheckboxMenuItem/addItemListener)
-* [addNotify()](/Java/CheckboxMenuItem/addNotify)
-* [getAccessibleContext()](/Java/CheckboxMenuItem/getAccessibleContext)
-* [getItemListeners()](/Java/CheckboxMenuItem/getItemListeners)
-* [getListeners()](/Java/CheckboxMenuItem/getListeners)
-* [getSelectedObjects()](/Java/CheckboxMenuItem/getSelectedObjects)
-* [getState()](/Java/CheckboxMenuItem/getState)
-* [paramString()](/Java/CheckboxMenuItem/paramString)
-* [processEvent()](/Java/CheckboxMenuItem/processEvent)
-* [processItemEvent()](/Java/CheckboxMenuItem/processItemEvent)
-* [removeItemListener()](/Java/CheckboxMenuItem/removeItemListener)
-* [setState()](/Java/CheckboxMenuItem/setState)
+* [addItemListener()](/Java/CheckboxMenuItem/addItemListener/)
+* [addNotify()](/Java/CheckboxMenuItem/addNotify/)
+* [getAccessibleContext()](/Java/CheckboxMenuItem/getAccessibleContext/)
+* [getItemListeners()](/Java/CheckboxMenuItem/getItemListeners/)
+* [getListeners()](/Java/CheckboxMenuItem/getListeners/)
+* [getSelectedObjects()](/Java/CheckboxMenuItem/getSelectedObjects/)
+* [getState()](/Java/CheckboxMenuItem/getState/)
+* [paramString()](/Java/CheckboxMenuItem/paramString/)
+* [processEvent()](/Java/CheckboxMenuItem/processEvent/)
+* [processItemEvent()](/Java/CheckboxMenuItem/processItemEvent/)
+* [removeItemListener()](/Java/CheckboxMenuItem/removeItemListener/)
+* [setState()](/Java/CheckboxMenuItem/setState/)
 
 ## Ejemplo
 ~~~java

@@ -18,9 +18,9 @@ public interface ClassLoaderRepository
 ~~~
 
 ## Métodos
-* [loadClass()](/Java/ClassLoaderRepository/loadClass)
-* [loadClassBefore()](/Java/ClassLoaderRepository/loadClassBefore)
-* [loadClassWithout()](/Java/ClassLoaderRepository/loadClassWithout)
+* [loadClass()](/Java/ClassLoaderRepository/loadClass/)
+* [loadClassBefore()](/Java/ClassLoaderRepository/loadClassBefore/)
+* [loadClassWithout()](/Java/ClassLoaderRepository/loadClassWithout/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public class KeyStroke extends AWTKeyStroke
 ~~~
 
 ## Métodos
-* [getKeyStroke()](/Java/KeyStroke/getKeyStroke)
-* [getKeyStrokeForEvent()](/Java/KeyStroke/getKeyStrokeForEvent)
+* [getKeyStroke()](/Java/KeyStroke/getKeyStroke/)
+* [getKeyStrokeForEvent()](/Java/KeyStroke/getKeyStrokeForEvent/)
 
 ## Ejemplo
 ~~~java

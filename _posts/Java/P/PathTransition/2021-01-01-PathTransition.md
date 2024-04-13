@@ -21,18 +21,18 @@ public final class PathTransition extends Transition
 * [PathTransition()](/Java/PathTransition/PathTransition/)
 
 ## Métodos
-* [durationProperty()](/Java/PathTransition/durationProperty)
-* [getDuration()](/Java/PathTransition/getDuration)
-* [getNode()](/Java/PathTransition/getNode)
-* [getOrientation()](/Java/PathTransition/getOrientation)
-* [getPath()](/Java/PathTransition/getPath)
-* [nodeProperty()](/Java/PathTransition/nodeProperty)
-* [orientationProperty()](/Java/PathTransition/orientationProperty)
-* [pathProperty()](/Java/PathTransition/pathProperty)
-* [setDuration()](/Java/PathTransition/setDuration)
-* [setNode()](/Java/PathTransition/setNode)
-* [setOrientation()](/Java/PathTransition/setOrientation)
-* [setPath()](/Java/PathTransition/setPath)
+* [durationProperty()](/Java/PathTransition/durationProperty/)
+* [getDuration()](/Java/PathTransition/getDuration/)
+* [getNode()](/Java/PathTransition/getNode/)
+* [getOrientation()](/Java/PathTransition/getOrientation/)
+* [getPath()](/Java/PathTransition/getPath/)
+* [nodeProperty()](/Java/PathTransition/nodeProperty/)
+* [orientationProperty()](/Java/PathTransition/orientationProperty/)
+* [pathProperty()](/Java/PathTransition/pathProperty/)
+* [setDuration()](/Java/PathTransition/setDuration/)
+* [setNode()](/Java/PathTransition/setNode/)
+* [setOrientation()](/Java/PathTransition/setOrientation/)
+* [setPath()](/Java/PathTransition/setPath/)
 
 ## Ejemplo
 ~~~java

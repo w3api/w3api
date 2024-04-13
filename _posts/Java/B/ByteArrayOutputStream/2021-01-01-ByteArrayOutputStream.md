@@ -21,17 +21,17 @@ public class ByteArrayOutputStream extends OutputStream
 * [ByteArrayOutputStream()](/Java/ByteArrayOutputStream/ByteArrayOutputStream/)
 
 ## Campos
-* [buf](/Java/ByteArrayOutputStream/buf)
-* [count](/Java/ByteArrayOutputStream/count)
+* [buf](/Java/ByteArrayOutputStream/buf/)
+* [count](/Java/ByteArrayOutputStream/count/)
 
 ## Métodos
-* [close()](/Java/ByteArrayOutputStream/close)
-* [reset()](/Java/ByteArrayOutputStream/reset)
-* [size()](/Java/ByteArrayOutputStream/size)
-* [toByteArray()](/Java/ByteArrayOutputStream/toByteArray)
-* [toString()](/Java/ByteArrayOutputStream/toString)
-* [write()](/Java/ByteArrayOutputStream/write)
-* [writeTo()](/Java/ByteArrayOutputStream/writeTo)
+* [close()](/Java/ByteArrayOutputStream/close/)
+* [reset()](/Java/ByteArrayOutputStream/reset/)
+* [size()](/Java/ByteArrayOutputStream/size/)
+* [toByteArray()](/Java/ByteArrayOutputStream/toByteArray/)
+* [toString()](/Java/ByteArrayOutputStream/toString/)
+* [write()](/Java/ByteArrayOutputStream/write/)
+* [writeTo()](/Java/ByteArrayOutputStream/writeTo/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface EntityReference extends XMLEvent
 ~~~
 
 ## Métodos
-* [getDeclaration()](/Java/EntityReference-javax-xml-stream-events/getDeclaration)
-* [getName()](/Java/EntityReference-javax-xml-stream-events/getName)
+* [getDeclaration()](/Java/EntityReference-javax-xml-stream-events/getDeclaration/)
+* [getName()](/Java/EntityReference-javax-xml-stream-events/getName/)
 
 ## Ejemplo
 ~~~java

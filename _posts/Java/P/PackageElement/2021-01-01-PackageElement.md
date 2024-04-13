@@ -18,11 +18,11 @@ public interface PackageElement extends Element, QualifiedNameable
 ~~~
 
 ## Métodos
-* [getEnclosedElements()](/Java/PackageElement/getEnclosedElements)
-* [getEnclosingElement()](/Java/PackageElement/getEnclosingElement)
-* [getQualifiedName()](/Java/PackageElement/getQualifiedName)
-* [getSimpleName()](/Java/PackageElement/getSimpleName)
-* [isUnnamed()](/Java/PackageElement/isUnnamed)
+* [getEnclosedElements()](/Java/PackageElement/getEnclosedElements/)
+* [getEnclosingElement()](/Java/PackageElement/getEnclosingElement/)
+* [getQualifiedName()](/Java/PackageElement/getQualifiedName/)
+* [getSimpleName()](/Java/PackageElement/getSimpleName/)
+* [isUnnamed()](/Java/PackageElement/isUnnamed/)
 
 ## Ejemplo
 ~~~java

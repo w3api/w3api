@@ -21,14 +21,14 @@ public abstract class BooleanExpression extends Object implements ObservableBool
 * [BooleanExpression()](/Java/BooleanExpression/BooleanExpression/)
 
 ## Métodos
-* [and()](/Java/BooleanExpression/and)
-* [asObject()](/Java/BooleanExpression/asObject)
-* [asString()](/Java/BooleanExpression/asString)
-* [booleanExpression()](/Java/BooleanExpression/booleanExpression)
-* [isEqualTo()](/Java/BooleanExpression/isEqualTo)
-* [isNotEqualTo()](/Java/BooleanExpression/isNotEqualTo)
-* [not()](/Java/BooleanExpression/not)
-* [or()](/Java/BooleanExpression/or)
+* [and()](/Java/BooleanExpression/and/)
+* [asObject()](/Java/BooleanExpression/asObject/)
+* [asString()](/Java/BooleanExpression/asString/)
+* [booleanExpression()](/Java/BooleanExpression/booleanExpression/)
+* [isEqualTo()](/Java/BooleanExpression/isEqualTo/)
+* [isNotEqualTo()](/Java/BooleanExpression/isNotEqualTo/)
+* [not()](/Java/BooleanExpression/not/)
+* [or()](/Java/BooleanExpression/or/)
 
 ## Ejemplo
 ~~~java

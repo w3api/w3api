@@ -18,9 +18,9 @@ public class DirectoryManager extends NamingManager
 ~~~
 
 ## Métodos
-* [getContinuationDirContext()](/Java/DirectoryManager/getContinuationDirContext)
-* [getObjectInstance()](/Java/DirectoryManager/getObjectInstance)
-* [getStateToBind()](/Java/DirectoryManager/getStateToBind)
+* [getContinuationDirContext()](/Java/DirectoryManager/getContinuationDirContext/)
+* [getObjectInstance()](/Java/DirectoryManager/getObjectInstance/)
+* [getStateToBind()](/Java/DirectoryManager/getStateToBind/)
 
 ## Ejemplo
 ~~~java

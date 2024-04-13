@@ -21,9 +21,9 @@ public class CellSkinBase<C extends Cell> extends LabeledSkinBase<C>
 * [CellSkinBase()](/Java/CellSkinBase/CellSkinBase/)
 
 ## Métodos
-* [cellSizeProperty()](/Java/CellSkinBase/cellSizeProperty)
-* [getCellSize()](/Java/CellSkinBase/getCellSize)
-* [getClassCssMetaData()](/Java/CellSkinBase/getClassCssMetaData)
+* [cellSizeProperty()](/Java/CellSkinBase/cellSizeProperty/)
+* [getCellSize()](/Java/CellSkinBase/getCellSize/)
+* [getClassCssMetaData()](/Java/CellSkinBase/getClassCssMetaData/)
 
 ## Ejemplo
 ~~~java

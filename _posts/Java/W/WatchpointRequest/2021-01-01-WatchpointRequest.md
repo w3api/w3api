@@ -18,11 +18,11 @@ public interface WatchpointRequest extends EventRequest
 ~~~
 
 ## Métodos
-* [addClassExclusionFilter()](/Java/WatchpointRequest/addClassExclusionFilter)
-* [addClassFilter()](/Java/WatchpointRequest/addClassFilter)
-* [addInstanceFilter()](/Java/WatchpointRequest/addInstanceFilter)
-* [addThreadFilter()](/Java/WatchpointRequest/addThreadFilter)
-* [field()](/Java/WatchpointRequest/field)
+* [addClassExclusionFilter()](/Java/WatchpointRequest/addClassExclusionFilter/)
+* [addClassFilter()](/Java/WatchpointRequest/addClassFilter/)
+* [addInstanceFilter()](/Java/WatchpointRequest/addInstanceFilter/)
+* [addThreadFilter()](/Java/WatchpointRequest/addThreadFilter/)
+* [field()](/Java/WatchpointRequest/field/)
 
 ## Ejemplo
 ~~~java

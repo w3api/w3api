@@ -18,14 +18,14 @@ sidebar:
 ~~~
 
 ## Elementos
-* [bound](/Java/BeanProperty/bound)
-* [description](/Java/BeanProperty/description)
-* [enumerationValues](/Java/BeanProperty/enumerationValues)
-* [expert](/Java/BeanProperty/expert)
-* [hidden](/Java/BeanProperty/hidden)
-* [preferred](/Java/BeanProperty/preferred)
-* [required](/Java/BeanProperty/required)
-* [visualUpdate](/Java/BeanProperty/visualUpdate)
+* [bound](/Java/BeanProperty/bound/)
+* [description](/Java/BeanProperty/description/)
+* [enumerationValues](/Java/BeanProperty/enumerationValues/)
+* [expert](/Java/BeanProperty/expert/)
+* [hidden](/Java/BeanProperty/hidden/)
+* [preferred](/Java/BeanProperty/preferred/)
+* [required](/Java/BeanProperty/required/)
+* [visualUpdate](/Java/BeanProperty/visualUpdate/)
 
 ## Ejemplo
 ~~~java

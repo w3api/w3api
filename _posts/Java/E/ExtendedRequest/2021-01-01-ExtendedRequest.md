@@ -18,9 +18,9 @@ public interface ExtendedRequest extends Serializable
 ~~~
 
 ## Métodos
-* [createExtendedResponse()](/Java/ExtendedRequest/createExtendedResponse)
-* [getEncodedValue()](/Java/ExtendedRequest/getEncodedValue)
-* [getID()](/Java/ExtendedRequest/getID)
+* [createExtendedResponse()](/Java/ExtendedRequest/createExtendedResponse/)
+* [getEncodedValue()](/Java/ExtendedRequest/getEncodedValue/)
+* [getID()](/Java/ExtendedRequest/getID/)
 
 ## Ejemplo
 ~~~java

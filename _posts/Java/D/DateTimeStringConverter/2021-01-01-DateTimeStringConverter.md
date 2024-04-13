@@ -21,14 +21,14 @@ public class DateTimeStringConverter extends StringConverter<Date>
 * [DateTimeStringConverter()](/Java/DateTimeStringConverter/DateTimeStringConverter/)
 
 ## Campos
-* [dateFormat](/Java/DateTimeStringConverter/dateFormat)
-* [dateStyle](/Java/DateTimeStringConverter/dateStyle)
-* [locale](/Java/DateTimeStringConverter/locale)
-* [pattern](/Java/DateTimeStringConverter/pattern)
-* [timeStyle](/Java/DateTimeStringConverter/timeStyle)
+* [dateFormat](/Java/DateTimeStringConverter/dateFormat/)
+* [dateStyle](/Java/DateTimeStringConverter/dateStyle/)
+* [locale](/Java/DateTimeStringConverter/locale/)
+* [pattern](/Java/DateTimeStringConverter/pattern/)
+* [timeStyle](/Java/DateTimeStringConverter/timeStyle/)
 
 ## Métodos
-* [getDateFormat()](/Java/DateTimeStringConverter/getDateFormat)
+* [getDateFormat()](/Java/DateTimeStringConverter/getDateFormat/)
 
 ## Ejemplo
 ~~~java

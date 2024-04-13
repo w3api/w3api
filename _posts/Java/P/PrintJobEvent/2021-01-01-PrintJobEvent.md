@@ -21,16 +21,16 @@ public class PrintJobEvent extends PrintEvent
 * [PrintJobEvent()](/Java/PrintJobEvent/PrintJobEvent/)
 
 ## Campos
-* [DATA_TRANSFER_COMPLETE](/Java/PrintJobEvent/DATA_TRANSFER_COMPLETE)
-* [JOB_CANCELED](/Java/PrintJobEvent/JOB_CANCELED)
-* [JOB_COMPLETE](/Java/PrintJobEvent/JOB_COMPLETE)
-* [JOB_FAILED](/Java/PrintJobEvent/JOB_FAILED)
-* [NO_MORE_EVENTS](/Java/PrintJobEvent/NO_MORE_EVENTS)
-* [REQUIRES_ATTENTION](/Java/PrintJobEvent/REQUIRES_ATTENTION)
+* [DATA_TRANSFER_COMPLETE](/Java/PrintJobEvent/DATA_TRANSFER_COMPLETE/)
+* [JOB_CANCELED](/Java/PrintJobEvent/JOB_CANCELED/)
+* [JOB_COMPLETE](/Java/PrintJobEvent/JOB_COMPLETE/)
+* [JOB_FAILED](/Java/PrintJobEvent/JOB_FAILED/)
+* [NO_MORE_EVENTS](/Java/PrintJobEvent/NO_MORE_EVENTS/)
+* [REQUIRES_ATTENTION](/Java/PrintJobEvent/REQUIRES_ATTENTION/)
 
 ## Métodos
-* [getPrintEventType()](/Java/PrintJobEvent/getPrintEventType)
-* [getPrintJob()](/Java/PrintJobEvent/getPrintJob)
+* [getPrintEventType()](/Java/PrintJobEvent/getPrintEventType/)
+* [getPrintJob()](/Java/PrintJobEvent/getPrintJob/)
 
 ## Ejemplo
 ~~~java

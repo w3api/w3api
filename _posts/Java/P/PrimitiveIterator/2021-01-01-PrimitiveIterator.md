@@ -18,7 +18,7 @@ public interface PrimitiveIterator<T,T_CONS> extends Iterator<T>
 ~~~
 
 ## Métodos
-* [forEachRemaining()](/Java/PrimitiveIterator/forEachRemaining)
+* [forEachRemaining()](/Java/PrimitiveIterator/forEachRemaining/)
 
 ## Ejemplo
 ~~~java

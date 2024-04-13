@@ -18,14 +18,14 @@ public interface ExecutorService extends Executor
 ~~~
 
 ## Métodos
-* [awaitTermination()](/Java/ExecutorService/awaitTermination)
-* [invokeAll()](/Java/ExecutorService/invokeAll)
-* [invokeAny()](/Java/ExecutorService/invokeAny)
-* [isShutdown()](/Java/ExecutorService/isShutdown)
-* [isTerminated()](/Java/ExecutorService/isTerminated)
-* [shutdown()](/Java/ExecutorService/shutdown)
-* [shutdownNow()](/Java/ExecutorService/shutdownNow)
-* [submit()](/Java/ExecutorService/submit)
+* [awaitTermination()](/Java/ExecutorService/awaitTermination/)
+* [invokeAll()](/Java/ExecutorService/invokeAll/)
+* [invokeAny()](/Java/ExecutorService/invokeAny/)
+* [isShutdown()](/Java/ExecutorService/isShutdown/)
+* [isTerminated()](/Java/ExecutorService/isTerminated/)
+* [shutdown()](/Java/ExecutorService/shutdown/)
+* [shutdownNow()](/Java/ExecutorService/shutdownNow/)
+* [submit()](/Java/ExecutorService/submit/)
 
 ## Ejemplo
 ~~~java

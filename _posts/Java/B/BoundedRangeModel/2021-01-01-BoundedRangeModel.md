@@ -18,19 +18,19 @@ public interface BoundedRangeModel
 ~~~
 
 ## Métodos
-* [addChangeListener()](/Java/BoundedRangeModel/addChangeListener)
-* [getExtent()](/Java/BoundedRangeModel/getExtent)
-* [getMaximum()](/Java/BoundedRangeModel/getMaximum)
-* [getMinimum()](/Java/BoundedRangeModel/getMinimum)
-* [getValue()](/Java/BoundedRangeModel/getValue)
-* [getValueIsAdjusting()](/Java/BoundedRangeModel/getValueIsAdjusting)
-* [removeChangeListener()](/Java/BoundedRangeModel/removeChangeListener)
-* [setExtent()](/Java/BoundedRangeModel/setExtent)
-* [setMaximum()](/Java/BoundedRangeModel/setMaximum)
-* [setMinimum()](/Java/BoundedRangeModel/setMinimum)
-* [setRangeProperties()](/Java/BoundedRangeModel/setRangeProperties)
-* [setValue()](/Java/BoundedRangeModel/setValue)
-* [setValueIsAdjusting()](/Java/BoundedRangeModel/setValueIsAdjusting)
+* [addChangeListener()](/Java/BoundedRangeModel/addChangeListener/)
+* [getExtent()](/Java/BoundedRangeModel/getExtent/)
+* [getMaximum()](/Java/BoundedRangeModel/getMaximum/)
+* [getMinimum()](/Java/BoundedRangeModel/getMinimum/)
+* [getValue()](/Java/BoundedRangeModel/getValue/)
+* [getValueIsAdjusting()](/Java/BoundedRangeModel/getValueIsAdjusting/)
+* [removeChangeListener()](/Java/BoundedRangeModel/removeChangeListener/)
+* [setExtent()](/Java/BoundedRangeModel/setExtent/)
+* [setMaximum()](/Java/BoundedRangeModel/setMaximum/)
+* [setMinimum()](/Java/BoundedRangeModel/setMinimum/)
+* [setRangeProperties()](/Java/BoundedRangeModel/setRangeProperties/)
+* [setValue()](/Java/BoundedRangeModel/setValue/)
+* [setValueIsAdjusting()](/Java/BoundedRangeModel/setValueIsAdjusting/)
 
 ## Ejemplo
 ~~~java

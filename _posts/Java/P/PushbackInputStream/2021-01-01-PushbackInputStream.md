@@ -21,18 +21,18 @@ public class PushbackInputStream extends FilterInputStream
 * [PushbackInputStream()](/Java/PushbackInputStream/PushbackInputStream/)
 
 ## Campos
-* [buf](/Java/PushbackInputStream/buf)
-* [pos](/Java/PushbackInputStream/pos)
+* [buf](/Java/PushbackInputStream/buf/)
+* [pos](/Java/PushbackInputStream/pos/)
 
 ## Métodos
-* [available()](/Java/PushbackInputStream/available)
-* [close()](/Java/PushbackInputStream/close)
-* [mark()](/Java/PushbackInputStream/mark)
-* [markSupported()](/Java/PushbackInputStream/markSupported)
-* [read()](/Java/PushbackInputStream/read)
-* [reset()](/Java/PushbackInputStream/reset)
-* [skip()](/Java/PushbackInputStream/skip)
-* [unread()](/Java/PushbackInputStream/unread)
+* [available()](/Java/PushbackInputStream/available/)
+* [close()](/Java/PushbackInputStream/close/)
+* [mark()](/Java/PushbackInputStream/mark/)
+* [markSupported()](/Java/PushbackInputStream/markSupported/)
+* [read()](/Java/PushbackInputStream/read/)
+* [reset()](/Java/PushbackInputStream/reset/)
+* [skip()](/Java/PushbackInputStream/skip/)
+* [unread()](/Java/PushbackInputStream/unread/)
 
 ## Ejemplo
 ~~~java

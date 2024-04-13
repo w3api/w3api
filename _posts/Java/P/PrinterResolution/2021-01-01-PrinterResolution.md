@@ -21,9 +21,9 @@ public final class PrinterResolution extends ResolutionSyntax implements DocAttr
 * [PrinterResolution()](/Java/PrinterResolution/PrinterResolution/)
 
 ## Métodos
-* [equals()](/Java/PrinterResolution/equals)
-* [getCategory()](/Java/PrinterResolution/getCategory)
-* [getName()](/Java/PrinterResolution/getName)
+* [equals()](/Java/PrinterResolution/equals/)
+* [getCategory()](/Java/PrinterResolution/getCategory/)
+* [getName()](/Java/PrinterResolution/getName/)
 
 ## Ejemplo
 ~~~java

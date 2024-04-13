@@ -21,15 +21,15 @@ public class DragGestureEvent extends EventObject
 * [DragGestureEvent()](/Java/DragGestureEvent/DragGestureEvent/)
 
 ## Métodos
-* [getComponent()](/Java/DragGestureEvent/getComponent)
-* [getDragAction()](/Java/DragGestureEvent/getDragAction)
-* [getDragOrigin()](/Java/DragGestureEvent/getDragOrigin)
-* [getDragSource()](/Java/DragGestureEvent/getDragSource)
-* [getSourceAsDragGestureRecognizer()](/Java/DragGestureEvent/getSourceAsDragGestureRecognizer)
-* [getTriggerEvent()](/Java/DragGestureEvent/getTriggerEvent)
-* [iterator()](/Java/DragGestureEvent/iterator)
-* [startDrag()](/Java/DragGestureEvent/startDrag)
-* [toArray()](/Java/DragGestureEvent/toArray)
+* [getComponent()](/Java/DragGestureEvent/getComponent/)
+* [getDragAction()](/Java/DragGestureEvent/getDragAction/)
+* [getDragOrigin()](/Java/DragGestureEvent/getDragOrigin/)
+* [getDragSource()](/Java/DragGestureEvent/getDragSource/)
+* [getSourceAsDragGestureRecognizer()](/Java/DragGestureEvent/getSourceAsDragGestureRecognizer/)
+* [getTriggerEvent()](/Java/DragGestureEvent/getTriggerEvent/)
+* [iterator()](/Java/DragGestureEvent/iterator/)
+* [startDrag()](/Java/DragGestureEvent/startDrag/)
+* [toArray()](/Java/DragGestureEvent/toArray/)
 
 ## Ejemplo
 ~~~java

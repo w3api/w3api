@@ -21,8 +21,8 @@ public abstract class XmlAdapter<ValueType,BoundType> extends Object
 * [XmlAdapter()](/Java/XmlAdapter/XmlAdapter/)
 
 ## Métodos
-* [marshal()](/Java/XmlAdapter/marshal)
-* [unmarshal()](/Java/XmlAdapter/unmarshal)
+* [marshal()](/Java/XmlAdapter/marshal/)
+* [unmarshal()](/Java/XmlAdapter/unmarshal/)
 
 ## Ejemplo
 ~~~java

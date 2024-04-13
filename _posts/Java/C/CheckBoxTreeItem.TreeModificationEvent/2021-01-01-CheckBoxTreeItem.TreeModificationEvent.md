@@ -21,12 +21,12 @@ public static class CheckBoxTreeItem.TreeModificationEvent<T> extends Event
 * [CheckBoxTreeItem.TreeModificationEvent()](/Java/CheckBoxTreeItem/TreeModificationEvent/CheckBoxTreeItem/TreeModificationEvent/)
 
 ## Campos
-* [ANY](/Java/CheckBoxTreeItem/TreeModificationEvent/ANY)
+* [ANY](/Java/CheckBoxTreeItem/TreeModificationEvent/ANY/)
 
 ## Métodos
-* [getTreeItem()](/Java/CheckBoxTreeItem/TreeModificationEvent/getTreeItem)
-* [wasIndeterminateChanged()](/Java/CheckBoxTreeItem/TreeModificationEvent/wasIndeterminateChanged)
-* [wasSelectionChanged()](/Java/CheckBoxTreeItem/TreeModificationEvent/wasSelectionChanged)
+* [getTreeItem()](/Java/CheckBoxTreeItem/TreeModificationEvent/getTreeItem/)
+* [wasIndeterminateChanged()](/Java/CheckBoxTreeItem/TreeModificationEvent/wasIndeterminateChanged/)
+* [wasSelectionChanged()](/Java/CheckBoxTreeItem/TreeModificationEvent/wasSelectionChanged/)
 
 ## Ejemplo
 ~~~java

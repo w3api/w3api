@@ -21,13 +21,13 @@ public class BufferCapabilities extends Object implements Cloneable
 * [BufferCapabilities()](/Java/BufferCapabilities/BufferCapabilities/)
 
 ## Métodos
-* [clone()](/Java/BufferCapabilities/clone)
-* [getBackBufferCapabilities()](/Java/BufferCapabilities/getBackBufferCapabilities)
-* [getFlipContents()](/Java/BufferCapabilities/getFlipContents)
-* [getFrontBufferCapabilities()](/Java/BufferCapabilities/getFrontBufferCapabilities)
-* [isFullScreenRequired()](/Java/BufferCapabilities/isFullScreenRequired)
-* [isMultiBufferAvailable()](/Java/BufferCapabilities/isMultiBufferAvailable)
-* [isPageFlipping()](/Java/BufferCapabilities/isPageFlipping)
+* [clone()](/Java/BufferCapabilities/clone/)
+* [getBackBufferCapabilities()](/Java/BufferCapabilities/getBackBufferCapabilities/)
+* [getFlipContents()](/Java/BufferCapabilities/getFlipContents/)
+* [getFrontBufferCapabilities()](/Java/BufferCapabilities/getFrontBufferCapabilities/)
+* [isFullScreenRequired()](/Java/BufferCapabilities/isFullScreenRequired/)
+* [isMultiBufferAvailable()](/Java/BufferCapabilities/isMultiBufferAvailable/)
+* [isPageFlipping()](/Java/BufferCapabilities/isPageFlipping/)
 
 ## Ejemplo
 ~~~java

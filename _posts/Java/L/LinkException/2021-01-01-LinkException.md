@@ -21,21 +21,21 @@ public class LinkException extends NamingException
 * [LinkException()](/Java/LinkException/LinkException/)
 
 ## Campos
-* [linkExplanation](/Java/LinkException/linkExplanation)
-* [linkRemainingName](/Java/LinkException/linkRemainingName)
-* [linkResolvedName](/Java/LinkException/linkResolvedName)
-* [linkResolvedObj](/Java/LinkException/linkResolvedObj)
+* [linkExplanation](/Java/LinkException/linkExplanation/)
+* [linkRemainingName](/Java/LinkException/linkRemainingName/)
+* [linkResolvedName](/Java/LinkException/linkResolvedName/)
+* [linkResolvedObj](/Java/LinkException/linkResolvedObj/)
 
 ## Métodos
-* [getLinkExplanation()](/Java/LinkException/getLinkExplanation)
-* [getLinkRemainingName()](/Java/LinkException/getLinkRemainingName)
-* [getLinkResolvedName()](/Java/LinkException/getLinkResolvedName)
-* [getLinkResolvedObj()](/Java/LinkException/getLinkResolvedObj)
-* [setLinkExplanation()](/Java/LinkException/setLinkExplanation)
-* [setLinkRemainingName()](/Java/LinkException/setLinkRemainingName)
-* [setLinkResolvedName()](/Java/LinkException/setLinkResolvedName)
-* [setLinkResolvedObj()](/Java/LinkException/setLinkResolvedObj)
-* [toString()](/Java/LinkException/toString)
+* [getLinkExplanation()](/Java/LinkException/getLinkExplanation/)
+* [getLinkRemainingName()](/Java/LinkException/getLinkRemainingName/)
+* [getLinkResolvedName()](/Java/LinkException/getLinkResolvedName/)
+* [getLinkResolvedObj()](/Java/LinkException/getLinkResolvedObj/)
+* [setLinkExplanation()](/Java/LinkException/setLinkExplanation/)
+* [setLinkRemainingName()](/Java/LinkException/setLinkRemainingName/)
+* [setLinkResolvedName()](/Java/LinkException/setLinkResolvedName/)
+* [setLinkResolvedObj()](/Java/LinkException/setLinkResolvedObj/)
+* [toString()](/Java/LinkException/toString/)
 
 ## Ejemplo
 ~~~java

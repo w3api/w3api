@@ -21,12 +21,12 @@ public abstract class BufferStrategy extends Object
 * [BufferStrategy()](/Java/BufferStrategy/BufferStrategy/)
 
 ## Métodos
-* [contentsLost()](/Java/BufferStrategy/contentsLost)
-* [contentsRestored()](/Java/BufferStrategy/contentsRestored)
-* [dispose()](/Java/BufferStrategy/dispose)
-* [getCapabilities()](/Java/BufferStrategy/getCapabilities)
-* [getDrawGraphics()](/Java/BufferStrategy/getDrawGraphics)
-* [show()](/Java/BufferStrategy/show)
+* [contentsLost()](/Java/BufferStrategy/contentsLost/)
+* [contentsRestored()](/Java/BufferStrategy/contentsRestored/)
+* [dispose()](/Java/BufferStrategy/dispose/)
+* [getCapabilities()](/Java/BufferStrategy/getCapabilities/)
+* [getDrawGraphics()](/Java/BufferStrategy/getDrawGraphics/)
+* [show()](/Java/BufferStrategy/show/)
 
 ## Ejemplo
 ~~~java

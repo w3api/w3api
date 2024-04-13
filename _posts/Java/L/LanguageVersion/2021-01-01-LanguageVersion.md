@@ -18,12 +18,12 @@ sidebar:
 ~~~
 
 ## Enumerados
-* [JAVA_1_1](/Java/LanguageVersion/JAVA_1_1)
-* [JAVA_1_5](/Java/LanguageVersion/JAVA_1_5)
+* [JAVA_1_1](/Java/LanguageVersion/JAVA_1_1/)
+* [JAVA_1_5](/Java/LanguageVersion/JAVA_1_5/)
 
 ## Métodos
-* [valueOf()](/Java/LanguageVersion/valueOf)
-* [values()](/Java/LanguageVersion/values)
+* [valueOf()](/Java/LanguageVersion/valueOf/)
+* [values()](/Java/LanguageVersion/values/)
 
 ## Ejemplo
 ~~~java

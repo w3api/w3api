@@ -18,9 +18,9 @@ public interface ByteValue extends PrimitiveValue, Comparable<ByteValue>
 ~~~
 
 ## Métodos
-* [equals()](/Java/ByteValue/equals)
-* [hashCode()](/Java/ByteValue/hashCode)
-* [value()](/Java/ByteValue/value)
+* [equals()](/Java/ByteValue/equals/)
+* [hashCode()](/Java/ByteValue/hashCode/)
+* [value()](/Java/ByteValue/value/)
 
 ## Ejemplo
 ~~~java

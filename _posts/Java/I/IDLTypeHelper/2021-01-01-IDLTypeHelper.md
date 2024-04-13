@@ -21,13 +21,13 @@ public abstract class IDLTypeHelper extends Object
 * [IDLTypeHelper()](/Java/IDLTypeHelper/IDLTypeHelper/)
 
 ## Métodos
-* [extract()](/Java/IDLTypeHelper/extract)
-* [id()](/Java/IDLTypeHelper/id)
-* [insert()](/Java/IDLTypeHelper/insert)
-* [narrow()](/Java/IDLTypeHelper/narrow)
-* [read()](/Java/IDLTypeHelper/read)
-* [type()](/Java/IDLTypeHelper/type)
-* [write()](/Java/IDLTypeHelper/write)
+* [extract()](/Java/IDLTypeHelper/extract/)
+* [id()](/Java/IDLTypeHelper/id/)
+* [insert()](/Java/IDLTypeHelper/insert/)
+* [narrow()](/Java/IDLTypeHelper/narrow/)
+* [read()](/Java/IDLTypeHelper/read/)
+* [type()](/Java/IDLTypeHelper/type/)
+* [write()](/Java/IDLTypeHelper/write/)
 
 ## Ejemplo
 ~~~java

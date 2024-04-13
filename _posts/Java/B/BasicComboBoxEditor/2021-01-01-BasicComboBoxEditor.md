@@ -21,11 +21,11 @@ public class BasicComboBoxEditor extends Object implements ComboBoxEditor, Focus
 * [BasicComboBoxEditor()](/Java/BasicComboBoxEditor/BasicComboBoxEditor/)
 
 ## Campos
-* [editor](/Java/BasicComboBoxEditor/editor)
+* [editor](/Java/BasicComboBoxEditor/editor/)
 
 ## Métodos
-* [createEditorComponent()](/Java/BasicComboBoxEditor/createEditorComponent)
-* [setItem()](/Java/BasicComboBoxEditor/setItem)
+* [createEditorComponent()](/Java/BasicComboBoxEditor/createEditorComponent/)
+* [setItem()](/Java/BasicComboBoxEditor/setItem/)
 
 ## Ejemplo
 ~~~java

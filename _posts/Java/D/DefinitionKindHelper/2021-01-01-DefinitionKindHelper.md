@@ -21,12 +21,12 @@ public abstract class DefinitionKindHelper extends Object
 * [DefinitionKindHelper()](/Java/DefinitionKindHelper/DefinitionKindHelper/)
 
 ## Métodos
-* [extract()](/Java/DefinitionKindHelper/extract)
-* [id()](/Java/DefinitionKindHelper/id)
-* [insert()](/Java/DefinitionKindHelper/insert)
-* [read()](/Java/DefinitionKindHelper/read)
-* [type()](/Java/DefinitionKindHelper/type)
-* [write()](/Java/DefinitionKindHelper/write)
+* [extract()](/Java/DefinitionKindHelper/extract/)
+* [id()](/Java/DefinitionKindHelper/id/)
+* [insert()](/Java/DefinitionKindHelper/insert/)
+* [read()](/Java/DefinitionKindHelper/read/)
+* [type()](/Java/DefinitionKindHelper/type/)
+* [write()](/Java/DefinitionKindHelper/write/)
 
 ## Ejemplo
 ~~~java

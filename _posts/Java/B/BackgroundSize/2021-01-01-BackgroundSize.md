@@ -21,16 +21,16 @@ public final class BackgroundSize extends Object
 * [BackgroundSize()](/Java/BackgroundSize/BackgroundSize/)
 
 ## Campos
-* [AUTO](/Java/BackgroundSize/AUTO)
-* [DEFAULT](/Java/BackgroundSize/DEFAULT)
+* [AUTO](/Java/BackgroundSize/AUTO/)
+* [DEFAULT](/Java/BackgroundSize/DEFAULT/)
 
 ## Métodos
-* [getHeight()](/Java/BackgroundSize/getHeight)
-* [getWidth()](/Java/BackgroundSize/getWidth)
-* [isContain()](/Java/BackgroundSize/isContain)
-* [isCover()](/Java/BackgroundSize/isCover)
-* [isHeightAsPercentage()](/Java/BackgroundSize/isHeightAsPercentage)
-* [isWidthAsPercentage()](/Java/BackgroundSize/isWidthAsPercentage)
+* [getHeight()](/Java/BackgroundSize/getHeight/)
+* [getWidth()](/Java/BackgroundSize/getWidth/)
+* [isContain()](/Java/BackgroundSize/isContain/)
+* [isCover()](/Java/BackgroundSize/isCover/)
+* [isHeightAsPercentage()](/Java/BackgroundSize/isHeightAsPercentage/)
+* [isWidthAsPercentage()](/Java/BackgroundSize/isWidthAsPercentage/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public class BasicRadioButtonMenuItemUI extends BasicMenuItemUI
 * [BasicRadioButtonMenuItemUI()](/Java/BasicRadioButtonMenuItemUI/BasicRadioButtonMenuItemUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicRadioButtonMenuItemUI/createUI)
-* [processMouseEvent()](/Java/BasicRadioButtonMenuItemUI/processMouseEvent)
+* [createUI()](/Java/BasicRadioButtonMenuItemUI/createUI/)
+* [processMouseEvent()](/Java/BasicRadioButtonMenuItemUI/processMouseEvent/)
 
 ## Ejemplo
 ~~~java

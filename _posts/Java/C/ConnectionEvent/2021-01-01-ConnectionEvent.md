@@ -21,7 +21,7 @@ public class ConnectionEvent extends EventObject
 * [ConnectionEvent()](/Java/ConnectionEvent/ConnectionEvent/)
 
 ## Métodos
-* [getSQLException()](/Java/ConnectionEvent/getSQLException)
+* [getSQLException()](/Java/ConnectionEvent/getSQLException/)
 
 ## Ejemplo
 ~~~java

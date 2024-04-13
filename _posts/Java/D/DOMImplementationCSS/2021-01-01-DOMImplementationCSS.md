@@ -18,7 +18,7 @@ public interface DOMImplementationCSS extends DOMImplementation
 ~~~
 
 ## Métodos
-* [createCSSStyleSheet()](/Java/DOMImplementationCSS/createCSSStyleSheet)
+* [createCSSStyleSheet()](/Java/DOMImplementationCSS/createCSSStyleSheet/)
 
 ## Ejemplo
 ~~~java

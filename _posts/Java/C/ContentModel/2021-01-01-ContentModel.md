@@ -21,15 +21,15 @@ public final class ContentModel extends Object implements Serializable
 * [ContentModel()](/Java/ContentModel/ContentModel/)
 
 ## Campos
-* [content](/Java/ContentModel/content)
-* [next](/Java/ContentModel/next)
-* [type](/Java/ContentModel/type)
+* [content](/Java/ContentModel/content/)
+* [next](/Java/ContentModel/next/)
+* [type](/Java/ContentModel/type/)
 
 ## Métodos
-* [empty()](/Java/ContentModel/empty)
-* [first()](/Java/ContentModel/first)
-* [getElements()](/Java/ContentModel/getElements)
-* [toString()](/Java/ContentModel/toString)
+* [empty()](/Java/ContentModel/empty/)
+* [first()](/Java/ContentModel/first/)
+* [getElements()](/Java/ContentModel/getElements/)
+* [toString()](/Java/ContentModel/toString/)
 
 ## Ejemplo
 ~~~java

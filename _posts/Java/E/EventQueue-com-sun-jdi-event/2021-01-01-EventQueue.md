@@ -18,7 +18,7 @@ public interface EventQueue extends Mirror
 ~~~
 
 ## Métodos
-* [remove()](/Java/EventQueue-com-sun-jdi-event/remove)
+* [remove()](/Java/EventQueue-com-sun-jdi-event/remove/)
 
 ## Ejemplo
 ~~~java

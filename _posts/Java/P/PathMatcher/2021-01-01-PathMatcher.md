@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [matches()](/Java/PathMatcher/matches)
+* [matches()](/Java/PathMatcher/matches/)
 
 ## Ejemplo
 ~~~java

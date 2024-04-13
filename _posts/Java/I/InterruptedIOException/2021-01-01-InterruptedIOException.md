@@ -21,7 +21,7 @@ public class InterruptedIOException extends IOException
 * [InterruptedIOException()](/Java/InterruptedIOException/InterruptedIOException/)
 
 ## Campos
-* [bytesTransferred](/Java/InterruptedIOException/bytesTransferred)
+* [bytesTransferred](/Java/InterruptedIOException/bytesTransferred/)
 
 ## Ejemplo
 ~~~java

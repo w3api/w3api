@@ -21,12 +21,12 @@ public abstract class IdentifierHelper extends Object
 * [IdentifierHelper()](/Java/IdentifierHelper/IdentifierHelper/)
 
 ## Métodos
-* [extract()](/Java/IdentifierHelper/extract)
-* [id()](/Java/IdentifierHelper/id)
-* [insert()](/Java/IdentifierHelper/insert)
-* [read()](/Java/IdentifierHelper/read)
-* [type()](/Java/IdentifierHelper/type)
-* [write()](/Java/IdentifierHelper/write)
+* [extract()](/Java/IdentifierHelper/extract/)
+* [id()](/Java/IdentifierHelper/id/)
+* [insert()](/Java/IdentifierHelper/insert/)
+* [read()](/Java/IdentifierHelper/read/)
+* [type()](/Java/IdentifierHelper/type/)
+* [write()](/Java/IdentifierHelper/write/)
 
 ## Ejemplo
 ~~~java

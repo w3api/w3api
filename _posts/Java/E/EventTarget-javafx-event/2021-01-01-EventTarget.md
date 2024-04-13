@@ -18,7 +18,7 @@ public interface EventTarget
 ~~~
 
 ## Métodos
-* [buildEventDispatchChain()](/Java/EventTarget-javafx-event/buildEventDispatchChain)
+* [buildEventDispatchChain()](/Java/EventTarget-javafx-event/buildEventDispatchChain/)
 
 ## Ejemplo
 ~~~java

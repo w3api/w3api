@@ -21,8 +21,8 @@ public class DragSourceDropEvent extends DragSourceEvent
 * [DragSourceDropEvent()](/Java/DragSourceDropEvent/DragSourceDropEvent/)
 
 ## Métodos
-* [getDropAction()](/Java/DragSourceDropEvent/getDropAction)
-* [getDropSuccess()](/Java/DragSourceDropEvent/getDropSuccess)
+* [getDropAction()](/Java/DragSourceDropEvent/getDropAction/)
+* [getDropSuccess()](/Java/DragSourceDropEvent/getDropSuccess/)
 
 ## Ejemplo
 ~~~java

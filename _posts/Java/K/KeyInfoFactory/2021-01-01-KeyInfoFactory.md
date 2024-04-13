@@ -21,19 +21,19 @@ public abstract class KeyInfoFactory extends Object
 * [KeyInfoFactory()](/Java/KeyInfoFactory/KeyInfoFactory/)
 
 ## Métodos
-* [getInstance()](/Java/KeyInfoFactory/getInstance)
-* [getMechanismType()](/Java/KeyInfoFactory/getMechanismType)
-* [getProvider()](/Java/KeyInfoFactory/getProvider)
-* [getURIDereferencer()](/Java/KeyInfoFactory/getURIDereferencer)
-* [isFeatureSupported()](/Java/KeyInfoFactory/isFeatureSupported)
-* [newKeyInfo()](/Java/KeyInfoFactory/newKeyInfo)
-* [newKeyName()](/Java/KeyInfoFactory/newKeyName)
-* [newKeyValue()](/Java/KeyInfoFactory/newKeyValue)
-* [newPGPData()](/Java/KeyInfoFactory/newPGPData)
-* [newRetrievalMethod()](/Java/KeyInfoFactory/newRetrievalMethod)
-* [newX509Data()](/Java/KeyInfoFactory/newX509Data)
-* [newX509IssuerSerial()](/Java/KeyInfoFactory/newX509IssuerSerial)
-* [unmarshalKeyInfo()](/Java/KeyInfoFactory/unmarshalKeyInfo)
+* [getInstance()](/Java/KeyInfoFactory/getInstance/)
+* [getMechanismType()](/Java/KeyInfoFactory/getMechanismType/)
+* [getProvider()](/Java/KeyInfoFactory/getProvider/)
+* [getURIDereferencer()](/Java/KeyInfoFactory/getURIDereferencer/)
+* [isFeatureSupported()](/Java/KeyInfoFactory/isFeatureSupported/)
+* [newKeyInfo()](/Java/KeyInfoFactory/newKeyInfo/)
+* [newKeyName()](/Java/KeyInfoFactory/newKeyName/)
+* [newKeyValue()](/Java/KeyInfoFactory/newKeyValue/)
+* [newPGPData()](/Java/KeyInfoFactory/newPGPData/)
+* [newRetrievalMethod()](/Java/KeyInfoFactory/newRetrievalMethod/)
+* [newX509Data()](/Java/KeyInfoFactory/newX509Data/)
+* [newX509IssuerSerial()](/Java/KeyInfoFactory/newX509IssuerSerial/)
+* [unmarshalKeyInfo()](/Java/KeyInfoFactory/unmarshalKeyInfo/)
 
 ## Ejemplo
 ~~~java

@@ -18,9 +18,9 @@ public interface DoubleValue extends PrimitiveValue, Comparable<DoubleValue>
 ~~~
 
 ## Métodos
-* [equals()](/Java/DoubleValue/equals)
-* [hashCode()](/Java/DoubleValue/hashCode)
-* [value()](/Java/DoubleValue/value)
+* [equals()](/Java/DoubleValue/equals/)
+* [hashCode()](/Java/DoubleValue/hashCode/)
+* [value()](/Java/DoubleValue/value/)
 
 ## Ejemplo
 ~~~java

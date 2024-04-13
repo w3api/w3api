@@ -18,11 +18,11 @@ public interface XAConnectionBuilder
 ~~~
 
 ## Métodos
-* [build()](/Java/XAConnectionBuilder/build)
-* [password()](/Java/XAConnectionBuilder/password)
-* [shardingKey()](/Java/XAConnectionBuilder/shardingKey)
-* [superShardingKey()](/Java/XAConnectionBuilder/superShardingKey)
-* [user()](/Java/XAConnectionBuilder/user)
+* [build()](/Java/XAConnectionBuilder/build/)
+* [password()](/Java/XAConnectionBuilder/password/)
+* [shardingKey()](/Java/XAConnectionBuilder/shardingKey/)
+* [superShardingKey()](/Java/XAConnectionBuilder/superShardingKey/)
+* [user()](/Java/XAConnectionBuilder/user/)
 
 ## Ejemplo
 ~~~java

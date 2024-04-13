@@ -21,8 +21,8 @@ public static class BasicBorders.SplitPaneBorder extends Object implements Borde
 * [BasicBorders.SplitPaneBorder()](/Java/BasicBorders/SplitPaneBorder/BasicBorders/SplitPaneBorder/)
 
 ## Campos
-* [highlight](/Java/BasicBorders/SplitPaneBorder/highlight)
-* [shadow](/Java/BasicBorders/SplitPaneBorder/shadow)
+* [highlight](/Java/BasicBorders/SplitPaneBorder/highlight/)
+* [shadow](/Java/BasicBorders/SplitPaneBorder/shadow/)
 
 ## Ejemplo
 ~~~java

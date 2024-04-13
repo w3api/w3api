@@ -21,17 +21,17 @@ public class ImmutableDescriptor extends Object implements Descriptor
 * [ImmutableDescriptor()](/Java/ImmutableDescriptor/ImmutableDescriptor/)
 
 ## Campos
-* [EMPTY_DESCRIPTOR](/Java/ImmutableDescriptor/EMPTY_DESCRIPTOR)
+* [EMPTY_DESCRIPTOR](/Java/ImmutableDescriptor/EMPTY_DESCRIPTOR/)
 
 ## Métodos
-* [clone()](/Java/ImmutableDescriptor/clone)
-* [equals()](/Java/ImmutableDescriptor/equals)
-* [hashCode()](/Java/ImmutableDescriptor/hashCode)
-* [isValid()](/Java/ImmutableDescriptor/isValid)
-* [removeField()](/Java/ImmutableDescriptor/removeField)
-* [setField()](/Java/ImmutableDescriptor/setField)
-* [setFields()](/Java/ImmutableDescriptor/setFields)
-* [union()](/Java/ImmutableDescriptor/union)
+* [clone()](/Java/ImmutableDescriptor/clone/)
+* [equals()](/Java/ImmutableDescriptor/equals/)
+* [hashCode()](/Java/ImmutableDescriptor/hashCode/)
+* [isValid()](/Java/ImmutableDescriptor/isValid/)
+* [removeField()](/Java/ImmutableDescriptor/removeField/)
+* [setField()](/Java/ImmutableDescriptor/setField/)
+* [setFields()](/Java/ImmutableDescriptor/setFields/)
+* [union()](/Java/ImmutableDescriptor/union/)
 
 ## Ejemplo
 ~~~java

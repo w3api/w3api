@@ -18,8 +18,8 @@ public interface WindowFocusListener extends EventListener
 ~~~
 
 ## Métodos
-* [windowGainedFocus()](/Java/WindowFocusListener/windowGainedFocus)
-* [windowLostFocus()](/Java/WindowFocusListener/windowLostFocus)
+* [windowGainedFocus()](/Java/WindowFocusListener/windowGainedFocus/)
+* [windowLostFocus()](/Java/WindowFocusListener/windowLostFocus/)
 
 ## Ejemplo
 ~~~java

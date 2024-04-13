@@ -21,19 +21,19 @@ public final class ButtonType extends Object
 * [ButtonType()](/Java/ButtonType/ButtonType/)
 
 ## Campos
-* [APPLY](/Java/ButtonType/APPLY)
-* [CANCEL](/Java/ButtonType/CANCEL)
-* [CLOSE](/Java/ButtonType/CLOSE)
-* [FINISH](/Java/ButtonType/FINISH)
-* [NEXT](/Java/ButtonType/NEXT)
-* [NO](/Java/ButtonType/NO)
-* [OK](/Java/ButtonType/OK)
-* [PREVIOUS](/Java/ButtonType/PREVIOUS)
-* [YES](/Java/ButtonType/YES)
+* [APPLY](/Java/ButtonType/APPLY/)
+* [CANCEL](/Java/ButtonType/CANCEL/)
+* [CLOSE](/Java/ButtonType/CLOSE/)
+* [FINISH](/Java/ButtonType/FINISH/)
+* [NEXT](/Java/ButtonType/NEXT/)
+* [NO](/Java/ButtonType/NO/)
+* [OK](/Java/ButtonType/OK/)
+* [PREVIOUS](/Java/ButtonType/PREVIOUS/)
+* [YES](/Java/ButtonType/YES/)
 
 ## Métodos
-* [getButtonData()](/Java/ButtonType/getButtonData)
-* [getText()](/Java/ButtonType/getText)
+* [getButtonData()](/Java/ButtonType/getButtonData/)
+* [getText()](/Java/ButtonType/getText/)
 
 ## Ejemplo
 ~~~java

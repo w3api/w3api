@@ -21,9 +21,9 @@ public class XMLFormatter extends Formatter
 * [XMLFormatter()](/Java/XMLFormatter/XMLFormatter/)
 
 ## Métodos
-* [format()](/Java/XMLFormatter/format)
-* [getHead()](/Java/XMLFormatter/getHead)
-* [getTail()](/Java/XMLFormatter/getTail)
+* [format()](/Java/XMLFormatter/format/)
+* [getHead()](/Java/XMLFormatter/getHead/)
+* [getTail()](/Java/XMLFormatter/getTail/)
 
 ## Ejemplo
 ~~~java

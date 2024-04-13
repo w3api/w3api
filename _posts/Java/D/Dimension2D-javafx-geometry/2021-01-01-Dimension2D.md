@@ -21,11 +21,11 @@ public class Dimension2D extends Object
 * [Dimension2D()](/Java/Dimension2D-javafx-geometry/Dimension2D/)
 
 ## Métodos
-* [equals()](/Java/Dimension2D-javafx-geometry/equals)
-* [getHeight()](/Java/Dimension2D-javafx-geometry/getHeight)
-* [getWidth()](/Java/Dimension2D-javafx-geometry/getWidth)
-* [hashCode()](/Java/Dimension2D-javafx-geometry/hashCode)
-* [toString()](/Java/Dimension2D-javafx-geometry/toString)
+* [equals()](/Java/Dimension2D-javafx-geometry/equals/)
+* [getHeight()](/Java/Dimension2D-javafx-geometry/getHeight/)
+* [getWidth()](/Java/Dimension2D-javafx-geometry/getWidth/)
+* [hashCode()](/Java/Dimension2D-javafx-geometry/hashCode/)
+* [toString()](/Java/Dimension2D-javafx-geometry/toString/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Elementos
-* [value](/Java/XmlAccessorOrder/value)
+* [value](/Java/XmlAccessorOrder/value/)
 
 ## Ejemplo
 ~~~java

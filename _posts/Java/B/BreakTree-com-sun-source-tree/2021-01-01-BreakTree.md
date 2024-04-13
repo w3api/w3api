@@ -18,7 +18,7 @@ public interface BreakTree extends StatementTree
 ~~~
 
 ## Métodos
-* [getLabel()](/Java/BreakTree-com-sun-source-tree/getLabel)
+* [getLabel()](/Java/BreakTree-com-sun-source-tree/getLabel/)
 
 ## Ejemplo
 ~~~java

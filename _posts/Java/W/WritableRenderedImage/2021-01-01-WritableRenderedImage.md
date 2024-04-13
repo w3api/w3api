@@ -18,14 +18,14 @@ public interface WritableRenderedImage extends RenderedImage
 ~~~
 
 ## Métodos
-* [addTileObserver()](/Java/WritableRenderedImage/addTileObserver)
-* [getWritableTile()](/Java/WritableRenderedImage/getWritableTile)
-* [getWritableTileIndices()](/Java/WritableRenderedImage/getWritableTileIndices)
-* [hasTileWriters()](/Java/WritableRenderedImage/hasTileWriters)
-* [isTileWritable()](/Java/WritableRenderedImage/isTileWritable)
-* [releaseWritableTile()](/Java/WritableRenderedImage/releaseWritableTile)
-* [removeTileObserver()](/Java/WritableRenderedImage/removeTileObserver)
-* [setData()](/Java/WritableRenderedImage/setData)
+* [addTileObserver()](/Java/WritableRenderedImage/addTileObserver/)
+* [getWritableTile()](/Java/WritableRenderedImage/getWritableTile/)
+* [getWritableTileIndices()](/Java/WritableRenderedImage/getWritableTileIndices/)
+* [hasTileWriters()](/Java/WritableRenderedImage/hasTileWriters/)
+* [isTileWritable()](/Java/WritableRenderedImage/isTileWritable/)
+* [releaseWritableTile()](/Java/WritableRenderedImage/releaseWritableTile/)
+* [removeTileObserver()](/Java/WritableRenderedImage/removeTileObserver/)
+* [setData()](/Java/WritableRenderedImage/setData/)
 
 ## Ejemplo
 ~~~java

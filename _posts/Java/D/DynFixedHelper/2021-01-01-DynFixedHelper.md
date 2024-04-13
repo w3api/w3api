@@ -21,14 +21,14 @@ public abstract class DynFixedHelper extends Object
 * [DynFixedHelper()](/Java/DynFixedHelper/DynFixedHelper/)
 
 ## Métodos
-* [extract()](/Java/DynFixedHelper/extract)
-* [id()](/Java/DynFixedHelper/id)
-* [insert()](/Java/DynFixedHelper/insert)
-* [narrow()](/Java/DynFixedHelper/narrow)
-* [read()](/Java/DynFixedHelper/read)
-* [type()](/Java/DynFixedHelper/type)
-* [unchecked_narrow()](/Java/DynFixedHelper/unchecked_narrow)
-* [write()](/Java/DynFixedHelper/write)
+* [extract()](/Java/DynFixedHelper/extract/)
+* [id()](/Java/DynFixedHelper/id/)
+* [insert()](/Java/DynFixedHelper/insert/)
+* [narrow()](/Java/DynFixedHelper/narrow/)
+* [read()](/Java/DynFixedHelper/read/)
+* [type()](/Java/DynFixedHelper/type/)
+* [unchecked_narrow()](/Java/DynFixedHelper/unchecked_narrow/)
+* [write()](/Java/DynFixedHelper/write/)
 
 ## Ejemplo
 ~~~java

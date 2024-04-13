@@ -21,12 +21,12 @@ public class BufferedOutputStream extends FilterOutputStream
 * [BufferedOutputStream()](/Java/BufferedOutputStream/BufferedOutputStream/)
 
 ## Campos
-* [buf](/Java/BufferedOutputStream/buf)
-* [count](/Java/BufferedOutputStream/count)
+* [buf](/Java/BufferedOutputStream/buf/)
+* [count](/Java/BufferedOutputStream/count/)
 
 ## Métodos
-* [flush()](/Java/BufferedOutputStream/flush)
-* [write()](/Java/BufferedOutputStream/write)
+* [flush()](/Java/BufferedOutputStream/flush/)
+* [write()](/Java/BufferedOutputStream/write/)
 
 ## Ejemplo
 ~~~java

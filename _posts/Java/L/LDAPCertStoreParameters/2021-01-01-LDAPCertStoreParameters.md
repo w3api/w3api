@@ -21,10 +21,10 @@ public class LDAPCertStoreParameters extends Object implements CertStoreParamete
 * [LDAPCertStoreParameters()](/Java/LDAPCertStoreParameters/LDAPCertStoreParameters/)
 
 ## Métodos
-* [clone()](/Java/LDAPCertStoreParameters/clone)
-* [getPort()](/Java/LDAPCertStoreParameters/getPort)
-* [getServerName()](/Java/LDAPCertStoreParameters/getServerName)
-* [toString()](/Java/LDAPCertStoreParameters/toString)
+* [clone()](/Java/LDAPCertStoreParameters/clone/)
+* [getPort()](/Java/LDAPCertStoreParameters/getPort/)
+* [getServerName()](/Java/LDAPCertStoreParameters/getServerName/)
+* [toString()](/Java/LDAPCertStoreParameters/toString/)
 
 ## Ejemplo
 ~~~java

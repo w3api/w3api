@@ -21,8 +21,8 @@ public class PKIXCertPathBuilderResult extends PKIXCertPathValidatorResult imple
 * [PKIXCertPathBuilderResult()](/Java/PKIXCertPathBuilderResult/PKIXCertPathBuilderResult/)
 
 ## Métodos
-* [getCertPath()](/Java/PKIXCertPathBuilderResult/getCertPath)
-* [toString()](/Java/PKIXCertPathBuilderResult/toString)
+* [getCertPath()](/Java/PKIXCertPathBuilderResult/getCertPath/)
+* [toString()](/Java/PKIXCertPathBuilderResult/toString/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [apply()](/Java/DoubleFunction/apply)
+* [apply()](/Java/DoubleFunction/apply/)
 
 ## Ejemplo
 ~~~java

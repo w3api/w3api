@@ -18,18 +18,18 @@ sidebar:
 ~~~
 
 ## Métodos
-* [annotations()](/Java/ProgramElementDoc/annotations)
-* [containingClass()](/Java/ProgramElementDoc/containingClass)
-* [containingPackage()](/Java/ProgramElementDoc/containingPackage)
-* [isFinal()](/Java/ProgramElementDoc/isFinal)
-* [isPackagePrivate()](/Java/ProgramElementDoc/isPackagePrivate)
-* [isPrivate()](/Java/ProgramElementDoc/isPrivate)
-* [isProtected()](/Java/ProgramElementDoc/isProtected)
-* [isPublic()](/Java/ProgramElementDoc/isPublic)
-* [isStatic()](/Java/ProgramElementDoc/isStatic)
-* [modifiers()](/Java/ProgramElementDoc/modifiers)
-* [modifierSpecifier()](/Java/ProgramElementDoc/modifierSpecifier)
-* [qualifiedName()](/Java/ProgramElementDoc/qualifiedName)
+* [annotations()](/Java/ProgramElementDoc/annotations/)
+* [containingClass()](/Java/ProgramElementDoc/containingClass/)
+* [containingPackage()](/Java/ProgramElementDoc/containingPackage/)
+* [isFinal()](/Java/ProgramElementDoc/isFinal/)
+* [isPackagePrivate()](/Java/ProgramElementDoc/isPackagePrivate/)
+* [isPrivate()](/Java/ProgramElementDoc/isPrivate/)
+* [isProtected()](/Java/ProgramElementDoc/isProtected/)
+* [isPublic()](/Java/ProgramElementDoc/isPublic/)
+* [isStatic()](/Java/ProgramElementDoc/isStatic/)
+* [modifiers()](/Java/ProgramElementDoc/modifiers/)
+* [modifierSpecifier()](/Java/ProgramElementDoc/modifierSpecifier/)
+* [qualifiedName()](/Java/ProgramElementDoc/qualifiedName/)
 
 ## Ejemplo
 ~~~java

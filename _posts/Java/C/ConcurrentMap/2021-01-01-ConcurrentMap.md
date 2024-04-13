@@ -18,16 +18,16 @@ public interface ConcurrentMap<K,V> extends Map<K,V>
 ~~~
 
 ## Métodos
-* [compute()](/Java/ConcurrentMap/compute)
-* [computeIfAbsent()](/Java/ConcurrentMap/computeIfAbsent)
-* [computeIfPresent()](/Java/ConcurrentMap/computeIfPresent)
-* [forEach()](/Java/ConcurrentMap/forEach)
-* [getOrDefault()](/Java/ConcurrentMap/getOrDefault)
-* [merge()](/Java/ConcurrentMap/merge)
-* [putIfAbsent()](/Java/ConcurrentMap/putIfAbsent)
-* [remove()](/Java/ConcurrentMap/remove)
-* [replace()](/Java/ConcurrentMap/replace)
-* [replaceAll()](/Java/ConcurrentMap/replaceAll)
+* [compute()](/Java/ConcurrentMap/compute/)
+* [computeIfAbsent()](/Java/ConcurrentMap/computeIfAbsent/)
+* [computeIfPresent()](/Java/ConcurrentMap/computeIfPresent/)
+* [forEach()](/Java/ConcurrentMap/forEach/)
+* [getOrDefault()](/Java/ConcurrentMap/getOrDefault/)
+* [merge()](/Java/ConcurrentMap/merge/)
+* [putIfAbsent()](/Java/ConcurrentMap/putIfAbsent/)
+* [remove()](/Java/ConcurrentMap/remove/)
+* [replace()](/Java/ConcurrentMap/replace/)
+* [replaceAll()](/Java/ConcurrentMap/replaceAll/)
 
 ## Ejemplo
 ~~~java

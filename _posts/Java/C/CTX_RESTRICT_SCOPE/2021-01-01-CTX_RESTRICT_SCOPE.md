@@ -18,7 +18,7 @@ public interface CTX_RESTRICT_SCOPE
 ~~~
 
 ## Campos
-* [value](/Java/CTX_RESTRICT_SCOPE/value)
+* [value](/Java/CTX_RESTRICT_SCOPE/value/)
 
 ## Ejemplo
 ~~~java

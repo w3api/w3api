@@ -18,8 +18,8 @@ public final class IIORegistry extends ServiceRegistry
 ~~~
 
 ## Métodos
-* [getDefaultInstance()](/Java/IIORegistry/getDefaultInstance)
-* [registerApplicationClasspathSpis()](/Java/IIORegistry/registerApplicationClasspathSpis)
+* [getDefaultInstance()](/Java/IIORegistry/getDefaultInstance/)
+* [registerApplicationClasspathSpis()](/Java/IIORegistry/registerApplicationClasspathSpis/)
 
 ## Ejemplo
 ~~~java

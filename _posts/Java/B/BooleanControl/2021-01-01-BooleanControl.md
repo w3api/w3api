@@ -21,10 +21,10 @@ public abstract class BooleanControl extends Control
 * [BooleanControl()](/Java/BooleanControl/BooleanControl/)
 
 ## Métodos
-* [getStateLabel()](/Java/BooleanControl/getStateLabel)
-* [getValue()](/Java/BooleanControl/getValue)
-* [setValue()](/Java/BooleanControl/setValue)
-* [toString()](/Java/BooleanControl/toString)
+* [getStateLabel()](/Java/BooleanControl/getStateLabel/)
+* [getValue()](/Java/BooleanControl/getValue/)
+* [setValue()](/Java/BooleanControl/setValue/)
+* [toString()](/Java/BooleanControl/toString/)
 
 ## Ejemplo
 ~~~java

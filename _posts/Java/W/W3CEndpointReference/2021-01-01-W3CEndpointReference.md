@@ -21,7 +21,7 @@ public final class W3CEndpointReference extends EndpointReference
 * [W3CEndpointReference()](/Java/W3CEndpointReference/W3CEndpointReference/)
 
 ## Campos
-* [NS](/Java/W3CEndpointReference/NS)
+* [NS](/Java/W3CEndpointReference/NS/)
 
 ## Ejemplo
 ~~~java

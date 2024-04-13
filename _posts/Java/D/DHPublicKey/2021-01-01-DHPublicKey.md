@@ -18,10 +18,10 @@ public interface DHPublicKey extends DHKey, PublicKey
 ~~~
 
 ## Campos
-* [serialVersionUID](/Java/DHPublicKey/serialVersionUID)
+* [serialVersionUID](/Java/DHPublicKey/serialVersionUID/)
 
 ## Métodos
-* [getY()](/Java/DHPublicKey/getY)
+* [getY()](/Java/DHPublicKey/getY/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface DatagramSocketImplFactory
 ~~~
 
 ## Métodos
-* [createDatagramSocketImpl()](/Java/DatagramSocketImplFactory/createDatagramSocketImpl)
+* [createDatagramSocketImpl()](/Java/DatagramSocketImplFactory/createDatagramSocketImpl/)
 
 ## Ejemplo
 ~~~java

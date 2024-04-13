@@ -18,9 +18,9 @@ sidebar:
 ~~~
 
 ## Métodos
-* [get_elements()](/Java/DynSequence-org-omg-CORBA/get_elements)
-* [length()](/Java/DynSequence-org-omg-CORBA/length)
-* [set_elements()](/Java/DynSequence-org-omg-CORBA/set_elements)
+* [get_elements()](/Java/DynSequence-org-omg-CORBA/get_elements/)
+* [length()](/Java/DynSequence-org-omg-CORBA/length/)
+* [set_elements()](/Java/DynSequence-org-omg-CORBA/set_elements/)
 
 ## Ejemplo
 ~~~java

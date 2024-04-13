@@ -21,9 +21,9 @@ public class PBEParameterSpec extends Object implements AlgorithmParameterSpec
 * [PBEParameterSpec()](/Java/PBEParameterSpec/PBEParameterSpec/)
 
 ## Métodos
-* [getIterationCount()](/Java/PBEParameterSpec/getIterationCount)
-* [getParameterSpec()](/Java/PBEParameterSpec/getParameterSpec)
-* [getSalt()](/Java/PBEParameterSpec/getSalt)
+* [getIterationCount()](/Java/PBEParameterSpec/getIterationCount/)
+* [getParameterSpec()](/Java/PBEParameterSpec/getParameterSpec/)
+* [getSalt()](/Java/PBEParameterSpec/getSalt/)
 
 ## Ejemplo
 ~~~java

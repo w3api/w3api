@@ -21,14 +21,14 @@ public class IdAssignmentPolicyValue extends Object implements IDLEntity
 * [IdAssignmentPolicyValue()](/Java/IdAssignmentPolicyValue/IdAssignmentPolicyValue/)
 
 ## Campos
-* [_SYSTEM_ID](/Java/IdAssignmentPolicyValue/_SYSTEM_ID)
-* [_USER_ID](/Java/IdAssignmentPolicyValue/_USER_ID)
-* [SYSTEM_ID](/Java/IdAssignmentPolicyValue/SYSTEM_ID)
-* [USER_ID](/Java/IdAssignmentPolicyValue/USER_ID)
+* [_SYSTEM_ID](/Java/IdAssignmentPolicyValue/_SYSTEM_ID/)
+* [_USER_ID](/Java/IdAssignmentPolicyValue/_USER_ID/)
+* [SYSTEM_ID](/Java/IdAssignmentPolicyValue/SYSTEM_ID/)
+* [USER_ID](/Java/IdAssignmentPolicyValue/USER_ID/)
 
 ## Métodos
-* [from_int()](/Java/IdAssignmentPolicyValue/from_int)
-* [value()](/Java/IdAssignmentPolicyValue/value)
+* [from_int()](/Java/IdAssignmentPolicyValue/from_int/)
+* [value()](/Java/IdAssignmentPolicyValue/value/)
 
 ## Ejemplo
 ~~~java

@@ -18,7 +18,7 @@ public interface BreakTree extends GotoTree
 ~~~
 
 ## Métodos
-* [getLabel()](/Java/BreakTree-jdk-nashorn-api-tree/getLabel)
+* [getLabel()](/Java/BreakTree-jdk-nashorn-api-tree/getLabel/)
 
 ## Ejemplo
 ~~~java

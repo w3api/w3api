@@ -21,9 +21,9 @@ public final class DSAGenParameterSpec extends Object implements AlgorithmParame
 * [DSAGenParameterSpec()](/Java/DSAGenParameterSpec/DSAGenParameterSpec/)
 
 ## Métodos
-* [getPrimePLength()](/Java/DSAGenParameterSpec/getPrimePLength)
-* [getSeedLength()](/Java/DSAGenParameterSpec/getSeedLength)
-* [getSubprimeQLength()](/Java/DSAGenParameterSpec/getSubprimeQLength)
+* [getPrimePLength()](/Java/DSAGenParameterSpec/getPrimePLength/)
+* [getSeedLength()](/Java/DSAGenParameterSpec/getSeedLength/)
+* [getSubprimeQLength()](/Java/DSAGenParameterSpec/getSubprimeQLength/)
 
 ## Ejemplo
 ~~~java

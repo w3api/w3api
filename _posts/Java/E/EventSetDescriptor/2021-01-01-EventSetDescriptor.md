@@ -21,16 +21,16 @@ public class EventSetDescriptor extends FeatureDescriptor
 * [EventSetDescriptor()](/Java/EventSetDescriptor/EventSetDescriptor/)
 
 ## Métodos
-* [getAddListenerMethod()](/Java/EventSetDescriptor/getAddListenerMethod)
-* [getGetListenerMethod()](/Java/EventSetDescriptor/getGetListenerMethod)
-* [getListenerMethodDescriptors()](/Java/EventSetDescriptor/getListenerMethodDescriptors)
-* [getListenerMethods()](/Java/EventSetDescriptor/getListenerMethods)
-* [getListenerType()](/Java/EventSetDescriptor/getListenerType)
-* [getRemoveListenerMethod()](/Java/EventSetDescriptor/getRemoveListenerMethod)
-* [isInDefaultEventSet()](/Java/EventSetDescriptor/isInDefaultEventSet)
-* [isUnicast()](/Java/EventSetDescriptor/isUnicast)
-* [setInDefaultEventSet()](/Java/EventSetDescriptor/setInDefaultEventSet)
-* [setUnicast()](/Java/EventSetDescriptor/setUnicast)
+* [getAddListenerMethod()](/Java/EventSetDescriptor/getAddListenerMethod/)
+* [getGetListenerMethod()](/Java/EventSetDescriptor/getGetListenerMethod/)
+* [getListenerMethodDescriptors()](/Java/EventSetDescriptor/getListenerMethodDescriptors/)
+* [getListenerMethods()](/Java/EventSetDescriptor/getListenerMethods/)
+* [getListenerType()](/Java/EventSetDescriptor/getListenerType/)
+* [getRemoveListenerMethod()](/Java/EventSetDescriptor/getRemoveListenerMethod/)
+* [isInDefaultEventSet()](/Java/EventSetDescriptor/isInDefaultEventSet/)
+* [isUnicast()](/Java/EventSetDescriptor/isUnicast/)
+* [setInDefaultEventSet()](/Java/EventSetDescriptor/setInDefaultEventSet/)
+* [setUnicast()](/Java/EventSetDescriptor/setUnicast/)
 
 ## Ejemplo
 ~~~java

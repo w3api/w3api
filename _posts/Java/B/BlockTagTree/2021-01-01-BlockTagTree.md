@@ -18,7 +18,7 @@ public interface BlockTagTree extends DocTree
 ~~~
 
 ## Métodos
-* [getTagName()](/Java/BlockTagTree/getTagName)
+* [getTagName()](/Java/BlockTagTree/getTagName/)
 
 ## Ejemplo
 ~~~java

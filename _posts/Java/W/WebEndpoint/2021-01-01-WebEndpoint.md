@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Elementos
-* [name](/Java/WebEndpoint/name)
+* [name](/Java/WebEndpoint/name/)
 
 ## Ejemplo
 ~~~java

@@ -21,8 +21,8 @@ public static class DocFlavor.CHAR_ARRAY extends DocFlavor
 * [DocFlavor.CHAR_ARRAY()](/Java/DocFlavor/CHAR_ARRAY/DocFlavor/CHAR_ARRAY/)
 
 ## Campos
-* [TEXT_HTML](/Java/DocFlavor/CHAR_ARRAY/TEXT_HTML)
-* [TEXT_PLAIN](/Java/DocFlavor/CHAR_ARRAY/TEXT_PLAIN)
+* [TEXT_HTML](/Java/DocFlavor/CHAR_ARRAY/TEXT_HTML/)
+* [TEXT_PLAIN](/Java/DocFlavor/CHAR_ARRAY/TEXT_PLAIN/)
 
 ## Ejemplo
 ~~~java

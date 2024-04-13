@@ -18,7 +18,7 @@ public interface CallbackHandler
 ~~~
 
 ## Métodos
-* [handle()](/Java/CallbackHandler/handle)
+* [handle()](/Java/CallbackHandler/handle/)
 
 ## Ejemplo
 ~~~java

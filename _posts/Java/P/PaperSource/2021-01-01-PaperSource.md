@@ -18,18 +18,18 @@ public final class PaperSource extends Object
 ~~~
 
 ## Campos
-* [AUTOMATIC](/Java/PaperSource/AUTOMATIC)
-* [BOTTOM](/Java/PaperSource/BOTTOM)
-* [ENVELOPE](/Java/PaperSource/ENVELOPE)
-* [LARGE_CAPACITY](/Java/PaperSource/LARGE_CAPACITY)
-* [MAIN](/Java/PaperSource/MAIN)
-* [MANUAL](/Java/PaperSource/MANUAL)
-* [MIDDLE](/Java/PaperSource/MIDDLE)
-* [SIDE](/Java/PaperSource/SIDE)
-* [TOP](/Java/PaperSource/TOP)
+* [AUTOMATIC](/Java/PaperSource/AUTOMATIC/)
+* [BOTTOM](/Java/PaperSource/BOTTOM/)
+* [ENVELOPE](/Java/PaperSource/ENVELOPE/)
+* [LARGE_CAPACITY](/Java/PaperSource/LARGE_CAPACITY/)
+* [MAIN](/Java/PaperSource/MAIN/)
+* [MANUAL](/Java/PaperSource/MANUAL/)
+* [MIDDLE](/Java/PaperSource/MIDDLE/)
+* [SIDE](/Java/PaperSource/SIDE/)
+* [TOP](/Java/PaperSource/TOP/)
 
 ## Métodos
-* [getName()](/Java/PaperSource/getName)
+* [getName()](/Java/PaperSource/getName/)
 
 ## Ejemplo
 ~~~java

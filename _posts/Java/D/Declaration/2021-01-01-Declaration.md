@@ -18,11 +18,11 @@ public final class Declaration extends Object
 ~~~
 
 ## Métodos
-* [equals()](/Java/Declaration/equals)
-* [getParsedValue()](/Java/Declaration/getParsedValue)
-* [getProperty()](/Java/Declaration/getProperty)
-* [getRule()](/Java/Declaration/getRule)
-* [isImportant()](/Java/Declaration/isImportant)
+* [equals()](/Java/Declaration/equals/)
+* [getParsedValue()](/Java/Declaration/getParsedValue/)
+* [getProperty()](/Java/Declaration/getProperty/)
+* [getRule()](/Java/Declaration/getRule/)
+* [isImportant()](/Java/Declaration/isImportant/)
 
 ## Ejemplo
 ~~~java

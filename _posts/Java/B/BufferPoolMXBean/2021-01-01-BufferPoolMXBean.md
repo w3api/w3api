@@ -18,10 +18,10 @@ public interface BufferPoolMXBean extends PlatformManagedObject
 ~~~
 
 ## Métodos
-* [getCount()](/Java/BufferPoolMXBean/getCount)
-* [getMemoryUsed()](/Java/BufferPoolMXBean/getMemoryUsed)
-* [getName()](/Java/BufferPoolMXBean/getName)
-* [getTotalCapacity()](/Java/BufferPoolMXBean/getTotalCapacity)
+* [getCount()](/Java/BufferPoolMXBean/getCount/)
+* [getMemoryUsed()](/Java/BufferPoolMXBean/getMemoryUsed/)
+* [getName()](/Java/BufferPoolMXBean/getName/)
+* [getTotalCapacity()](/Java/BufferPoolMXBean/getTotalCapacity/)
 
 ## Ejemplo
 ~~~java

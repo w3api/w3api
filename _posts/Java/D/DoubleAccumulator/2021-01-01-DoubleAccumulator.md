@@ -21,15 +21,15 @@ public class DoubleAccumulator extends Number implements Serializable
 * [DoubleAccumulator()](/Java/DoubleAccumulator/DoubleAccumulator/)
 
 ## Métodos
-* [accumulate()](/Java/DoubleAccumulator/accumulate)
-* [doubleValue()](/Java/DoubleAccumulator/doubleValue)
-* [floatValue()](/Java/DoubleAccumulator/floatValue)
-* [get()](/Java/DoubleAccumulator/get)
-* [getThenReset()](/Java/DoubleAccumulator/getThenReset)
-* [intValue()](/Java/DoubleAccumulator/intValue)
-* [longValue()](/Java/DoubleAccumulator/longValue)
-* [reset()](/Java/DoubleAccumulator/reset)
-* [toString()](/Java/DoubleAccumulator/toString)
+* [accumulate()](/Java/DoubleAccumulator/accumulate/)
+* [doubleValue()](/Java/DoubleAccumulator/doubleValue/)
+* [floatValue()](/Java/DoubleAccumulator/floatValue/)
+* [get()](/Java/DoubleAccumulator/get/)
+* [getThenReset()](/Java/DoubleAccumulator/getThenReset/)
+* [intValue()](/Java/DoubleAccumulator/intValue/)
+* [longValue()](/Java/DoubleAccumulator/longValue/)
+* [reset()](/Java/DoubleAccumulator/reset/)
+* [toString()](/Java/DoubleAccumulator/toString/)
 
 ## Ejemplo
 ~~~java

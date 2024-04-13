@@ -21,7 +21,7 @@ public class IllegalFormatPrecisionException extends IllegalFormatException
 * [IllegalFormatPrecisionException()](/Java/IllegalFormatPrecisionException/IllegalFormatPrecisionException/)
 
 ## Métodos
-* [getPrecision()](/Java/IllegalFormatPrecisionException/getPrecision)
+* [getPrecision()](/Java/IllegalFormatPrecisionException/getPrecision/)
 
 ## Ejemplo
 ~~~java

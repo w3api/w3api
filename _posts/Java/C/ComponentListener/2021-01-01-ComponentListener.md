@@ -18,10 +18,10 @@ public interface ComponentListener extends EventListener
 ~~~
 
 ## Métodos
-* [componentHidden()](/Java/ComponentListener/componentHidden)
-* [componentMoved()](/Java/ComponentListener/componentMoved)
-* [componentResized()](/Java/ComponentListener/componentResized)
-* [componentShown()](/Java/ComponentListener/componentShown)
+* [componentHidden()](/Java/ComponentListener/componentHidden/)
+* [componentMoved()](/Java/ComponentListener/componentMoved/)
+* [componentResized()](/Java/ComponentListener/componentResized/)
+* [componentShown()](/Java/ComponentListener/componentShown/)
 
 ## Ejemplo
 ~~~java

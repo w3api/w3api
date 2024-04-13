@@ -18,13 +18,13 @@ public interface PolicyNode
 ~~~
 
 ## Métodos
-* [getChildren()](/Java/PolicyNode/getChildren)
-* [getDepth()](/Java/PolicyNode/getDepth)
-* [getExpectedPolicies()](/Java/PolicyNode/getExpectedPolicies)
-* [getParent()](/Java/PolicyNode/getParent)
-* [getPolicyQualifiers()](/Java/PolicyNode/getPolicyQualifiers)
-* [getValidPolicy()](/Java/PolicyNode/getValidPolicy)
-* [isCritical()](/Java/PolicyNode/isCritical)
+* [getChildren()](/Java/PolicyNode/getChildren/)
+* [getDepth()](/Java/PolicyNode/getDepth/)
+* [getExpectedPolicies()](/Java/PolicyNode/getExpectedPolicies/)
+* [getParent()](/Java/PolicyNode/getParent/)
+* [getPolicyQualifiers()](/Java/PolicyNode/getPolicyQualifiers/)
+* [getValidPolicy()](/Java/PolicyNode/getValidPolicy/)
+* [isCritical()](/Java/PolicyNode/isCritical/)
 
 ## Ejemplo
 ~~~java

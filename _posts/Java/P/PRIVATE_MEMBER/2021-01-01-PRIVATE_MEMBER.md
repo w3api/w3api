@@ -18,7 +18,7 @@ public interface PRIVATE_MEMBER
 ~~~
 
 ## Campos
-* [value](/Java/PRIVATE_MEMBER/value)
+* [value](/Java/PRIVATE_MEMBER/value/)
 
 ## Ejemplo
 ~~~java

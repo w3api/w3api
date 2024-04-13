@@ -18,9 +18,9 @@ public static interface DoubleStream.Builder extends DoubleConsumer
 ~~~
 
 ## Métodos
-* [accept()](/Java/DoubleStream/Builder/accept)
-* [add()](/Java/DoubleStream/Builder/add)
-* [build()](/Java/DoubleStream/Builder/build)
+* [accept()](/Java/DoubleStream/Builder/accept/)
+* [add()](/Java/DoubleStream/Builder/add/)
+* [build()](/Java/DoubleStream/Builder/build/)
 
 ## Ejemplo
 ~~~java

@@ -18,10 +18,10 @@ public interface ECPrivateKey extends PrivateKey, ECKey
 ~~~
 
 ## Campos
-* [serialVersionUID](/Java/ECPrivateKey/serialVersionUID)
+* [serialVersionUID](/Java/ECPrivateKey/serialVersionUID/)
 
 ## Métodos
-* [getS()](/Java/ECPrivateKey/getS)
+* [getS()](/Java/ECPrivateKey/getS/)
 
 ## Ejemplo
 ~~~java

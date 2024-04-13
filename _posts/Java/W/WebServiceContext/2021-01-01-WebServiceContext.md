@@ -18,10 +18,10 @@ public interface WebServiceContext
 ~~~
 
 ## Métodos
-* [getEndpointReference()](/Java/WebServiceContext/getEndpointReference)
-* [getMessageContext()](/Java/WebServiceContext/getMessageContext)
-* [getUserPrincipal()](/Java/WebServiceContext/getUserPrincipal)
-* [isUserInRole()](/Java/WebServiceContext/isUserInRole)
+* [getEndpointReference()](/Java/WebServiceContext/getEndpointReference/)
+* [getMessageContext()](/Java/WebServiceContext/getMessageContext/)
+* [getUserPrincipal()](/Java/WebServiceContext/getUserPrincipal/)
+* [isUserInRole()](/Java/WebServiceContext/isUserInRole/)
 
 ## Ejemplo
 ~~~java

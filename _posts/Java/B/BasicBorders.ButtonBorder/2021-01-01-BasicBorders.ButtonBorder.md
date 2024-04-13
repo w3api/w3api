@@ -21,10 +21,10 @@ public static class BasicBorders.ButtonBorder extends AbstractBorder implements 
 * [BasicBorders.ButtonBorder()](/Java/BasicBorders/ButtonBorder/BasicBorders/ButtonBorder/)
 
 ## Campos
-* [darkShadow](/Java/BasicBorders/ButtonBorder/darkShadow)
-* [highlight](/Java/BasicBorders/ButtonBorder/highlight)
-* [lightHighlight](/Java/BasicBorders/ButtonBorder/lightHighlight)
-* [shadow](/Java/BasicBorders/ButtonBorder/shadow)
+* [darkShadow](/Java/BasicBorders/ButtonBorder/darkShadow/)
+* [highlight](/Java/BasicBorders/ButtonBorder/highlight/)
+* [lightHighlight](/Java/BasicBorders/ButtonBorder/lightHighlight/)
+* [shadow](/Java/BasicBorders/ButtonBorder/shadow/)
 
 ## Ejemplo
 ~~~java

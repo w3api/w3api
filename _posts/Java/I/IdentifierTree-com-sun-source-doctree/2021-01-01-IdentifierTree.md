@@ -18,7 +18,7 @@ public interface IdentifierTree extends DocTree
 ~~~
 
 ## Métodos
-* [getName()](/Java/IdentifierTree-com-sun-source-doctree/getName)
+* [getName()](/Java/IdentifierTree-com-sun-source-doctree/getName/)
 
 ## Ejemplo
 ~~~java

@@ -21,14 +21,14 @@ public class BasicTextAreaUI extends BasicTextUI
 * [BasicTextAreaUI()](/Java/BasicTextAreaUI/BasicTextAreaUI/)
 
 ## Métodos
-* [create()](/Java/BasicTextAreaUI/create)
-* [createUI()](/Java/BasicTextAreaUI/createUI)
-* [getBaseline()](/Java/BasicTextAreaUI/getBaseline)
-* [getBaselineResizeBehavior()](/Java/BasicTextAreaUI/getBaselineResizeBehavior)
-* [getMinimumSize()](/Java/BasicTextAreaUI/getMinimumSize)
-* [getPreferredSize()](/Java/BasicTextAreaUI/getPreferredSize)
-* [getPropertyPrefix()](/Java/BasicTextAreaUI/getPropertyPrefix)
-* [propertyChange()](/Java/BasicTextAreaUI/propertyChange)
+* [create()](/Java/BasicTextAreaUI/create/)
+* [createUI()](/Java/BasicTextAreaUI/createUI/)
+* [getBaseline()](/Java/BasicTextAreaUI/getBaseline/)
+* [getBaselineResizeBehavior()](/Java/BasicTextAreaUI/getBaselineResizeBehavior/)
+* [getMinimumSize()](/Java/BasicTextAreaUI/getMinimumSize/)
+* [getPreferredSize()](/Java/BasicTextAreaUI/getPreferredSize/)
+* [getPropertyPrefix()](/Java/BasicTextAreaUI/getPropertyPrefix/)
+* [propertyChange()](/Java/BasicTextAreaUI/propertyChange/)
 
 ## Ejemplo
 ~~~java

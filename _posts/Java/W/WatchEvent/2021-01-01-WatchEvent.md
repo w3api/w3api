@@ -18,9 +18,9 @@ public interface WatchEvent<T>
 ~~~
 
 ## Métodos
-* [context()](/Java/WatchEvent/context)
-* [count()](/Java/WatchEvent/count)
-* [kind()](/Java/WatchEvent/kind)
+* [context()](/Java/WatchEvent/context/)
+* [count()](/Java/WatchEvent/count/)
+* [kind()](/Java/WatchEvent/kind/)
 
 ## Ejemplo
 ~~~java

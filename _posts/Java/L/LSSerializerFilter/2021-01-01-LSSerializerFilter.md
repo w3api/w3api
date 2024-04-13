@@ -18,7 +18,7 @@ public interface LSSerializerFilter extends NodeFilter
 ~~~
 
 ## Métodos
-* [getWhatToShow()](/Java/LSSerializerFilter/getWhatToShow)
+* [getWhatToShow()](/Java/LSSerializerFilter/getWhatToShow/)
 
 ## Ejemplo
 ~~~java

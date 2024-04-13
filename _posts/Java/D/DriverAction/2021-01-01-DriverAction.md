@@ -18,7 +18,7 @@ public interface DriverAction
 ~~~
 
 ## Métodos
-* [deregister()](/Java/DriverAction/deregister)
+* [deregister()](/Java/DriverAction/deregister/)
 
 ## Ejemplo
 ~~~java

@@ -21,23 +21,23 @@ public class BoxLayout extends Object implements LayoutManager2, Serializable
 * [BoxLayout()](/Java/BoxLayout/BoxLayout/)
 
 ## Campos
-* [LINE_AXIS](/Java/BoxLayout/LINE_AXIS)
-* [PAGE_AXIS](/Java/BoxLayout/PAGE_AXIS)
-* [X_AXIS](/Java/BoxLayout/X_AXIS)
-* [Y_AXIS](/Java/BoxLayout/Y_AXIS)
+* [LINE_AXIS](/Java/BoxLayout/LINE_AXIS/)
+* [PAGE_AXIS](/Java/BoxLayout/PAGE_AXIS/)
+* [X_AXIS](/Java/BoxLayout/X_AXIS/)
+* [Y_AXIS](/Java/BoxLayout/Y_AXIS/)
 
 ## Métodos
-* [addLayoutComponent()](/Java/BoxLayout/addLayoutComponent)
-* [getAxis()](/Java/BoxLayout/getAxis)
-* [getLayoutAlignmentX()](/Java/BoxLayout/getLayoutAlignmentX)
-* [getLayoutAlignmentY()](/Java/BoxLayout/getLayoutAlignmentY)
-* [getTarget()](/Java/BoxLayout/getTarget)
-* [invalidateLayout()](/Java/BoxLayout/invalidateLayout)
-* [layoutContainer()](/Java/BoxLayout/layoutContainer)
-* [maximumLayoutSize()](/Java/BoxLayout/maximumLayoutSize)
-* [minimumLayoutSize()](/Java/BoxLayout/minimumLayoutSize)
-* [preferredLayoutSize()](/Java/BoxLayout/preferredLayoutSize)
-* [removeLayoutComponent()](/Java/BoxLayout/removeLayoutComponent)
+* [addLayoutComponent()](/Java/BoxLayout/addLayoutComponent/)
+* [getAxis()](/Java/BoxLayout/getAxis/)
+* [getLayoutAlignmentX()](/Java/BoxLayout/getLayoutAlignmentX/)
+* [getLayoutAlignmentY()](/Java/BoxLayout/getLayoutAlignmentY/)
+* [getTarget()](/Java/BoxLayout/getTarget/)
+* [invalidateLayout()](/Java/BoxLayout/invalidateLayout/)
+* [layoutContainer()](/Java/BoxLayout/layoutContainer/)
+* [maximumLayoutSize()](/Java/BoxLayout/maximumLayoutSize/)
+* [minimumLayoutSize()](/Java/BoxLayout/minimumLayoutSize/)
+* [preferredLayoutSize()](/Java/BoxLayout/preferredLayoutSize/)
+* [removeLayoutComponent()](/Java/BoxLayout/removeLayoutComponent/)
 
 ## Ejemplo
 ~~~java

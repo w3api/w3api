@@ -18,7 +18,7 @@ public interface ConversionComparator
 ~~~
 
 ## Métodos
-* [compareConversion()](/Java/ConversionComparator/compareConversion)
+* [compareConversion()](/Java/ConversionComparator/compareConversion/)
 
 ## Ejemplo
 ~~~java

@@ -18,12 +18,12 @@ public interface DynValueOperations extends DynValueCommonOperations
 ~~~
 
 ## Métodos
-* [current_member_kind()](/Java/DynValueOperations/current_member_kind)
-* [current_member_name()](/Java/DynValueOperations/current_member_name)
-* [get_members()](/Java/DynValueOperations/get_members)
-* [get_members_as_dyn_any()](/Java/DynValueOperations/get_members_as_dyn_any)
-* [set_members()](/Java/DynValueOperations/set_members)
-* [set_members_as_dyn_any()](/Java/DynValueOperations/set_members_as_dyn_any)
+* [current_member_kind()](/Java/DynValueOperations/current_member_kind/)
+* [current_member_name()](/Java/DynValueOperations/current_member_name/)
+* [get_members()](/Java/DynValueOperations/get_members/)
+* [get_members_as_dyn_any()](/Java/DynValueOperations/get_members_as_dyn_any/)
+* [set_members()](/Java/DynValueOperations/set_members/)
+* [set_members_as_dyn_any()](/Java/DynValueOperations/set_members_as_dyn_any/)
 
 ## Ejemplo
 ~~~java

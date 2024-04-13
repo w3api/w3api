@@ -21,9 +21,9 @@ public abstract class CollationKey extends Object implements Comparable<Collatio
 * [CollationKey()](/Java/CollationKey/CollationKey/)
 
 ## Métodos
-* [compareTo()](/Java/CollationKey/compareTo)
-* [getSourceString()](/Java/CollationKey/getSourceString)
-* [toByteArray()](/Java/CollationKey/toByteArray)
+* [compareTo()](/Java/CollationKey/compareTo/)
+* [getSourceString()](/Java/CollationKey/getSourceString/)
+* [toByteArray()](/Java/CollationKey/toByteArray/)
 
 ## Ejemplo
 ~~~java

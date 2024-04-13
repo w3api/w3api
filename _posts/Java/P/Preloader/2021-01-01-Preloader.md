@@ -21,10 +21,10 @@ public abstract class Preloader extends Application
 * [Preloader()](/Java/Preloader/Preloader/)
 
 ## Métodos
-* [handleApplicationNotification()](/Java/Preloader/handleApplicationNotification)
-* [handleErrorNotification()](/Java/Preloader/handleErrorNotification)
-* [handleProgressNotification()](/Java/Preloader/handleProgressNotification)
-* [handleStateChangeNotification()](/Java/Preloader/handleStateChangeNotification)
+* [handleApplicationNotification()](/Java/Preloader/handleApplicationNotification/)
+* [handleErrorNotification()](/Java/Preloader/handleErrorNotification/)
+* [handleProgressNotification()](/Java/Preloader/handleProgressNotification/)
+* [handleStateChangeNotification()](/Java/Preloader/handleStateChangeNotification/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface InterceptorOperations
 ~~~
 
 ## Métodos
-* [destroy()](/Java/InterceptorOperations/destroy)
-* [name()](/Java/InterceptorOperations/name)
+* [destroy()](/Java/InterceptorOperations/destroy/)
+* [name()](/Java/InterceptorOperations/name/)
 
 ## Ejemplo
 ~~~java

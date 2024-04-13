@@ -21,16 +21,16 @@ public abstract class InputStream extends Object implements Closeable
 * [InputStream()](/Java/InputStream-java-io/InputStream/)
 
 ## Métodos
-* [available()](/Java/InputStream-java-io/available)
-* [close()](/Java/InputStream-java-io/close)
-* [mark()](/Java/InputStream-java-io/mark)
-* [markSupported()](/Java/InputStream-java-io/markSupported)
-* [read()](/Java/InputStream-java-io/read)
-* [readAllBytes()](/Java/InputStream-java-io/readAllBytes)
-* [readNBytes()](/Java/InputStream-java-io/readNBytes)
-* [reset()](/Java/InputStream-java-io/reset)
-* [skip()](/Java/InputStream-java-io/skip)
-* [transferTo()](/Java/InputStream-java-io/transferTo)
+* [available()](/Java/InputStream-java-io/available/)
+* [close()](/Java/InputStream-java-io/close/)
+* [mark()](/Java/InputStream-java-io/mark/)
+* [markSupported()](/Java/InputStream-java-io/markSupported/)
+* [read()](/Java/InputStream-java-io/read/)
+* [readAllBytes()](/Java/InputStream-java-io/readAllBytes/)
+* [readNBytes()](/Java/InputStream-java-io/readNBytes/)
+* [reset()](/Java/InputStream-java-io/reset/)
+* [skip()](/Java/InputStream-java-io/skip/)
+* [transferTo()](/Java/InputStream-java-io/transferTo/)
 
 ## Ejemplo
 ~~~java

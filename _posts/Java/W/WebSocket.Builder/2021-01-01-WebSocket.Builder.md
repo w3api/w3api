@@ -18,10 +18,10 @@ public static interface WebSocket.Builder
 ~~~
 
 ## Métodos
-* [buildAsync()](/Java/WebSocket/Builder/buildAsync)
-* [connectTimeout()](/Java/WebSocket/Builder/connectTimeout)
-* [header()](/Java/WebSocket/Builder/header)
-* [subprotocols()](/Java/WebSocket/Builder/subprotocols)
+* [buildAsync()](/Java/WebSocket/Builder/buildAsync/)
+* [connectTimeout()](/Java/WebSocket/Builder/connectTimeout/)
+* [header()](/Java/WebSocket/Builder/header/)
+* [subprotocols()](/Java/WebSocket/Builder/subprotocols/)
 
 ## Ejemplo
 ~~~java

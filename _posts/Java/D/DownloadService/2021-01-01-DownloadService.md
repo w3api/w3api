@@ -18,16 +18,16 @@ public interface DownloadService
 ~~~
 
 ## Métodos
-* [getDefaultProgressWindow()](/Java/DownloadService/getDefaultProgressWindow)
-* [isExtensionPartCached()](/Java/DownloadService/isExtensionPartCached)
-* [isPartCached()](/Java/DownloadService/isPartCached)
-* [isResourceCached()](/Java/DownloadService/isResourceCached)
-* [loadExtensionPart()](/Java/DownloadService/loadExtensionPart)
-* [loadPart()](/Java/DownloadService/loadPart)
-* [loadResource()](/Java/DownloadService/loadResource)
-* [removeExtensionPart()](/Java/DownloadService/removeExtensionPart)
-* [removePart()](/Java/DownloadService/removePart)
-* [removeResource()](/Java/DownloadService/removeResource)
+* [getDefaultProgressWindow()](/Java/DownloadService/getDefaultProgressWindow/)
+* [isExtensionPartCached()](/Java/DownloadService/isExtensionPartCached/)
+* [isPartCached()](/Java/DownloadService/isPartCached/)
+* [isResourceCached()](/Java/DownloadService/isResourceCached/)
+* [loadExtensionPart()](/Java/DownloadService/loadExtensionPart/)
+* [loadPart()](/Java/DownloadService/loadPart/)
+* [loadResource()](/Java/DownloadService/loadResource/)
+* [removeExtensionPart()](/Java/DownloadService/removeExtensionPart/)
+* [removePart()](/Java/DownloadService/removePart/)
+* [removeResource()](/Java/DownloadService/removeResource/)
 
 ## Ejemplo
 ~~~java

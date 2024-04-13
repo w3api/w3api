@@ -21,9 +21,9 @@ public abstract class PeerAddressChangeNotification extends Object implements No
 * [PeerAddressChangeNotification()](/Java/PeerAddressChangeNotification/PeerAddressChangeNotification/)
 
 ## Métodos
-* [address()](/Java/PeerAddressChangeNotification/address)
-* [association()](/Java/PeerAddressChangeNotification/association)
-* [event()](/Java/PeerAddressChangeNotification/event)
+* [address()](/Java/PeerAddressChangeNotification/address/)
+* [association()](/Java/PeerAddressChangeNotification/association/)
+* [event()](/Java/PeerAddressChangeNotification/event/)
 
 ## Ejemplo
 ~~~java

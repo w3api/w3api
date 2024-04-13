@@ -18,8 +18,8 @@ sidebar:
 ~~~
 
 ## Métodos
-* [extendsBounds()](/Java/WildcardType-com-sun-javadoc/extendsBounds)
-* [superBounds()](/Java/WildcardType-com-sun-javadoc/superBounds)
+* [extendsBounds()](/Java/WildcardType-com-sun-javadoc/extendsBounds/)
+* [superBounds()](/Java/WildcardType-com-sun-javadoc/superBounds/)
 
 ## Ejemplo
 ~~~java

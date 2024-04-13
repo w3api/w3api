@@ -21,10 +21,10 @@ SharedArrayBuffer
 * [SharedArrayBuffer()](/Javascript/SharedArrayBuffer/SharedArrayBuffer/)
 
 ## Propiedades
-* [byteLength](/Javascript/SharedArrayBuffer/byteLength)
+* [byteLength](/Javascript/SharedArrayBuffer/byteLength/)
 
 ## Métodos
-* [slice()](/Javascript/SharedArrayBuffer/slice)
+* [slice()](/Javascript/SharedArrayBuffer/slice/)
 
 ## Ejemplo
 ~~~java

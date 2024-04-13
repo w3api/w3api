@@ -21,11 +21,11 @@ public class PBEKeySpec extends Object implements KeySpec
 * [PBEKeySpec()](/Java/PBEKeySpec/PBEKeySpec/)
 
 ## Métodos
-* [clearPassword()](/Java/PBEKeySpec/clearPassword)
-* [getIterationCount()](/Java/PBEKeySpec/getIterationCount)
-* [getKeyLength()](/Java/PBEKeySpec/getKeyLength)
-* [getPassword()](/Java/PBEKeySpec/getPassword)
-* [getSalt()](/Java/PBEKeySpec/getSalt)
+* [clearPassword()](/Java/PBEKeySpec/clearPassword/)
+* [getIterationCount()](/Java/PBEKeySpec/getIterationCount/)
+* [getKeyLength()](/Java/PBEKeySpec/getKeyLength/)
+* [getPassword()](/Java/PBEKeySpec/getPassword/)
+* [getSalt()](/Java/PBEKeySpec/getSalt/)
 
 ## Ejemplo
 ~~~java

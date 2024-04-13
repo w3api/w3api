@@ -18,12 +18,12 @@ public static final class DocumentEvent.EventType extends Object
 ~~~
 
 ## Campos
-* [CHANGE](/Java/DocumentEvent/EventType/CHANGE)
-* [INSERT](/Java/DocumentEvent/EventType/INSERT)
-* [REMOVE](/Java/DocumentEvent/EventType/REMOVE)
+* [CHANGE](/Java/DocumentEvent/EventType/CHANGE/)
+* [INSERT](/Java/DocumentEvent/EventType/INSERT/)
+* [REMOVE](/Java/DocumentEvent/EventType/REMOVE/)
 
 ## Métodos
-* [toString()](/Java/DocumentEvent/EventType/toString)
+* [toString()](/Java/DocumentEvent/EventType/toString/)
 
 ## Ejemplo
 ~~~java

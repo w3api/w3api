@@ -21,16 +21,16 @@ public abstract class ListExpression<E> extends Object implements ObservableList
 * [ListExpression()](/Java/ListExpression/ListExpression/)
 
 ## Métodos
-* [asString()](/Java/ListExpression/asString)
-* [emptyProperty()](/Java/ListExpression/emptyProperty)
-* [getSize()](/Java/ListExpression/getSize)
-* [isEqualTo()](/Java/ListExpression/isEqualTo)
-* [isNotEqualTo()](/Java/ListExpression/isNotEqualTo)
-* [isNotNull()](/Java/ListExpression/isNotNull)
-* [isNull()](/Java/ListExpression/isNull)
-* [listExpression()](/Java/ListExpression/listExpression)
-* [sizeProperty()](/Java/ListExpression/sizeProperty)
-* [valueAt()](/Java/ListExpression/valueAt)
+* [asString()](/Java/ListExpression/asString/)
+* [emptyProperty()](/Java/ListExpression/emptyProperty/)
+* [getSize()](/Java/ListExpression/getSize/)
+* [isEqualTo()](/Java/ListExpression/isEqualTo/)
+* [isNotEqualTo()](/Java/ListExpression/isNotEqualTo/)
+* [isNotNull()](/Java/ListExpression/isNotNull/)
+* [isNull()](/Java/ListExpression/isNull/)
+* [listExpression()](/Java/ListExpression/listExpression/)
+* [sizeProperty()](/Java/ListExpression/sizeProperty/)
+* [valueAt()](/Java/ListExpression/valueAt/)
 
 ## Ejemplo
 ~~~java

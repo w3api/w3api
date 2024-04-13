@@ -21,7 +21,7 @@ public class BubbleChart<X,Y> extends XYChart<X,Y>
 * [BubbleChart()](/Java/BubbleChart/BubbleChart/)
 
 ## Métodos
-* [updateAxisRange()](/Java/BubbleChart/updateAxisRange)
+* [updateAxisRange()](/Java/BubbleChart/updateAxisRange/)
 
 ## Ejemplo
 ~~~java

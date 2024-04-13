@@ -21,12 +21,12 @@ public abstract class InvalidAddressHelper extends Object
 * [InvalidAddressHelper()](/Java/InvalidAddressHelper/InvalidAddressHelper/)
 
 ## Métodos
-* [extract()](/Java/InvalidAddressHelper/extract)
-* [id()](/Java/InvalidAddressHelper/id)
-* [insert()](/Java/InvalidAddressHelper/insert)
-* [read()](/Java/InvalidAddressHelper/read)
-* [type()](/Java/InvalidAddressHelper/type)
-* [write()](/Java/InvalidAddressHelper/write)
+* [extract()](/Java/InvalidAddressHelper/extract/)
+* [id()](/Java/InvalidAddressHelper/id/)
+* [insert()](/Java/InvalidAddressHelper/insert/)
+* [read()](/Java/InvalidAddressHelper/read/)
+* [type()](/Java/InvalidAddressHelper/type/)
+* [write()](/Java/InvalidAddressHelper/write/)
 
 ## Ejemplo
 ~~~java

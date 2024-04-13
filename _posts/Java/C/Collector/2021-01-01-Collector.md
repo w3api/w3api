@@ -18,12 +18,12 @@ public interface Collector<T,A,R>
 ~~~
 
 ## Métodos
-* [accumulator()](/Java/Collector/accumulator)
-* [characteristics()](/Java/Collector/characteristics)
-* [combiner()](/Java/Collector/combiner)
-* [finisher()](/Java/Collector/finisher)
-* [of()](/Java/Collector/of)
-* [supplier()](/Java/Collector/supplier)
+* [accumulator()](/Java/Collector/accumulator/)
+* [characteristics()](/Java/Collector/characteristics/)
+* [combiner()](/Java/Collector/combiner/)
+* [finisher()](/Java/Collector/finisher/)
+* [of()](/Java/Collector/of/)
+* [supplier()](/Java/Collector/supplier/)
 
 ## Ejemplo
 ~~~java

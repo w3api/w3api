@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [getAsBoolean()](/Java/BooleanSupplier/getAsBoolean)
+* [getAsBoolean()](/Java/BooleanSupplier/getAsBoolean/)
 
 ## Ejemplo
 ~~~java

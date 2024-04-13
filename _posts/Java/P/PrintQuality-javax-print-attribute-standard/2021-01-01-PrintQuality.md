@@ -21,16 +21,16 @@ public class PrintQuality extends EnumSyntax implements DocAttribute, PrintReque
 * [PrintQuality()](/Java/PrintQuality-javax-print-attribute-standard/PrintQuality/)
 
 ## Campos
-* [DRAFT](/Java/PrintQuality-javax-print-attribute-standard/DRAFT)
-* [HIGH](/Java/PrintQuality-javax-print-attribute-standard/HIGH)
-* [NORMAL](/Java/PrintQuality-javax-print-attribute-standard/NORMAL)
+* [DRAFT](/Java/PrintQuality-javax-print-attribute-standard/DRAFT/)
+* [HIGH](/Java/PrintQuality-javax-print-attribute-standard/HIGH/)
+* [NORMAL](/Java/PrintQuality-javax-print-attribute-standard/NORMAL/)
 
 ## Métodos
-* [getCategory()](/Java/PrintQuality-javax-print-attribute-standard/getCategory)
-* [getEnumValueTable()](/Java/PrintQuality-javax-print-attribute-standard/getEnumValueTable)
-* [getName()](/Java/PrintQuality-javax-print-attribute-standard/getName)
-* [getOffset()](/Java/PrintQuality-javax-print-attribute-standard/getOffset)
-* [getStringTable()](/Java/PrintQuality-javax-print-attribute-standard/getStringTable)
+* [getCategory()](/Java/PrintQuality-javax-print-attribute-standard/getCategory/)
+* [getEnumValueTable()](/Java/PrintQuality-javax-print-attribute-standard/getEnumValueTable/)
+* [getName()](/Java/PrintQuality-javax-print-attribute-standard/getName/)
+* [getOffset()](/Java/PrintQuality-javax-print-attribute-standard/getOffset/)
+* [getStringTable()](/Java/PrintQuality-javax-print-attribute-standard/getStringTable/)
 
 ## Ejemplo
 ~~~java

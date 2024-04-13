@@ -21,10 +21,10 @@ public abstract class LabeledSkinBase<C extends Labeled> extends SkinBase<C>
 * [LabeledSkinBase()](/Java/LabeledSkinBase/LabeledSkinBase/)
 
 ## Métodos
-* [computeMinWidth()](/Java/LabeledSkinBase/computeMinWidth)
-* [layoutChildren()](/Java/LabeledSkinBase/layoutChildren)
-* [layoutLabelInArea()](/Java/LabeledSkinBase/layoutLabelInArea)
-* [updateChildren()](/Java/LabeledSkinBase/updateChildren)
+* [computeMinWidth()](/Java/LabeledSkinBase/computeMinWidth/)
+* [layoutChildren()](/Java/LabeledSkinBase/layoutChildren/)
+* [layoutLabelInArea()](/Java/LabeledSkinBase/layoutLabelInArea/)
+* [updateChildren()](/Java/LabeledSkinBase/updateChildren/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface CompletionHandler<V,A>
 ~~~
 
 ## Métodos
-* [completed()](/Java/CompletionHandler/completed)
-* [failed()](/Java/CompletionHandler/failed)
+* [completed()](/Java/CompletionHandler/completed/)
+* [failed()](/Java/CompletionHandler/failed/)
 
 ## Ejemplo
 ~~~java

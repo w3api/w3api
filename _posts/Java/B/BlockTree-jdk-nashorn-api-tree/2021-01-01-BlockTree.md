@@ -18,7 +18,7 @@ public interface BlockTree extends StatementTree
 ~~~
 
 ## Métodos
-* [getStatements()](/Java/BlockTree-jdk-nashorn-api-tree/getStatements)
+* [getStatements()](/Java/BlockTree-jdk-nashorn-api-tree/getStatements/)
 
 ## Ejemplo
 ~~~java

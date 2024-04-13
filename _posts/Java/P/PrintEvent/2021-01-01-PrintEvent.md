@@ -21,7 +21,7 @@ public class PrintEvent extends EventObject
 * [PrintEvent()](/Java/PrintEvent/PrintEvent/)
 
 ## Métodos
-* [toString()](/Java/PrintEvent/toString)
+* [toString()](/Java/PrintEvent/toString/)
 
 ## Ejemplo
 ~~~java

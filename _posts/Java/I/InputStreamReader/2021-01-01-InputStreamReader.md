@@ -21,9 +21,9 @@ public class InputStreamReader extends Reader
 * [InputStreamReader()](/Java/InputStreamReader/InputStreamReader/)
 
 ## Métodos
-* [getEncoding()](/Java/InputStreamReader/getEncoding)
-* [read()](/Java/InputStreamReader/read)
-* [ready()](/Java/InputStreamReader/ready)
+* [getEncoding()](/Java/InputStreamReader/getEncoding/)
+* [read()](/Java/InputStreamReader/read/)
+* [ready()](/Java/InputStreamReader/ready/)
 
 ## Ejemplo
 ~~~java

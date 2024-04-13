@@ -21,16 +21,16 @@ public class WorkerStateEvent extends Event
 * [WorkerStateEvent()](/Java/WorkerStateEvent/WorkerStateEvent/)
 
 ## Campos
-* [ANY](/Java/WorkerStateEvent/ANY)
-* [WORKER_STATE_CANCELLED](/Java/WorkerStateEvent/WORKER_STATE_CANCELLED)
-* [WORKER_STATE_FAILED](/Java/WorkerStateEvent/WORKER_STATE_FAILED)
-* [WORKER_STATE_READY](/Java/WorkerStateEvent/WORKER_STATE_READY)
-* [WORKER_STATE_RUNNING](/Java/WorkerStateEvent/WORKER_STATE_RUNNING)
-* [WORKER_STATE_SCHEDULED](/Java/WorkerStateEvent/WORKER_STATE_SCHEDULED)
-* [WORKER_STATE_SUCCEEDED](/Java/WorkerStateEvent/WORKER_STATE_SUCCEEDED)
+* [ANY](/Java/WorkerStateEvent/ANY/)
+* [WORKER_STATE_CANCELLED](/Java/WorkerStateEvent/WORKER_STATE_CANCELLED/)
+* [WORKER_STATE_FAILED](/Java/WorkerStateEvent/WORKER_STATE_FAILED/)
+* [WORKER_STATE_READY](/Java/WorkerStateEvent/WORKER_STATE_READY/)
+* [WORKER_STATE_RUNNING](/Java/WorkerStateEvent/WORKER_STATE_RUNNING/)
+* [WORKER_STATE_SCHEDULED](/Java/WorkerStateEvent/WORKER_STATE_SCHEDULED/)
+* [WORKER_STATE_SUCCEEDED](/Java/WorkerStateEvent/WORKER_STATE_SUCCEEDED/)
 
 ## Métodos
-* [getSource()](/Java/WorkerStateEvent/getSource)
+* [getSource()](/Java/WorkerStateEvent/getSource/)
 
 ## Ejemplo
 ~~~java

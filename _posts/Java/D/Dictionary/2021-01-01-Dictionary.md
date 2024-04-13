@@ -21,13 +21,13 @@ public abstract class Dictionary<K,V> extends Object
 * [Dictionary()](/Java/Dictionary/Dictionary/)
 
 ## Métodos
-* [elements()](/Java/Dictionary/elements)
-* [get()](/Java/Dictionary/get)
-* [isEmpty()](/Java/Dictionary/isEmpty)
-* [keys()](/Java/Dictionary/keys)
-* [put()](/Java/Dictionary/put)
-* [remove()](/Java/Dictionary/remove)
-* [size()](/Java/Dictionary/size)
+* [elements()](/Java/Dictionary/elements/)
+* [get()](/Java/Dictionary/get/)
+* [isEmpty()](/Java/Dictionary/isEmpty/)
+* [keys()](/Java/Dictionary/keys/)
+* [put()](/Java/Dictionary/put/)
+* [remove()](/Java/Dictionary/remove/)
+* [size()](/Java/Dictionary/size/)
 
 ## Ejemplo
 ~~~java

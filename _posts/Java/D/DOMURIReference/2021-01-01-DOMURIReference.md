@@ -18,7 +18,7 @@ public interface DOMURIReference extends URIReference
 ~~~
 
 ## Métodos
-* [getHere()](/Java/DOMURIReference/getHere)
+* [getHere()](/Java/DOMURIReference/getHere/)
 
 ## Ejemplo
 ~~~java

@@ -18,19 +18,19 @@ public interface WebSocket
 ~~~
 
 ## Campos
-* [NORMAL_CLOSURE](/Java/WebSocket/NORMAL_CLOSURE)
+* [NORMAL_CLOSURE](/Java/WebSocket/NORMAL_CLOSURE/)
 
 ## Métodos
-* [abort()](/Java/WebSocket/abort)
-* [getSubprotocol()](/Java/WebSocket/getSubprotocol)
-* [isInputClosed()](/Java/WebSocket/isInputClosed)
-* [isOutputClosed()](/Java/WebSocket/isOutputClosed)
-* [request()](/Java/WebSocket/request)
-* [sendBinary()](/Java/WebSocket/sendBinary)
-* [sendClose()](/Java/WebSocket/sendClose)
-* [sendPing()](/Java/WebSocket/sendPing)
-* [sendPong()](/Java/WebSocket/sendPong)
-* [sendText()](/Java/WebSocket/sendText)
+* [abort()](/Java/WebSocket/abort/)
+* [getSubprotocol()](/Java/WebSocket/getSubprotocol/)
+* [isInputClosed()](/Java/WebSocket/isInputClosed/)
+* [isOutputClosed()](/Java/WebSocket/isOutputClosed/)
+* [request()](/Java/WebSocket/request/)
+* [sendBinary()](/Java/WebSocket/sendBinary/)
+* [sendClose()](/Java/WebSocket/sendClose/)
+* [sendPing()](/Java/WebSocket/sendPing/)
+* [sendPong()](/Java/WebSocket/sendPong/)
+* [sendText()](/Java/WebSocket/sendText/)
 
 ## Ejemplo
 ~~~java

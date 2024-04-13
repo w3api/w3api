@@ -18,10 +18,10 @@ sidebar:
 ~~~
 
 ## Métodos
-* [and()](/Java/IntPredicate/and)
-* [negate()](/Java/IntPredicate/negate)
-* [or()](/Java/IntPredicate/or)
-* [test()](/Java/IntPredicate/test)
+* [and()](/Java/IntPredicate/and/)
+* [negate()](/Java/IntPredicate/negate/)
+* [or()](/Java/IntPredicate/or/)
+* [test()](/Java/IntPredicate/test/)
 
 ## Ejemplo
 ~~~java

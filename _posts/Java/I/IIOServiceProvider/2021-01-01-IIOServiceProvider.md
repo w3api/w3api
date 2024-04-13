@@ -21,15 +21,15 @@ public abstract class IIOServiceProvider extends Object implements RegisterableS
 * [IIOServiceProvider()](/Java/IIOServiceProvider/IIOServiceProvider/)
 
 ## Campos
-* [vendorName](/Java/IIOServiceProvider/vendorName)
-* [version](/Java/IIOServiceProvider/version)
+* [vendorName](/Java/IIOServiceProvider/vendorName/)
+* [version](/Java/IIOServiceProvider/version/)
 
 ## Métodos
-* [getDescription()](/Java/IIOServiceProvider/getDescription)
-* [getVendorName()](/Java/IIOServiceProvider/getVendorName)
-* [getVersion()](/Java/IIOServiceProvider/getVersion)
-* [onDeregistration()](/Java/IIOServiceProvider/onDeregistration)
-* [onRegistration()](/Java/IIOServiceProvider/onRegistration)
+* [getDescription()](/Java/IIOServiceProvider/getDescription/)
+* [getVendorName()](/Java/IIOServiceProvider/getVendorName/)
+* [getVersion()](/Java/IIOServiceProvider/getVersion/)
+* [onDeregistration()](/Java/IIOServiceProvider/onDeregistration/)
+* [onRegistration()](/Java/IIOServiceProvider/onRegistration/)
 
 ## Ejemplo
 ~~~java

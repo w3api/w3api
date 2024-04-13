@@ -18,8 +18,8 @@ public interface Externalizable extends Serializable
 ~~~
 
 ## Métodos
-* [readExternal()](/Java/Externalizable/readExternal)
-* [writeExternal()](/Java/Externalizable/writeExternal)
+* [readExternal()](/Java/Externalizable/readExternal/)
+* [writeExternal()](/Java/Externalizable/writeExternal/)
 
 ## Ejemplo
 ~~~java

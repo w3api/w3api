@@ -21,12 +21,12 @@ public abstract class DragSourceAdapter extends Object implements DragSourceList
 * [DragSourceAdapter()](/Java/DragSourceAdapter/DragSourceAdapter/)
 
 ## Métodos
-* [dragDropEnd()](/Java/DragSourceAdapter/dragDropEnd)
-* [dragEnter()](/Java/DragSourceAdapter/dragEnter)
-* [dragExit()](/Java/DragSourceAdapter/dragExit)
-* [dragMouseMoved()](/Java/DragSourceAdapter/dragMouseMoved)
-* [dragOver()](/Java/DragSourceAdapter/dragOver)
-* [dropActionChanged()](/Java/DragSourceAdapter/dropActionChanged)
+* [dragDropEnd()](/Java/DragSourceAdapter/dragDropEnd/)
+* [dragEnter()](/Java/DragSourceAdapter/dragEnter/)
+* [dragExit()](/Java/DragSourceAdapter/dragExit/)
+* [dragMouseMoved()](/Java/DragSourceAdapter/dragMouseMoved/)
+* [dragOver()](/Java/DragSourceAdapter/dragOver/)
+* [dropActionChanged()](/Java/DragSourceAdapter/dropActionChanged/)
 
 ## Ejemplo
 ~~~java

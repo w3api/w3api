@@ -21,11 +21,11 @@ public abstract class CardTerminal extends Object
 * [CardTerminal()](/Java/CardTerminal/CardTerminal/)
 
 ## Métodos
-* [connect()](/Java/CardTerminal/connect)
-* [getName()](/Java/CardTerminal/getName)
-* [isCardPresent()](/Java/CardTerminal/isCardPresent)
-* [waitForCardAbsent()](/Java/CardTerminal/waitForCardAbsent)
-* [waitForCardPresent()](/Java/CardTerminal/waitForCardPresent)
+* [connect()](/Java/CardTerminal/connect/)
+* [getName()](/Java/CardTerminal/getName/)
+* [isCardPresent()](/Java/CardTerminal/isCardPresent/)
+* [waitForCardAbsent()](/Java/CardTerminal/waitForCardAbsent/)
+* [waitForCardPresent()](/Java/CardTerminal/waitForCardPresent/)
 
 ## Ejemplo
 ~~~java

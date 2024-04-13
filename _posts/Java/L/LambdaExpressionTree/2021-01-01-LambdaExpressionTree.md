@@ -18,9 +18,9 @@ public interface LambdaExpressionTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getBody()](/Java/LambdaExpressionTree/getBody)
-* [getBodyKind()](/Java/LambdaExpressionTree/getBodyKind)
-* [getParameters()](/Java/LambdaExpressionTree/getParameters)
+* [getBody()](/Java/LambdaExpressionTree/getBody/)
+* [getBodyKind()](/Java/LambdaExpressionTree/getBodyKind/)
+* [getParameters()](/Java/LambdaExpressionTree/getParameters/)
 
 ## Ejemplo
 ~~~java

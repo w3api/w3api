@@ -21,17 +21,17 @@ public class KerberosKey extends Object implements SecretKey
 * [KerberosKey()](/Java/KerberosKey/KerberosKey/)
 
 ## Métodos
-* [destroy()](/Java/KerberosKey/destroy)
-* [equals()](/Java/KerberosKey/equals)
-* [getAlgorithm()](/Java/KerberosKey/getAlgorithm)
-* [getEncoded()](/Java/KerberosKey/getEncoded)
-* [getFormat()](/Java/KerberosKey/getFormat)
-* [getKeyType()](/Java/KerberosKey/getKeyType)
-* [getPrincipal()](/Java/KerberosKey/getPrincipal)
-* [getVersionNumber()](/Java/KerberosKey/getVersionNumber)
-* [hashCode()](/Java/KerberosKey/hashCode)
-* [isDestroyed()](/Java/KerberosKey/isDestroyed)
-* [toString()](/Java/KerberosKey/toString)
+* [destroy()](/Java/KerberosKey/destroy/)
+* [equals()](/Java/KerberosKey/equals/)
+* [getAlgorithm()](/Java/KerberosKey/getAlgorithm/)
+* [getEncoded()](/Java/KerberosKey/getEncoded/)
+* [getFormat()](/Java/KerberosKey/getFormat/)
+* [getKeyType()](/Java/KerberosKey/getKeyType/)
+* [getPrincipal()](/Java/KerberosKey/getPrincipal/)
+* [getVersionNumber()](/Java/KerberosKey/getVersionNumber/)
+* [hashCode()](/Java/KerberosKey/hashCode/)
+* [isDestroyed()](/Java/KerberosKey/isDestroyed/)
+* [toString()](/Java/KerberosKey/toString/)
 
 ## Ejemplo
 ~~~java

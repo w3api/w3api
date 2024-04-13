@@ -18,8 +18,8 @@ public interface DynFixedOperations extends DynAnyOperations
 ~~~
 
 ## Métodos
-* [get_value()](/Java/DynFixedOperations/get_value)
-* [set_value()](/Java/DynFixedOperations/set_value)
+* [get_value()](/Java/DynFixedOperations/get_value/)
+* [set_value()](/Java/DynFixedOperations/set_value/)
 
 ## Ejemplo
 ~~~java

@@ -21,14 +21,14 @@ public final class EncryptionKey extends Object implements SecretKey
 * [EncryptionKey()](/Java/EncryptionKey/EncryptionKey/)
 
 ## Métodos
-* [destroy()](/Java/EncryptionKey/destroy)
-* [equals()](/Java/EncryptionKey/equals)
-* [getAlgorithm()](/Java/EncryptionKey/getAlgorithm)
-* [getEncoded()](/Java/EncryptionKey/getEncoded)
-* [getFormat()](/Java/EncryptionKey/getFormat)
-* [getKeyType()](/Java/EncryptionKey/getKeyType)
-* [hashCode()](/Java/EncryptionKey/hashCode)
-* [toString()](/Java/EncryptionKey/toString)
+* [destroy()](/Java/EncryptionKey/destroy/)
+* [equals()](/Java/EncryptionKey/equals/)
+* [getAlgorithm()](/Java/EncryptionKey/getAlgorithm/)
+* [getEncoded()](/Java/EncryptionKey/getEncoded/)
+* [getFormat()](/Java/EncryptionKey/getFormat/)
+* [getKeyType()](/Java/EncryptionKey/getKeyType/)
+* [hashCode()](/Java/EncryptionKey/hashCode/)
+* [toString()](/Java/EncryptionKey/toString/)
 
 ## Ejemplo
 ~~~java

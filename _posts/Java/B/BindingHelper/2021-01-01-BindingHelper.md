@@ -21,12 +21,12 @@ public abstract class BindingHelper extends Object
 * [BindingHelper()](/Java/BindingHelper/BindingHelper/)
 
 ## Métodos
-* [extract()](/Java/BindingHelper/extract)
-* [id()](/Java/BindingHelper/id)
-* [insert()](/Java/BindingHelper/insert)
-* [read()](/Java/BindingHelper/read)
-* [type()](/Java/BindingHelper/type)
-* [write()](/Java/BindingHelper/write)
+* [extract()](/Java/BindingHelper/extract/)
+* [id()](/Java/BindingHelper/id/)
+* [insert()](/Java/BindingHelper/insert/)
+* [read()](/Java/BindingHelper/read/)
+* [type()](/Java/BindingHelper/type/)
+* [write()](/Java/BindingHelper/write/)
 
 ## Ejemplo
 ~~~java

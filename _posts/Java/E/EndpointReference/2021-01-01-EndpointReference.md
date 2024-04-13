@@ -21,10 +21,10 @@ public abstract class EndpointReference extends Object
 * [EndpointReference()](/Java/EndpointReference/EndpointReference/)
 
 ## Métodos
-* [getPort()](/Java/EndpointReference/getPort)
-* [readFrom()](/Java/EndpointReference/readFrom)
-* [toString()](/Java/EndpointReference/toString)
-* [writeTo()](/Java/EndpointReference/writeTo)
+* [getPort()](/Java/EndpointReference/getPort/)
+* [readFrom()](/Java/EndpointReference/readFrom/)
+* [toString()](/Java/EndpointReference/toString/)
+* [writeTo()](/Java/EndpointReference/writeTo/)
 
 ## Ejemplo
 ~~~java

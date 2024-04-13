@@ -18,12 +18,12 @@ public interface DynSequenceOperations extends DynAnyOperations
 ~~~
 
 ## Métodos
-* [get_elements()](/Java/DynSequenceOperations/get_elements)
-* [get_elements_as_dyn_any()](/Java/DynSequenceOperations/get_elements_as_dyn_any)
-* [get_length()](/Java/DynSequenceOperations/get_length)
-* [set_elements()](/Java/DynSequenceOperations/set_elements)
-* [set_elements_as_dyn_any()](/Java/DynSequenceOperations/set_elements_as_dyn_any)
-* [set_length()](/Java/DynSequenceOperations/set_length)
+* [get_elements()](/Java/DynSequenceOperations/get_elements/)
+* [get_elements_as_dyn_any()](/Java/DynSequenceOperations/get_elements_as_dyn_any/)
+* [get_length()](/Java/DynSequenceOperations/get_length/)
+* [set_elements()](/Java/DynSequenceOperations/set_elements/)
+* [set_elements_as_dyn_any()](/Java/DynSequenceOperations/set_elements_as_dyn_any/)
+* [set_length()](/Java/DynSequenceOperations/set_length/)
 
 ## Ejemplo
 ~~~java

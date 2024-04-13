@@ -18,8 +18,8 @@ public interface DoWhileLoopTree extends StatementTree
 ~~~
 
 ## Métodos
-* [getCondition()](/Java/DoWhileLoopTree-com-sun-source-tree/getCondition)
-* [getStatement()](/Java/DoWhileLoopTree-com-sun-source-tree/getStatement)
+* [getCondition()](/Java/DoWhileLoopTree-com-sun-source-tree/getCondition/)
+* [getStatement()](/Java/DoWhileLoopTree-com-sun-source-tree/getStatement/)
 
 ## Ejemplo
 ~~~java

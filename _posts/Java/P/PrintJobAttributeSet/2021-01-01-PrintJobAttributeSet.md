@@ -18,8 +18,8 @@ public interface PrintJobAttributeSet extends AttributeSet
 ~~~
 
 ## Métodos
-* [add()](/Java/PrintJobAttributeSet/add)
-* [addAll()](/Java/PrintJobAttributeSet/addAll)
+* [add()](/Java/PrintJobAttributeSet/add/)
+* [addAll()](/Java/PrintJobAttributeSet/addAll/)
 
 ## Ejemplo
 ~~~java

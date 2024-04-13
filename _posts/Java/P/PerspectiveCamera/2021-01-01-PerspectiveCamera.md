@@ -21,13 +21,13 @@ public class PerspectiveCamera extends Camera
 * [PerspectiveCamera()](/Java/PerspectiveCamera/PerspectiveCamera/)
 
 ## Métodos
-* [fieldOfViewProperty()](/Java/PerspectiveCamera/fieldOfViewProperty)
-* [getFieldOfView()](/Java/PerspectiveCamera/getFieldOfView)
-* [isFixedEyeAtCameraZero()](/Java/PerspectiveCamera/isFixedEyeAtCameraZero)
-* [isVerticalFieldOfView()](/Java/PerspectiveCamera/isVerticalFieldOfView)
-* [setFieldOfView()](/Java/PerspectiveCamera/setFieldOfView)
-* [setVerticalFieldOfView()](/Java/PerspectiveCamera/setVerticalFieldOfView)
-* [verticalFieldOfViewProperty()](/Java/PerspectiveCamera/verticalFieldOfViewProperty)
+* [fieldOfViewProperty()](/Java/PerspectiveCamera/fieldOfViewProperty/)
+* [getFieldOfView()](/Java/PerspectiveCamera/getFieldOfView/)
+* [isFixedEyeAtCameraZero()](/Java/PerspectiveCamera/isFixedEyeAtCameraZero/)
+* [isVerticalFieldOfView()](/Java/PerspectiveCamera/isVerticalFieldOfView/)
+* [setFieldOfView()](/Java/PerspectiveCamera/setFieldOfView/)
+* [setVerticalFieldOfView()](/Java/PerspectiveCamera/setVerticalFieldOfView/)
+* [verticalFieldOfViewProperty()](/Java/PerspectiveCamera/verticalFieldOfViewProperty/)
 
 ## Ejemplo
 ~~~java

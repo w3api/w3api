@@ -21,10 +21,10 @@ public class DSAPrivateKeySpec extends Object implements KeySpec
 * [DSAPrivateKeySpec()](/Java/DSAPrivateKeySpec/DSAPrivateKeySpec/)
 
 ## Métodos
-* [getG()](/Java/DSAPrivateKeySpec/getG)
-* [getP()](/Java/DSAPrivateKeySpec/getP)
-* [getQ()](/Java/DSAPrivateKeySpec/getQ)
-* [getX()](/Java/DSAPrivateKeySpec/getX)
+* [getG()](/Java/DSAPrivateKeySpec/getG/)
+* [getP()](/Java/DSAPrivateKeySpec/getP/)
+* [getQ()](/Java/DSAPrivateKeySpec/getQ/)
+* [getX()](/Java/DSAPrivateKeySpec/getX/)
 
 ## Ejemplo
 ~~~java

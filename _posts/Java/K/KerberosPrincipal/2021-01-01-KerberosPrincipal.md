@@ -21,20 +21,20 @@ public final class KerberosPrincipal extends Object implements Principal, Serial
 * [KerberosPrincipal()](/Java/KerberosPrincipal/KerberosPrincipal/)
 
 ## Campos
-* [KRB_NT_PRINCIPAL](/Java/KerberosPrincipal/KRB_NT_PRINCIPAL)
-* [KRB_NT_SRV_HST](/Java/KerberosPrincipal/KRB_NT_SRV_HST)
-* [KRB_NT_SRV_INST](/Java/KerberosPrincipal/KRB_NT_SRV_INST)
-* [KRB_NT_SRV_XHST](/Java/KerberosPrincipal/KRB_NT_SRV_XHST)
-* [KRB_NT_UID](/Java/KerberosPrincipal/KRB_NT_UID)
-* [KRB_NT_UNKNOWN](/Java/KerberosPrincipal/KRB_NT_UNKNOWN)
+* [KRB_NT_PRINCIPAL](/Java/KerberosPrincipal/KRB_NT_PRINCIPAL/)
+* [KRB_NT_SRV_HST](/Java/KerberosPrincipal/KRB_NT_SRV_HST/)
+* [KRB_NT_SRV_INST](/Java/KerberosPrincipal/KRB_NT_SRV_INST/)
+* [KRB_NT_SRV_XHST](/Java/KerberosPrincipal/KRB_NT_SRV_XHST/)
+* [KRB_NT_UID](/Java/KerberosPrincipal/KRB_NT_UID/)
+* [KRB_NT_UNKNOWN](/Java/KerberosPrincipal/KRB_NT_UNKNOWN/)
 
 ## Métodos
-* [equals()](/Java/KerberosPrincipal/equals)
-* [getName()](/Java/KerberosPrincipal/getName)
-* [getNameType()](/Java/KerberosPrincipal/getNameType)
-* [getRealm()](/Java/KerberosPrincipal/getRealm)
-* [hashCode()](/Java/KerberosPrincipal/hashCode)
-* [toString()](/Java/KerberosPrincipal/toString)
+* [equals()](/Java/KerberosPrincipal/equals/)
+* [getName()](/Java/KerberosPrincipal/getName/)
+* [getNameType()](/Java/KerberosPrincipal/getNameType/)
+* [getRealm()](/Java/KerberosPrincipal/getRealm/)
+* [hashCode()](/Java/KerberosPrincipal/hashCode/)
+* [toString()](/Java/KerberosPrincipal/toString/)
 
 ## Ejemplo
 ~~~java

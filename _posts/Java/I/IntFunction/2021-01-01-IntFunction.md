@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [apply()](/Java/IntFunction/apply)
+* [apply()](/Java/IntFunction/apply/)
 
 ## Ejemplo
 ~~~java

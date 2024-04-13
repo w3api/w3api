@@ -21,11 +21,11 @@ public class ProgressMonitorInputStream extends FilterInputStream
 * [ProgressMonitorInputStream()](/Java/ProgressMonitorInputStream/ProgressMonitorInputStream/)
 
 ## Métodos
-* [close()](/Java/ProgressMonitorInputStream/close)
-* [getProgressMonitor()](/Java/ProgressMonitorInputStream/getProgressMonitor)
-* [read()](/Java/ProgressMonitorInputStream/read)
-* [reset()](/Java/ProgressMonitorInputStream/reset)
-* [skip()](/Java/ProgressMonitorInputStream/skip)
+* [close()](/Java/ProgressMonitorInputStream/close/)
+* [getProgressMonitor()](/Java/ProgressMonitorInputStream/getProgressMonitor/)
+* [read()](/Java/ProgressMonitorInputStream/read/)
+* [reset()](/Java/ProgressMonitorInputStream/reset/)
+* [skip()](/Java/ProgressMonitorInputStream/skip/)
 
 ## Ejemplo
 ~~~java

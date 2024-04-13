@@ -21,15 +21,15 @@ public class InetSocketAddress extends SocketAddress
 * [InetSocketAddress()](/Java/InetSocketAddress/InetSocketAddress/)
 
 ## Métodos
-* [createUnresolved()](/Java/InetSocketAddress/createUnresolved)
-* [equals()](/Java/InetSocketAddress/equals)
-* [getAddress()](/Java/InetSocketAddress/getAddress)
-* [getHostName()](/Java/InetSocketAddress/getHostName)
-* [getHostString()](/Java/InetSocketAddress/getHostString)
-* [getPort()](/Java/InetSocketAddress/getPort)
-* [hashCode()](/Java/InetSocketAddress/hashCode)
-* [isUnresolved()](/Java/InetSocketAddress/isUnresolved)
-* [toString()](/Java/InetSocketAddress/toString)
+* [createUnresolved()](/Java/InetSocketAddress/createUnresolved/)
+* [equals()](/Java/InetSocketAddress/equals/)
+* [getAddress()](/Java/InetSocketAddress/getAddress/)
+* [getHostName()](/Java/InetSocketAddress/getHostName/)
+* [getHostString()](/Java/InetSocketAddress/getHostString/)
+* [getPort()](/Java/InetSocketAddress/getPort/)
+* [hashCode()](/Java/InetSocketAddress/hashCode/)
+* [isUnresolved()](/Java/InetSocketAddress/isUnresolved/)
+* [toString()](/Java/InetSocketAddress/toString/)
 
 ## Ejemplo
 ~~~java

@@ -21,7 +21,7 @@ public class Bootstrap extends Object
 * [Bootstrap()](/Java/Bootstrap/Bootstrap/)
 
 ## Métodos
-* [virtualMachineManager()](/Java/Bootstrap/virtualMachineManager)
+* [virtualMachineManager()](/Java/Bootstrap/virtualMachineManager/)
 
 ## Ejemplo
 ~~~java

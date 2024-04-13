@@ -18,8 +18,8 @@ public class PointerInfo extends Object
 ~~~
 
 ## Métodos
-* [getDevice()](/Java/PointerInfo/getDevice)
-* [getLocation()](/Java/PointerInfo/getLocation)
+* [getDevice()](/Java/PointerInfo/getDevice/)
+* [getLocation()](/Java/PointerInfo/getLocation/)
 
 ## Ejemplo
 ~~~java

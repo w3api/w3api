@@ -21,13 +21,13 @@ public class ProtectionDomain extends Object
 * [ProtectionDomain()](/Java/ProtectionDomain/ProtectionDomain/)
 
 ## Métodos
-* [getClassLoader()](/Java/ProtectionDomain/getClassLoader)
-* [getCodeSource()](/Java/ProtectionDomain/getCodeSource)
-* [getPermissions()](/Java/ProtectionDomain/getPermissions)
-* [getPrincipals()](/Java/ProtectionDomain/getPrincipals)
-* [implies()](/Java/ProtectionDomain/implies)
-* [staticPermissionsOnly()](/Java/ProtectionDomain/staticPermissionsOnly)
-* [toString()](/Java/ProtectionDomain/toString)
+* [getClassLoader()](/Java/ProtectionDomain/getClassLoader/)
+* [getCodeSource()](/Java/ProtectionDomain/getCodeSource/)
+* [getPermissions()](/Java/ProtectionDomain/getPermissions/)
+* [getPrincipals()](/Java/ProtectionDomain/getPrincipals/)
+* [implies()](/Java/ProtectionDomain/implies/)
+* [staticPermissionsOnly()](/Java/ProtectionDomain/staticPermissionsOnly/)
+* [toString()](/Java/ProtectionDomain/toString/)
 
 ## Ejemplo
 ~~~java

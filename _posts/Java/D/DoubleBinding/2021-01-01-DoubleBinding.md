@@ -21,14 +21,14 @@ public abstract class DoubleBinding extends DoubleExpression implements NumberBi
 * [DoubleBinding()](/Java/DoubleBinding/DoubleBinding/)
 
 ## Métodos
-* [bind()](/Java/DoubleBinding/bind)
-* [computeValue()](/Java/DoubleBinding/computeValue)
-* [dispose()](/Java/DoubleBinding/dispose)
-* [get()](/Java/DoubleBinding/get)
-* [getDependencies()](/Java/DoubleBinding/getDependencies)
-* [onInvalidating()](/Java/DoubleBinding/onInvalidating)
-* [toString()](/Java/DoubleBinding/toString)
-* [unbind()](/Java/DoubleBinding/unbind)
+* [bind()](/Java/DoubleBinding/bind/)
+* [computeValue()](/Java/DoubleBinding/computeValue/)
+* [dispose()](/Java/DoubleBinding/dispose/)
+* [get()](/Java/DoubleBinding/get/)
+* [getDependencies()](/Java/DoubleBinding/getDependencies/)
+* [onInvalidating()](/Java/DoubleBinding/onInvalidating/)
+* [toString()](/Java/DoubleBinding/toString/)
+* [unbind()](/Java/DoubleBinding/unbind/)
 
 ## Ejemplo
 ~~~java

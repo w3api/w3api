@@ -18,13 +18,13 @@ public interface IntegrationService
 ~~~
 
 ## Métodos
-* [hasAssociation()](/Java/IntegrationService/hasAssociation)
-* [hasDesktopShortcut()](/Java/IntegrationService/hasDesktopShortcut)
-* [hasMenuShortcut()](/Java/IntegrationService/hasMenuShortcut)
-* [removeAssociation()](/Java/IntegrationService/removeAssociation)
-* [removeShortcuts()](/Java/IntegrationService/removeShortcuts)
-* [requestAssociation()](/Java/IntegrationService/requestAssociation)
-* [requestShortcut()](/Java/IntegrationService/requestShortcut)
+* [hasAssociation()](/Java/IntegrationService/hasAssociation/)
+* [hasDesktopShortcut()](/Java/IntegrationService/hasDesktopShortcut/)
+* [hasMenuShortcut()](/Java/IntegrationService/hasMenuShortcut/)
+* [removeAssociation()](/Java/IntegrationService/removeAssociation/)
+* [removeShortcuts()](/Java/IntegrationService/removeShortcuts/)
+* [requestAssociation()](/Java/IntegrationService/requestAssociation/)
+* [requestShortcut()](/Java/IntegrationService/requestShortcut/)
 
 ## Ejemplo
 ~~~java

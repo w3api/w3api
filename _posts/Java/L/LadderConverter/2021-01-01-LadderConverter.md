@@ -18,7 +18,7 @@ public final class LadderConverter extends StyleConverter<ParsedValue[],Color>
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/LadderConverter/getInstance)
+* [getInstance()](/Java/LadderConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

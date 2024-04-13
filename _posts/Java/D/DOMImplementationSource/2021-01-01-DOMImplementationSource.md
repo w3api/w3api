@@ -18,8 +18,8 @@ public interface DOMImplementationSource
 ~~~
 
 ## Métodos
-* [getDOMImplementation()](/Java/DOMImplementationSource/getDOMImplementation)
-* [getDOMImplementationList()](/Java/DOMImplementationSource/getDOMImplementationList)
+* [getDOMImplementation()](/Java/DOMImplementationSource/getDOMImplementation/)
+* [getDOMImplementationList()](/Java/DOMImplementationSource/getDOMImplementationList/)
 
 ## Ejemplo
 ~~~java

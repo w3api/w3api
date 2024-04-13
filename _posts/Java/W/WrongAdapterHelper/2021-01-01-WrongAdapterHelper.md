@@ -21,12 +21,12 @@ public abstract class WrongAdapterHelper extends Object
 * [WrongAdapterHelper()](/Java/WrongAdapterHelper/WrongAdapterHelper/)
 
 ## Métodos
-* [extract()](/Java/WrongAdapterHelper/extract)
-* [id()](/Java/WrongAdapterHelper/id)
-* [insert()](/Java/WrongAdapterHelper/insert)
-* [read()](/Java/WrongAdapterHelper/read)
-* [type()](/Java/WrongAdapterHelper/type)
-* [write()](/Java/WrongAdapterHelper/write)
+* [extract()](/Java/WrongAdapterHelper/extract/)
+* [id()](/Java/WrongAdapterHelper/id/)
+* [insert()](/Java/WrongAdapterHelper/insert/)
+* [read()](/Java/WrongAdapterHelper/read/)
+* [type()](/Java/WrongAdapterHelper/type/)
+* [write()](/Java/WrongAdapterHelper/write/)
 
 ## Ejemplo
 ~~~java

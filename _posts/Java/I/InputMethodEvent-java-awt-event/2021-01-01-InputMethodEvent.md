@@ -21,20 +21,20 @@ public class InputMethodEvent extends AWTEvent
 * [InputMethodEvent()](/Java/InputMethodEvent-java-awt-event/InputMethodEvent/)
 
 ## Campos
-* [CARET_POSITION_CHANGED](/Java/InputMethodEvent-java-awt-event/CARET_POSITION_CHANGED)
-* [INPUT_METHOD_FIRST](/Java/InputMethodEvent-java-awt-event/INPUT_METHOD_FIRST)
-* [INPUT_METHOD_LAST](/Java/InputMethodEvent-java-awt-event/INPUT_METHOD_LAST)
-* [INPUT_METHOD_TEXT_CHANGED](/Java/InputMethodEvent-java-awt-event/INPUT_METHOD_TEXT_CHANGED)
+* [CARET_POSITION_CHANGED](/Java/InputMethodEvent-java-awt-event/CARET_POSITION_CHANGED/)
+* [INPUT_METHOD_FIRST](/Java/InputMethodEvent-java-awt-event/INPUT_METHOD_FIRST/)
+* [INPUT_METHOD_LAST](/Java/InputMethodEvent-java-awt-event/INPUT_METHOD_LAST/)
+* [INPUT_METHOD_TEXT_CHANGED](/Java/InputMethodEvent-java-awt-event/INPUT_METHOD_TEXT_CHANGED/)
 
 ## Métodos
-* [consume()](/Java/InputMethodEvent-java-awt-event/consume)
-* [getCaret()](/Java/InputMethodEvent-java-awt-event/getCaret)
-* [getCommittedCharacterCount()](/Java/InputMethodEvent-java-awt-event/getCommittedCharacterCount)
-* [getText()](/Java/InputMethodEvent-java-awt-event/getText)
-* [getVisiblePosition()](/Java/InputMethodEvent-java-awt-event/getVisiblePosition)
-* [getWhen()](/Java/InputMethodEvent-java-awt-event/getWhen)
-* [isConsumed()](/Java/InputMethodEvent-java-awt-event/isConsumed)
-* [paramString()](/Java/InputMethodEvent-java-awt-event/paramString)
+* [consume()](/Java/InputMethodEvent-java-awt-event/consume/)
+* [getCaret()](/Java/InputMethodEvent-java-awt-event/getCaret/)
+* [getCommittedCharacterCount()](/Java/InputMethodEvent-java-awt-event/getCommittedCharacterCount/)
+* [getText()](/Java/InputMethodEvent-java-awt-event/getText/)
+* [getVisiblePosition()](/Java/InputMethodEvent-java-awt-event/getVisiblePosition/)
+* [getWhen()](/Java/InputMethodEvent-java-awt-event/getWhen/)
+* [isConsumed()](/Java/InputMethodEvent-java-awt-event/isConsumed/)
+* [paramString()](/Java/InputMethodEvent-java-awt-event/paramString/)
 
 ## Ejemplo
 ~~~java

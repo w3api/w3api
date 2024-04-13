@@ -21,9 +21,9 @@ protected static class DropTarget.DropTargetAutoScroller extends Object implemen
 * [DropTarget.DropTargetAutoScroller()](/Java/DropTarget/DropTargetAutoScroller/DropTarget/DropTargetAutoScroller/)
 
 ## Métodos
-* [actionPerformed()](/Java/DropTarget/DropTargetAutoScroller/actionPerformed)
-* [stop()](/Java/DropTarget/DropTargetAutoScroller/stop)
-* [updateLocation()](/Java/DropTarget/DropTargetAutoScroller/updateLocation)
+* [actionPerformed()](/Java/DropTarget/DropTargetAutoScroller/actionPerformed/)
+* [stop()](/Java/DropTarget/DropTargetAutoScroller/stop/)
+* [updateLocation()](/Java/DropTarget/DropTargetAutoScroller/updateLocation/)
 
 ## Ejemplo
 ~~~java

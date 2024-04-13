@@ -21,16 +21,16 @@ public abstract class DocumentBuilder extends Object
 * [DocumentBuilder()](/Java/DocumentBuilder/DocumentBuilder/)
 
 ## Métodos
-* [getDOMImplementation()](/Java/DocumentBuilder/getDOMImplementation)
-* [getSchema()](/Java/DocumentBuilder/getSchema)
-* [isNamespaceAware()](/Java/DocumentBuilder/isNamespaceAware)
-* [isValidating()](/Java/DocumentBuilder/isValidating)
-* [isXIncludeAware()](/Java/DocumentBuilder/isXIncludeAware)
-* [newDocument()](/Java/DocumentBuilder/newDocument)
-* [parse()](/Java/DocumentBuilder/parse)
-* [reset()](/Java/DocumentBuilder/reset)
-* [setEntityResolver()](/Java/DocumentBuilder/setEntityResolver)
-* [setErrorHandler()](/Java/DocumentBuilder/setErrorHandler)
+* [getDOMImplementation()](/Java/DocumentBuilder/getDOMImplementation/)
+* [getSchema()](/Java/DocumentBuilder/getSchema/)
+* [isNamespaceAware()](/Java/DocumentBuilder/isNamespaceAware/)
+* [isValidating()](/Java/DocumentBuilder/isValidating/)
+* [isXIncludeAware()](/Java/DocumentBuilder/isXIncludeAware/)
+* [newDocument()](/Java/DocumentBuilder/newDocument/)
+* [parse()](/Java/DocumentBuilder/parse/)
+* [reset()](/Java/DocumentBuilder/reset/)
+* [setEntityResolver()](/Java/DocumentBuilder/setEntityResolver/)
+* [setErrorHandler()](/Java/DocumentBuilder/setErrorHandler/)
 
 ## Ejemplo
 ~~~java

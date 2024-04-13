@@ -18,12 +18,12 @@ public static final class PageAttributes.ColorType extends Object
 ~~~
 
 ## Campos
-* [COLOR](/Java/PageAttributes/ColorType/COLOR)
-* [MONOCHROME](/Java/PageAttributes/ColorType/MONOCHROME)
+* [COLOR](/Java/PageAttributes/ColorType/COLOR/)
+* [MONOCHROME](/Java/PageAttributes/ColorType/MONOCHROME/)
 
 ## Métodos
-* [hashCode()](/Java/PageAttributes/ColorType/hashCode)
-* [toString()](/Java/PageAttributes/ColorType/toString)
+* [hashCode()](/Java/PageAttributes/ColorType/hashCode/)
+* [toString()](/Java/PageAttributes/ColorType/toString/)
 
 ## Ejemplo
 ~~~java

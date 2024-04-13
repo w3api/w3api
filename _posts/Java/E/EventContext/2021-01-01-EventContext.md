@@ -18,14 +18,14 @@ public interface EventContext extends Context
 ~~~
 
 ## Campos
-* [OBJECT_SCOPE](/Java/EventContext/OBJECT_SCOPE)
-* [ONELEVEL_SCOPE](/Java/EventContext/ONELEVEL_SCOPE)
-* [SUBTREE_SCOPE](/Java/EventContext/SUBTREE_SCOPE)
+* [OBJECT_SCOPE](/Java/EventContext/OBJECT_SCOPE/)
+* [ONELEVEL_SCOPE](/Java/EventContext/ONELEVEL_SCOPE/)
+* [SUBTREE_SCOPE](/Java/EventContext/SUBTREE_SCOPE/)
 
 ## Métodos
-* [addNamingListener()](/Java/EventContext/addNamingListener)
-* [removeNamingListener()](/Java/EventContext/removeNamingListener)
-* [targetMustExist()](/Java/EventContext/targetMustExist)
+* [addNamingListener()](/Java/EventContext/addNamingListener/)
+* [removeNamingListener()](/Java/EventContext/removeNamingListener/)
+* [targetMustExist()](/Java/EventContext/targetMustExist/)
 
 ## Ejemplo
 ~~~java

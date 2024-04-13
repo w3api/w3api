@@ -21,8 +21,8 @@ public class BasicCheckBoxMenuItemUI extends BasicMenuItemUI
 * [BasicCheckBoxMenuItemUI()](/Java/BasicCheckBoxMenuItemUI/BasicCheckBoxMenuItemUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicCheckBoxMenuItemUI/createUI)
-* [processMouseEvent()](/Java/BasicCheckBoxMenuItemUI/processMouseEvent)
+* [createUI()](/Java/BasicCheckBoxMenuItemUI/createUI/)
+* [processMouseEvent()](/Java/BasicCheckBoxMenuItemUI/processMouseEvent/)
 
 ## Ejemplo
 ~~~java

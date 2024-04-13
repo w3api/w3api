@@ -18,10 +18,10 @@ public interface DHPrivateKey extends DHKey, PrivateKey
 ~~~
 
 ## Campos
-* [serialVersionUID](/Java/DHPrivateKey/serialVersionUID)
+* [serialVersionUID](/Java/DHPrivateKey/serialVersionUID/)
 
 ## Métodos
-* [getX()](/Java/DHPrivateKey/getX)
+* [getX()](/Java/DHPrivateKey/getX/)
 
 ## Ejemplo
 ~~~java

@@ -21,9 +21,9 @@ public class CollectionCertStoreParameters extends Object implements CertStorePa
 * [CollectionCertStoreParameters()](/Java/CollectionCertStoreParameters/CollectionCertStoreParameters/)
 
 ## Métodos
-* [clone()](/Java/CollectionCertStoreParameters/clone)
-* [getCollection()](/Java/CollectionCertStoreParameters/getCollection)
-* [toString()](/Java/CollectionCertStoreParameters/toString)
+* [clone()](/Java/CollectionCertStoreParameters/clone/)
+* [getCollection()](/Java/CollectionCertStoreParameters/getCollection/)
+* [toString()](/Java/CollectionCertStoreParameters/toString/)
 
 ## Ejemplo
 ~~~java

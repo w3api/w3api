@@ -21,10 +21,10 @@ public class DSAPublicKeySpec extends Object implements KeySpec
 * [DSAPublicKeySpec()](/Java/DSAPublicKeySpec/DSAPublicKeySpec/)
 
 ## Métodos
-* [getG()](/Java/DSAPublicKeySpec/getG)
-* [getP()](/Java/DSAPublicKeySpec/getP)
-* [getQ()](/Java/DSAPublicKeySpec/getQ)
-* [getY()](/Java/DSAPublicKeySpec/getY)
+* [getG()](/Java/DSAPublicKeySpec/getG/)
+* [getP()](/Java/DSAPublicKeySpec/getP/)
+* [getQ()](/Java/DSAPublicKeySpec/getQ/)
+* [getY()](/Java/DSAPublicKeySpec/getY/)
 
 ## Ejemplo
 ~~~java

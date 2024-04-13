@@ -21,9 +21,9 @@ public abstract class ExemptionMechanismSpi extends Object
 * [ExemptionMechanismSpi()](/Java/ExemptionMechanismSpi/ExemptionMechanismSpi/)
 
 ## Métodos
-* [engineGenExemptionBlob()](/Java/ExemptionMechanismSpi/engineGenExemptionBlob)
-* [engineGetOutputSize()](/Java/ExemptionMechanismSpi/engineGetOutputSize)
-* [engineInit()](/Java/ExemptionMechanismSpi/engineInit)
+* [engineGenExemptionBlob()](/Java/ExemptionMechanismSpi/engineGenExemptionBlob/)
+* [engineGetOutputSize()](/Java/ExemptionMechanismSpi/engineGetOutputSize/)
+* [engineInit()](/Java/ExemptionMechanismSpi/engineInit/)
 
 ## Ejemplo
 ~~~java

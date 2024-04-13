@@ -18,8 +18,8 @@ public interface BlockTree extends StatementTree
 ~~~
 
 ## Métodos
-* [getStatements()](/Java/BlockTree-com-sun-source-tree/getStatements)
-* [isStatic()](/Java/BlockTree-com-sun-source-tree/isStatic)
+* [getStatements()](/Java/BlockTree-com-sun-source-tree/getStatements/)
+* [isStatic()](/Java/BlockTree-com-sun-source-tree/isStatic/)
 
 ## Ejemplo
 ~~~java

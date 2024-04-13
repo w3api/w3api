@@ -21,19 +21,19 @@ public class ByteArrayInputStream extends InputStream
 * [ByteArrayInputStream()](/Java/ByteArrayInputStream/ByteArrayInputStream/)
 
 ## Campos
-* [buf](/Java/ByteArrayInputStream/buf)
-* [count](/Java/ByteArrayInputStream/count)
-* [mark](/Java/ByteArrayInputStream/mark)
-* [pos](/Java/ByteArrayInputStream/pos)
+* [buf](/Java/ByteArrayInputStream/buf/)
+* [count](/Java/ByteArrayInputStream/count/)
+* [mark](/Java/ByteArrayInputStream/mark/)
+* [pos](/Java/ByteArrayInputStream/pos/)
 
 ## Métodos
-* [available()](/Java/ByteArrayInputStream/available)
-* [close()](/Java/ByteArrayInputStream/close)
-* [mark()](/Java/ByteArrayInputStream/mark)
-* [markSupported()](/Java/ByteArrayInputStream/markSupported)
-* [read()](/Java/ByteArrayInputStream/read)
-* [reset()](/Java/ByteArrayInputStream/reset)
-* [skip()](/Java/ByteArrayInputStream/skip)
+* [available()](/Java/ByteArrayInputStream/available/)
+* [close()](/Java/ByteArrayInputStream/close/)
+* [mark()](/Java/ByteArrayInputStream/mark/)
+* [markSupported()](/Java/ByteArrayInputStream/markSupported/)
+* [read()](/Java/ByteArrayInputStream/read/)
+* [reset()](/Java/ByteArrayInputStream/reset/)
+* [skip()](/Java/ByteArrayInputStream/skip/)
 
 ## Ejemplo
 ~~~java

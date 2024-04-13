@@ -21,15 +21,15 @@ public class PriorityQueue<E> extends AbstractQueue<E> implements Serializable
 * [PriorityQueue()](/Java/PriorityQueue/PriorityQueue/)
 
 ## Métodos
-* [add()](/Java/PriorityQueue/add)
-* [clear()](/Java/PriorityQueue/clear)
-* [comparator()](/Java/PriorityQueue/comparator)
-* [contains()](/Java/PriorityQueue/contains)
-* [iterator()](/Java/PriorityQueue/iterator)
-* [offer()](/Java/PriorityQueue/offer)
-* [remove()](/Java/PriorityQueue/remove)
-* [spliterator()](/Java/PriorityQueue/spliterator)
-* [toArray()](/Java/PriorityQueue/toArray)
+* [add()](/Java/PriorityQueue/add/)
+* [clear()](/Java/PriorityQueue/clear/)
+* [comparator()](/Java/PriorityQueue/comparator/)
+* [contains()](/Java/PriorityQueue/contains/)
+* [iterator()](/Java/PriorityQueue/iterator/)
+* [offer()](/Java/PriorityQueue/offer/)
+* [remove()](/Java/PriorityQueue/remove/)
+* [spliterator()](/Java/PriorityQueue/spliterator/)
+* [toArray()](/Java/PriorityQueue/toArray/)
 
 ## Ejemplo
 ~~~java

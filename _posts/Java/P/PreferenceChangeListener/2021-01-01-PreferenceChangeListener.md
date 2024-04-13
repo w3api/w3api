@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [preferenceChange()](/Java/PreferenceChangeListener/preferenceChange)
+* [preferenceChange()](/Java/PreferenceChangeListener/preferenceChange/)
 
 ## Ejemplo
 ~~~java

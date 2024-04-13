@@ -21,9 +21,9 @@ public class LoginContext extends Object
 * [LoginContext()](/Java/LoginContext/LoginContext/)
 
 ## Métodos
-* [getSubject()](/Java/LoginContext/getSubject)
-* [login()](/Java/LoginContext/login)
-* [logout()](/Java/LoginContext/logout)
+* [getSubject()](/Java/LoginContext/getSubject/)
+* [login()](/Java/LoginContext/login/)
+* [logout()](/Java/LoginContext/logout/)
 
 ## Ejemplo
 ~~~java

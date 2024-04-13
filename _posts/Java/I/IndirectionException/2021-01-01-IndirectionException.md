@@ -21,7 +21,7 @@ public class IndirectionException extends SystemException
 * [IndirectionException()](/Java/IndirectionException/IndirectionException/)
 
 ## Campos
-* [offset](/Java/IndirectionException/offset)
+* [offset](/Java/IndirectionException/offset/)
 
 ## Ejemplo
 ~~~java

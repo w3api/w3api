@@ -18,14 +18,14 @@ public enum XmlAccessType extends Enum<XmlAccessType>
 ~~~
 
 ## Enumerados
-* [FIELD](/Java/XmlAccessType/FIELD)
-* [NONE](/Java/XmlAccessType/NONE)
-* [PROPERTY](/Java/XmlAccessType/PROPERTY)
-* [PUBLIC_MEMBER](/Java/XmlAccessType/PUBLIC_MEMBER)
+* [FIELD](/Java/XmlAccessType/FIELD/)
+* [NONE](/Java/XmlAccessType/NONE/)
+* [PROPERTY](/Java/XmlAccessType/PROPERTY/)
+* [PUBLIC_MEMBER](/Java/XmlAccessType/PUBLIC_MEMBER/)
 
 ## Métodos
-* [valueOf()](/Java/XmlAccessType/valueOf)
-* [values()](/Java/XmlAccessType/values)
+* [valueOf()](/Java/XmlAccessType/valueOf/)
+* [values()](/Java/XmlAccessType/values/)
 
 ## Ejemplo
 ~~~java

@@ -18,12 +18,12 @@ public abstract class EventSettings extends Object
 ~~~
 
 ## Métodos
-* [with()](/Java/EventSettings/with)
-* [withoutStackTrace()](/Java/EventSettings/withoutStackTrace)
-* [withoutThreshold()](/Java/EventSettings/withoutThreshold)
-* [withPeriod()](/Java/EventSettings/withPeriod)
-* [withStackTrace()](/Java/EventSettings/withStackTrace)
-* [withThreshold()](/Java/EventSettings/withThreshold)
+* [with()](/Java/EventSettings/with/)
+* [withoutStackTrace()](/Java/EventSettings/withoutStackTrace/)
+* [withoutThreshold()](/Java/EventSettings/withoutThreshold/)
+* [withPeriod()](/Java/EventSettings/withPeriod/)
+* [withStackTrace()](/Java/EventSettings/withStackTrace/)
+* [withThreshold()](/Java/EventSettings/withThreshold/)
 
 ## Ejemplo
 ~~~java

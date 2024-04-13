@@ -21,12 +21,12 @@ public class DescriptorSupport extends Object implements Descriptor
 * [DescriptorSupport()](/Java/DescriptorSupport/DescriptorSupport/)
 
 ## Métodos
-* [clone()](/Java/DescriptorSupport/clone)
-* [equals()](/Java/DescriptorSupport/equals)
-* [hashCode()](/Java/DescriptorSupport/hashCode)
-* [isValid()](/Java/DescriptorSupport/isValid)
-* [toString()](/Java/DescriptorSupport/toString)
-* [toXMLString()](/Java/DescriptorSupport/toXMLString)
+* [clone()](/Java/DescriptorSupport/clone/)
+* [equals()](/Java/DescriptorSupport/equals/)
+* [hashCode()](/Java/DescriptorSupport/hashCode/)
+* [isValid()](/Java/DescriptorSupport/isValid/)
+* [toString()](/Java/DescriptorSupport/toString/)
+* [toXMLString()](/Java/DescriptorSupport/toXMLString/)
 
 ## Ejemplo
 ~~~java

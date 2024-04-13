@@ -18,9 +18,9 @@ public interface BoxedValueHelper
 ~~~
 
 ## Métodos
-* [get_id()](/Java/BoxedValueHelper/get_id)
-* [read_value()](/Java/BoxedValueHelper/read_value)
-* [write_value()](/Java/BoxedValueHelper/write_value)
+* [get_id()](/Java/BoxedValueHelper/get_id/)
+* [read_value()](/Java/BoxedValueHelper/read_value/)
+* [write_value()](/Java/BoxedValueHelper/write_value/)
 
 ## Ejemplo
 ~~~java

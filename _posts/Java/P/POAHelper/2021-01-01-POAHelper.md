@@ -21,13 +21,13 @@ public abstract class POAHelper extends Object
 * [POAHelper()](/Java/POAHelper/POAHelper/)
 
 ## Métodos
-* [extract()](/Java/POAHelper/extract)
-* [id()](/Java/POAHelper/id)
-* [insert()](/Java/POAHelper/insert)
-* [narrow()](/Java/POAHelper/narrow)
-* [read()](/Java/POAHelper/read)
-* [type()](/Java/POAHelper/type)
-* [write()](/Java/POAHelper/write)
+* [extract()](/Java/POAHelper/extract/)
+* [id()](/Java/POAHelper/id/)
+* [insert()](/Java/POAHelper/insert/)
+* [narrow()](/Java/POAHelper/narrow/)
+* [read()](/Java/POAHelper/read/)
+* [type()](/Java/POAHelper/type/)
+* [write()](/Java/POAHelper/write/)
 
 ## Ejemplo
 ~~~java

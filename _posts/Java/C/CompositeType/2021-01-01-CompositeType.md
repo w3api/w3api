@@ -21,14 +21,14 @@ public class CompositeType extends OpenType<CompositeData>
 * [CompositeType()](/Java/CompositeType/CompositeType/)
 
 ## Métodos
-* [containsKey()](/Java/CompositeType/containsKey)
-* [equals()](/Java/CompositeType/equals)
-* [getDescription()](/Java/CompositeType/getDescription)
-* [getType()](/Java/CompositeType/getType)
-* [hashCode()](/Java/CompositeType/hashCode)
-* [isValue()](/Java/CompositeType/isValue)
-* [keySet()](/Java/CompositeType/keySet)
-* [toString()](/Java/CompositeType/toString)
+* [containsKey()](/Java/CompositeType/containsKey/)
+* [equals()](/Java/CompositeType/equals/)
+* [getDescription()](/Java/CompositeType/getDescription/)
+* [getType()](/Java/CompositeType/getType/)
+* [hashCode()](/Java/CompositeType/hashCode/)
+* [isValue()](/Java/CompositeType/isValue/)
+* [keySet()](/Java/CompositeType/keySet/)
+* [toString()](/Java/CompositeType/toString/)
 
 ## Ejemplo
 ~~~java

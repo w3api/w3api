@@ -21,19 +21,19 @@ public class InternalFrameEvent extends AWTEvent
 * [InternalFrameEvent()](/Java/InternalFrameEvent/InternalFrameEvent/)
 
 ## Campos
-* [INTERNAL_FRAME_ACTIVATED](/Java/InternalFrameEvent/INTERNAL_FRAME_ACTIVATED)
-* [INTERNAL_FRAME_CLOSED](/Java/InternalFrameEvent/INTERNAL_FRAME_CLOSED)
-* [INTERNAL_FRAME_CLOSING](/Java/InternalFrameEvent/INTERNAL_FRAME_CLOSING)
-* [INTERNAL_FRAME_DEACTIVATED](/Java/InternalFrameEvent/INTERNAL_FRAME_DEACTIVATED)
-* [INTERNAL_FRAME_DEICONIFIED](/Java/InternalFrameEvent/INTERNAL_FRAME_DEICONIFIED)
-* [INTERNAL_FRAME_FIRST](/Java/InternalFrameEvent/INTERNAL_FRAME_FIRST)
-* [INTERNAL_FRAME_ICONIFIED](/Java/InternalFrameEvent/INTERNAL_FRAME_ICONIFIED)
-* [INTERNAL_FRAME_LAST](/Java/InternalFrameEvent/INTERNAL_FRAME_LAST)
-* [INTERNAL_FRAME_OPENED](/Java/InternalFrameEvent/INTERNAL_FRAME_OPENED)
+* [INTERNAL_FRAME_ACTIVATED](/Java/InternalFrameEvent/INTERNAL_FRAME_ACTIVATED/)
+* [INTERNAL_FRAME_CLOSED](/Java/InternalFrameEvent/INTERNAL_FRAME_CLOSED/)
+* [INTERNAL_FRAME_CLOSING](/Java/InternalFrameEvent/INTERNAL_FRAME_CLOSING/)
+* [INTERNAL_FRAME_DEACTIVATED](/Java/InternalFrameEvent/INTERNAL_FRAME_DEACTIVATED/)
+* [INTERNAL_FRAME_DEICONIFIED](/Java/InternalFrameEvent/INTERNAL_FRAME_DEICONIFIED/)
+* [INTERNAL_FRAME_FIRST](/Java/InternalFrameEvent/INTERNAL_FRAME_FIRST/)
+* [INTERNAL_FRAME_ICONIFIED](/Java/InternalFrameEvent/INTERNAL_FRAME_ICONIFIED/)
+* [INTERNAL_FRAME_LAST](/Java/InternalFrameEvent/INTERNAL_FRAME_LAST/)
+* [INTERNAL_FRAME_OPENED](/Java/InternalFrameEvent/INTERNAL_FRAME_OPENED/)
 
 ## Métodos
-* [getInternalFrame()](/Java/InternalFrameEvent/getInternalFrame)
-* [paramString()](/Java/InternalFrameEvent/paramString)
+* [getInternalFrame()](/Java/InternalFrameEvent/getInternalFrame/)
+* [paramString()](/Java/InternalFrameEvent/paramString/)
 
 ## Ejemplo
 ~~~java

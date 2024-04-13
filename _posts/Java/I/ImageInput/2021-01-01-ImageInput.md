@@ -21,15 +21,15 @@ public class ImageInput extends Effect
 * [ImageInput()](/Java/ImageInput/ImageInput/)
 
 ## Métodos
-* [getSource()](/Java/ImageInput/getSource)
-* [getX()](/Java/ImageInput/getX)
-* [getY()](/Java/ImageInput/getY)
-* [setSource()](/Java/ImageInput/setSource)
-* [setX()](/Java/ImageInput/setX)
-* [setY()](/Java/ImageInput/setY)
-* [sourceProperty()](/Java/ImageInput/sourceProperty)
-* [xProperty()](/Java/ImageInput/xProperty)
-* [yProperty()](/Java/ImageInput/yProperty)
+* [getSource()](/Java/ImageInput/getSource/)
+* [getX()](/Java/ImageInput/getX/)
+* [getY()](/Java/ImageInput/getY/)
+* [setSource()](/Java/ImageInput/setSource/)
+* [setX()](/Java/ImageInput/setX/)
+* [setY()](/Java/ImageInput/setY/)
+* [sourceProperty()](/Java/ImageInput/sourceProperty/)
+* [xProperty()](/Java/ImageInput/xProperty/)
+* [yProperty()](/Java/ImageInput/yProperty/)
 
 ## Ejemplo
 ~~~java

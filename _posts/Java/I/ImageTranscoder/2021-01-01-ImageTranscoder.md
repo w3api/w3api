@@ -18,8 +18,8 @@ public interface ImageTranscoder
 ~~~
 
 ## Métodos
-* [convertImageMetadata()](/Java/ImageTranscoder/convertImageMetadata)
-* [convertStreamMetadata()](/Java/ImageTranscoder/convertStreamMetadata)
+* [convertImageMetadata()](/Java/ImageTranscoder/convertImageMetadata/)
+* [convertStreamMetadata()](/Java/ImageTranscoder/convertStreamMetadata/)
 
 ## Ejemplo
 ~~~java

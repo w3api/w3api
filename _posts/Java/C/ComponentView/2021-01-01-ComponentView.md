@@ -21,16 +21,16 @@ public class ComponentView extends View
 * [ComponentView()](/Java/ComponentView/ComponentView/)
 
 ## Métodos
-* [createComponent()](/Java/ComponentView/createComponent)
-* [getAlignment()](/Java/ComponentView/getAlignment)
-* [getComponent()](/Java/ComponentView/getComponent)
-* [getMaximumSpan()](/Java/ComponentView/getMaximumSpan)
-* [getMinimumSpan()](/Java/ComponentView/getMinimumSpan)
-* [getPreferredSpan()](/Java/ComponentView/getPreferredSpan)
-* [modelToView()](/Java/ComponentView/modelToView)
-* [paint()](/Java/ComponentView/paint)
-* [setParent()](/Java/ComponentView/setParent)
-* [viewToModel()](/Java/ComponentView/viewToModel)
+* [createComponent()](/Java/ComponentView/createComponent/)
+* [getAlignment()](/Java/ComponentView/getAlignment/)
+* [getComponent()](/Java/ComponentView/getComponent/)
+* [getMaximumSpan()](/Java/ComponentView/getMaximumSpan/)
+* [getMinimumSpan()](/Java/ComponentView/getMinimumSpan/)
+* [getPreferredSpan()](/Java/ComponentView/getPreferredSpan/)
+* [modelToView()](/Java/ComponentView/modelToView/)
+* [paint()](/Java/ComponentView/paint/)
+* [setParent()](/Java/ComponentView/setParent/)
+* [viewToModel()](/Java/ComponentView/viewToModel/)
 
 ## Ejemplo
 ~~~java

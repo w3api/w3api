@@ -21,8 +21,8 @@ public class BeanDescriptor extends FeatureDescriptor
 * [BeanDescriptor()](/Java/BeanDescriptor/BeanDescriptor/)
 
 ## Métodos
-* [getBeanClass()](/Java/BeanDescriptor/getBeanClass)
-* [getCustomizerClass()](/Java/BeanDescriptor/getCustomizerClass)
+* [getBeanClass()](/Java/BeanDescriptor/getBeanClass/)
+* [getCustomizerClass()](/Java/BeanDescriptor/getCustomizerClass/)
 
 ## Ejemplo
 ~~~java

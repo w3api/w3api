@@ -18,14 +18,14 @@ public enum BorderRepeat extends Enum<BorderRepeat>
 ~~~
 
 ## Enumerados
-* [REPEAT](/Java/BorderRepeat/REPEAT)
-* [ROUND](/Java/BorderRepeat/ROUND)
-* [SPACE](/Java/BorderRepeat/SPACE)
-* [STRETCH](/Java/BorderRepeat/STRETCH)
+* [REPEAT](/Java/BorderRepeat/REPEAT/)
+* [ROUND](/Java/BorderRepeat/ROUND/)
+* [SPACE](/Java/BorderRepeat/SPACE/)
+* [STRETCH](/Java/BorderRepeat/STRETCH/)
 
 ## Métodos
-* [valueOf()](/Java/BorderRepeat/valueOf)
-* [values()](/Java/BorderRepeat/values)
+* [valueOf()](/Java/BorderRepeat/valueOf/)
+* [values()](/Java/BorderRepeat/values/)
 
 ## Ejemplo
 ~~~java

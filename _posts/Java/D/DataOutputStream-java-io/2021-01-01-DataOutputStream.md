@@ -21,23 +21,23 @@ public class DataOutputStream extends FilterOutputStream implements DataOutput
 * [DataOutputStream()](/Java/DataOutputStream-java-io/DataOutputStream/)
 
 ## Campos
-* [written](/Java/DataOutputStream-java-io/written)
+* [written](/Java/DataOutputStream-java-io/written/)
 
 ## Métodos
-* [flush()](/Java/DataOutputStream-java-io/flush)
-* [size()](/Java/DataOutputStream-java-io/size)
-* [write()](/Java/DataOutputStream-java-io/write)
-* [writeBoolean()](/Java/DataOutputStream-java-io/writeBoolean)
-* [writeByte()](/Java/DataOutputStream-java-io/writeByte)
-* [writeBytes()](/Java/DataOutputStream-java-io/writeBytes)
-* [writeChar()](/Java/DataOutputStream-java-io/writeChar)
-* [writeChars()](/Java/DataOutputStream-java-io/writeChars)
-* [writeDouble()](/Java/DataOutputStream-java-io/writeDouble)
-* [writeFloat()](/Java/DataOutputStream-java-io/writeFloat)
-* [writeInt()](/Java/DataOutputStream-java-io/writeInt)
-* [writeLong()](/Java/DataOutputStream-java-io/writeLong)
-* [writeShort()](/Java/DataOutputStream-java-io/writeShort)
-* [writeUTF()](/Java/DataOutputStream-java-io/writeUTF)
+* [flush()](/Java/DataOutputStream-java-io/flush/)
+* [size()](/Java/DataOutputStream-java-io/size/)
+* [write()](/Java/DataOutputStream-java-io/write/)
+* [writeBoolean()](/Java/DataOutputStream-java-io/writeBoolean/)
+* [writeByte()](/Java/DataOutputStream-java-io/writeByte/)
+* [writeBytes()](/Java/DataOutputStream-java-io/writeBytes/)
+* [writeChar()](/Java/DataOutputStream-java-io/writeChar/)
+* [writeChars()](/Java/DataOutputStream-java-io/writeChars/)
+* [writeDouble()](/Java/DataOutputStream-java-io/writeDouble/)
+* [writeFloat()](/Java/DataOutputStream-java-io/writeFloat/)
+* [writeInt()](/Java/DataOutputStream-java-io/writeInt/)
+* [writeLong()](/Java/DataOutputStream-java-io/writeLong/)
+* [writeShort()](/Java/DataOutputStream-java-io/writeShort/)
+* [writeUTF()](/Java/DataOutputStream-java-io/writeUTF/)
 
 ## Ejemplo
 ~~~java

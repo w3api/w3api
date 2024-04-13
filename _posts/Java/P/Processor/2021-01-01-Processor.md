@@ -18,12 +18,12 @@ public interface Processor
 ~~~
 
 ## Métodos
-* [getCompletions()](/Java/Processor/getCompletions)
-* [getSupportedAnnotationTypes()](/Java/Processor/getSupportedAnnotationTypes)
-* [getSupportedOptions()](/Java/Processor/getSupportedOptions)
-* [getSupportedSourceVersion()](/Java/Processor/getSupportedSourceVersion)
-* [init()](/Java/Processor/init)
-* [process()](/Java/Processor/process)
+* [getCompletions()](/Java/Processor/getCompletions/)
+* [getSupportedAnnotationTypes()](/Java/Processor/getSupportedAnnotationTypes/)
+* [getSupportedOptions()](/Java/Processor/getSupportedOptions/)
+* [getSupportedSourceVersion()](/Java/Processor/getSupportedSourceVersion/)
+* [init()](/Java/Processor/init/)
+* [process()](/Java/Processor/process/)
 
 ## Ejemplo
 ~~~java

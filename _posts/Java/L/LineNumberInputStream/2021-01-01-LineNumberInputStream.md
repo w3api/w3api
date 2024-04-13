@@ -21,13 +21,13 @@ sidebar:
 * [LineNumberInputStream()](/Java/LineNumberInputStream/LineNumberInputStream/)
 
 ## Métodos
-* [available()](/Java/LineNumberInputStream/available)
-* [getLineNumber()](/Java/LineNumberInputStream/getLineNumber)
-* [mark()](/Java/LineNumberInputStream/mark)
-* [read()](/Java/LineNumberInputStream/read)
-* [reset()](/Java/LineNumberInputStream/reset)
-* [setLineNumber()](/Java/LineNumberInputStream/setLineNumber)
-* [skip()](/Java/LineNumberInputStream/skip)
+* [available()](/Java/LineNumberInputStream/available/)
+* [getLineNumber()](/Java/LineNumberInputStream/getLineNumber/)
+* [mark()](/Java/LineNumberInputStream/mark/)
+* [read()](/Java/LineNumberInputStream/read/)
+* [reset()](/Java/LineNumberInputStream/reset/)
+* [setLineNumber()](/Java/LineNumberInputStream/setLineNumber/)
+* [skip()](/Java/LineNumberInputStream/skip/)
 
 ## Ejemplo
 ~~~java

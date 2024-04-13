@@ -21,7 +21,7 @@ public abstract class DecimalFormatSymbolsProvider extends LocaleServiceProvider
 * [DecimalFormatSymbolsProvider()](/Java/DecimalFormatSymbolsProvider/DecimalFormatSymbolsProvider/)
 
 ## Métodos
-* [getInstance()](/Java/DecimalFormatSymbolsProvider/getInstance)
+* [getInstance()](/Java/DecimalFormatSymbolsProvider/getInstance/)
 
 ## Ejemplo
 ~~~java

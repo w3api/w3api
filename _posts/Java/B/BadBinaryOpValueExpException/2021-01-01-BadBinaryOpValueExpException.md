@@ -21,8 +21,8 @@ public class BadBinaryOpValueExpException extends Exception
 * [BadBinaryOpValueExpException()](/Java/BadBinaryOpValueExpException/BadBinaryOpValueExpException/)
 
 ## Métodos
-* [getExp()](/Java/BadBinaryOpValueExpException/getExp)
-* [toString()](/Java/BadBinaryOpValueExpException/toString)
+* [getExp()](/Java/BadBinaryOpValueExpException/getExp/)
+* [toString()](/Java/BadBinaryOpValueExpException/toString/)
 
 ## Ejemplo
 ~~~java

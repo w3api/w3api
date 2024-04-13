@@ -21,12 +21,12 @@ public class PropertyChangeEvent extends EventObject
 * [PropertyChangeEvent()](/Java/PropertyChangeEvent/PropertyChangeEvent/)
 
 ## Métodos
-* [getNewValue()](/Java/PropertyChangeEvent/getNewValue)
-* [getOldValue()](/Java/PropertyChangeEvent/getOldValue)
-* [getPropagationId()](/Java/PropertyChangeEvent/getPropagationId)
-* [getPropertyName()](/Java/PropertyChangeEvent/getPropertyName)
-* [setPropagationId()](/Java/PropertyChangeEvent/setPropagationId)
-* [toString()](/Java/PropertyChangeEvent/toString)
+* [getNewValue()](/Java/PropertyChangeEvent/getNewValue/)
+* [getOldValue()](/Java/PropertyChangeEvent/getOldValue/)
+* [getPropagationId()](/Java/PropertyChangeEvent/getPropagationId/)
+* [getPropertyName()](/Java/PropertyChangeEvent/getPropertyName/)
+* [setPropagationId()](/Java/PropertyChangeEvent/setPropagationId/)
+* [toString()](/Java/PropertyChangeEvent/toString/)
 
 ## Ejemplo
 ~~~java

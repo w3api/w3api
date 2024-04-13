@@ -21,8 +21,8 @@ public class PrintServiceAttributeEvent extends PrintEvent
 * [PrintServiceAttributeEvent()](/Java/PrintServiceAttributeEvent/PrintServiceAttributeEvent/)
 
 ## Métodos
-* [getAttributes()](/Java/PrintServiceAttributeEvent/getAttributes)
-* [getPrintService()](/Java/PrintServiceAttributeEvent/getPrintService)
+* [getAttributes()](/Java/PrintServiceAttributeEvent/getAttributes/)
+* [getPrintService()](/Java/PrintServiceAttributeEvent/getPrintService/)
 
 ## Ejemplo
 ~~~java

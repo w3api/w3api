@@ -18,13 +18,13 @@ public interface DocPrintJob
 ~~~
 
 ## Métodos
-* [addPrintJobAttributeListener()](/Java/DocPrintJob/addPrintJobAttributeListener)
-* [addPrintJobListener()](/Java/DocPrintJob/addPrintJobListener)
-* [getAttributes()](/Java/DocPrintJob/getAttributes)
-* [getPrintService()](/Java/DocPrintJob/getPrintService)
-* [print()](/Java/DocPrintJob/print)
-* [removePrintJobAttributeListener()](/Java/DocPrintJob/removePrintJobAttributeListener)
-* [removePrintJobListener()](/Java/DocPrintJob/removePrintJobListener)
+* [addPrintJobAttributeListener()](/Java/DocPrintJob/addPrintJobAttributeListener/)
+* [addPrintJobListener()](/Java/DocPrintJob/addPrintJobListener/)
+* [getAttributes()](/Java/DocPrintJob/getAttributes/)
+* [getPrintService()](/Java/DocPrintJob/getPrintService/)
+* [print()](/Java/DocPrintJob/print/)
+* [removePrintJobAttributeListener()](/Java/DocPrintJob/removePrintJobAttributeListener/)
+* [removePrintJobListener()](/Java/DocPrintJob/removePrintJobListener/)
 
 ## Ejemplo
 ~~~java

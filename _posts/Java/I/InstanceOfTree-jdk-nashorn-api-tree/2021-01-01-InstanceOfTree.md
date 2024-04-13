@@ -18,8 +18,8 @@ public interface InstanceOfTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getExpression()](/Java/InstanceOfTree-jdk-nashorn-api-tree/getExpression)
-* [getType()](/Java/InstanceOfTree-jdk-nashorn-api-tree/getType)
+* [getExpression()](/Java/InstanceOfTree-jdk-nashorn-api-tree/getExpression/)
+* [getType()](/Java/InstanceOfTree-jdk-nashorn-api-tree/getType/)
 
 ## Ejemplo
 ~~~java

@@ -21,10 +21,10 @@ public abstract class EnumControl extends Control
 * [EnumControl()](/Java/EnumControl/EnumControl/)
 
 ## Métodos
-* [getValue()](/Java/EnumControl/getValue)
-* [getValues()](/Java/EnumControl/getValues)
-* [setValue()](/Java/EnumControl/setValue)
-* [toString()](/Java/EnumControl/toString)
+* [getValue()](/Java/EnumControl/getValue/)
+* [getValues()](/Java/EnumControl/getValues/)
+* [setValue()](/Java/EnumControl/setValue/)
+* [toString()](/Java/EnumControl/toString/)
 
 ## Ejemplo
 ~~~java

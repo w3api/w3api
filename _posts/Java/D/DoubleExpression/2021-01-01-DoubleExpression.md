@@ -21,8 +21,8 @@ public abstract class DoubleExpression extends NumberExpressionBase implements O
 * [DoubleExpression()](/Java/DoubleExpression/DoubleExpression/)
 
 ## Métodos
-* [asObject()](/Java/DoubleExpression/asObject)
-* [doubleExpression()](/Java/DoubleExpression/doubleExpression)
+* [asObject()](/Java/DoubleExpression/asObject/)
+* [doubleExpression()](/Java/DoubleExpression/doubleExpression/)
 
 ## Ejemplo
 ~~~java

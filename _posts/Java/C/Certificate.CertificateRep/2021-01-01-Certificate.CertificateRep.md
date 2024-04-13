@@ -21,7 +21,7 @@ protected static class Certificate.CertificateRep extends Object implements Seri
 * [Certificate.CertificateRep()](/Java/Certificate/CertificateRep/Certificate/CertificateRep/)
 
 ## Métodos
-* [readResolve()](/Java/Certificate/CertificateRep/readResolve)
+* [readResolve()](/Java/Certificate/CertificateRep/readResolve/)
 
 ## Ejemplo
 ~~~java

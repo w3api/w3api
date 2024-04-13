@@ -18,7 +18,7 @@ public interface ContentHandlerFactory
 ~~~
 
 ## Métodos
-* [createContentHandler()](/Java/ContentHandlerFactory/createContentHandler)
+* [createContentHandler()](/Java/ContentHandlerFactory/createContentHandler/)
 
 ## Ejemplo
 ~~~java

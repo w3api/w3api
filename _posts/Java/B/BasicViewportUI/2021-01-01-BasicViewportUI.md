@@ -21,9 +21,9 @@ public class BasicViewportUI extends ViewportUI
 * [BasicViewportUI()](/Java/BasicViewportUI/BasicViewportUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicViewportUI/createUI)
-* [installDefaults()](/Java/BasicViewportUI/installDefaults)
-* [uninstallDefaults()](/Java/BasicViewportUI/uninstallDefaults)
+* [createUI()](/Java/BasicViewportUI/createUI/)
+* [installDefaults()](/Java/BasicViewportUI/installDefaults/)
+* [uninstallDefaults()](/Java/BasicViewportUI/uninstallDefaults/)
 
 ## Ejemplo
 ~~~java

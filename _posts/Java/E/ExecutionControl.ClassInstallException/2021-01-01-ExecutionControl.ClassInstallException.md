@@ -21,7 +21,7 @@ public static class ExecutionControl.ClassInstallException extends ExecutionCont
 * [ExecutionControl.ClassInstallException()](/Java/ExecutionControl/ClassInstallException/ExecutionControl/ClassInstallException/)
 
 ## Métodos
-* [installed()](/Java/ExecutionControl/ClassInstallException/installed)
+* [installed()](/Java/ExecutionControl/ClassInstallException/installed/)
 
 ## Ejemplo
 ~~~java

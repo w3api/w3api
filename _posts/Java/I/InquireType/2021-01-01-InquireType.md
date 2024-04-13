@@ -18,16 +18,16 @@ public enum InquireType extends Enum<InquireType>
 ~~~
 
 ## Enumerados
-* [KRB5_GET_AUTHTIME](/Java/InquireType/KRB5_GET_AUTHTIME)
-* [KRB5_GET_AUTHZ_DATA](/Java/InquireType/KRB5_GET_AUTHZ_DATA)
-* [KRB5_GET_KRB_CRED](/Java/InquireType/KRB5_GET_KRB_CRED)
-* [KRB5_GET_SESSION_KEY](/Java/InquireType/KRB5_GET_SESSION_KEY)
-* [KRB5_GET_SESSION_KEY_EX](/Java/InquireType/KRB5_GET_SESSION_KEY_EX)
-* [KRB5_GET_TKT_FLAGS](/Java/InquireType/KRB5_GET_TKT_FLAGS)
+* [KRB5_GET_AUTHTIME](/Java/InquireType/KRB5_GET_AUTHTIME/)
+* [KRB5_GET_AUTHZ_DATA](/Java/InquireType/KRB5_GET_AUTHZ_DATA/)
+* [KRB5_GET_KRB_CRED](/Java/InquireType/KRB5_GET_KRB_CRED/)
+* [KRB5_GET_SESSION_KEY](/Java/InquireType/KRB5_GET_SESSION_KEY/)
+* [KRB5_GET_SESSION_KEY_EX](/Java/InquireType/KRB5_GET_SESSION_KEY_EX/)
+* [KRB5_GET_TKT_FLAGS](/Java/InquireType/KRB5_GET_TKT_FLAGS/)
 
 ## Métodos
-* [valueOf()](/Java/InquireType/valueOf)
-* [values()](/Java/InquireType/values)
+* [valueOf()](/Java/InquireType/valueOf/)
+* [values()](/Java/InquireType/values/)
 
 ## Ejemplo
 ~~~java

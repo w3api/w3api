@@ -18,17 +18,17 @@ public interface DocletEnvironment
 ~~~
 
 ## Métodos
-* [getDocTrees()](/Java/DocletEnvironment/getDocTrees)
-* [getElementUtils()](/Java/DocletEnvironment/getElementUtils)
-* [getFileKind()](/Java/DocletEnvironment/getFileKind)
-* [getIncludedElements()](/Java/DocletEnvironment/getIncludedElements)
-* [getJavaFileManager()](/Java/DocletEnvironment/getJavaFileManager)
-* [getModuleMode()](/Java/DocletEnvironment/getModuleMode)
-* [getSourceVersion()](/Java/DocletEnvironment/getSourceVersion)
-* [getSpecifiedElements()](/Java/DocletEnvironment/getSpecifiedElements)
-* [getTypeUtils()](/Java/DocletEnvironment/getTypeUtils)
-* [isIncluded()](/Java/DocletEnvironment/isIncluded)
-* [isSelected()](/Java/DocletEnvironment/isSelected)
+* [getDocTrees()](/Java/DocletEnvironment/getDocTrees/)
+* [getElementUtils()](/Java/DocletEnvironment/getElementUtils/)
+* [getFileKind()](/Java/DocletEnvironment/getFileKind/)
+* [getIncludedElements()](/Java/DocletEnvironment/getIncludedElements/)
+* [getJavaFileManager()](/Java/DocletEnvironment/getJavaFileManager/)
+* [getModuleMode()](/Java/DocletEnvironment/getModuleMode/)
+* [getSourceVersion()](/Java/DocletEnvironment/getSourceVersion/)
+* [getSpecifiedElements()](/Java/DocletEnvironment/getSpecifiedElements/)
+* [getTypeUtils()](/Java/DocletEnvironment/getTypeUtils/)
+* [isIncluded()](/Java/DocletEnvironment/isIncluded/)
+* [isSelected()](/Java/DocletEnvironment/isSelected/)
 
 ## Ejemplo
 ~~~java

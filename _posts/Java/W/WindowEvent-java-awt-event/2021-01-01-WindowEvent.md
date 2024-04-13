@@ -21,25 +21,25 @@ public class WindowEvent extends ComponentEvent
 * [WindowEvent()](/Java/WindowEvent-java-awt-event/WindowEvent/)
 
 ## Campos
-* [WINDOW_ACTIVATED](/Java/WindowEvent-java-awt-event/WINDOW_ACTIVATED)
-* [WINDOW_CLOSED](/Java/WindowEvent-java-awt-event/WINDOW_CLOSED)
-* [WINDOW_CLOSING](/Java/WindowEvent-java-awt-event/WINDOW_CLOSING)
-* [WINDOW_DEACTIVATED](/Java/WindowEvent-java-awt-event/WINDOW_DEACTIVATED)
-* [WINDOW_DEICONIFIED](/Java/WindowEvent-java-awt-event/WINDOW_DEICONIFIED)
-* [WINDOW_FIRST](/Java/WindowEvent-java-awt-event/WINDOW_FIRST)
-* [WINDOW_GAINED_FOCUS](/Java/WindowEvent-java-awt-event/WINDOW_GAINED_FOCUS)
-* [WINDOW_ICONIFIED](/Java/WindowEvent-java-awt-event/WINDOW_ICONIFIED)
-* [WINDOW_LAST](/Java/WindowEvent-java-awt-event/WINDOW_LAST)
-* [WINDOW_LOST_FOCUS](/Java/WindowEvent-java-awt-event/WINDOW_LOST_FOCUS)
-* [WINDOW_OPENED](/Java/WindowEvent-java-awt-event/WINDOW_OPENED)
-* [WINDOW_STATE_CHANGED](/Java/WindowEvent-java-awt-event/WINDOW_STATE_CHANGED)
+* [WINDOW_ACTIVATED](/Java/WindowEvent-java-awt-event/WINDOW_ACTIVATED/)
+* [WINDOW_CLOSED](/Java/WindowEvent-java-awt-event/WINDOW_CLOSED/)
+* [WINDOW_CLOSING](/Java/WindowEvent-java-awt-event/WINDOW_CLOSING/)
+* [WINDOW_DEACTIVATED](/Java/WindowEvent-java-awt-event/WINDOW_DEACTIVATED/)
+* [WINDOW_DEICONIFIED](/Java/WindowEvent-java-awt-event/WINDOW_DEICONIFIED/)
+* [WINDOW_FIRST](/Java/WindowEvent-java-awt-event/WINDOW_FIRST/)
+* [WINDOW_GAINED_FOCUS](/Java/WindowEvent-java-awt-event/WINDOW_GAINED_FOCUS/)
+* [WINDOW_ICONIFIED](/Java/WindowEvent-java-awt-event/WINDOW_ICONIFIED/)
+* [WINDOW_LAST](/Java/WindowEvent-java-awt-event/WINDOW_LAST/)
+* [WINDOW_LOST_FOCUS](/Java/WindowEvent-java-awt-event/WINDOW_LOST_FOCUS/)
+* [WINDOW_OPENED](/Java/WindowEvent-java-awt-event/WINDOW_OPENED/)
+* [WINDOW_STATE_CHANGED](/Java/WindowEvent-java-awt-event/WINDOW_STATE_CHANGED/)
 
 ## Métodos
-* [getNewState()](/Java/WindowEvent-java-awt-event/getNewState)
-* [getOldState()](/Java/WindowEvent-java-awt-event/getOldState)
-* [getOppositeWindow()](/Java/WindowEvent-java-awt-event/getOppositeWindow)
-* [getWindow()](/Java/WindowEvent-java-awt-event/getWindow)
-* [paramString()](/Java/WindowEvent-java-awt-event/paramString)
+* [getNewState()](/Java/WindowEvent-java-awt-event/getNewState/)
+* [getOldState()](/Java/WindowEvent-java-awt-event/getOldState/)
+* [getOppositeWindow()](/Java/WindowEvent-java-awt-event/getOppositeWindow/)
+* [getWindow()](/Java/WindowEvent-java-awt-event/getWindow/)
+* [paramString()](/Java/WindowEvent-java-awt-event/paramString/)
 
 ## Ejemplo
 ~~~java

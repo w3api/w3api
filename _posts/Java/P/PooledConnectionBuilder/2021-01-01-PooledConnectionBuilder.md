@@ -18,11 +18,11 @@ public interface PooledConnectionBuilder
 ~~~
 
 ## Métodos
-* [build()](/Java/PooledConnectionBuilder/build)
-* [password()](/Java/PooledConnectionBuilder/password)
-* [shardingKey()](/Java/PooledConnectionBuilder/shardingKey)
-* [superShardingKey()](/Java/PooledConnectionBuilder/superShardingKey)
-* [user()](/Java/PooledConnectionBuilder/user)
+* [build()](/Java/PooledConnectionBuilder/build/)
+* [password()](/Java/PooledConnectionBuilder/password/)
+* [shardingKey()](/Java/PooledConnectionBuilder/shardingKey/)
+* [superShardingKey()](/Java/PooledConnectionBuilder/superShardingKey/)
+* [user()](/Java/PooledConnectionBuilder/user/)
 
 ## Ejemplo
 ~~~java

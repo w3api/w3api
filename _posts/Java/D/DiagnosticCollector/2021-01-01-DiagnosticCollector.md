@@ -21,7 +21,7 @@ public final class DiagnosticCollector<S> extends Object implements DiagnosticLi
 * [DiagnosticCollector()](/Java/DiagnosticCollector/DiagnosticCollector/)
 
 ## Métodos
-* [getDiagnostics()](/Java/DiagnosticCollector/getDiagnostics)
+* [getDiagnostics()](/Java/DiagnosticCollector/getDiagnostics/)
 
 ## Ejemplo
 ~~~java

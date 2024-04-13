@@ -18,9 +18,9 @@ public final class PosixFilePermissions extends Object
 ~~~
 
 ## Métodos
-* [asFileAttribute()](/Java/PosixFilePermissions/asFileAttribute)
-* [fromString()](/Java/PosixFilePermissions/fromString)
-* [toString()](/Java/PosixFilePermissions/toString)
+* [asFileAttribute()](/Java/PosixFilePermissions/asFileAttribute/)
+* [fromString()](/Java/PosixFilePermissions/fromString/)
+* [toString()](/Java/PosixFilePermissions/toString/)
 
 ## Ejemplo
 ~~~java

@@ -18,15 +18,15 @@ public interface DynUnionOperations extends DynAnyOperations
 ~~~
 
 ## Métodos
-* [discriminator_kind()](/Java/DynUnionOperations/discriminator_kind)
-* [get_discriminator()](/Java/DynUnionOperations/get_discriminator)
-* [has_no_active_member()](/Java/DynUnionOperations/has_no_active_member)
-* [member()](/Java/DynUnionOperations/member)
-* [member_kind()](/Java/DynUnionOperations/member_kind)
-* [member_name()](/Java/DynUnionOperations/member_name)
-* [set_discriminator()](/Java/DynUnionOperations/set_discriminator)
-* [set_to_default_member()](/Java/DynUnionOperations/set_to_default_member)
-* [set_to_no_active_member()](/Java/DynUnionOperations/set_to_no_active_member)
+* [discriminator_kind()](/Java/DynUnionOperations/discriminator_kind/)
+* [get_discriminator()](/Java/DynUnionOperations/get_discriminator/)
+* [has_no_active_member()](/Java/DynUnionOperations/has_no_active_member/)
+* [member()](/Java/DynUnionOperations/member/)
+* [member_kind()](/Java/DynUnionOperations/member_kind/)
+* [member_name()](/Java/DynUnionOperations/member_name/)
+* [set_discriminator()](/Java/DynUnionOperations/set_discriminator/)
+* [set_to_default_member()](/Java/DynUnionOperations/set_to_default_member/)
+* [set_to_no_active_member()](/Java/DynUnionOperations/set_to_no_active_member/)
 
 ## Ejemplo
 ~~~java

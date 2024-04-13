@@ -18,8 +18,8 @@ public interface ProvidesTree extends DirectiveTree
 ~~~
 
 ## Métodos
-* [getImplementationNames()](/Java/ProvidesTree-com-sun-source-tree/getImplementationNames)
-* [getServiceName()](/Java/ProvidesTree-com-sun-source-tree/getServiceName)
+* [getImplementationNames()](/Java/ProvidesTree-com-sun-source-tree/getImplementationNames/)
+* [getServiceName()](/Java/ProvidesTree-com-sun-source-tree/getServiceName/)
 
 ## Ejemplo
 ~~~java

@@ -18,9 +18,9 @@ public interface PolicyOperations
 ~~~
 
 ## Métodos
-* [copy()](/Java/PolicyOperations/copy)
-* [destroy()](/Java/PolicyOperations/destroy)
-* [policy_type()](/Java/PolicyOperations/policy_type)
+* [copy()](/Java/PolicyOperations/copy/)
+* [destroy()](/Java/PolicyOperations/destroy/)
+* [policy_type()](/Java/PolicyOperations/policy_type/)
 
 ## Ejemplo
 ~~~java

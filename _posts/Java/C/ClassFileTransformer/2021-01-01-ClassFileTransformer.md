@@ -18,7 +18,7 @@ public interface ClassFileTransformer
 ~~~
 
 ## Métodos
-* [transform()](/Java/ClassFileTransformer/transform)
+* [transform()](/Java/ClassFileTransformer/transform/)
 
 ## Ejemplo
 ~~~java

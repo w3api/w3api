@@ -18,9 +18,9 @@ public interface ErrorHandler
 ~~~
 
 ## Métodos
-* [error()](/Java/ErrorHandler/error)
-* [fatalError()](/Java/ErrorHandler/fatalError)
-* [warning()](/Java/ErrorHandler/warning)
+* [error()](/Java/ErrorHandler/error/)
+* [fatalError()](/Java/ErrorHandler/fatalError/)
+* [warning()](/Java/ErrorHandler/warning/)
 
 ## Ejemplo
 ~~~java

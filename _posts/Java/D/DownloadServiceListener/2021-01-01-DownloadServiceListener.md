@@ -18,10 +18,10 @@ public interface DownloadServiceListener
 ~~~
 
 ## Métodos
-* [downloadFailed()](/Java/DownloadServiceListener/downloadFailed)
-* [progress()](/Java/DownloadServiceListener/progress)
-* [upgradingArchive()](/Java/DownloadServiceListener/upgradingArchive)
-* [validating()](/Java/DownloadServiceListener/validating)
+* [downloadFailed()](/Java/DownloadServiceListener/downloadFailed/)
+* [progress()](/Java/DownloadServiceListener/progress/)
+* [upgradingArchive()](/Java/DownloadServiceListener/upgradingArchive/)
+* [validating()](/Java/DownloadServiceListener/validating/)
 
 ## Ejemplo
 ~~~java

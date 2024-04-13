@@ -18,7 +18,7 @@ public interface EntityTree extends DocTree
 ~~~
 
 ## Métodos
-* [getName()](/Java/EntityTree/getName)
+* [getName()](/Java/EntityTree/getName/)
 
 ## Ejemplo
 ~~~java

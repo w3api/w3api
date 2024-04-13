@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [makeParser()](/Java/ParserFactory/makeParser)
+* [makeParser()](/Java/ParserFactory/makeParser/)
 
 ## Ejemplo
 ~~~java

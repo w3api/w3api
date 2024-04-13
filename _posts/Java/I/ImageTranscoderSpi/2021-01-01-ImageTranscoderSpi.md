@@ -21,9 +21,9 @@ public abstract class ImageTranscoderSpi extends IIOServiceProvider
 * [ImageTranscoderSpi()](/Java/ImageTranscoderSpi/ImageTranscoderSpi/)
 
 ## Métodos
-* [createTranscoderInstance()](/Java/ImageTranscoderSpi/createTranscoderInstance)
-* [getReaderServiceProviderName()](/Java/ImageTranscoderSpi/getReaderServiceProviderName)
-* [getWriterServiceProviderName()](/Java/ImageTranscoderSpi/getWriterServiceProviderName)
+* [createTranscoderInstance()](/Java/ImageTranscoderSpi/createTranscoderInstance/)
+* [getReaderServiceProviderName()](/Java/ImageTranscoderSpi/getReaderServiceProviderName/)
+* [getWriterServiceProviderName()](/Java/ImageTranscoderSpi/getWriterServiceProviderName/)
 
 ## Ejemplo
 ~~~java

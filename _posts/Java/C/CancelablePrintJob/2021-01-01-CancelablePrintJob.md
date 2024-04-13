@@ -18,7 +18,7 @@ public interface CancelablePrintJob extends DocPrintJob
 ~~~
 
 ## Métodos
-* [cancel()](/Java/CancelablePrintJob/cancel)
+* [cancel()](/Java/CancelablePrintJob/cancel/)
 
 ## Ejemplo
 ~~~java

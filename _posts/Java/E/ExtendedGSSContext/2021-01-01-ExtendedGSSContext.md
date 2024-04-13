@@ -18,9 +18,9 @@ public interface ExtendedGSSContext extends GSSContext
 ~~~
 
 ## Métodos
-* [getDelegPolicyState()](/Java/ExtendedGSSContext/getDelegPolicyState)
-* [inquireSecContext()](/Java/ExtendedGSSContext/inquireSecContext)
-* [requestDelegPolicy()](/Java/ExtendedGSSContext/requestDelegPolicy)
+* [getDelegPolicyState()](/Java/ExtendedGSSContext/getDelegPolicyState/)
+* [inquireSecContext()](/Java/ExtendedGSSContext/inquireSecContext/)
+* [requestDelegPolicy()](/Java/ExtendedGSSContext/requestDelegPolicy/)
 
 ## Ejemplo
 ~~~java

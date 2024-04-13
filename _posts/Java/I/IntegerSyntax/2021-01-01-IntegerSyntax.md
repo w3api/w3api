@@ -21,10 +21,10 @@ public abstract class IntegerSyntax extends Object implements Serializable, Clon
 * [IntegerSyntax()](/Java/IntegerSyntax/IntegerSyntax/)
 
 ## Métodos
-* [equals()](/Java/IntegerSyntax/equals)
-* [getValue()](/Java/IntegerSyntax/getValue)
-* [hashCode()](/Java/IntegerSyntax/hashCode)
-* [toString()](/Java/IntegerSyntax/toString)
+* [equals()](/Java/IntegerSyntax/equals/)
+* [getValue()](/Java/IntegerSyntax/getValue/)
+* [hashCode()](/Java/IntegerSyntax/hashCode/)
+* [toString()](/Java/IntegerSyntax/toString/)
 
 ## Ejemplo
 ~~~java

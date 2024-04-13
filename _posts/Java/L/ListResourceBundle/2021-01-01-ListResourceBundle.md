@@ -21,9 +21,9 @@ public abstract class ListResourceBundle extends ResourceBundle
 * [ListResourceBundle()](/Java/ListResourceBundle/ListResourceBundle/)
 
 ## Métodos
-* [getContents()](/Java/ListResourceBundle/getContents)
-* [getKeys()](/Java/ListResourceBundle/getKeys)
-* [handleKeySet()](/Java/ListResourceBundle/handleKeySet)
+* [getContents()](/Java/ListResourceBundle/getContents/)
+* [getKeys()](/Java/ListResourceBundle/getKeys/)
+* [handleKeySet()](/Java/ListResourceBundle/handleKeySet/)
 
 ## Ejemplo
 ~~~java

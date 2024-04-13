@@ -21,9 +21,9 @@ public class BasicButtonListener extends Object implements MouseListener, MouseM
 * [BasicButtonListener()](/Java/BasicButtonListener/BasicButtonListener/)
 
 ## Métodos
-* [checkOpacity()](/Java/BasicButtonListener/checkOpacity)
-* [installKeyboardActions()](/Java/BasicButtonListener/installKeyboardActions)
-* [uninstallKeyboardActions()](/Java/BasicButtonListener/uninstallKeyboardActions)
+* [checkOpacity()](/Java/BasicButtonListener/checkOpacity/)
+* [installKeyboardActions()](/Java/BasicButtonListener/installKeyboardActions/)
+* [uninstallKeyboardActions()](/Java/BasicButtonListener/uninstallKeyboardActions/)
 
 ## Ejemplo
 ~~~java

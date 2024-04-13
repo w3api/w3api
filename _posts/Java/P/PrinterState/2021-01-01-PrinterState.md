@@ -21,16 +21,16 @@ public final class PrinterState extends EnumSyntax implements PrintServiceAttrib
 * [PrinterState()](/Java/PrinterState/PrinterState/)
 
 ## Campos
-* [IDLE](/Java/PrinterState/IDLE)
-* [PROCESSING](/Java/PrinterState/PROCESSING)
-* [STOPPED](/Java/PrinterState/STOPPED)
-* [UNKNOWN](/Java/PrinterState/UNKNOWN)
+* [IDLE](/Java/PrinterState/IDLE/)
+* [PROCESSING](/Java/PrinterState/PROCESSING/)
+* [STOPPED](/Java/PrinterState/STOPPED/)
+* [UNKNOWN](/Java/PrinterState/UNKNOWN/)
 
 ## Métodos
-* [getCategory()](/Java/PrinterState/getCategory)
-* [getEnumValueTable()](/Java/PrinterState/getEnumValueTable)
-* [getName()](/Java/PrinterState/getName)
-* [getStringTable()](/Java/PrinterState/getStringTable)
+* [getCategory()](/Java/PrinterState/getCategory/)
+* [getEnumValueTable()](/Java/PrinterState/getEnumValueTable/)
+* [getName()](/Java/PrinterState/getName/)
+* [getStringTable()](/Java/PrinterState/getStringTable/)
 
 ## Ejemplo
 ~~~java

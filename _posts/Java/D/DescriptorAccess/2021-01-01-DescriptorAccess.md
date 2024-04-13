@@ -18,7 +18,7 @@ public interface DescriptorAccess extends DescriptorRead
 ~~~
 
 ## Métodos
-* [setDescriptor()](/Java/DescriptorAccess/setDescriptor)
+* [setDescriptor()](/Java/DescriptorAccess/setDescriptor/)
 
 ## Ejemplo
 ~~~java

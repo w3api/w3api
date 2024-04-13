@@ -18,10 +18,10 @@ public interface ListeningConnector extends Connector
 ~~~
 
 ## Métodos
-* [accept()](/Java/ListeningConnector/accept)
-* [startListening()](/Java/ListeningConnector/startListening)
-* [stopListening()](/Java/ListeningConnector/stopListening)
-* [supportsMultipleConnections()](/Java/ListeningConnector/supportsMultipleConnections)
+* [accept()](/Java/ListeningConnector/accept/)
+* [startListening()](/Java/ListeningConnector/startListening/)
+* [stopListening()](/Java/ListeningConnector/stopListening/)
+* [supportsMultipleConnections()](/Java/ListeningConnector/supportsMultipleConnections/)
 
 ## Ejemplo
 ~~~java

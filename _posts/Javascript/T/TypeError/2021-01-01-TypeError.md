@@ -21,12 +21,12 @@ TypeError
 * [TypeError()](/Javascript/TypeError/TypeError/)
 
 ## Propiedades
-* [message](/Javascript/TypeError/message)
-* [name](/Javascript/TypeError/name)
-* [fileName](/Javascript/TypeError/fileName)
-* [lineNumber](/Javascript/TypeError/lineNumber)
-* [columnNumber](/Javascript/TypeError/columnNumber)
-* [stack](/Javascript/TypeError/stack)
+* [message](/Javascript/TypeError/message/)
+* [name](/Javascript/TypeError/name/)
+* [fileName](/Javascript/TypeError/fileName/)
+* [lineNumber](/Javascript/TypeError/lineNumber/)
+* [columnNumber](/Javascript/TypeError/columnNumber/)
+* [stack](/Javascript/TypeError/stack/)
 
 ## Ejemplo
 ~~~java

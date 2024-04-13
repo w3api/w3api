@@ -18,13 +18,13 @@ public interface DigestMethod extends XMLStructure, AlgorithmMethod
 ~~~
 
 ## Campos
-* [RIPEMD160](/Java/DigestMethod/RIPEMD160)
-* [SHA1](/Java/DigestMethod/SHA1)
-* [SHA256](/Java/DigestMethod/SHA256)
-* [SHA512](/Java/DigestMethod/SHA512)
+* [RIPEMD160](/Java/DigestMethod/RIPEMD160/)
+* [SHA1](/Java/DigestMethod/SHA1/)
+* [SHA256](/Java/DigestMethod/SHA256/)
+* [SHA512](/Java/DigestMethod/SHA512/)
 
 ## Métodos
-* [getParameterSpec()](/Java/DigestMethod/getParameterSpec)
+* [getParameterSpec()](/Java/DigestMethod/getParameterSpec/)
 
 ## Ejemplo
 ~~~java

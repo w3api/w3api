@@ -21,10 +21,10 @@ public final class DataBufferByte extends DataBuffer
 * [DataBufferByte()](/Java/DataBufferByte/DataBufferByte/)
 
 ## Métodos
-* [getBankData()](/Java/DataBufferByte/getBankData)
-* [getData()](/Java/DataBufferByte/getData)
-* [getElem()](/Java/DataBufferByte/getElem)
-* [setElem()](/Java/DataBufferByte/setElem)
+* [getBankData()](/Java/DataBufferByte/getBankData/)
+* [getData()](/Java/DataBufferByte/getData/)
+* [getElem()](/Java/DataBufferByte/getElem/)
+* [setElem()](/Java/DataBufferByte/setElem/)
 
 ## Ejemplo
 ~~~java

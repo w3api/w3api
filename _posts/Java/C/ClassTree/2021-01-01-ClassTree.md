@@ -18,12 +18,12 @@ public interface ClassTree extends StatementTree
 ~~~
 
 ## Métodos
-* [getExtendsClause()](/Java/ClassTree/getExtendsClause)
-* [getImplementsClause()](/Java/ClassTree/getImplementsClause)
-* [getMembers()](/Java/ClassTree/getMembers)
-* [getModifiers()](/Java/ClassTree/getModifiers)
-* [getSimpleName()](/Java/ClassTree/getSimpleName)
-* [getTypeParameters()](/Java/ClassTree/getTypeParameters)
+* [getExtendsClause()](/Java/ClassTree/getExtendsClause/)
+* [getImplementsClause()](/Java/ClassTree/getImplementsClause/)
+* [getMembers()](/Java/ClassTree/getMembers/)
+* [getModifiers()](/Java/ClassTree/getModifiers/)
+* [getSimpleName()](/Java/ClassTree/getSimpleName/)
+* [getTypeParameters()](/Java/ClassTree/getTypeParameters/)
 
 ## Ejemplo
 ~~~java

@@ -18,9 +18,9 @@ public static final class DrbgParameters.NextBytes extends Object implements Sec
 ~~~
 
 ## Métodos
-* [getAdditionalInput()](/Java/DrbgParameters/NextBytes/getAdditionalInput)
-* [getPredictionResistance()](/Java/DrbgParameters/NextBytes/getPredictionResistance)
-* [getStrength()](/Java/DrbgParameters/NextBytes/getStrength)
+* [getAdditionalInput()](/Java/DrbgParameters/NextBytes/getAdditionalInput/)
+* [getPredictionResistance()](/Java/DrbgParameters/NextBytes/getPredictionResistance/)
+* [getStrength()](/Java/DrbgParameters/NextBytes/getStrength/)
 
 ## Ejemplo
 ~~~java

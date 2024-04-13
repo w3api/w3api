@@ -18,7 +18,7 @@ public final class PaintConverter extends StyleConverter<ParsedValue<?,Paint>,Pa
 ~~~
 
 ## Métodos
-* [getInstance()](/Java/PaintConverter/getInstance)
+* [getInstance()](/Java/PaintConverter/getInstance/)
 
 ## Ejemplo
 ~~~java

@@ -18,8 +18,8 @@ public interface WhileLoopTree extends StatementTree
 ~~~
 
 ## Métodos
-* [getCondition()](/Java/WhileLoopTree-com-sun-source-tree/getCondition)
-* [getStatement()](/Java/WhileLoopTree-com-sun-source-tree/getStatement)
+* [getCondition()](/Java/WhileLoopTree-com-sun-source-tree/getCondition/)
+* [getStatement()](/Java/WhileLoopTree-com-sun-source-tree/getStatement/)
 
 ## Ejemplo
 ~~~java

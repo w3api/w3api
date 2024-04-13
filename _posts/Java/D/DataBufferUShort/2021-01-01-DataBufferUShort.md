@@ -21,10 +21,10 @@ public final class DataBufferUShort extends DataBuffer
 * [DataBufferUShort()](/Java/DataBufferUShort/DataBufferUShort/)
 
 ## Métodos
-* [getBankData()](/Java/DataBufferUShort/getBankData)
-* [getData()](/Java/DataBufferUShort/getData)
-* [getElem()](/Java/DataBufferUShort/getElem)
-* [setElem()](/Java/DataBufferUShort/setElem)
+* [getBankData()](/Java/DataBufferUShort/getBankData/)
+* [getData()](/Java/DataBufferUShort/getData/)
+* [getElem()](/Java/DataBufferUShort/getElem/)
+* [setElem()](/Java/DataBufferUShort/setElem/)
 
 ## Ejemplo
 ~~~java

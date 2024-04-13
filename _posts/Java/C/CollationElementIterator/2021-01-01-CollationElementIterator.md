@@ -18,19 +18,19 @@ public final class CollationElementIterator extends Object
 ~~~
 
 ## Campos
-* [NULLORDER](/Java/CollationElementIterator/NULLORDER)
+* [NULLORDER](/Java/CollationElementIterator/NULLORDER/)
 
 ## Métodos
-* [getMaxExpansion()](/Java/CollationElementIterator/getMaxExpansion)
-* [getOffset()](/Java/CollationElementIterator/getOffset)
-* [next()](/Java/CollationElementIterator/next)
-* [previous()](/Java/CollationElementIterator/previous)
-* [primaryOrder()](/Java/CollationElementIterator/primaryOrder)
-* [reset()](/Java/CollationElementIterator/reset)
-* [secondaryOrder()](/Java/CollationElementIterator/secondaryOrder)
-* [setOffset()](/Java/CollationElementIterator/setOffset)
-* [setText()](/Java/CollationElementIterator/setText)
-* [tertiaryOrder()](/Java/CollationElementIterator/tertiaryOrder)
+* [getMaxExpansion()](/Java/CollationElementIterator/getMaxExpansion/)
+* [getOffset()](/Java/CollationElementIterator/getOffset/)
+* [next()](/Java/CollationElementIterator/next/)
+* [previous()](/Java/CollationElementIterator/previous/)
+* [primaryOrder()](/Java/CollationElementIterator/primaryOrder/)
+* [reset()](/Java/CollationElementIterator/reset/)
+* [secondaryOrder()](/Java/CollationElementIterator/secondaryOrder/)
+* [setOffset()](/Java/CollationElementIterator/setOffset/)
+* [setText()](/Java/CollationElementIterator/setText/)
+* [tertiaryOrder()](/Java/CollationElementIterator/tertiaryOrder/)
 
 ## Ejemplo
 ~~~java

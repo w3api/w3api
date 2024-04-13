@@ -21,14 +21,14 @@ public class BindingType extends Object implements IDLEntity
 * [BindingType()](/Java/BindingType-org-omg-CosNaming/BindingType/)
 
 ## Campos
-* [_ncontext](/Java/BindingType-org-omg-CosNaming/_ncontext)
-* [_nobject](/Java/BindingType-org-omg-CosNaming/_nobject)
-* [ncontext](/Java/BindingType-org-omg-CosNaming/ncontext)
-* [nobject](/Java/BindingType-org-omg-CosNaming/nobject)
+* [_ncontext](/Java/BindingType-org-omg-CosNaming/_ncontext/)
+* [_nobject](/Java/BindingType-org-omg-CosNaming/_nobject/)
+* [ncontext](/Java/BindingType-org-omg-CosNaming/ncontext/)
+* [nobject](/Java/BindingType-org-omg-CosNaming/nobject/)
 
 ## Métodos
-* [from_int()](/Java/BindingType-org-omg-CosNaming/from_int)
-* [value()](/Java/BindingType-org-omg-CosNaming/value)
+* [from_int()](/Java/BindingType-org-omg-CosNaming/from_int/)
+* [value()](/Java/BindingType-org-omg-CosNaming/value/)
 
 ## Ejemplo
 ~~~java

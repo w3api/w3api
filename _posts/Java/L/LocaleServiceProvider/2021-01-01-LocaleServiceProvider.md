@@ -21,8 +21,8 @@ public abstract class LocaleServiceProvider extends Object
 * [LocaleServiceProvider()](/Java/LocaleServiceProvider/LocaleServiceProvider/)
 
 ## Métodos
-* [getAvailableLocales()](/Java/LocaleServiceProvider/getAvailableLocales)
-* [isSupportedLocale()](/Java/LocaleServiceProvider/isSupportedLocale)
+* [getAvailableLocales()](/Java/LocaleServiceProvider/getAvailableLocales/)
+* [isSupportedLocale()](/Java/LocaleServiceProvider/isSupportedLocale/)
 
 ## Ejemplo
 ~~~java

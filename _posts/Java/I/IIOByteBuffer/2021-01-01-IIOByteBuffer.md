@@ -21,12 +21,12 @@ public class IIOByteBuffer extends Object
 * [IIOByteBuffer()](/Java/IIOByteBuffer/IIOByteBuffer/)
 
 ## Métodos
-* [getData()](/Java/IIOByteBuffer/getData)
-* [getLength()](/Java/IIOByteBuffer/getLength)
-* [getOffset()](/Java/IIOByteBuffer/getOffset)
-* [setData()](/Java/IIOByteBuffer/setData)
-* [setLength()](/Java/IIOByteBuffer/setLength)
-* [setOffset()](/Java/IIOByteBuffer/setOffset)
+* [getData()](/Java/IIOByteBuffer/getData/)
+* [getLength()](/Java/IIOByteBuffer/getLength/)
+* [getOffset()](/Java/IIOByteBuffer/getOffset/)
+* [setData()](/Java/IIOByteBuffer/setData/)
+* [setLength()](/Java/IIOByteBuffer/setLength/)
+* [setOffset()](/Java/IIOByteBuffer/setOffset/)
 
 ## Ejemplo
 ~~~java

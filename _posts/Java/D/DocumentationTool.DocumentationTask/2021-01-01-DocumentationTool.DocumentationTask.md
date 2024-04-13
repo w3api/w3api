@@ -18,9 +18,9 @@ public static interface DocumentationTool.DocumentationTask extends Callable<Boo
 ~~~
 
 ## Métodos
-* [addModules()](/Java/DocumentationTool/DocumentationTask/addModules)
-* [call()](/Java/DocumentationTool/DocumentationTask/call)
-* [setLocale()](/Java/DocumentationTool/DocumentationTask/setLocale)
+* [addModules()](/Java/DocumentationTool/DocumentationTask/addModules/)
+* [call()](/Java/DocumentationTool/DocumentationTask/call/)
+* [setLocale()](/Java/DocumentationTool/DocumentationTask/setLocale/)
 
 ## Ejemplo
 ~~~java

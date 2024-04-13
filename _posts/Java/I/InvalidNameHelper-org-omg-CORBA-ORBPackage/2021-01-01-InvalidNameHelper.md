@@ -21,12 +21,12 @@ public abstract class InvalidNameHelper extends Object
 * [InvalidNameHelper()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/InvalidNameHelper/)
 
 ## Métodos
-* [extract()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/extract)
-* [id()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/id)
-* [insert()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/insert)
-* [read()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/read)
-* [type()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/type)
-* [write()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/write)
+* [extract()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/extract/)
+* [id()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/id/)
+* [insert()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/insert/)
+* [read()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/read/)
+* [type()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/type/)
+* [write()](/Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/write/)
 
 ## Ejemplo
 ~~~java

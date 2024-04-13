@@ -21,8 +21,8 @@ public final class CannotProceed extends UserException
 * [CannotProceed()](/Java/CannotProceed/CannotProceed/)
 
 ## Campos
-* [cxt](/Java/CannotProceed/cxt)
-* [rest_of_name](/Java/CannotProceed/rest_of_name)
+* [cxt](/Java/CannotProceed/cxt/)
+* [rest_of_name](/Java/CannotProceed/rest_of_name/)
 
 ## Ejemplo
 ~~~java

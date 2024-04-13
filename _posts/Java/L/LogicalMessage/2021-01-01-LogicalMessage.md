@@ -18,8 +18,8 @@ public interface LogicalMessage
 ~~~
 
 ## Métodos
-* [getPayload()](/Java/LogicalMessage/getPayload)
-* [setPayload()](/Java/LogicalMessage/setPayload)
+* [getPayload()](/Java/LogicalMessage/getPayload/)
+* [setPayload()](/Java/LogicalMessage/setPayload/)
 
 ## Ejemplo
 ~~~java

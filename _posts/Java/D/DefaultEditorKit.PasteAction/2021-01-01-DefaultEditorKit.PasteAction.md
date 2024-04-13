@@ -21,7 +21,7 @@ public static class DefaultEditorKit.PasteAction extends TextAction
 * [DefaultEditorKit.PasteAction()](/Java/DefaultEditorKit/PasteAction/DefaultEditorKit/PasteAction/)
 
 ## Métodos
-* [actionPerformed()](/Java/DefaultEditorKit/PasteAction/actionPerformed)
+* [actionPerformed()](/Java/DefaultEditorKit/PasteAction/actionPerformed/)
 
 ## Ejemplo
 ~~~java

@@ -21,17 +21,17 @@ public class LongAdder extends Number implements Serializable
 * [LongAdder()](/Java/LongAdder/LongAdder/)
 
 ## Métodos
-* [add()](/Java/LongAdder/add)
-* [decrement()](/Java/LongAdder/decrement)
-* [doubleValue()](/Java/LongAdder/doubleValue)
-* [floatValue()](/Java/LongAdder/floatValue)
-* [increment()](/Java/LongAdder/increment)
-* [intValue()](/Java/LongAdder/intValue)
-* [longValue()](/Java/LongAdder/longValue)
-* [reset()](/Java/LongAdder/reset)
-* [sum()](/Java/LongAdder/sum)
-* [sumThenReset()](/Java/LongAdder/sumThenReset)
-* [toString()](/Java/LongAdder/toString)
+* [add()](/Java/LongAdder/add/)
+* [decrement()](/Java/LongAdder/decrement/)
+* [doubleValue()](/Java/LongAdder/doubleValue/)
+* [floatValue()](/Java/LongAdder/floatValue/)
+* [increment()](/Java/LongAdder/increment/)
+* [intValue()](/Java/LongAdder/intValue/)
+* [longValue()](/Java/LongAdder/longValue/)
+* [reset()](/Java/LongAdder/reset/)
+* [sum()](/Java/LongAdder/sum/)
+* [sumThenReset()](/Java/LongAdder/sumThenReset/)
+* [toString()](/Java/LongAdder/toString/)
 
 ## Ejemplo
 ~~~java

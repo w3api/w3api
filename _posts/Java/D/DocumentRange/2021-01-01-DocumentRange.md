@@ -18,7 +18,7 @@ public interface DocumentRange
 ~~~
 
 ## Métodos
-* [createRange()](/Java/DocumentRange/createRange)
+* [createRange()](/Java/DocumentRange/createRange/)
 
 ## Ejemplo
 ~~~java

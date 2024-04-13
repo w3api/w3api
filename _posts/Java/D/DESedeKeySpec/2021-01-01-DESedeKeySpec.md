@@ -21,11 +21,11 @@ public class DESedeKeySpec extends Object implements KeySpec
 * [DESedeKeySpec()](/Java/DESedeKeySpec/DESedeKeySpec/)
 
 ## Campos
-* [DES_EDE_KEY_LEN](/Java/DESedeKeySpec/DES_EDE_KEY_LEN)
+* [DES_EDE_KEY_LEN](/Java/DESedeKeySpec/DES_EDE_KEY_LEN/)
 
 ## Métodos
-* [getKey()](/Java/DESedeKeySpec/getKey)
-* [isParityAdjusted()](/Java/DESedeKeySpec/isParityAdjusted)
+* [getKey()](/Java/DESedeKeySpec/getKey/)
+* [isParityAdjusted()](/Java/DESedeKeySpec/isParityAdjusted/)
 
 ## Ejemplo
 ~~~java

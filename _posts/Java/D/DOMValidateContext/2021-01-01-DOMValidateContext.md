@@ -21,8 +21,8 @@ public class DOMValidateContext extends DOMCryptoContext implements XMLValidateC
 * [DOMValidateContext()](/Java/DOMValidateContext/DOMValidateContext/)
 
 ## Métodos
-* [getNode()](/Java/DOMValidateContext/getNode)
-* [setNode()](/Java/DOMValidateContext/setNode)
+* [getNode()](/Java/DOMValidateContext/getNode/)
+* [setNode()](/Java/DOMValidateContext/setNode/)
 
 ## Ejemplo
 ~~~java

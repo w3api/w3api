@@ -21,24 +21,24 @@ public class ButtonBar extends Control
 * [ButtonBar()](/Java/ButtonBar/ButtonBar/)
 
 ## Campos
-* [BUTTON_ORDER_LINUX](/Java/ButtonBar/BUTTON_ORDER_LINUX)
-* [BUTTON_ORDER_MAC_OS](/Java/ButtonBar/BUTTON_ORDER_MAC_OS)
-* [BUTTON_ORDER_NONE](/Java/ButtonBar/BUTTON_ORDER_NONE)
-* [BUTTON_ORDER_WINDOWS](/Java/ButtonBar/BUTTON_ORDER_WINDOWS)
+* [BUTTON_ORDER_LINUX](/Java/ButtonBar/BUTTON_ORDER_LINUX/)
+* [BUTTON_ORDER_MAC_OS](/Java/ButtonBar/BUTTON_ORDER_MAC_OS/)
+* [BUTTON_ORDER_NONE](/Java/ButtonBar/BUTTON_ORDER_NONE/)
+* [BUTTON_ORDER_WINDOWS](/Java/ButtonBar/BUTTON_ORDER_WINDOWS/)
 
 ## Métodos
-* [buttonMinWidthProperty()](/Java/ButtonBar/buttonMinWidthProperty)
-* [buttonOrderProperty()](/Java/ButtonBar/buttonOrderProperty)
-* [getButtonData()](/Java/ButtonBar/getButtonData)
-* [getButtonMinWidth()](/Java/ButtonBar/getButtonMinWidth)
-* [getButtonOrder()](/Java/ButtonBar/getButtonOrder)
-* [getButtons()](/Java/ButtonBar/getButtons)
-* [getInitialFocusTraversable()](/Java/ButtonBar/getInitialFocusTraversable)
-* [isButtonUniformSize()](/Java/ButtonBar/isButtonUniformSize)
-* [setButtonData()](/Java/ButtonBar/setButtonData)
-* [setButtonMinWidth()](/Java/ButtonBar/setButtonMinWidth)
-* [setButtonOrder()](/Java/ButtonBar/setButtonOrder)
-* [setButtonUniformSize()](/Java/ButtonBar/setButtonUniformSize)
+* [buttonMinWidthProperty()](/Java/ButtonBar/buttonMinWidthProperty/)
+* [buttonOrderProperty()](/Java/ButtonBar/buttonOrderProperty/)
+* [getButtonData()](/Java/ButtonBar/getButtonData/)
+* [getButtonMinWidth()](/Java/ButtonBar/getButtonMinWidth/)
+* [getButtonOrder()](/Java/ButtonBar/getButtonOrder/)
+* [getButtons()](/Java/ButtonBar/getButtons/)
+* [getInitialFocusTraversable()](/Java/ButtonBar/getInitialFocusTraversable/)
+* [isButtonUniformSize()](/Java/ButtonBar/isButtonUniformSize/)
+* [setButtonData()](/Java/ButtonBar/setButtonData/)
+* [setButtonMinWidth()](/Java/ButtonBar/setButtonMinWidth/)
+* [setButtonOrder()](/Java/ButtonBar/setButtonOrder/)
+* [setButtonUniformSize()](/Java/ButtonBar/setButtonUniformSize/)
 
 ## Ejemplo
 ~~~java

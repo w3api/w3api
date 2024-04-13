@@ -18,8 +18,8 @@ public interface DocAttributeSet extends AttributeSet
 ~~~
 
 ## Métodos
-* [add()](/Java/DocAttributeSet/add)
-* [addAll()](/Java/DocAttributeSet/addAll)
+* [add()](/Java/DocAttributeSet/add/)
+* [addAll()](/Java/DocAttributeSet/addAll/)
 
 ## Ejemplo
 ~~~java

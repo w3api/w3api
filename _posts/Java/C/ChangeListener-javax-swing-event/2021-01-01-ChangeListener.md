@@ -18,7 +18,7 @@ public interface ChangeListener extends EventListener
 ~~~
 
 ## Métodos
-* [stateChanged()](/Java/ChangeListener-javax-swing-event/stateChanged)
+* [stateChanged()](/Java/ChangeListener-javax-swing-event/stateChanged/)
 
 ## Ejemplo
 ~~~java

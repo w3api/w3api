@@ -21,12 +21,12 @@ public abstract class PrintJobAdapter extends Object implements PrintJobListener
 * [PrintJobAdapter()](/Java/PrintJobAdapter/PrintJobAdapter/)
 
 ## Métodos
-* [printDataTransferCompleted()](/Java/PrintJobAdapter/printDataTransferCompleted)
-* [printJobCanceled()](/Java/PrintJobAdapter/printJobCanceled)
-* [printJobCompleted()](/Java/PrintJobAdapter/printJobCompleted)
-* [printJobFailed()](/Java/PrintJobAdapter/printJobFailed)
-* [printJobNoMoreEvents()](/Java/PrintJobAdapter/printJobNoMoreEvents)
-* [printJobRequiresAttention()](/Java/PrintJobAdapter/printJobRequiresAttention)
+* [printDataTransferCompleted()](/Java/PrintJobAdapter/printDataTransferCompleted/)
+* [printJobCanceled()](/Java/PrintJobAdapter/printJobCanceled/)
+* [printJobCompleted()](/Java/PrintJobAdapter/printJobCompleted/)
+* [printJobFailed()](/Java/PrintJobAdapter/printJobFailed/)
+* [printJobNoMoreEvents()](/Java/PrintJobAdapter/printJobNoMoreEvents/)
+* [printJobRequiresAttention()](/Java/PrintJobAdapter/printJobRequiresAttention/)
 
 ## Ejemplo
 ~~~java

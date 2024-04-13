@@ -18,7 +18,7 @@ public interface ControllerEventListener extends EventListener
 ~~~
 
 ## Métodos
-* [controlChange()](/Java/ControllerEventListener/controlChange)
+* [controlChange()](/Java/ControllerEventListener/controlChange/)
 
 ## Ejemplo
 ~~~java

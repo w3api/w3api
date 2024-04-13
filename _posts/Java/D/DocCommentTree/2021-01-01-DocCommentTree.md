@@ -18,12 +18,12 @@ public interface DocCommentTree extends DocTree
 ~~~
 
 ## Métodos
-* [getBlockTags()](/Java/DocCommentTree/getBlockTags)
-* [getBody()](/Java/DocCommentTree/getBody)
-* [getFirstSentence()](/Java/DocCommentTree/getFirstSentence)
-* [getFullBody()](/Java/DocCommentTree/getFullBody)
-* [getPostamble()](/Java/DocCommentTree/getPostamble)
-* [getPreamble()](/Java/DocCommentTree/getPreamble)
+* [getBlockTags()](/Java/DocCommentTree/getBlockTags/)
+* [getBody()](/Java/DocCommentTree/getBody/)
+* [getFirstSentence()](/Java/DocCommentTree/getFirstSentence/)
+* [getFullBody()](/Java/DocCommentTree/getFullBody/)
+* [getPostamble()](/Java/DocCommentTree/getPostamble/)
+* [getPreamble()](/Java/DocCommentTree/getPreamble/)
 
 ## Ejemplo
 ~~~java

@@ -21,9 +21,9 @@ public class BasicAttributes extends Object implements Attributes
 * [BasicAttributes()](/Java/BasicAttributes/BasicAttributes/)
 
 ## Métodos
-* [equals()](/Java/BasicAttributes/equals)
-* [hashCode()](/Java/BasicAttributes/hashCode)
-* [toString()](/Java/BasicAttributes/toString)
+* [equals()](/Java/BasicAttributes/equals/)
+* [hashCode()](/Java/BasicAttributes/hashCode/)
+* [toString()](/Java/BasicAttributes/toString/)
 
 ## Ejemplo
 ~~~java

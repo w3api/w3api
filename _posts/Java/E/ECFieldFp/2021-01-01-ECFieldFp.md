@@ -21,10 +21,10 @@ public class ECFieldFp extends Object implements ECField
 * [ECFieldFp()](/Java/ECFieldFp/ECFieldFp/)
 
 ## Métodos
-* [equals()](/Java/ECFieldFp/equals)
-* [getFieldSize()](/Java/ECFieldFp/getFieldSize)
-* [getP()](/Java/ECFieldFp/getP)
-* [hashCode()](/Java/ECFieldFp/hashCode)
+* [equals()](/Java/ECFieldFp/equals/)
+* [getFieldSize()](/Java/ECFieldFp/getFieldSize/)
+* [getP()](/Java/ECFieldFp/getP/)
+* [hashCode()](/Java/ECFieldFp/hashCode/)
 
 ## Ejemplo
 ~~~java

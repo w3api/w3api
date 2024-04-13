@@ -21,25 +21,25 @@ public class ImageReadParam extends IIOParam
 * [ImageReadParam()](/Java/ImageReadParam/ImageReadParam/)
 
 ## Campos
-* [canSetSourceRenderSize](/Java/ImageReadParam/canSetSourceRenderSize)
-* [destination](/Java/ImageReadParam/destination)
-* [destinationBands](/Java/ImageReadParam/destinationBands)
-* [minProgressivePass](/Java/ImageReadParam/minProgressivePass)
-* [numProgressivePasses](/Java/ImageReadParam/numProgressivePasses)
-* [sourceRenderSize](/Java/ImageReadParam/sourceRenderSize)
+* [canSetSourceRenderSize](/Java/ImageReadParam/canSetSourceRenderSize/)
+* [destination](/Java/ImageReadParam/destination/)
+* [destinationBands](/Java/ImageReadParam/destinationBands/)
+* [minProgressivePass](/Java/ImageReadParam/minProgressivePass/)
+* [numProgressivePasses](/Java/ImageReadParam/numProgressivePasses/)
+* [sourceRenderSize](/Java/ImageReadParam/sourceRenderSize/)
 
 ## Métodos
-* [canSetSourceRenderSize()](/Java/ImageReadParam/canSetSourceRenderSize)
-* [getDestination()](/Java/ImageReadParam/getDestination)
-* [getDestinationBands()](/Java/ImageReadParam/getDestinationBands)
-* [getSourceMaxProgressivePass()](/Java/ImageReadParam/getSourceMaxProgressivePass)
-* [getSourceMinProgressivePass()](/Java/ImageReadParam/getSourceMinProgressivePass)
-* [getSourceNumProgressivePasses()](/Java/ImageReadParam/getSourceNumProgressivePasses)
-* [getSourceRenderSize()](/Java/ImageReadParam/getSourceRenderSize)
-* [setDestination()](/Java/ImageReadParam/setDestination)
-* [setDestinationBands()](/Java/ImageReadParam/setDestinationBands)
-* [setSourceProgressivePasses()](/Java/ImageReadParam/setSourceProgressivePasses)
-* [setSourceRenderSize()](/Java/ImageReadParam/setSourceRenderSize)
+* [canSetSourceRenderSize()](/Java/ImageReadParam/canSetSourceRenderSize/)
+* [getDestination()](/Java/ImageReadParam/getDestination/)
+* [getDestinationBands()](/Java/ImageReadParam/getDestinationBands/)
+* [getSourceMaxProgressivePass()](/Java/ImageReadParam/getSourceMaxProgressivePass/)
+* [getSourceMinProgressivePass()](/Java/ImageReadParam/getSourceMinProgressivePass/)
+* [getSourceNumProgressivePasses()](/Java/ImageReadParam/getSourceNumProgressivePasses/)
+* [getSourceRenderSize()](/Java/ImageReadParam/getSourceRenderSize/)
+* [setDestination()](/Java/ImageReadParam/setDestination/)
+* [setDestinationBands()](/Java/ImageReadParam/setDestinationBands/)
+* [setSourceProgressivePasses()](/Java/ImageReadParam/setSourceProgressivePasses/)
+* [setSourceRenderSize()](/Java/ImageReadParam/setSourceRenderSize/)
 
 ## Ejemplo
 ~~~java

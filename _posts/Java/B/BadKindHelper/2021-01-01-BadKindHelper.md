@@ -21,12 +21,12 @@ public abstract class BadKindHelper extends Object
 * [BadKindHelper()](/Java/BadKindHelper/BadKindHelper/)
 
 ## Métodos
-* [extract()](/Java/BadKindHelper/extract)
-* [id()](/Java/BadKindHelper/id)
-* [insert()](/Java/BadKindHelper/insert)
-* [read()](/Java/BadKindHelper/read)
-* [type()](/Java/BadKindHelper/type)
-* [write()](/Java/BadKindHelper/write)
+* [extract()](/Java/BadKindHelper/extract/)
+* [id()](/Java/BadKindHelper/id/)
+* [insert()](/Java/BadKindHelper/insert/)
+* [read()](/Java/BadKindHelper/read/)
+* [type()](/Java/BadKindHelper/type/)
+* [write()](/Java/BadKindHelper/write/)
 
 ## Ejemplo
 ~~~java

@@ -18,14 +18,14 @@ public interface ElementVisitor<R,P>
 ~~~
 
 ## Métodos
-* [visit()](/Java/ElementVisitor/visit)
-* [visitExecutable()](/Java/ElementVisitor/visitExecutable)
-* [visitModule()](/Java/ElementVisitor/visitModule)
-* [visitPackage()](/Java/ElementVisitor/visitPackage)
-* [visitType()](/Java/ElementVisitor/visitType)
-* [visitTypeParameter()](/Java/ElementVisitor/visitTypeParameter)
-* [visitUnknown()](/Java/ElementVisitor/visitUnknown)
-* [visitVariable()](/Java/ElementVisitor/visitVariable)
+* [visit()](/Java/ElementVisitor/visit/)
+* [visitExecutable()](/Java/ElementVisitor/visitExecutable/)
+* [visitModule()](/Java/ElementVisitor/visitModule/)
+* [visitPackage()](/Java/ElementVisitor/visitPackage/)
+* [visitType()](/Java/ElementVisitor/visitType/)
+* [visitTypeParameter()](/Java/ElementVisitor/visitTypeParameter/)
+* [visitUnknown()](/Java/ElementVisitor/visitUnknown/)
+* [visitVariable()](/Java/ElementVisitor/visitVariable/)
 
 ## Ejemplo
 ~~~java

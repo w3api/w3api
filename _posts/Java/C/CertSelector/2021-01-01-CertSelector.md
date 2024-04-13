@@ -18,8 +18,8 @@ public interface CertSelector extends Cloneable
 ~~~
 
 ## Métodos
-* [clone()](/Java/CertSelector/clone)
-* [match()](/Java/CertSelector/match)
+* [clone()](/Java/CertSelector/clone/)
+* [match()](/Java/CertSelector/match/)
 
 ## Ejemplo
 ~~~java

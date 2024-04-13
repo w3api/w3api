@@ -21,12 +21,12 @@ public class EventHandler extends Object implements InvocationHandler
 * [EventHandler()](/Java/EventHandler-java-beans/EventHandler/)
 
 ## Métodos
-* [create()](/Java/EventHandler-java-beans/create)
-* [getAction()](/Java/EventHandler-java-beans/getAction)
-* [getEventPropertyName()](/Java/EventHandler-java-beans/getEventPropertyName)
-* [getListenerMethodName()](/Java/EventHandler-java-beans/getListenerMethodName)
-* [getTarget()](/Java/EventHandler-java-beans/getTarget)
-* [invoke()](/Java/EventHandler-java-beans/invoke)
+* [create()](/Java/EventHandler-java-beans/create/)
+* [getAction()](/Java/EventHandler-java-beans/getAction/)
+* [getEventPropertyName()](/Java/EventHandler-java-beans/getEventPropertyName/)
+* [getListenerMethodName()](/Java/EventHandler-java-beans/getListenerMethodName/)
+* [getTarget()](/Java/EventHandler-java-beans/getTarget/)
+* [invoke()](/Java/EventHandler-java-beans/invoke/)
 
 ## Ejemplo
 ~~~java

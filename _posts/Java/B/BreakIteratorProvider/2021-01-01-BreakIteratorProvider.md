@@ -21,10 +21,10 @@ public abstract class BreakIteratorProvider extends LocaleServiceProvider
 * [BreakIteratorProvider()](/Java/BreakIteratorProvider/BreakIteratorProvider/)
 
 ## Métodos
-* [getCharacterInstance()](/Java/BreakIteratorProvider/getCharacterInstance)
-* [getLineInstance()](/Java/BreakIteratorProvider/getLineInstance)
-* [getSentenceInstance()](/Java/BreakIteratorProvider/getSentenceInstance)
-* [getWordInstance()](/Java/BreakIteratorProvider/getWordInstance)
+* [getCharacterInstance()](/Java/BreakIteratorProvider/getCharacterInstance/)
+* [getLineInstance()](/Java/BreakIteratorProvider/getLineInstance/)
+* [getSentenceInstance()](/Java/BreakIteratorProvider/getSentenceInstance/)
+* [getWordInstance()](/Java/BreakIteratorProvider/getWordInstance/)
 
 ## Ejemplo
 ~~~java

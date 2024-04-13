@@ -21,17 +21,17 @@ public class Dimension extends Dimension2D implements Serializable
 * [Dimension()](/Java/Dimension/Dimension/)
 
 ## Campos
-* [height](/Java/Dimension/height)
-* [width](/Java/Dimension/width)
+* [height](/Java/Dimension/height/)
+* [width](/Java/Dimension/width/)
 
 ## Métodos
-* [equals()](/Java/Dimension/equals)
-* [getHeight()](/Java/Dimension/getHeight)
-* [getSize()](/Java/Dimension/getSize)
-* [getWidth()](/Java/Dimension/getWidth)
-* [hashCode()](/Java/Dimension/hashCode)
-* [setSize()](/Java/Dimension/setSize)
-* [toString()](/Java/Dimension/toString)
+* [equals()](/Java/Dimension/equals/)
+* [getHeight()](/Java/Dimension/getHeight/)
+* [getSize()](/Java/Dimension/getSize/)
+* [getWidth()](/Java/Dimension/getWidth/)
+* [hashCode()](/Java/Dimension/hashCode/)
+* [setSize()](/Java/Dimension/setSize/)
+* [toString()](/Java/Dimension/toString/)
 
 ## Ejemplo
 ~~~java

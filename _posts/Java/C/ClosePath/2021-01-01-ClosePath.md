@@ -21,7 +21,7 @@ public class ClosePath extends PathElement
 * [ClosePath()](/Java/ClosePath/ClosePath/)
 
 ## Métodos
-* [toString()](/Java/ClosePath/toString)
+* [toString()](/Java/ClosePath/toString/)
 
 ## Ejemplo
 ~~~java

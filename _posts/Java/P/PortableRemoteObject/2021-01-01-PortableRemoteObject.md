@@ -21,11 +21,11 @@ public class PortableRemoteObject extends Object
 * [PortableRemoteObject()](/Java/PortableRemoteObject/PortableRemoteObject/)
 
 ## Métodos
-* [connect()](/Java/PortableRemoteObject/connect)
-* [exportObject()](/Java/PortableRemoteObject/exportObject)
-* [narrow()](/Java/PortableRemoteObject/narrow)
-* [toStub()](/Java/PortableRemoteObject/toStub)
-* [unexportObject()](/Java/PortableRemoteObject/unexportObject)
+* [connect()](/Java/PortableRemoteObject/connect/)
+* [exportObject()](/Java/PortableRemoteObject/exportObject/)
+* [narrow()](/Java/PortableRemoteObject/narrow/)
+* [toStub()](/Java/PortableRemoteObject/toStub/)
+* [unexportObject()](/Java/PortableRemoteObject/unexportObject/)
 
 ## Ejemplo
 ~~~java

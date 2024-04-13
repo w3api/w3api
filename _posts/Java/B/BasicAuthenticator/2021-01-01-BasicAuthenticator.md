@@ -21,11 +21,11 @@ public abstract class BasicAuthenticator extends Authenticator
 * [BasicAuthenticator()](/Java/BasicAuthenticator/BasicAuthenticator/)
 
 ## Campos
-* [realm](/Java/BasicAuthenticator/realm)
+* [realm](/Java/BasicAuthenticator/realm/)
 
 ## Métodos
-* [checkCredentials()](/Java/BasicAuthenticator/checkCredentials)
-* [getRealm()](/Java/BasicAuthenticator/getRealm)
+* [checkCredentials()](/Java/BasicAuthenticator/checkCredentials/)
+* [getRealm()](/Java/BasicAuthenticator/getRealm/)
 
 ## Ejemplo
 ~~~java

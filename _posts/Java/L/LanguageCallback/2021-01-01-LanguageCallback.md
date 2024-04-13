@@ -21,8 +21,8 @@ public class LanguageCallback extends Object implements Callback, Serializable
 * [LanguageCallback()](/Java/LanguageCallback/LanguageCallback/)
 
 ## Métodos
-* [getLocale()](/Java/LanguageCallback/getLocale)
-* [setLocale()](/Java/LanguageCallback/setLocale)
+* [getLocale()](/Java/LanguageCallback/getLocale/)
+* [setLocale()](/Java/LanguageCallback/setLocale/)
 
 ## Ejemplo
 ~~~java

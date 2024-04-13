@@ -21,7 +21,7 @@ public class ChainedCallSite extends AbstractRelinkableCallSite
 * [ChainedCallSite()](/Java/ChainedCallSite/ChainedCallSite/)
 
 ## Métodos
-* [getMaxChainLength()](/Java/ChainedCallSite/getMaxChainLength)
+* [getMaxChainLength()](/Java/ChainedCallSite/getMaxChainLength/)
 
 ## Ejemplo
 ~~~java

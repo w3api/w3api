@@ -21,7 +21,7 @@ public final class PagedResultsControl extends BasicControl
 * [PagedResultsControl()](/Java/PagedResultsControl/PagedResultsControl/)
 
 ## Campos
-* [OID](/Java/PagedResultsControl/OID)
+* [OID](/Java/PagedResultsControl/OID/)
 
 ## Ejemplo
 ~~~java

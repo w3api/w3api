@@ -18,7 +18,7 @@ public interface DOMErrorHandler
 ~~~
 
 ## Métodos
-* [handleError()](/Java/DOMErrorHandler/handleError)
+* [handleError()](/Java/DOMErrorHandler/handleError/)
 
 ## Ejemplo
 ~~~java

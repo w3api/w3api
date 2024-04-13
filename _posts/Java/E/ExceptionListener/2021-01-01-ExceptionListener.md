@@ -18,7 +18,7 @@ public interface ExceptionListener
 ~~~
 
 ## Métodos
-* [exceptionThrown()](/Java/ExceptionListener/exceptionThrown)
+* [exceptionThrown()](/Java/ExceptionListener/exceptionThrown/)
 
 ## Ejemplo
 ~~~java

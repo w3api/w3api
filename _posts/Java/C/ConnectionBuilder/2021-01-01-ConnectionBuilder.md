@@ -18,11 +18,11 @@ public interface ConnectionBuilder
 ~~~
 
 ## Métodos
-* [build()](/Java/ConnectionBuilder/build)
-* [password()](/Java/ConnectionBuilder/password)
-* [shardingKey()](/Java/ConnectionBuilder/shardingKey)
-* [superShardingKey()](/Java/ConnectionBuilder/superShardingKey)
-* [user()](/Java/ConnectionBuilder/user)
+* [build()](/Java/ConnectionBuilder/build/)
+* [password()](/Java/ConnectionBuilder/password/)
+* [shardingKey()](/Java/ConnectionBuilder/shardingKey/)
+* [superShardingKey()](/Java/ConnectionBuilder/superShardingKey/)
+* [user()](/Java/ConnectionBuilder/user/)
 
 ## Ejemplo
 ~~~java

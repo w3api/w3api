@@ -21,14 +21,14 @@ public final class PrinterIsAcceptingJobs extends EnumSyntax implements PrintSer
 * [PrinterIsAcceptingJobs()](/Java/PrinterIsAcceptingJobs/PrinterIsAcceptingJobs/)
 
 ## Campos
-* [ACCEPTING_JOBS](/Java/PrinterIsAcceptingJobs/ACCEPTING_JOBS)
-* [NOT_ACCEPTING_JOBS](/Java/PrinterIsAcceptingJobs/NOT_ACCEPTING_JOBS)
+* [ACCEPTING_JOBS](/Java/PrinterIsAcceptingJobs/ACCEPTING_JOBS/)
+* [NOT_ACCEPTING_JOBS](/Java/PrinterIsAcceptingJobs/NOT_ACCEPTING_JOBS/)
 
 ## Métodos
-* [getCategory()](/Java/PrinterIsAcceptingJobs/getCategory)
-* [getEnumValueTable()](/Java/PrinterIsAcceptingJobs/getEnumValueTable)
-* [getName()](/Java/PrinterIsAcceptingJobs/getName)
-* [getStringTable()](/Java/PrinterIsAcceptingJobs/getStringTable)
+* [getCategory()](/Java/PrinterIsAcceptingJobs/getCategory/)
+* [getEnumValueTable()](/Java/PrinterIsAcceptingJobs/getEnumValueTable/)
+* [getName()](/Java/PrinterIsAcceptingJobs/getName/)
+* [getStringTable()](/Java/PrinterIsAcceptingJobs/getStringTable/)
 
 ## Ejemplo
 ~~~java

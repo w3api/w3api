@@ -18,7 +18,7 @@ public interface DOMLocator extends SourceLocator
 ~~~
 
 ## Métodos
-* [getOriginatingNode()](/Java/DOMLocator-javax-xml-transform-dom/getOriginatingNode)
+* [getOriginatingNode()](/Java/DOMLocator-javax-xml-transform-dom/getOriginatingNode/)
 
 ## Ejemplo
 ~~~java

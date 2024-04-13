@@ -21,15 +21,15 @@ public class DoubleAdder extends Number implements Serializable
 * [DoubleAdder()](/Java/DoubleAdder/DoubleAdder/)
 
 ## Métodos
-* [add()](/Java/DoubleAdder/add)
-* [doubleValue()](/Java/DoubleAdder/doubleValue)
-* [floatValue()](/Java/DoubleAdder/floatValue)
-* [intValue()](/Java/DoubleAdder/intValue)
-* [longValue()](/Java/DoubleAdder/longValue)
-* [reset()](/Java/DoubleAdder/reset)
-* [sum()](/Java/DoubleAdder/sum)
-* [sumThenReset()](/Java/DoubleAdder/sumThenReset)
-* [toString()](/Java/DoubleAdder/toString)
+* [add()](/Java/DoubleAdder/add/)
+* [doubleValue()](/Java/DoubleAdder/doubleValue/)
+* [floatValue()](/Java/DoubleAdder/floatValue/)
+* [intValue()](/Java/DoubleAdder/intValue/)
+* [longValue()](/Java/DoubleAdder/longValue/)
+* [reset()](/Java/DoubleAdder/reset/)
+* [sum()](/Java/DoubleAdder/sum/)
+* [sumThenReset()](/Java/DoubleAdder/sumThenReset/)
+* [toString()](/Java/DoubleAdder/toString/)
 
 ## Ejemplo
 ~~~java

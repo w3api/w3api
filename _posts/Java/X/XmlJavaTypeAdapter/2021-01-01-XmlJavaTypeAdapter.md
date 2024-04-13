@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Elementos
-* [type](/Java/XmlJavaTypeAdapter/type)
+* [type](/Java/XmlJavaTypeAdapter/type/)
 
 ## Ejemplo
 ~~~java

@@ -21,15 +21,15 @@ public class DOMResult extends Object implements Result
 * [DOMResult()](/Java/DOMResult/DOMResult/)
 
 ## Campos
-* [FEATURE](/Java/DOMResult/FEATURE)
+* [FEATURE](/Java/DOMResult/FEATURE/)
 
 ## Métodos
-* [getNextSibling()](/Java/DOMResult/getNextSibling)
-* [getNode()](/Java/DOMResult/getNode)
-* [getSystemId()](/Java/DOMResult/getSystemId)
-* [setNextSibling()](/Java/DOMResult/setNextSibling)
-* [setNode()](/Java/DOMResult/setNode)
-* [setSystemId()](/Java/DOMResult/setSystemId)
+* [getNextSibling()](/Java/DOMResult/getNextSibling/)
+* [getNode()](/Java/DOMResult/getNode/)
+* [getSystemId()](/Java/DOMResult/getSystemId/)
+* [setNextSibling()](/Java/DOMResult/setNextSibling/)
+* [setNode()](/Java/DOMResult/setNode/)
+* [setSystemId()](/Java/DOMResult/setSystemId/)
 
 ## Ejemplo
 ~~~java

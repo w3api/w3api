@@ -21,9 +21,9 @@ public final class PrinterInfo extends TextSyntax implements PrintServiceAttribu
 * [PrinterInfo()](/Java/PrinterInfo/PrinterInfo/)
 
 ## Métodos
-* [equals()](/Java/PrinterInfo/equals)
-* [getCategory()](/Java/PrinterInfo/getCategory)
-* [getName()](/Java/PrinterInfo/getName)
+* [equals()](/Java/PrinterInfo/equals/)
+* [getCategory()](/Java/PrinterInfo/getCategory/)
+* [getName()](/Java/PrinterInfo/getName/)
 
 ## Ejemplo
 ~~~java

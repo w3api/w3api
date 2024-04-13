@@ -21,14 +21,14 @@ public class IdUniquenessPolicyValue extends Object implements IDLEntity
 * [IdUniquenessPolicyValue()](/Java/IdUniquenessPolicyValue/IdUniquenessPolicyValue/)
 
 ## Campos
-* [_MULTIPLE_ID](/Java/IdUniquenessPolicyValue/_MULTIPLE_ID)
-* [_UNIQUE_ID](/Java/IdUniquenessPolicyValue/_UNIQUE_ID)
-* [MULTIPLE_ID](/Java/IdUniquenessPolicyValue/MULTIPLE_ID)
-* [UNIQUE_ID](/Java/IdUniquenessPolicyValue/UNIQUE_ID)
+* [_MULTIPLE_ID](/Java/IdUniquenessPolicyValue/_MULTIPLE_ID/)
+* [_UNIQUE_ID](/Java/IdUniquenessPolicyValue/_UNIQUE_ID/)
+* [MULTIPLE_ID](/Java/IdUniquenessPolicyValue/MULTIPLE_ID/)
+* [UNIQUE_ID](/Java/IdUniquenessPolicyValue/UNIQUE_ID/)
 
 ## Métodos
-* [from_int()](/Java/IdUniquenessPolicyValue/from_int)
-* [value()](/Java/IdUniquenessPolicyValue/value)
+* [from_int()](/Java/IdUniquenessPolicyValue/from_int/)
+* [value()](/Java/IdUniquenessPolicyValue/value/)
 
 ## Ejemplo
 ~~~java

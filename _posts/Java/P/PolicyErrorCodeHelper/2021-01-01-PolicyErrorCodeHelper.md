@@ -21,12 +21,12 @@ public abstract class PolicyErrorCodeHelper extends Object
 * [PolicyErrorCodeHelper()](/Java/PolicyErrorCodeHelper/PolicyErrorCodeHelper/)
 
 ## Métodos
-* [extract()](/Java/PolicyErrorCodeHelper/extract)
-* [id()](/Java/PolicyErrorCodeHelper/id)
-* [insert()](/Java/PolicyErrorCodeHelper/insert)
-* [read()](/Java/PolicyErrorCodeHelper/read)
-* [type()](/Java/PolicyErrorCodeHelper/type)
-* [write()](/Java/PolicyErrorCodeHelper/write)
+* [extract()](/Java/PolicyErrorCodeHelper/extract/)
+* [id()](/Java/PolicyErrorCodeHelper/id/)
+* [insert()](/Java/PolicyErrorCodeHelper/insert/)
+* [read()](/Java/PolicyErrorCodeHelper/read/)
+* [type()](/Java/PolicyErrorCodeHelper/type/)
+* [write()](/Java/PolicyErrorCodeHelper/write/)
 
 ## Ejemplo
 ~~~java

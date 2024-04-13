@@ -18,8 +18,8 @@ public interface EntityResolver2 extends EntityResolver
 ~~~
 
 ## Métodos
-* [getExternalSubset()](/Java/EntityResolver2/getExternalSubset)
-* [resolveEntity()](/Java/EntityResolver2/resolveEntity)
+* [getExternalSubset()](/Java/EntityResolver2/getExternalSubset/)
+* [resolveEntity()](/Java/EntityResolver2/resolveEntity/)
 
 ## Ejemplo
 ~~~java

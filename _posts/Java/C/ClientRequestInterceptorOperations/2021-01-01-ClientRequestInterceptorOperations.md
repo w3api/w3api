@@ -18,11 +18,11 @@ public interface ClientRequestInterceptorOperations extends InterceptorOperation
 ~~~
 
 ## Métodos
-* [receive_exception()](/Java/ClientRequestInterceptorOperations/receive_exception)
-* [receive_other()](/Java/ClientRequestInterceptorOperations/receive_other)
-* [receive_reply()](/Java/ClientRequestInterceptorOperations/receive_reply)
-* [send_poll()](/Java/ClientRequestInterceptorOperations/send_poll)
-* [send_request()](/Java/ClientRequestInterceptorOperations/send_request)
+* [receive_exception()](/Java/ClientRequestInterceptorOperations/receive_exception/)
+* [receive_other()](/Java/ClientRequestInterceptorOperations/receive_other/)
+* [receive_reply()](/Java/ClientRequestInterceptorOperations/receive_reply/)
+* [send_poll()](/Java/ClientRequestInterceptorOperations/send_poll/)
+* [send_request()](/Java/ClientRequestInterceptorOperations/send_request/)
 
 ## Ejemplo
 ~~~java

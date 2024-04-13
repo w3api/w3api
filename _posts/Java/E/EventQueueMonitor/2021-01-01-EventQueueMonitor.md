@@ -21,17 +21,17 @@ public class EventQueueMonitor extends Object implements AWTEventListener
 * [EventQueueMonitor()](/Java/EventQueueMonitor/EventQueueMonitor/)
 
 ## Métodos
-* [addGUIInitializedListener()](/Java/EventQueueMonitor/addGUIInitializedListener)
-* [addTopLevelWindowListener()](/Java/EventQueueMonitor/addTopLevelWindowListener)
-* [eventDispatched()](/Java/EventQueueMonitor/eventDispatched)
-* [getAccessibleAt()](/Java/EventQueueMonitor/getAccessibleAt)
-* [getCurrentMousePosition()](/Java/EventQueueMonitor/getCurrentMousePosition)
-* [getTopLevelWindows()](/Java/EventQueueMonitor/getTopLevelWindows)
-* [getTopLevelWindowWithFocus()](/Java/EventQueueMonitor/getTopLevelWindowWithFocus)
-* [isGUIInitialized()](/Java/EventQueueMonitor/isGUIInitialized)
-* [maybeInitialize()](/Java/EventQueueMonitor/maybeInitialize)
-* [removeGUIInitializedListener()](/Java/EventQueueMonitor/removeGUIInitializedListener)
-* [removeTopLevelWindowListener()](/Java/EventQueueMonitor/removeTopLevelWindowListener)
+* [addGUIInitializedListener()](/Java/EventQueueMonitor/addGUIInitializedListener/)
+* [addTopLevelWindowListener()](/Java/EventQueueMonitor/addTopLevelWindowListener/)
+* [eventDispatched()](/Java/EventQueueMonitor/eventDispatched/)
+* [getAccessibleAt()](/Java/EventQueueMonitor/getAccessibleAt/)
+* [getCurrentMousePosition()](/Java/EventQueueMonitor/getCurrentMousePosition/)
+* [getTopLevelWindows()](/Java/EventQueueMonitor/getTopLevelWindows/)
+* [getTopLevelWindowWithFocus()](/Java/EventQueueMonitor/getTopLevelWindowWithFocus/)
+* [isGUIInitialized()](/Java/EventQueueMonitor/isGUIInitialized/)
+* [maybeInitialize()](/Java/EventQueueMonitor/maybeInitialize/)
+* [removeGUIInitializedListener()](/Java/EventQueueMonitor/removeGUIInitializedListener/)
+* [removeTopLevelWindowListener()](/Java/EventQueueMonitor/removeTopLevelWindowListener/)
 
 ## Ejemplo
 ~~~java

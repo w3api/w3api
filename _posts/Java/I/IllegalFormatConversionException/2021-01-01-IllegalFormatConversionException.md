@@ -21,8 +21,8 @@ public class IllegalFormatConversionException extends IllegalFormatException
 * [IllegalFormatConversionException()](/Java/IllegalFormatConversionException/IllegalFormatConversionException/)
 
 ## Métodos
-* [getArgumentClass()](/Java/IllegalFormatConversionException/getArgumentClass)
-* [getConversion()](/Java/IllegalFormatConversionException/getConversion)
+* [getArgumentClass()](/Java/IllegalFormatConversionException/getArgumentClass/)
+* [getConversion()](/Java/IllegalFormatConversionException/getConversion/)
 
 ## Ejemplo
 ~~~java

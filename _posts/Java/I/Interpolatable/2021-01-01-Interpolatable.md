@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [interpolate()](/Java/Interpolatable/interpolate)
+* [interpolate()](/Java/Interpolatable/interpolate/)
 
 ## Ejemplo
 ~~~java

@@ -18,18 +18,18 @@ public interface PropertyEditor
 ~~~
 
 ## Métodos
-* [addPropertyChangeListener()](/Java/PropertyEditor/addPropertyChangeListener)
-* [getAsText()](/Java/PropertyEditor/getAsText)
-* [getCustomEditor()](/Java/PropertyEditor/getCustomEditor)
-* [getJavaInitializationString()](/Java/PropertyEditor/getJavaInitializationString)
-* [getTags()](/Java/PropertyEditor/getTags)
-* [getValue()](/Java/PropertyEditor/getValue)
-* [isPaintable()](/Java/PropertyEditor/isPaintable)
-* [paintValue()](/Java/PropertyEditor/paintValue)
-* [removePropertyChangeListener()](/Java/PropertyEditor/removePropertyChangeListener)
-* [setAsText()](/Java/PropertyEditor/setAsText)
-* [setValue()](/Java/PropertyEditor/setValue)
-* [supportsCustomEditor()](/Java/PropertyEditor/supportsCustomEditor)
+* [addPropertyChangeListener()](/Java/PropertyEditor/addPropertyChangeListener/)
+* [getAsText()](/Java/PropertyEditor/getAsText/)
+* [getCustomEditor()](/Java/PropertyEditor/getCustomEditor/)
+* [getJavaInitializationString()](/Java/PropertyEditor/getJavaInitializationString/)
+* [getTags()](/Java/PropertyEditor/getTags/)
+* [getValue()](/Java/PropertyEditor/getValue/)
+* [isPaintable()](/Java/PropertyEditor/isPaintable/)
+* [paintValue()](/Java/PropertyEditor/paintValue/)
+* [removePropertyChangeListener()](/Java/PropertyEditor/removePropertyChangeListener/)
+* [setAsText()](/Java/PropertyEditor/setAsText/)
+* [setValue()](/Java/PropertyEditor/setValue/)
+* [supportsCustomEditor()](/Java/PropertyEditor/supportsCustomEditor/)
 
 ## Ejemplo
 ~~~java

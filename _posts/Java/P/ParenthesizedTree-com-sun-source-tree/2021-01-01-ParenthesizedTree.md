@@ -18,7 +18,7 @@ public interface ParenthesizedTree extends ExpressionTree
 ~~~
 
 ## Métodos
-* [getExpression()](/Java/ParenthesizedTree-com-sun-source-tree/getExpression)
+* [getExpression()](/Java/ParenthesizedTree-com-sun-source-tree/getExpression/)
 
 ## Ejemplo
 ~~~java

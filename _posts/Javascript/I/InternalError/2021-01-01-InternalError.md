@@ -21,12 +21,12 @@ InternalError
 * [InternalError()](/Javascript/InternalError/InternalError/)
 
 ## Propiedades
-* [message](/Javascript/InternalError/message)
-* [name](/Javascript/InternalError/name)
-* [fileName](/Javascript/InternalError/fileName)
-* [lineNumber](/Javascript/InternalError/lineNumber)
-* [columnNumber](/Javascript/InternalError/columnNumber)
-* [stack](/Javascript/InternalError/stack)
+* [message](/Javascript/InternalError/message/)
+* [name](/Javascript/InternalError/name/)
+* [fileName](/Javascript/InternalError/fileName/)
+* [lineNumber](/Javascript/InternalError/lineNumber/)
+* [columnNumber](/Javascript/InternalError/columnNumber/)
+* [stack](/Javascript/InternalError/stack/)
 
 ## Ejemplo
 ~~~java

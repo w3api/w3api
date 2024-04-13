@@ -21,14 +21,14 @@ public class BufferedReader extends Reader
 * [BufferedReader()](/Java/BufferedReader/BufferedReader/)
 
 ## Métodos
-* [lines()](/Java/BufferedReader/lines)
-* [mark()](/Java/BufferedReader/mark)
-* [markSupported()](/Java/BufferedReader/markSupported)
-* [read()](/Java/BufferedReader/read)
-* [readLine()](/Java/BufferedReader/readLine)
-* [ready()](/Java/BufferedReader/ready)
-* [reset()](/Java/BufferedReader/reset)
-* [skip()](/Java/BufferedReader/skip)
+* [lines()](/Java/BufferedReader/lines/)
+* [mark()](/Java/BufferedReader/mark/)
+* [markSupported()](/Java/BufferedReader/markSupported/)
+* [read()](/Java/BufferedReader/read/)
+* [readLine()](/Java/BufferedReader/readLine/)
+* [ready()](/Java/BufferedReader/ready/)
+* [reset()](/Java/BufferedReader/reset/)
+* [skip()](/Java/BufferedReader/skip/)
 
 ## Ejemplo
 ~~~java

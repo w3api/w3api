@@ -18,9 +18,9 @@ public interface PrintService
 ~~~
 
 ## Métodos
-* [getDefaultPage()](/Java/PrintService-javax-jnlp/getDefaultPage)
-* [print()](/Java/PrintService-javax-jnlp/print)
-* [showPageFormatDialog()](/Java/PrintService-javax-jnlp/showPageFormatDialog)
+* [getDefaultPage()](/Java/PrintService-javax-jnlp/getDefaultPage/)
+* [print()](/Java/PrintService-javax-jnlp/print/)
+* [showPageFormatDialog()](/Java/PrintService-javax-jnlp/showPageFormatDialog/)
 
 ## Ejemplo
 ~~~java

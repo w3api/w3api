@@ -21,11 +21,11 @@ public abstract class PKIXCertPathChecker extends Object implements CertPathChec
 * [PKIXCertPathChecker()](/Java/PKIXCertPathChecker/PKIXCertPathChecker/)
 
 ## Métodos
-* [check()](/Java/PKIXCertPathChecker/check)
-* [clone()](/Java/PKIXCertPathChecker/clone)
-* [getSupportedExtensions()](/Java/PKIXCertPathChecker/getSupportedExtensions)
-* [init()](/Java/PKIXCertPathChecker/init)
-* [isForwardCheckingSupported()](/Java/PKIXCertPathChecker/isForwardCheckingSupported)
+* [check()](/Java/PKIXCertPathChecker/check/)
+* [clone()](/Java/PKIXCertPathChecker/clone/)
+* [getSupportedExtensions()](/Java/PKIXCertPathChecker/getSupportedExtensions/)
+* [init()](/Java/PKIXCertPathChecker/init/)
+* [isForwardCheckingSupported()](/Java/PKIXCertPathChecker/isForwardCheckingSupported/)
 
 ## Ejemplo
 ~~~java

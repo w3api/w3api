@@ -18,9 +18,9 @@ public interface CatchTree extends Tree
 ~~~
 
 ## Métodos
-* [getBlock()](/Java/CatchTree-jdk-nashorn-api-tree/getBlock)
-* [getCondition()](/Java/CatchTree-jdk-nashorn-api-tree/getCondition)
-* [getParameter()](/Java/CatchTree-jdk-nashorn-api-tree/getParameter)
+* [getBlock()](/Java/CatchTree-jdk-nashorn-api-tree/getBlock/)
+* [getCondition()](/Java/CatchTree-jdk-nashorn-api-tree/getCondition/)
+* [getParameter()](/Java/CatchTree-jdk-nashorn-api-tree/getParameter/)
 
 ## Ejemplo
 ~~~java

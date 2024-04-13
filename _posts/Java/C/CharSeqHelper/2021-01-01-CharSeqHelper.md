@@ -21,12 +21,12 @@ public abstract class CharSeqHelper extends Object
 * [CharSeqHelper()](/Java/CharSeqHelper/CharSeqHelper/)
 
 ## Métodos
-* [extract()](/Java/CharSeqHelper/extract)
-* [id()](/Java/CharSeqHelper/id)
-* [insert()](/Java/CharSeqHelper/insert)
-* [read()](/Java/CharSeqHelper/read)
-* [type()](/Java/CharSeqHelper/type)
-* [write()](/Java/CharSeqHelper/write)
+* [extract()](/Java/CharSeqHelper/extract/)
+* [id()](/Java/CharSeqHelper/id/)
+* [insert()](/Java/CharSeqHelper/insert/)
+* [read()](/Java/CharSeqHelper/read/)
+* [type()](/Java/CharSeqHelper/type/)
+* [write()](/Java/CharSeqHelper/write/)
 
 ## Ejemplo
 ~~~java

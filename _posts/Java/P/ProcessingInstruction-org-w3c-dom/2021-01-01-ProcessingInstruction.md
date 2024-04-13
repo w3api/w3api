@@ -18,9 +18,9 @@ public interface ProcessingInstruction extends Node
 ~~~
 
 ## Métodos
-* [getData()](/Java/ProcessingInstruction-org-w3c-dom/getData)
-* [getTarget()](/Java/ProcessingInstruction-org-w3c-dom/getTarget)
-* [setData()](/Java/ProcessingInstruction-org-w3c-dom/setData)
+* [getData()](/Java/ProcessingInstruction-org-w3c-dom/getData/)
+* [getTarget()](/Java/ProcessingInstruction-org-w3c-dom/getTarget/)
+* [setData()](/Java/ProcessingInstruction-org-w3c-dom/setData/)
 
 ## Ejemplo
 ~~~java

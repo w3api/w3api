@@ -21,12 +21,12 @@ public abstract class IstringHelper extends Object
 * [IstringHelper()](/Java/IstringHelper/IstringHelper/)
 
 ## Métodos
-* [extract()](/Java/IstringHelper/extract)
-* [id()](/Java/IstringHelper/id)
-* [insert()](/Java/IstringHelper/insert)
-* [read()](/Java/IstringHelper/read)
-* [type()](/Java/IstringHelper/type)
-* [write()](/Java/IstringHelper/write)
+* [extract()](/Java/IstringHelper/extract/)
+* [id()](/Java/IstringHelper/id/)
+* [insert()](/Java/IstringHelper/insert/)
+* [read()](/Java/IstringHelper/read/)
+* [type()](/Java/IstringHelper/type/)
+* [write()](/Java/IstringHelper/write/)
 
 ## Ejemplo
 ~~~java

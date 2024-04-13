@@ -18,15 +18,15 @@ public interface LocalVariable extends Mirror, Comparable<LocalVariable>
 ~~~
 
 ## Métodos
-* [equals()](/Java/LocalVariable/equals)
-* [genericSignature()](/Java/LocalVariable/genericSignature)
-* [hashCode()](/Java/LocalVariable/hashCode)
-* [isArgument()](/Java/LocalVariable/isArgument)
-* [isVisible()](/Java/LocalVariable/isVisible)
-* [name()](/Java/LocalVariable/name)
-* [signature()](/Java/LocalVariable/signature)
-* [type()](/Java/LocalVariable/type)
-* [typeName()](/Java/LocalVariable/typeName)
+* [equals()](/Java/LocalVariable/equals/)
+* [genericSignature()](/Java/LocalVariable/genericSignature/)
+* [hashCode()](/Java/LocalVariable/hashCode/)
+* [isArgument()](/Java/LocalVariable/isArgument/)
+* [isVisible()](/Java/LocalVariable/isVisible/)
+* [name()](/Java/LocalVariable/name/)
+* [signature()](/Java/LocalVariable/signature/)
+* [type()](/Java/LocalVariable/type/)
+* [typeName()](/Java/LocalVariable/typeName/)
 
 ## Ejemplo
 ~~~java

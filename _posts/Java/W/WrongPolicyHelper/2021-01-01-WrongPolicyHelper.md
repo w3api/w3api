@@ -21,12 +21,12 @@ public abstract class WrongPolicyHelper extends Object
 * [WrongPolicyHelper()](/Java/WrongPolicyHelper/WrongPolicyHelper/)
 
 ## Métodos
-* [extract()](/Java/WrongPolicyHelper/extract)
-* [id()](/Java/WrongPolicyHelper/id)
-* [insert()](/Java/WrongPolicyHelper/insert)
-* [read()](/Java/WrongPolicyHelper/read)
-* [type()](/Java/WrongPolicyHelper/type)
-* [write()](/Java/WrongPolicyHelper/write)
+* [extract()](/Java/WrongPolicyHelper/extract/)
+* [id()](/Java/WrongPolicyHelper/id/)
+* [insert()](/Java/WrongPolicyHelper/insert/)
+* [read()](/Java/WrongPolicyHelper/read/)
+* [type()](/Java/WrongPolicyHelper/type/)
+* [write()](/Java/WrongPolicyHelper/write/)
 
 ## Ejemplo
 ~~~java

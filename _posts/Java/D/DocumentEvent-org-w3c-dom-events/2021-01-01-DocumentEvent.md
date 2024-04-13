@@ -18,7 +18,7 @@ public interface DocumentEvent
 ~~~
 
 ## Métodos
-* [createEvent()](/Java/DocumentEvent-org-w3c-dom-events/createEvent)
+* [createEvent()](/Java/DocumentEvent-org-w3c-dom-events/createEvent/)
 
 ## Ejemplo
 ~~~java

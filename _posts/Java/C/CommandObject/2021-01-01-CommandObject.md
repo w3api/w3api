@@ -18,7 +18,7 @@ public interface CommandObject
 ~~~
 
 ## Métodos
-* [setCommandContext()](/Java/CommandObject/setCommandContext)
+* [setCommandContext()](/Java/CommandObject/setCommandContext/)
 
 ## Ejemplo
 ~~~java

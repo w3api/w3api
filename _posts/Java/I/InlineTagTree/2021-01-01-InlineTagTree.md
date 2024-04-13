@@ -18,7 +18,7 @@ public interface InlineTagTree extends DocTree
 ~~~
 
 ## Métodos
-* [getTagName()](/Java/InlineTagTree/getTagName)
+* [getTagName()](/Java/InlineTagTree/getTagName/)
 
 ## Ejemplo
 ~~~java

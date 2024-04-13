@@ -21,7 +21,7 @@ public abstract class Instrument extends SoundbankResource
 * [Instrument()](/Java/Instrument/Instrument/)
 
 ## Métodos
-* [getPatch()](/Java/Instrument/getPatch)
+* [getPatch()](/Java/Instrument/getPatch/)
 
 ## Ejemplo
 ~~~java

@@ -21,11 +21,11 @@ public class DefaultFocusManager extends FocusManager
 * [DefaultFocusManager()](/Java/DefaultFocusManager/DefaultFocusManager/)
 
 ## Métodos
-* [compareTabOrder()](/Java/DefaultFocusManager/compareTabOrder)
-* [getComponentAfter()](/Java/DefaultFocusManager/getComponentAfter)
-* [getComponentBefore()](/Java/DefaultFocusManager/getComponentBefore)
-* [getFirstComponent()](/Java/DefaultFocusManager/getFirstComponent)
-* [getLastComponent()](/Java/DefaultFocusManager/getLastComponent)
+* [compareTabOrder()](/Java/DefaultFocusManager/compareTabOrder/)
+* [getComponentAfter()](/Java/DefaultFocusManager/getComponentAfter/)
+* [getComponentBefore()](/Java/DefaultFocusManager/getComponentBefore/)
+* [getFirstComponent()](/Java/DefaultFocusManager/getFirstComponent/)
+* [getLastComponent()](/Java/DefaultFocusManager/getLastComponent/)
 
 ## Ejemplo
 ~~~java

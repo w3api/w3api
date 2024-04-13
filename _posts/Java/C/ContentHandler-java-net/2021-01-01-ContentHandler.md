@@ -21,7 +21,7 @@ public abstract class ContentHandler extends Object
 * [ContentHandler()](/Java/ContentHandler-java-net/ContentHandler/)
 
 ## Métodos
-* [getContent()](/Java/ContentHandler-java-net/getContent)
+* [getContent()](/Java/ContentHandler-java-net/getContent/)
 
 ## Ejemplo
 ~~~java

@@ -21,7 +21,7 @@ public class IllegalFormatFlagsException extends IllegalFormatException
 * [IllegalFormatFlagsException()](/Java/IllegalFormatFlagsException/IllegalFormatFlagsException/)
 
 ## Métodos
-* [getFlags()](/Java/IllegalFormatFlagsException/getFlags)
+* [getFlags()](/Java/IllegalFormatFlagsException/getFlags/)
 
 ## Ejemplo
 ~~~java

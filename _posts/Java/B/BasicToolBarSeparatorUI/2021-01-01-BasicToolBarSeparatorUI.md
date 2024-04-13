@@ -21,7 +21,7 @@ public class BasicToolBarSeparatorUI extends BasicSeparatorUI
 * [BasicToolBarSeparatorUI()](/Java/BasicToolBarSeparatorUI/BasicToolBarSeparatorUI/)
 
 ## Métodos
-* [createUI()](/Java/BasicToolBarSeparatorUI/createUI)
+* [createUI()](/Java/BasicToolBarSeparatorUI/createUI/)
 
 ## Ejemplo
 ~~~java

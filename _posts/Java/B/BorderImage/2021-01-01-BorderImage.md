@@ -21,13 +21,13 @@ public class BorderImage extends Object
 * [BorderImage()](/Java/BorderImage/BorderImage/)
 
 ## Métodos
-* [getImage()](/Java/BorderImage/getImage)
-* [getInsets()](/Java/BorderImage/getInsets)
-* [getRepeatX()](/Java/BorderImage/getRepeatX)
-* [getRepeatY()](/Java/BorderImage/getRepeatY)
-* [getSlices()](/Java/BorderImage/getSlices)
-* [getWidths()](/Java/BorderImage/getWidths)
-* [isFilled()](/Java/BorderImage/isFilled)
+* [getImage()](/Java/BorderImage/getImage/)
+* [getInsets()](/Java/BorderImage/getInsets/)
+* [getRepeatX()](/Java/BorderImage/getRepeatX/)
+* [getRepeatY()](/Java/BorderImage/getRepeatY/)
+* [getSlices()](/Java/BorderImage/getSlices/)
+* [getWidths()](/Java/BorderImage/getWidths/)
+* [isFilled()](/Java/BorderImage/isFilled/)
 
 ## Ejemplo
 ~~~java

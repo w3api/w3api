@@ -21,14 +21,14 @@ public class PDLOverrideSupported extends EnumSyntax implements PrintServiceAttr
 * [PDLOverrideSupported()](/Java/PDLOverrideSupported/PDLOverrideSupported/)
 
 ## Campos
-* [ATTEMPTED](/Java/PDLOverrideSupported/ATTEMPTED)
-* [NOT_ATTEMPTED](/Java/PDLOverrideSupported/NOT_ATTEMPTED)
+* [ATTEMPTED](/Java/PDLOverrideSupported/ATTEMPTED/)
+* [NOT_ATTEMPTED](/Java/PDLOverrideSupported/NOT_ATTEMPTED/)
 
 ## Métodos
-* [getCategory()](/Java/PDLOverrideSupported/getCategory)
-* [getEnumValueTable()](/Java/PDLOverrideSupported/getEnumValueTable)
-* [getName()](/Java/PDLOverrideSupported/getName)
-* [getStringTable()](/Java/PDLOverrideSupported/getStringTable)
+* [getCategory()](/Java/PDLOverrideSupported/getCategory/)
+* [getEnumValueTable()](/Java/PDLOverrideSupported/getEnumValueTable/)
+* [getName()](/Java/PDLOverrideSupported/getName/)
+* [getStringTable()](/Java/PDLOverrideSupported/getStringTable/)
 
 ## Ejemplo
 ~~~java

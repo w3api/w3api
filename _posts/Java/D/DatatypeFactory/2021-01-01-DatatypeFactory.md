@@ -21,18 +21,18 @@ public abstract class DatatypeFactory extends Object
 * [DatatypeFactory()](/Java/DatatypeFactory/DatatypeFactory/)
 
 ## Campos
-* [DATATYPEFACTORY_IMPLEMENTATION_CLASS](/Java/DatatypeFactory/DATATYPEFACTORY_IMPLEMENTATION_CLASS)
-* [DATATYPEFACTORY_PROPERTY](/Java/DatatypeFactory/DATATYPEFACTORY_PROPERTY)
+* [DATATYPEFACTORY_IMPLEMENTATION_CLASS](/Java/DatatypeFactory/DATATYPEFACTORY_IMPLEMENTATION_CLASS/)
+* [DATATYPEFACTORY_PROPERTY](/Java/DatatypeFactory/DATATYPEFACTORY_PROPERTY/)
 
 ## Métodos
-* [newDefaultInstance()](/Java/DatatypeFactory/newDefaultInstance)
-* [newDuration()](/Java/DatatypeFactory/newDuration)
-* [newDurationDayTime()](/Java/DatatypeFactory/newDurationDayTime)
-* [newDurationYearMonth()](/Java/DatatypeFactory/newDurationYearMonth)
-* [newInstance()](/Java/DatatypeFactory/newInstance)
-* [newXMLGregorianCalendar()](/Java/DatatypeFactory/newXMLGregorianCalendar)
-* [newXMLGregorianCalendarDate()](/Java/DatatypeFactory/newXMLGregorianCalendarDate)
-* [newXMLGregorianCalendarTime()](/Java/DatatypeFactory/newXMLGregorianCalendarTime)
+* [newDefaultInstance()](/Java/DatatypeFactory/newDefaultInstance/)
+* [newDuration()](/Java/DatatypeFactory/newDuration/)
+* [newDurationDayTime()](/Java/DatatypeFactory/newDurationDayTime/)
+* [newDurationYearMonth()](/Java/DatatypeFactory/newDurationYearMonth/)
+* [newInstance()](/Java/DatatypeFactory/newInstance/)
+* [newXMLGregorianCalendar()](/Java/DatatypeFactory/newXMLGregorianCalendar/)
+* [newXMLGregorianCalendarDate()](/Java/DatatypeFactory/newXMLGregorianCalendarDate/)
+* [newXMLGregorianCalendarTime()](/Java/DatatypeFactory/newXMLGregorianCalendarTime/)
 
 ## Ejemplo
 ~~~java

@@ -21,9 +21,9 @@ public class CommandInfo extends Object
 * [CommandInfo()](/Java/CommandInfo/CommandInfo/)
 
 ## Métodos
-* [getCommandClass()](/Java/CommandInfo/getCommandClass)
-* [getCommandName()](/Java/CommandInfo/getCommandName)
-* [getCommandObject()](/Java/CommandInfo/getCommandObject)
+* [getCommandClass()](/Java/CommandInfo/getCommandClass/)
+* [getCommandName()](/Java/CommandInfo/getCommandName/)
+* [getCommandObject()](/Java/CommandInfo/getCommandObject/)
 
 ## Ejemplo
 ~~~java

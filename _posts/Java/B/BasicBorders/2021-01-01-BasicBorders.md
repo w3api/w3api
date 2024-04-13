@@ -21,15 +21,15 @@ public class BasicBorders extends Object
 * [BasicBorders()](/Java/BasicBorders/BasicBorders/)
 
 ## Métodos
-* [getButtonBorder()](/Java/BasicBorders/getButtonBorder)
-* [getInternalFrameBorder()](/Java/BasicBorders/getInternalFrameBorder)
-* [getMenuBarBorder()](/Java/BasicBorders/getMenuBarBorder)
-* [getProgressBarBorder()](/Java/BasicBorders/getProgressBarBorder)
-* [getRadioButtonBorder()](/Java/BasicBorders/getRadioButtonBorder)
-* [getSplitPaneBorder()](/Java/BasicBorders/getSplitPaneBorder)
-* [getSplitPaneDividerBorder()](/Java/BasicBorders/getSplitPaneDividerBorder)
-* [getTextFieldBorder()](/Java/BasicBorders/getTextFieldBorder)
-* [getToggleButtonBorder()](/Java/BasicBorders/getToggleButtonBorder)
+* [getButtonBorder()](/Java/BasicBorders/getButtonBorder/)
+* [getInternalFrameBorder()](/Java/BasicBorders/getInternalFrameBorder/)
+* [getMenuBarBorder()](/Java/BasicBorders/getMenuBarBorder/)
+* [getProgressBarBorder()](/Java/BasicBorders/getProgressBarBorder/)
+* [getRadioButtonBorder()](/Java/BasicBorders/getRadioButtonBorder/)
+* [getSplitPaneBorder()](/Java/BasicBorders/getSplitPaneBorder/)
+* [getSplitPaneDividerBorder()](/Java/BasicBorders/getSplitPaneDividerBorder/)
+* [getTextFieldBorder()](/Java/BasicBorders/getTextFieldBorder/)
+* [getToggleButtonBorder()](/Java/BasicBorders/getToggleButtonBorder/)
 
 ## Ejemplo
 ~~~java

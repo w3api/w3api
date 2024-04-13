@@ -18,10 +18,10 @@ public interface DataSource
 ~~~
 
 ## Métodos
-* [getContentType()](/Java/DataSource-javax-activation/getContentType)
-* [getInputStream()](/Java/DataSource-javax-activation/getInputStream)
-* [getName()](/Java/DataSource-javax-activation/getName)
-* [getOutputStream()](/Java/DataSource-javax-activation/getOutputStream)
+* [getContentType()](/Java/DataSource-javax-activation/getContentType/)
+* [getInputStream()](/Java/DataSource-javax-activation/getInputStream/)
+* [getName()](/Java/DataSource-javax-activation/getName/)
+* [getOutputStream()](/Java/DataSource-javax-activation/getOutputStream/)
 
 ## Ejemplo
 ~~~java

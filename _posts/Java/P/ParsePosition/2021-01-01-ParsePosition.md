@@ -21,13 +21,13 @@ public class ParsePosition extends Object
 * [ParsePosition()](/Java/ParsePosition/ParsePosition/)
 
 ## Métodos
-* [equals()](/Java/ParsePosition/equals)
-* [getErrorIndex()](/Java/ParsePosition/getErrorIndex)
-* [getIndex()](/Java/ParsePosition/getIndex)
-* [hashCode()](/Java/ParsePosition/hashCode)
-* [setErrorIndex()](/Java/ParsePosition/setErrorIndex)
-* [setIndex()](/Java/ParsePosition/setIndex)
-* [toString()](/Java/ParsePosition/toString)
+* [equals()](/Java/ParsePosition/equals/)
+* [getErrorIndex()](/Java/ParsePosition/getErrorIndex/)
+* [getIndex()](/Java/ParsePosition/getIndex/)
+* [hashCode()](/Java/ParsePosition/hashCode/)
+* [setErrorIndex()](/Java/ParsePosition/setErrorIndex/)
+* [setIndex()](/Java/ParsePosition/setIndex/)
+* [toString()](/Java/ParsePosition/toString/)
 
 ## Ejemplo
 ~~~java

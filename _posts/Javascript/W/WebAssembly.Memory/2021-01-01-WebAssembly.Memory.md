@@ -21,10 +21,10 @@ WebAssembly.Memory
 * [WebAssembly.Memory()](/Javascript/WebAssembly/Memory/WebAssembly/Memory/)
 
 ## Propiedades
-* [Memory.prototype.buffer](/Javascript/WebAssembly/Memory/Memory.prototype.buffer)
+* [Memory.prototype.buffer](/Javascript/WebAssembly/Memory/Memory.prototype.buffer/)
 
 ## Métodos
-* [grow()](/Javascript/WebAssembly/Memory/grow)
+* [grow()](/Javascript/WebAssembly/Memory/grow/)
 
 ## Ejemplo
 ~~~java

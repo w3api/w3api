@@ -21,10 +21,10 @@ public class PipedReader extends Reader
 * [PipedReader()](/Java/PipedReader/PipedReader/)
 
 ## Métodos
-* [close()](/Java/PipedReader/close)
-* [connect()](/Java/PipedReader/connect)
-* [read()](/Java/PipedReader/read)
-* [ready()](/Java/PipedReader/ready)
+* [close()](/Java/PipedReader/close/)
+* [connect()](/Java/PipedReader/connect/)
+* [read()](/Java/PipedReader/read/)
+* [ready()](/Java/PipedReader/ready/)
 
 ## Ejemplo
 ~~~java

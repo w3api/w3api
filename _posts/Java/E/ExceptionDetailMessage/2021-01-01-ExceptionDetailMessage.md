@@ -18,7 +18,7 @@ public interface ExceptionDetailMessage
 ~~~
 
 ## Campos
-* [value](/Java/ExceptionDetailMessage/value)
+* [value](/Java/ExceptionDetailMessage/value/)
 
 ## Ejemplo
 ~~~java

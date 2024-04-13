@@ -18,13 +18,13 @@ public static class KeySelector.Purpose extends Object
 ~~~
 
 ## Campos
-* [DECRYPT](/Java/KeySelector/Purpose/DECRYPT)
-* [ENCRYPT](/Java/KeySelector/Purpose/ENCRYPT)
-* [SIGN](/Java/KeySelector/Purpose/SIGN)
-* [VERIFY](/Java/KeySelector/Purpose/VERIFY)
+* [DECRYPT](/Java/KeySelector/Purpose/DECRYPT/)
+* [ENCRYPT](/Java/KeySelector/Purpose/ENCRYPT/)
+* [SIGN](/Java/KeySelector/Purpose/SIGN/)
+* [VERIFY](/Java/KeySelector/Purpose/VERIFY/)
 
 ## Métodos
-* [toString()](/Java/KeySelector/Purpose/toString)
+* [toString()](/Java/KeySelector/Purpose/toString/)
 
 ## Ejemplo
 ~~~java

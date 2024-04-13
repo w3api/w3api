@@ -21,8 +21,8 @@ public abstract class Environment extends Object
 * [Environment()](/Java/Environment/Environment/)
 
 ## Métodos
-* [clear()](/Java/Environment/clear)
-* [exception()](/Java/Environment/exception)
+* [clear()](/Java/Environment/clear/)
+* [exception()](/Java/Environment/exception/)
 
 ## Ejemplo
 ~~~java

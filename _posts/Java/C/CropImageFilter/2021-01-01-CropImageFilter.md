@@ -21,9 +21,9 @@ public class CropImageFilter extends ImageFilter
 * [CropImageFilter()](/Java/CropImageFilter/CropImageFilter/)
 
 ## Métodos
-* [setDimensions()](/Java/CropImageFilter/setDimensions)
-* [setPixels()](/Java/CropImageFilter/setPixels)
-* [setProperties()](/Java/CropImageFilter/setProperties)
+* [setDimensions()](/Java/CropImageFilter/setDimensions/)
+* [setPixels()](/Java/CropImageFilter/setPixels/)
+* [setProperties()](/Java/CropImageFilter/setProperties/)
 
 ## Ejemplo
 ~~~java

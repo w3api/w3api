@@ -21,7 +21,7 @@ public class ExpandVetoException extends Exception
 * [ExpandVetoException()](/Java/ExpandVetoException/ExpandVetoException/)
 
 ## Campos
-* [event](/Java/ExpandVetoException/event)
+* [event](/Java/ExpandVetoException/event/)
 
 ## Ejemplo
 ~~~java

@@ -18,11 +18,11 @@ public interface ImageProducer
 ~~~
 
 ## Métodos
-* [addConsumer()](/Java/ImageProducer/addConsumer)
-* [isConsumer()](/Java/ImageProducer/isConsumer)
-* [removeConsumer()](/Java/ImageProducer/removeConsumer)
-* [requestTopDownLeftRightResend()](/Java/ImageProducer/requestTopDownLeftRightResend)
-* [startProduction()](/Java/ImageProducer/startProduction)
+* [addConsumer()](/Java/ImageProducer/addConsumer/)
+* [isConsumer()](/Java/ImageProducer/isConsumer/)
+* [removeConsumer()](/Java/ImageProducer/removeConsumer/)
+* [requestTopDownLeftRightResend()](/Java/ImageProducer/requestTopDownLeftRightResend/)
+* [startProduction()](/Java/ImageProducer/startProduction/)
 
 ## Ejemplo
 ~~~java

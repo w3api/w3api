@@ -18,9 +18,9 @@ public interface PosixFileAttributes extends BasicFileAttributes
 ~~~
 
 ## Métodos
-* [group()](/Java/PosixFileAttributes/group)
-* [owner()](/Java/PosixFileAttributes/owner)
-* [permissions()](/Java/PosixFileAttributes/permissions)
+* [group()](/Java/PosixFileAttributes/group/)
+* [owner()](/Java/PosixFileAttributes/owner/)
+* [permissions()](/Java/PosixFileAttributes/permissions/)
 
 ## Ejemplo
 ~~~java

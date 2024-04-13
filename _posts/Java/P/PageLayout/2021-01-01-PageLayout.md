@@ -18,14 +18,14 @@ public final class PageLayout extends Object
 ~~~
 
 ## Métodos
-* [getBottomMargin()](/Java/PageLayout/getBottomMargin)
-* [getLeftMargin()](/Java/PageLayout/getLeftMargin)
-* [getPageOrientation()](/Java/PageLayout/getPageOrientation)
-* [getPaper()](/Java/PageLayout/getPaper)
-* [getPrintableHeight()](/Java/PageLayout/getPrintableHeight)
-* [getPrintableWidth()](/Java/PageLayout/getPrintableWidth)
-* [getRightMargin()](/Java/PageLayout/getRightMargin)
-* [getTopMargin()](/Java/PageLayout/getTopMargin)
+* [getBottomMargin()](/Java/PageLayout/getBottomMargin/)
+* [getLeftMargin()](/Java/PageLayout/getLeftMargin/)
+* [getPageOrientation()](/Java/PageLayout/getPageOrientation/)
+* [getPaper()](/Java/PageLayout/getPaper/)
+* [getPrintableHeight()](/Java/PageLayout/getPrintableHeight/)
+* [getPrintableWidth()](/Java/PageLayout/getPrintableWidth/)
+* [getRightMargin()](/Java/PageLayout/getRightMargin/)
+* [getTopMargin()](/Java/PageLayout/getTopMargin/)
 
 ## Ejemplo
 ~~~java

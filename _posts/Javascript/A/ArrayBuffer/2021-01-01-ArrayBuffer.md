@@ -21,12 +21,12 @@ ArrayBuffer
 * [ArrayBuffer()](/Javascript/ArrayBuffer/ArrayBuffer/)
 
 ## Propiedades
-* [@@species](/Javascript/ArrayBuffer/@@species)
-* [byteLength](/Javascript/ArrayBuffer/byteLength)
+* [@@species](/Javascript/ArrayBuffer/@@species/)
+* [byteLength](/Javascript/ArrayBuffer/byteLength/)
 
 ## Métodos
-* [isView()](/Javascript/ArrayBuffer/isView)
-* [slice()](/Javascript/ArrayBuffer/slice)
+* [isView()](/Javascript/ArrayBuffer/isView/)
+* [slice()](/Javascript/ArrayBuffer/slice/)
 
 ## Ejemplo
 ~~~java

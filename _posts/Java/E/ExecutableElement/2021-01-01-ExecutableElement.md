@@ -18,15 +18,15 @@ public interface ExecutableElement extends Element, Parameterizable
 ~~~
 
 ## Métodos
-* [getDefaultValue()](/Java/ExecutableElement/getDefaultValue)
-* [getParameters()](/Java/ExecutableElement/getParameters)
-* [getReceiverType()](/Java/ExecutableElement/getReceiverType)
-* [getReturnType()](/Java/ExecutableElement/getReturnType)
-* [getSimpleName()](/Java/ExecutableElement/getSimpleName)
-* [getThrownTypes()](/Java/ExecutableElement/getThrownTypes)
-* [getTypeParameters()](/Java/ExecutableElement/getTypeParameters)
-* [isDefault()](/Java/ExecutableElement/isDefault)
-* [isVarArgs()](/Java/ExecutableElement/isVarArgs)
+* [getDefaultValue()](/Java/ExecutableElement/getDefaultValue/)
+* [getParameters()](/Java/ExecutableElement/getParameters/)
+* [getReceiverType()](/Java/ExecutableElement/getReceiverType/)
+* [getReturnType()](/Java/ExecutableElement/getReturnType/)
+* [getSimpleName()](/Java/ExecutableElement/getSimpleName/)
+* [getThrownTypes()](/Java/ExecutableElement/getThrownTypes/)
+* [getTypeParameters()](/Java/ExecutableElement/getTypeParameters/)
+* [isDefault()](/Java/ExecutableElement/isDefault/)
+* [isVarArgs()](/Java/ExecutableElement/isVarArgs/)
 
 ## Ejemplo
 ~~~java

@@ -18,17 +18,17 @@ public class Introspector extends Object
 ~~~
 
 ## Campos
-* [IGNORE_ALL_BEANINFO](/Java/Introspector/IGNORE_ALL_BEANINFO)
-* [IGNORE_IMMEDIATE_BEANINFO](/Java/Introspector/IGNORE_IMMEDIATE_BEANINFO)
-* [USE_ALL_BEANINFO](/Java/Introspector/USE_ALL_BEANINFO)
+* [IGNORE_ALL_BEANINFO](/Java/Introspector/IGNORE_ALL_BEANINFO/)
+* [IGNORE_IMMEDIATE_BEANINFO](/Java/Introspector/IGNORE_IMMEDIATE_BEANINFO/)
+* [USE_ALL_BEANINFO](/Java/Introspector/USE_ALL_BEANINFO/)
 
 ## Métodos
-* [decapitalize()](/Java/Introspector/decapitalize)
-* [flushCaches()](/Java/Introspector/flushCaches)
-* [flushFromCaches()](/Java/Introspector/flushFromCaches)
-* [getBeanInfo()](/Java/Introspector/getBeanInfo)
-* [getBeanInfoSearchPath()](/Java/Introspector/getBeanInfoSearchPath)
-* [setBeanInfoSearchPath()](/Java/Introspector/setBeanInfoSearchPath)
+* [decapitalize()](/Java/Introspector/decapitalize/)
+* [flushCaches()](/Java/Introspector/flushCaches/)
+* [flushFromCaches()](/Java/Introspector/flushFromCaches/)
+* [getBeanInfo()](/Java/Introspector/getBeanInfo/)
+* [getBeanInfoSearchPath()](/Java/Introspector/getBeanInfoSearchPath/)
+* [setBeanInfoSearchPath()](/Java/Introspector/setBeanInfoSearchPath/)
 
 ## Ejemplo
 ~~~java

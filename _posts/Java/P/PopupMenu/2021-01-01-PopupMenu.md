@@ -21,9 +21,9 @@ public class PopupMenu extends Menu
 * [PopupMenu()](/Java/PopupMenu/PopupMenu/)
 
 ## Métodos
-* [addNotify()](/Java/PopupMenu/addNotify)
-* [getAccessibleContext()](/Java/PopupMenu/getAccessibleContext)
-* [show()](/Java/PopupMenu/show)
+* [addNotify()](/Java/PopupMenu/addNotify/)
+* [getAccessibleContext()](/Java/PopupMenu/getAccessibleContext/)
+* [show()](/Java/PopupMenu/show/)
 
 ## Ejemplo
 ~~~java

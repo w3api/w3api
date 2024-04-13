@@ -21,10 +21,10 @@ public abstract class CookieHandler extends Object
 * [CookieHandler()](/Java/CookieHandler/CookieHandler/)
 
 ## Métodos
-* [get()](/Java/CookieHandler/get)
-* [getDefault()](/Java/CookieHandler/getDefault)
-* [put()](/Java/CookieHandler/put)
-* [setDefault()](/Java/CookieHandler/setDefault)
+* [get()](/Java/CookieHandler/get/)
+* [getDefault()](/Java/CookieHandler/getDefault/)
+* [put()](/Java/CookieHandler/put/)
+* [setDefault()](/Java/CookieHandler/setDefault/)
 
 ## Ejemplo
 ~~~java

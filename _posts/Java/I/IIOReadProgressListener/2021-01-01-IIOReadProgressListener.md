@@ -18,15 +18,15 @@ public interface IIOReadProgressListener extends EventListener
 ~~~
 
 ## Métodos
-* [imageComplete()](/Java/IIOReadProgressListener/imageComplete)
-* [imageProgress()](/Java/IIOReadProgressListener/imageProgress)
-* [imageStarted()](/Java/IIOReadProgressListener/imageStarted)
-* [readAborted()](/Java/IIOReadProgressListener/readAborted)
-* [sequenceComplete()](/Java/IIOReadProgressListener/sequenceComplete)
-* [sequenceStarted()](/Java/IIOReadProgressListener/sequenceStarted)
-* [thumbnailComplete()](/Java/IIOReadProgressListener/thumbnailComplete)
-* [thumbnailProgress()](/Java/IIOReadProgressListener/thumbnailProgress)
-* [thumbnailStarted()](/Java/IIOReadProgressListener/thumbnailStarted)
+* [imageComplete()](/Java/IIOReadProgressListener/imageComplete/)
+* [imageProgress()](/Java/IIOReadProgressListener/imageProgress/)
+* [imageStarted()](/Java/IIOReadProgressListener/imageStarted/)
+* [readAborted()](/Java/IIOReadProgressListener/readAborted/)
+* [sequenceComplete()](/Java/IIOReadProgressListener/sequenceComplete/)
+* [sequenceStarted()](/Java/IIOReadProgressListener/sequenceStarted/)
+* [thumbnailComplete()](/Java/IIOReadProgressListener/thumbnailComplete/)
+* [thumbnailProgress()](/Java/IIOReadProgressListener/thumbnailProgress/)
+* [thumbnailStarted()](/Java/IIOReadProgressListener/thumbnailStarted/)
 
 ## Ejemplo
 ~~~java

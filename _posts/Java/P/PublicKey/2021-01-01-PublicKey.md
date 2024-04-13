@@ -18,7 +18,7 @@ public interface PublicKey extends Key
 ~~~
 
 ## Campos
-* [serialVersionUID](/Java/PublicKey/serialVersionUID)
+* [serialVersionUID](/Java/PublicKey/serialVersionUID/)
 
 ## Ejemplo
 ~~~java

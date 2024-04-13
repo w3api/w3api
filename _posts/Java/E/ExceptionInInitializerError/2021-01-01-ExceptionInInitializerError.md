@@ -21,8 +21,8 @@ public class ExceptionInInitializerError extends LinkageError
 * [ExceptionInInitializerError()](/Java/ExceptionInInitializerError/ExceptionInInitializerError/)
 
 ## Métodos
-* [getCause()](/Java/ExceptionInInitializerError/getCause)
-* [getException()](/Java/ExceptionInInitializerError/getException)
+* [getCause()](/Java/ExceptionInInitializerError/getCause/)
+* [getException()](/Java/ExceptionInInitializerError/getException/)
 
 ## Ejemplo
 ~~~java

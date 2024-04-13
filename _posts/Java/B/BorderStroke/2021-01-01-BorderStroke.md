@@ -21,24 +21,24 @@ public class BorderStroke extends Object
 * [BorderStroke()](/Java/BorderStroke/BorderStroke/)
 
 ## Campos
-* [DEFAULT_WIDTHS](/Java/BorderStroke/DEFAULT_WIDTHS)
-* [MEDIUM](/Java/BorderStroke/MEDIUM)
-* [THICK](/Java/BorderStroke/THICK)
-* [THIN](/Java/BorderStroke/THIN)
+* [DEFAULT_WIDTHS](/Java/BorderStroke/DEFAULT_WIDTHS/)
+* [MEDIUM](/Java/BorderStroke/MEDIUM/)
+* [THICK](/Java/BorderStroke/THICK/)
+* [THIN](/Java/BorderStroke/THIN/)
 
 ## Métodos
-* [getBottomStroke()](/Java/BorderStroke/getBottomStroke)
-* [getBottomStyle()](/Java/BorderStroke/getBottomStyle)
-* [getInsets()](/Java/BorderStroke/getInsets)
-* [getLeftStroke()](/Java/BorderStroke/getLeftStroke)
-* [getLeftStyle()](/Java/BorderStroke/getLeftStyle)
-* [getRadii()](/Java/BorderStroke/getRadii)
-* [getRightStroke()](/Java/BorderStroke/getRightStroke)
-* [getRightStyle()](/Java/BorderStroke/getRightStyle)
-* [getTopStroke()](/Java/BorderStroke/getTopStroke)
-* [getTopStyle()](/Java/BorderStroke/getTopStyle)
-* [getWidths()](/Java/BorderStroke/getWidths)
-* [isStrokeUniform()](/Java/BorderStroke/isStrokeUniform)
+* [getBottomStroke()](/Java/BorderStroke/getBottomStroke/)
+* [getBottomStyle()](/Java/BorderStroke/getBottomStyle/)
+* [getInsets()](/Java/BorderStroke/getInsets/)
+* [getLeftStroke()](/Java/BorderStroke/getLeftStroke/)
+* [getLeftStyle()](/Java/BorderStroke/getLeftStyle/)
+* [getRadii()](/Java/BorderStroke/getRadii/)
+* [getRightStroke()](/Java/BorderStroke/getRightStroke/)
+* [getRightStyle()](/Java/BorderStroke/getRightStyle/)
+* [getTopStroke()](/Java/BorderStroke/getTopStroke/)
+* [getTopStyle()](/Java/BorderStroke/getTopStyle/)
+* [getWidths()](/Java/BorderStroke/getWidths/)
+* [isStrokeUniform()](/Java/BorderStroke/isStrokeUniform/)
 
 ## Ejemplo
 ~~~java

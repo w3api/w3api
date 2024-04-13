@@ -21,11 +21,11 @@ public class PKIXCertPathValidatorResult extends Object implements CertPathValid
 * [PKIXCertPathValidatorResult()](/Java/PKIXCertPathValidatorResult/PKIXCertPathValidatorResult/)
 
 ## Métodos
-* [clone()](/Java/PKIXCertPathValidatorResult/clone)
-* [getPolicyTree()](/Java/PKIXCertPathValidatorResult/getPolicyTree)
-* [getPublicKey()](/Java/PKIXCertPathValidatorResult/getPublicKey)
-* [getTrustAnchor()](/Java/PKIXCertPathValidatorResult/getTrustAnchor)
-* [toString()](/Java/PKIXCertPathValidatorResult/toString)
+* [clone()](/Java/PKIXCertPathValidatorResult/clone/)
+* [getPolicyTree()](/Java/PKIXCertPathValidatorResult/getPolicyTree/)
+* [getPublicKey()](/Java/PKIXCertPathValidatorResult/getPublicKey/)
+* [getTrustAnchor()](/Java/PKIXCertPathValidatorResult/getTrustAnchor/)
+* [toString()](/Java/PKIXCertPathValidatorResult/toString/)
 
 ## Ejemplo
 ~~~java

@@ -18,10 +18,10 @@ sidebar:
 ~~~
 
 ## Elementos
-* [header](/Java/WebResult/header)
-* [name](/Java/WebResult/name)
-* [partName](/Java/WebResult/partName)
-* [targetNamespace](/Java/WebResult/targetNamespace)
+* [header](/Java/WebResult/header/)
+* [name](/Java/WebResult/name/)
+* [partName](/Java/WebResult/partName/)
+* [targetNamespace](/Java/WebResult/targetNamespace/)
 
 ## Ejemplo
 ~~~java

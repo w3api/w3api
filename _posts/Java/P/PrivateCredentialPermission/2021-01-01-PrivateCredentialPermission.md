@@ -21,13 +21,13 @@ public final class PrivateCredentialPermission extends Permission
 * [PrivateCredentialPermission()](/Java/PrivateCredentialPermission/PrivateCredentialPermission/)
 
 ## Métodos
-* [equals()](/Java/PrivateCredentialPermission/equals)
-* [getActions()](/Java/PrivateCredentialPermission/getActions)
-* [getCredentialClass()](/Java/PrivateCredentialPermission/getCredentialClass)
-* [getPrincipals()](/Java/PrivateCredentialPermission/getPrincipals)
-* [hashCode()](/Java/PrivateCredentialPermission/hashCode)
-* [implies()](/Java/PrivateCredentialPermission/implies)
-* [newPermissionCollection()](/Java/PrivateCredentialPermission/newPermissionCollection)
+* [equals()](/Java/PrivateCredentialPermission/equals/)
+* [getActions()](/Java/PrivateCredentialPermission/getActions/)
+* [getCredentialClass()](/Java/PrivateCredentialPermission/getCredentialClass/)
+* [getPrincipals()](/Java/PrivateCredentialPermission/getPrincipals/)
+* [hashCode()](/Java/PrivateCredentialPermission/hashCode/)
+* [implies()](/Java/PrivateCredentialPermission/implies/)
+* [newPermissionCollection()](/Java/PrivateCredentialPermission/newPermissionCollection/)
 
 ## Ejemplo
 ~~~java

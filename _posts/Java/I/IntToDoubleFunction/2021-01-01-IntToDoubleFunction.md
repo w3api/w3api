@@ -18,7 +18,7 @@ sidebar:
 ~~~
 
 ## Métodos
-* [applyAsDouble()](/Java/IntToDoubleFunction/applyAsDouble)
+* [applyAsDouble()](/Java/IntToDoubleFunction/applyAsDouble/)
 
 ## Ejemplo
 ~~~java

@@ -21,12 +21,12 @@ public abstract class KeyPairGenerator extends KeyPairGeneratorSpi
 * [KeyPairGenerator()](/Java/KeyPairGenerator/KeyPairGenerator/)
 
 ## Métodos
-* [generateKeyPair()](/Java/KeyPairGenerator/generateKeyPair)
-* [genKeyPair()](/Java/KeyPairGenerator/genKeyPair)
-* [getAlgorithm()](/Java/KeyPairGenerator/getAlgorithm)
-* [getInstance()](/Java/KeyPairGenerator/getInstance)
-* [getProvider()](/Java/KeyPairGenerator/getProvider)
-* [initialize()](/Java/KeyPairGenerator/initialize)
+* [generateKeyPair()](/Java/KeyPairGenerator/generateKeyPair/)
+* [genKeyPair()](/Java/KeyPairGenerator/genKeyPair/)
+* [getAlgorithm()](/Java/KeyPairGenerator/getAlgorithm/)
+* [getInstance()](/Java/KeyPairGenerator/getInstance/)
+* [getProvider()](/Java/KeyPairGenerator/getProvider/)
+* [initialize()](/Java/KeyPairGenerator/initialize/)
 
 ## Ejemplo
 ~~~java

@@ -21,12 +21,12 @@ public class CustomMenuItem extends MenuItem
 * [CustomMenuItem()](/Java/CustomMenuItem/CustomMenuItem/)
 
 ## Métodos
-* [contentProperty()](/Java/CustomMenuItem/contentProperty)
-* [getContent()](/Java/CustomMenuItem/getContent)
-* [hideOnClickProperty()](/Java/CustomMenuItem/hideOnClickProperty)
-* [isHideOnClick()](/Java/CustomMenuItem/isHideOnClick)
-* [setContent()](/Java/CustomMenuItem/setContent)
-* [setHideOnClick()](/Java/CustomMenuItem/setHideOnClick)
+* [contentProperty()](/Java/CustomMenuItem/contentProperty/)
+* [getContent()](/Java/CustomMenuItem/getContent/)
+* [hideOnClickProperty()](/Java/CustomMenuItem/hideOnClickProperty/)
+* [isHideOnClick()](/Java/CustomMenuItem/isHideOnClick/)
+* [setContent()](/Java/CustomMenuItem/setContent/)
+* [setHideOnClick()](/Java/CustomMenuItem/setHideOnClick/)
 
 ## Ejemplo
 ~~~java

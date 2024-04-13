@@ -21,14 +21,14 @@ public class ImplicitActivationPolicyValue extends Object implements IDLEntity
 * [ImplicitActivationPolicyValue()](/Java/ImplicitActivationPolicyValue/ImplicitActivationPolicyValue/)
 
 ## Campos
-* [_IMPLICIT_ACTIVATION](/Java/ImplicitActivationPolicyValue/_IMPLICIT_ACTIVATION)
-* [_NO_IMPLICIT_ACTIVATION](/Java/ImplicitActivationPolicyValue/_NO_IMPLICIT_ACTIVATION)
-* [IMPLICIT_ACTIVATION](/Java/ImplicitActivationPolicyValue/IMPLICIT_ACTIVATION)
-* [NO_IMPLICIT_ACTIVATION](/Java/ImplicitActivationPolicyValue/NO_IMPLICIT_ACTIVATION)
+* [_IMPLICIT_ACTIVATION](/Java/ImplicitActivationPolicyValue/_IMPLICIT_ACTIVATION/)
+* [_NO_IMPLICIT_ACTIVATION](/Java/ImplicitActivationPolicyValue/_NO_IMPLICIT_ACTIVATION/)
+* [IMPLICIT_ACTIVATION](/Java/ImplicitActivationPolicyValue/IMPLICIT_ACTIVATION/)
+* [NO_IMPLICIT_ACTIVATION](/Java/ImplicitActivationPolicyValue/NO_IMPLICIT_ACTIVATION/)
 
 ## Métodos
-* [from_int()](/Java/ImplicitActivationPolicyValue/from_int)
-* [value()](/Java/ImplicitActivationPolicyValue/value)
+* [from_int()](/Java/ImplicitActivationPolicyValue/from_int/)
+* [value()](/Java/ImplicitActivationPolicyValue/value/)
 
 ## Ejemplo
 ~~~java

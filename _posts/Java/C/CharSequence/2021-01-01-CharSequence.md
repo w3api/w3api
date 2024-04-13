@@ -18,12 +18,12 @@ public interface CharSequence
 ~~~
 
 ## Métodos
-* [charAt()](/Java/CharSequence/charAt)
-* [chars()](/Java/CharSequence/chars)
-* [codePoints()](/Java/CharSequence/codePoints)
-* [length()](/Java/CharSequence/length)
-* [subSequence()](/Java/CharSequence/subSequence)
-* [toString()](/Java/CharSequence/toString)
+* [charAt()](/Java/CharSequence/charAt/)
+* [chars()](/Java/CharSequence/chars/)
+* [codePoints()](/Java/CharSequence/codePoints/)
+* [length()](/Java/CharSequence/length/)
+* [subSequence()](/Java/CharSequence/subSequence/)
+* [toString()](/Java/CharSequence/toString/)
 
 ## Ejemplo
 ~~~java

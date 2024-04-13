@@ -21,9 +21,9 @@ public class DocumentFilter extends Object
 * [DocumentFilter()](/Java/DocumentFilter/DocumentFilter/)
 
 ## Métodos
-* [insertString()](/Java/DocumentFilter/insertString)
-* [remove()](/Java/DocumentFilter/remove)
-* [replace()](/Java/DocumentFilter/replace)
+* [insertString()](/Java/DocumentFilter/insertString/)
+* [remove()](/Java/DocumentFilter/remove/)
+* [replace()](/Java/DocumentFilter/replace/)
 
 ## Ejemplo
 ~~~java

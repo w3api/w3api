@@ -21,10 +21,10 @@ public final class PrinterStateReasons extends HashMap<PrinterStateReason,Severi
 * [PrinterStateReasons()](/Java/PrinterStateReasons/PrinterStateReasons/)
 
 ## Métodos
-* [getCategory()](/Java/PrinterStateReasons/getCategory)
-* [getName()](/Java/PrinterStateReasons/getName)
-* [printerStateReasonSet()](/Java/PrinterStateReasons/printerStateReasonSet)
-* [put()](/Java/PrinterStateReasons/put)
+* [getCategory()](/Java/PrinterStateReasons/getCategory/)
+* [getName()](/Java/PrinterStateReasons/getName/)
+* [printerStateReasonSet()](/Java/PrinterStateReasons/printerStateReasonSet/)
+* [put()](/Java/PrinterStateReasons/put/)
 
 ## Ejemplo
 ~~~java

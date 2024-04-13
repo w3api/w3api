@@ -18,7 +18,7 @@ public interface ProtocolFamily
 ~~~
 
 ## Métodos
-* [name()](/Java/ProtocolFamily/name)
+* [name()](/Java/ProtocolFamily/name/)
 
 ## Ejemplo
 ~~~java

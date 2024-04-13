@@ -18,9 +18,9 @@ public static interface IntStream.Builder extends IntConsumer
 ~~~
 
 ## Métodos
-* [accept()](/Java/IntStream/Builder/accept)
-* [add()](/Java/IntStream/Builder/add)
-* [build()](/Java/IntStream/Builder/build)
+* [accept()](/Java/IntStream/Builder/accept/)
+* [add()](/Java/IntStream/Builder/add/)
+* [build()](/Java/IntStream/Builder/build/)
 
 ## Ejemplo
 ~~~java

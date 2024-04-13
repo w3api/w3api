@@ -18,7 +18,7 @@ public interface DomainManagerOperations
 ~~~
 
 ## Métodos
-* [get_domain_policy()](/Java/DomainManagerOperations/get_domain_policy)
+* [get_domain_policy()](/Java/DomainManagerOperations/get_domain_policy/)
 
 ## Ejemplo
 ~~~java

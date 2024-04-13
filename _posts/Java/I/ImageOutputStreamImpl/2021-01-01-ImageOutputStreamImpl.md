@@ -21,7 +21,7 @@ public abstract class ImageOutputStreamImpl extends ImageInputStreamImpl impleme
 * [ImageOutputStreamImpl()](/Java/ImageOutputStreamImpl/ImageOutputStreamImpl/)
 
 ## Métodos
-* [flushBits()](/Java/ImageOutputStreamImpl/flushBits)
+* [flushBits()](/Java/ImageOutputStreamImpl/flushBits/)
 
 ## Ejemplo
 ~~~java
