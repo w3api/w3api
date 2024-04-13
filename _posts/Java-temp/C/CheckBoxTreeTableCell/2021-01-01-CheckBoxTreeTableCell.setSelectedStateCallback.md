@@ -1,0 +1,41 @@
+---
+title: CheckBoxTreeTableCell.setSelectedStateCallback()
+permalink: /Java/CheckBoxTreeTableCell/setSelectedStateCallback/
+date: 2021-01-11
+key: Java.C.CheckBoxTreeTableCell
+category: Java
+tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.C.CheckBoxTreeTableCell.metodos valor="setSelectedStateCallback" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public final void setSelectedStateCallback(Callback<Integer,ObservableValue<Boolean>> value)
+~~~
+
+## Parámetros
+* **Callback&lt;Integer**,  {% include w3api/param_description.html metodo=_dato parametro="Callback<Integer" %}
+* **ObservableValue&lt;Boolean&gt;&gt; value**,  {% include w3api/param_description.html metodo=_dato parametro="ObservableValue<Boolean>> value" %}
+
+## Clase Padre
+[CheckBoxTreeTableCell](/Java/CheckBoxTreeTableCell/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Artículos
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
