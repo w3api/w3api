@@ -22,7 +22,7 @@ public final class AboutEvent extends AppEvent
 
 ## Ejemplo
 ~~~java
-{{ site.data.Java.A.AboutEvent.code}}
+  // Código
 ~~~
 
 ## Líneas de Código
