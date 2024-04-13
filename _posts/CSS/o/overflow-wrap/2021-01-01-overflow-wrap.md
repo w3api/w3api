@@ -1,37 +1,54 @@
 ---
 title: overflow-wrap
 permalink: /CSS/overflow-wrap/
-date: 2021-03-07 03:08:37.706263
+excerpt: "La propiedad overflow-wrap en CSS permite dividir líneas largas para evitar desbordamiento de contenido. Es útil para ajustes de línea."
+date: 2024-02-17
+last_modified_at: 2024-02-17
 key: CSS.o.overflow-wrap
 category: CSS
-tags: ['propiedad css']
-sidebar: 
+tags: [propiedad css,css 3,css text module]
+image: "/assets/images/css.png"
+sidebar:
   nav: css
 ---
 
 ## Descripción
-{{site.data.CSS.o.overflow-wrap.description }}
+
+
+La propiedad `overflow-wrap` en [CSS](https://www.manualweb.net/css/) especifica cómo debe dividirse una línea que de otro modo sería demasiado larga para caber en su contenedor. Es muy útil para prevenir el desbordamiento de contenido.
+
 
 ## Sintaxis
-~~~css
+
+
+```css
 overflow-wrap : normal | break-word | anywhere
-~~~
+```
+
 
 ## Valores
-* **normal**,  {% include w3api/value_description.html propiedad=site.data.CSS.o.overflow-wrap valor="normal" %}
-* **break-word**,  {% include w3api/value_description.html propiedad=site.data.CSS.o.overflow-wrap valor="break-word" %}
-* **anywhere**,  {% include w3api/value_description.html propiedad=site.data.CSS.o.overflow-wrap valor="anywhere" %}
+
+
+La propiedad `overflow-wrap` puede tomar uno de los siguientes tres valores:
+
+- **normal**: Este es el valor predeterminado. No permite que las palabras se rompan a menos que haya espacios disponibles.
+- **break-word**: Permite que las palabras se rompan para evitar el desbordamiento.
+- **anywhere**: Similar a 'break-word', pero con la diferencia de que puede romper palabras en cualquier punto, incluso si ello resulta en la creación de espacios no utilizados.
 
 ## Ejemplo
-~~~css
-{{ site.data.CSS.o.overflow-wrap.code}}
-~~~
+
+
+```css
+p {
+  overflow-wrap: break-word;
+}
+
+```
+
+
+En este ejemplo, el texto dentro del elemento `<p>` se romperá para evitar el desbordamiento.
+
 
 ## Artículos
-<ul>
-{%- for _ldc in site.data.CSS.o.overflow-wrap.ldc -%}
-   <li>
-       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
-   </li>
-{%- endfor -%}
-</ul>
+
+- [Ajustes de línea con CSS](http://lineadecodigo.com/css/ajustes-de-linea-con-css/)

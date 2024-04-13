@@ -1,31 +1,49 @@
 ---
 title: onslotchange
 permalink: /HTML/onslotchange/
-date: 2021-02-15 01:07:21.571654
+excerpt: "El evento onslotchange en HTML se dispara cuando el contenido de un elemento slot cambia, permitiendo acciones basadas en los elementos distribuidos por el slot."
+date: 2024-01-19
+last_modified_at: 2024-01-31
 key: HTML.o.onslotchange
 category: HTML
-tags: ['evento html']
-sidebar: 
+tags: [evento html,html 5]
+image: "/assets/images/html.png"
+sidebar:
   nav: html
 ---
 
 ## Descripción
-{{site.data.HTML.o.onslotchange.description }}
+
+
+El evento `onslotchange` de [HTML](https://www.manualweb.net/html/) se dispara cuando el contenido de un elemento [`slot`](https://www.w3api.com/HTML/slot/) cambia. Este evento permite a los desarrolladores realizar acciones basadas en cambios en los elementos que están siendo distribuidos por un elemento [`slot`](https://www.w3api.com/HTML/slot/).
+
 
 ## Sintaxis
-~~~html
-~~~
+
+
+El evento `onslotchange` se utiliza de la siguiente manera:
+
+
+```html
+<slot onslotchange="miFuncion">
+  <!-- Contenido distribuido aquí -->
+</slot>
+```
+
 
 ## Ejemplo
-~~~java
-{{ site.data.HTML.o.onslotchange.code}}
-~~~
+
+
+Aquí se muestra un ejemplo simple de cómo se puede utilizar el evento `onslotchange`:
+
+
+```html
+<slot onslotchange="alert('El contenido del slot ha cambiado')">
+  <!-- Cuando el contenido de este slot cambie, se mostrará una alerta -->
+</slot>
+```
+
 
 ## Artículos
-<ul>
-{%- for _ldc in site.data.HTML.o.onslotchange.ldc -%}
-   <li>
-       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
-   </li>
-{%- endfor -%}
-</ul>
+
+- 

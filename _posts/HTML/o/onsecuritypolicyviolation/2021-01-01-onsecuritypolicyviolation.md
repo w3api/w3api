@@ -1,31 +1,41 @@
 ---
 title: onsecuritypolicyviolation
 permalink: /HTML/onsecuritypolicyviolation/
-date: 2021-02-15 01:07:21.571017
+excerpt: "El evento onsecuritypolicyviolation en HTML se dispara cuando se viola la política de seguridad de contenido (CSP) de una página web. Permite a los desarrolladores responder y proteger la integridad del sitio web."
+date: 2024-01-19
+last_modified_at: 2024-02-01
 key: HTML.o.onsecuritypolicyviolation
 category: HTML
-tags: ['evento html']
-sidebar: 
+tags: [evento html,html 5]
+image: "/assets/images/html.png"
+sidebar:
   nav: html
 ---
 
 ## Descripción
-{{site.data.HTML.o.onsecuritypolicyviolation.description }}
+
+
+El evento `onsecuritypolicyviolation` de [HTML](https://www.manualweb.net/html/) es un evento que se dispara cuando se viola la política de seguridad de contenido (CSP) de una página web. Este evento permite a los desarrolladores responder a las violaciones de seguridad y tomar medidas para proteger la integridad del sitio web.
+
 
 ## Sintaxis
-~~~html
-~~~
+
+
+```javascript
+elemento.onsecuritypolicyviolation = funcionReferencia;
+```
+
 
 ## Ejemplo
-~~~java
-{{ site.data.HTML.o.onsecuritypolicyviolation.code}}
-~~~
+
+
+```javascript
+document.body.onsecuritypolicyviolation = function(e) {
+  console.log('Se ha violado la política de seguridad:', e.securityPolicyViolationEvent);
+};
+```
+
 
 ## Artículos
-<ul>
-{%- for _ldc in site.data.HTML.o.onsecuritypolicyviolation.ldc -%}
-   <li>
-       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
-   </li>
-{%- endfor -%}
-</ul>
+
+- 

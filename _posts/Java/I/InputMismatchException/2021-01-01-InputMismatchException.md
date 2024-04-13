@@ -1,35 +1,56 @@
 ---
 title: InputMismatchException
 permalink: /Java/InputMismatchException/
-date: 2021-01-11
+excerpt: "La excepción InputMismatchException se produce cuando los datos introducidos no coinciden con el tipo esperado por el programa."
+date: 2024-03-05
+last_modified_at: 2024-03-29
 key: Java.I.InputMismatchException
 category: Java
-tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.5']
-sidebar: 
+tags: [clase java,java 1.5,java.util,java.base]
+image: "/assets/images/java.png"
+sidebar:
   nav: java
 ---
 
 ## Descripción
-{{site.data.Java.I.InputMismatchException.description }}
+
+
+La excepción `InputMismatchException` se produce cuando el tipo de los datos introducidos por el usuario no coincide con el tipo esperado por el programa. Por ejemplo, si el programa espera un número entero y el usuario introduce una cadena de texto, se lanzará una `InputMismatchException`.
+
 
 ## Sintaxis
-~~~java
+
+
+```java
 public class InputMismatchException extends NoSuchElementException
-~~~
+```
+
 
 ## Constructores
-* [InputMismatchException()](/Java/InputMismatchException/InputMismatchException/)
+
+- [InputMismatchException()](https://www.w3api.com/Java/InputMismatchException/InputMismatchException/)
 
 ## Ejemplo
-~~~java
-{{ site.data.Java.I.InputMismatchException.code}}
-~~~
+
+
+```java
+List<Integer> lista = new ArrayList<Integer>();
+Scanner reader = new Scanner(System.in);
+System.out.println("Introduce números. El cero para salir");			
+
+int numero = 0;
+do {
+  try {
+    numero = reader.nextInt();
+    lista.add(numero);
+  } catch (InputMismatchException ime){
+    System.out.println("¡Cuidado! Solo puedes insertar números. ");
+    reader.next();
+  }			
+} while (numero!=0);
+```
+
 
 ## Artículos
-<ul>
-{%- for _ldc in site.data.Java.I.InputMismatchException.ldc -%}
-   <li>
-       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
-   </li>
-{%- endfor -%}
-</ul>
+
+- [Leer números por teclado con Java](https://lineadecodigo.com/java/leer-numeros-por-teclado-con-java/)

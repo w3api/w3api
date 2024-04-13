@@ -1,31 +1,41 @@
 ---
 title: onvolumechange
 permalink: /HTML/onvolumechange/
-date: 2021-02-15 01:07:21.572793
+excerpt: "El evento onvolumechange en HTML se activa al cambiar el volumen de audio o vídeo."
+date: 2024-01-18
+last_modified_at: 2024-01-30
 key: HTML.o.onvolumechange
 category: HTML
-tags: ['evento html']
-sidebar: 
+tags: [evento html,html 5]
+image: "/assets/images/html.png"
+sidebar:
   nav: html
 ---
 
 ## Descripción
-{{site.data.HTML.o.onvolumechange.description }}
+
+
+El evento `onvolumechange` en [HTML](https://www.manualweb.net/html/) se activa cuando el volumen de un elemento de audio o vídeo se cambia. Este evento también se activa cuando el sonido se silencia o se activa.
+
 
 ## Sintaxis
-~~~html
-~~~
+
+
+```html
+<elemento onvolumenchange="funcion()">
+```
+
 
 ## Ejemplo
-~~~java
-{{ site.data.HTML.o.onvolumechange.code}}
-~~~
+
+
+```html
+<video controls onvolumechange="alert('El volumen ha cambiado!')">
+  <source src="video.mp4" type="video/mp4">
+</video>
+```
+
 
 ## Artículos
-<ul>
-{%- for _ldc in site.data.HTML.o.onvolumechange.ldc -%}
-   <li>
-       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
-   </li>
-{%- endfor -%}
-</ul>
+
+- 
